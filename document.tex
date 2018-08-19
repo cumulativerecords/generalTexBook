@@ -1,0 +1,28 @@
+\documentclass[12pt,a4paper]{report}
+%\usepackage{graphicx}
+% put all the other packages here:
+
+\usepackage{CRstyle}
+%\usepackage{hyperref} 
+\begin{document}
+
+\input{./tex/title.tex}
+%\maketitle
+\tableofcontents
+\listoffigures
+\listoftables
+
+\input{./tex/intro.tex}
+\input{./tex/main_part.tex}
+\input{./tex/conclusions.tex}
+
+\appendix
+\input{./tex/myappendix.tex}
+
+
+% Bibliography:
+\clearpage
+\input{./tex/mybibliography.tex}
+
+\end{document}
+
