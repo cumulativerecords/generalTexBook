@@ -5,4 +5,7 @@
 \subpreamble{diagram.tex}
 \usepackage {tikz}\usetikzlibrary {positioning}
 \endsubpreamble
+\subpreamble{ch_Admin/ch_Admin.tex}
+\usepackage [subpreambles=true]{standalone}\usepackage {import}
+\endsubpreamble
 \endstandalonepreambles

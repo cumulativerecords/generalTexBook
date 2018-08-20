@@ -1,24 +1,26 @@
 
 
-\documentclass{article}
-\usepackage[subpreambles=true]{standalone}
-\usepackage[utf8]{inputenc}
-\usepackage[english]{babel}
-\usepackage{import}
+\documentclass[12pt]{book}
+\usepackage[paperwidth=6in,paperheight=9in,margin=1in]{geometry}
+\usepackage{graphicx}
+\usepackage{mystyle}
+\usepackage{hyperref}
  
-\title{StandaloneEx}
-\author{Team Learn ShareLaTeX}
-\date{August 2014}
+\title{TrainABA Reference Manual, Second Edition
+	TrainABA Supervision Curriculum Series}
+\author{B. Theisen}
+\date{January 2019}
  
 \begin{document}
+%include{path/to/title.tex}
+     \maketitle
+     \tableofcontents
+     \listoffigures
+     \listoftables
+% \chapter{Introduction}
+ \include{sections/introduction}
+ \include{ch_Admin/ch_Admin}
  
-    \maketitle
- 
-    \section{First section}
-    \import{sections/}{introduction}
- 
-%    \section{Second section}
-%    \import{sections/}{section2}
  
 \end{document}
 
