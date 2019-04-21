@@ -1,23 +1,25 @@
 
 
-\documentclass[10pt]{book}
-\usepackage[paperwidth=6in,paperheight=9in,margin=1.2in]{geometry}
+\documentclass[12pt]{book}
+%\usepackage[paperwidth=6in,paperheight=9in,margin=1.2in]{geometry}
+\usepackage[a4paper]{geometry}
+
 \usepackage{mystyle}
 \usepackage{hyperref}
  
-\title{TrainABA Reference Manual, Second Edition
-	TrainABA Supervision Curriculum Series}
+\title{TrainABA Supervision Curriculum Series\\ Volume 1: BCBA Reference Manual \\Second Edition}
 \author{B. Theisen}
-\date{January 2019}
+\date{April 21, 2019}
 \makeindex[intoc]
- \renewcommand*{\marginfont}{\color{cyan}\bfseries\sffamily}
+ \renewcommand*{\marginfont}{\color{NavyBlue}\bfseries\sffamily}
 \begin{document}
 %include{path/to/title.tex}
      \maketitle
      \tableofcontents
      \listoffigures
      \listoftables
-%% Uncomment modules to be included here. 
+%% Uncomment sections to be included here. 
+%% Note that sections cannot be nested. List everything here. Treat this text file as the sole index for calling which sections  to include in the book you are compiling.
  \include{sections/introduction/introduction}
  \include{sections/admin/admin}
       \printindex
