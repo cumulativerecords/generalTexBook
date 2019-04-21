@@ -1,5 +1,0 @@
-\babel@toc {english}{}
-\contentsline {chapter}{\numberline {1}Introduction}{9}{chapter.1}
-\contentsline {chapter}{\numberline {2}Administration}{11}{chapter.2}
-\contentsline {chapter}{Index}{13}{section*.4}
-\contentsfinish 
