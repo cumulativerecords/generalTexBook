@@ -1,0 +1,1 @@
+This file contains the first edition copy of the TrainABA Supervision Curriculum Series Volume 1: BCBA Reference Manual. This copy is an official release under permission of the publisher. Cumulative Records Documentation Society has permission to provide this file here through the repo.
