@@ -1,0 +1,25 @@
+% allow for answer boxes:
+\documentclass[12pt]{exam}
+\printanswers
+
+\usepackage{amsmath}
+
+\begin{document}
+\begin{enumerate}
+
+    % questions can be list items
+    \item (Problem 7 \S 2.1)\\
+    Evaluate the following expression using Euclid's algorithm (2.1.3). (\textbf{Write each step down for credit})
+
+    \[\gcd(98,\ 35)\]
+
+    % make an answer box
+    \begin{solutionorbox}[2in] \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\  
+    %$98\mod 35 = 28$ \\
+    %$35\mod 28 = 7$ \\
+    %$28\mod 7 = 0$ \\
+    %$\gcd(98,\ 35) = 7$
+    \end{solutionorbox}
+
+    \end{enumerate}
+\end{document} 
