@@ -1,5 +1,7 @@
 # README
-This is a repo for a book manuscript (volume 2).
+This repo is used to build the second edition of the book below.
+
+"TrainABA Supervision Curriculum Series Volume 1: BCBA Reference Manual"
 
 ## accessibility
 It's possible to use SSH keys when added to this repo as a collaborator. Run code below from the local repo clone:
