@@ -1,0 +1,50 @@
+% allow for answer boxes:
+\documentclass[12pt]{exam}
+\printanswers
+
+\usepackage{amsmath}
+
+\begin{document}
+
+Task List Item 
+    \\
+    Write some examples in your own words.
+    \\ (\textbf{Think of applied situations from your job and life.})\\
+    Write an example in each box below.\\
+\framebox(200,200){} 
+\framebox(200,200){} \\
+    Write more examples in each box below.\\
+\framebox(200,200){} 
+\framebox(200,200){} \\
+	Write your best definition below.\\
+	Notice that \LaTeX will automatically format the box to be on its own page. It will not typeset as cutoff..Try a little more information.\\
+\framebox(400,100){} \\
+\framebox[\linewidth]{This is a sentence of text.}\par
+
+
+\begin{center}
+\framebox{This is a sentence of text.}\par
+%\makebox{This is a sentence of text.}
+
+%Longer sentence in a box.
+\noindent\fbox{%
+    \parbox{\textwidth}{%
+ \textit{Sentence}:\\ This is a sentence of text.\\ It might be useful to write more words inside the box. \\ Like three lines. \\ Maybe four.\\
+    }%
+}
+\end{center}
+
+\raisebox{0pt}[0pt][0pt]{\Large%
+  \textbf{Aaaa\raisebox{-0.3ex}{a}%
+    \raisebox{-0.7ex}{aa}%
+    \raisebox{-1.2ex}{r}%
+    \raisebox{-2.2ex}{g}%
+    \raisebox{-4.5ex}{h}
+  }
+}
+\\ \\ \\ \\ he shouted, his voice dropping in pitch as he reached the end of the argh. Like a balloon flying around the room until it runs out of air, his argh sounded discouraged by the end of the word. Not even the next
+one in line noticed that something
+terrible had happened to him.
+
+
+\end{document} 
