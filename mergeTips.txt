@@ -1,0 +1,17 @@
+Tip to merge branch into master.
+
+Please do following set of commands in order to merge with the master, Assuming that you are in branch testBranch and you want to merge the changes with the master,
+
+First checkout to master branch,
+
+git checkout master
+Now pull the latest changes in master,
+
+git pull origin master
+Merge with the testBranch
+
+git merge testBranch
+Push the changes to master
+
+git push origin master
+That's it, you are done.
