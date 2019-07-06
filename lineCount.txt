@@ -1,20 +1,8 @@
-# Variables for 5th Edition Task List, BCBA/BCaBA.
-# Formatted for python.
-#
-# 5 refers to the 5th edition.
-# 1 refers to Section 1.
-# 2 refers to Section 2.
-# Letters refer to task list categories, with their corresponding item numbers.
-
-51   = "Section 1: Foundations"
-5a   = "A. Philosophical Underpinnings"
 5a1  = "A-1 Identify the goals of behavior analysis as a science (i.e., description, prediction, control)."
 5a2  = "A-2 Explain the philosophical assumptions underlying the science of behavior analysis (e.g., selectionism, determinism, empiricism, parsimony, pragmatism)."
 5a3  = "A-3 Describe and explain behavior from the perspective of radical behaviorism."
 5a4  = "A-4 Distinguish among behaviorism, the experimental analysis of behavior, applied behavior analysis, and professional practice guided by the science of behavior analysis."
 5a5  = "A-5 Describe and define the dimensions of applied behavior analysis (Baer, Wolf, & Risley, 1968)."
-
-5b   = "B. Concepts and Principles"
 5b1  = "B-1 Define and provide examples of behavior, response, and response class."
 5b2  = "B-2 Define and provide examples of stimulus and stimulus class."
 5b3  = "B-3 Define and provide examples of respondent and operant conditioning."
@@ -30,8 +18,6 @@
 5b13 = "B-13 Define and provide examples of rule-governed and contingency-shaped behavior."
 5b14 = "B-14 Define and provide examples of the verbal operants."
 5b15 = "B-15 Define and provide examples of derived stimulus relations."
-
-5c   = "C. Measurement, Data Display, and Interpretation"
 5c1  = "C-1 Establish operational definitions of behavior."
 5c2  = "C-2 Distinguish among direct, indirect, and product measures of behavior."
 5c3  = "C-3 Measure occurrence (e.g., frequency, rate, percentage)."
@@ -43,18 +29,12 @@
 5c9  = "C-9 Select a measurement system to obtain representative data given the dimensions of behavior and the logistics of observing and recording."
 5c10 = "C-10 Graph data to communicate relevant quantitative relations (e.g., equal-interval graphs, bar graphs, cumulative records)."
 5c11 = "C-11 Interpret graphed data."
-
-5d   = "D. Experimental Design"
 5d1  = "D-1 Distinguish between dependent and independent variables."
 5d2  = "D-2 Distinguish between internal and external validity."
 5d3  = "D-3 Identify the defining features of single-subject experimental designs (e.g., individuals serve as their own controls, repeated measures, prediction, verification, replication)."
 5d4  = "D-4 Describe the advantages of single-subject experimental designs compared to group designs."
 5d5  = "D-5 Use single-subject experimental designs (e.g., reversal, multiple baseline, multielement, changing criterion)."
 5d6  = "D-6 Describe rationales for conducting comparative, component, and parametric analyses."
-
-
-52   = "Section 2: Applications"
-5e   = "E. Ethics (Professional and Ethical Compliance Code for Behavior Analysts"
 5e1  = "E-1 Responsible conduct of behavior analysts"
 5e2  = "E-2 Behavior analysts' responsibility to clients"
 5e3  = "E-3 Assessing behavior"
@@ -65,8 +45,6 @@
 5e8  = "E-8 Public statements"
 5e9  = "E-9 Behavior analysts and research"
 5e10 = "E-10 Behavior analysts' ethical responsibility to the BACB"
-
-5f   = "F. Behavior Assessment"
 5f1  = "F-1 Review records and available data (e.g., educational, medical, historical) at the outset of the case."
 5f2  = "F-2 Determine the need for behavior-analytic services."
 5f3  = "F-3 Identify and prioritize socially significant behavior-change goals."
@@ -76,8 +54,6 @@
 5f7  = "F-7 Conduct a descriptive assessment of problem behavior. "
 5f8  = "F-8 Conduct a functional analysis of problem behavior."
 5f9  = "F-9 Interpret functional assessment data. "
-
-5g   = "G. Behavior-Change Procedures"
 5g1  = "G-1 Use positive and negative reinforcement procedures to strengthen behavior."
 5g2  = "G-2 Use interventions based on motivating operations and discriminative stimuli."
 5g3  = "G-3 Establish and use conditioned reinforcers."
@@ -100,8 +76,6 @@
 5g20 = "G-20 Use self-management strategies."
 5g21 = "G-21 Use procedures to promote stimulus and response generalization."
 5g22 = "G-22 Use procedures to promote maintenance."
-
-5h   = "H. Selecting and Implementing Interventions"
 5h1  = "H-1 State intervention goals in observable and measurable terms. "
 5h2  = "H-2 Identify potential interventions based on assessment results and the best available scientific evidence."
 5h3  = "H-3 Recommend intervention goals and strategies based on such factors as client preferences, supporting environments, risks, constraints, and social validity."
@@ -111,8 +85,6 @@
 5h7  = "H-7 Make data-based decisions about the effectiveness of the intervention and the need for treatment revision."
 5h8  = "H-8 Make data-based decisions about the need for ongoing services."
 5h9  = "H-9 Collaborate with others who support and/or provide services to clients."
-
-5i   = "I. Personnel Supervision and Management"
 5i1  = "I-1 State the reasons for using behavior-analytic supervision and the potential risks of ineffective supervision (e.g., poor client outcomes, poor supervisee performance)."
 5i2  = "I-2 Establish clear performance expectations for the supervisor and supervisee."
 5i3  = "I-3 Select supervision goals based on an assessment of the supervisee's skills."
