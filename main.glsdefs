@@ -1,0 +1,30 @@
+\ifglsentryexists{cat}{}%
+{%
+\gls@defglossaryentry{cat}%
+{%
+name={CTA},%
+sort={CTA},%
+type={main},%
+first={Cat is a type of animal.\glsspace (CTA)},%
+firstplural={Cat is a type of animal.s\glsspace (CTAs)},%
+text={CTA},%
+plural={CTAs},%
+description={Cat is a type of animal.},%
+descriptionplural={Cat is a type of animal.\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Cat is a type of animal.},%
+longplural={Cat is a type of animal.s},%
+short={CTA},%
+shortplural={CTAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
