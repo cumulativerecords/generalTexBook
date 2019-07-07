@@ -1,12 +1,11 @@
-
-
 \documentclass[float=false, crop=false]{standalone}
 \usepackage[subpreambles=true]{standalone}
 \usepackage{import}
+\usepackage{float}
 \begin{document}
 \chapter{Administration}
 This is a whole chapter about administration for supervisors. None of it is dependent on implementing procedures of certification or licensing entitities. For example, \underline{\texttt{\colorbox{Dandelion}{Fourier series}}}
-\marginnote{Fourier Series}
+%\marginnote{Fourier Series}
 \index{Fourier series}
 gets indexed for no apparent reason.
 
@@ -28,18 +27,31 @@ All of this continues to another page, which includes a bulleted list.
 \item sun 
 \item rock
 \item roll
-\item magic
-\item fun
-\item space
-\item more
 \item okay
 \end{itemize}
 
-
 The most important consideration is the use of power when microwaving burritos. Whether at a concert or anywhere that sells gasoline, burritos and microwaves are your friends. These are the friends you want to keep. Parents encourage their kids to have these lasting relationships. 
 
+It's never too early to start thinking about tabular presentation of data. Yes, we're talking tables.
+
+\section{Behavioral Data Table}
+\begin{table}[H]
+\begin{tabular}{|l|cccccc|}
+\hline
+\multicolumn{1}{|c|}{Behavior} & AR18 & Q1 & Q2 & Goal & Change & Met?\\\hline
+Physical Aggression            & 0    & 0  & 0  & 0    & +      & No\\
+Self-Harm                      & 0    & 0  & 0  & 0    & +      & No\\
+AWOL                           & 0    & 0  & 0  & 0    & -      & Yes\\
+Fabricating Stories            & 0    & 0  & 0  & 0    & -      & Partial\\ \hline
+\end{tabular}
+%THE LIST OF TABLES ONLY LISTS CAPTIONS.
+%PLACE A CAPTION AFTER THE \end{tabular}.
+\captionof{table}{A simple behavioral data table}\label{tbl:simplebehavioral}
+\end{table}
+
+
 A \textcolor{orange}{TikZ}
-\marginnote{TiKZ} 
+%\marginnote{TiKZ} 
 \index{TikZ}
  figure will be rendered below this line. It has to get to the next page first. Be sure to hold your excitement for the moment. It really will be ready to show momentarily. Any old moment. Could be this one. Maybe now? 
  \begin{figure}[ht]

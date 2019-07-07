@@ -1,4 +1,10 @@
 \standalonepreambles
+\subpreamble{chapters/admin/admin.tex}
+\usepackage [subpreambles=true]{standalone}\usepackage {import}\usepackage {float}
+\endsubpreamble
+\subpreamble{diagram.tex}
+\usepackage {tikz}\usetikzlibrary {positioning}
+\endsubpreamble
 \subpreamble{chapters/about/about.tex}
 \usepackage [subpreambles=true]{standalone}\usepackage {import}\usepackage {hyperref}
 \endsubpreamble

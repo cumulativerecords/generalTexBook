@@ -1,6 +1,7 @@
 \documentclass[14pt]{book}
-%\usepackage[paperwidth=6in,paperheight=9in]{geometry}
-\usepackage[a4paper]{geometry}
+\usepackage[paperwidth=6in,paperheight=9in]{geometry}
+%\usepackage[a4paper]{geometry}
+%\usepackage[a6paper]{geometry}
 \usepackage{mystyle}
 
 
@@ -8,27 +9,37 @@
 \author{B. Theisen}
 \date{\today}
 
-%Bibliography to be added later.
-%\usepackage[style=authortitle-ibid, maxnames=2,natbib=true,sortcites=true,block=space,backend=bibtex]{biblatex}
-%\bibliography{refMan.bib}
-\addbibresource{bibliography/refMan.bib}
+\bibliography{bibliography/refMan.bib}
 \makeindex[intoc]
 % \renewcommand*{\marginfont}{\color{NavyBlue}\bfseries\sffamily}
 \begin{document}
-%include{path/to/title.tex}
-     \maketitle
-     \tableofcontents
-     \listoffigures
-     \listoftables
-%% Uncomment sections to be included here. 
-%% Note that sections cannot be nested. List everything here. Treat this text file as the sole index for calling which sections  to include in the book you are compiling.
-% \include{sections/admin/admin}
- \include{chapters/about/about}
- \include{chapters/taskListVanilla}
-% \include{sections/segment1/segment1}
+	\maketitle
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%BEGIN COPYRIGHT PAGE.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\null \vfill
+	\noindent%
+		Copyright $\copyright$ 2019. Second Edition. \\
+		Updated: \today. \\
+	\noindent%
+		This book may be downloaded as a free PDF at (website).
+		This textbook is also available under a Creative Commons license.
+		Source files hosted on {Github}. \\
+
+	\noindent Los Angeles, California, USA.
+	\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%END COPYRIGHT PAGE.							
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\tableofcontents
+	\listoffigures
+	\listoftables
+	\include{chapters/admin/admin}
+	\include{chapters/about/about}
+	\include{chapters/taskListVanilla}
+%\nocite{*} means to include all bib entries regardless of when/where/if cited.
 	\nocite{*}	
 	\input{glossary/glossary}
 	\printbibliography   
 	\printindex
 \end{document}
-
