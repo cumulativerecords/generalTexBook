@@ -2,4 +2,7 @@
 \subpreamble{chapters/about/about.tex}
 \usepackage [subpreambles=true]{standalone}\usepackage {import}\usepackage {hyperref}
 \endsubpreamble
+\subpreamble{glossary/glossary.tex}
+\usepackage {glossaries}\makeglossaries \newacronym {cat}{CAT}{A sleepy animal.}\newglossaryentry {behavior}{name = {Behavior},description = {Refers to an observable act or response from a living organism.}}\newglossaryentry {applied}{name = {Applied},description = {Refers to selection of socially significant behaviors when designing interventions.}}
+\endsubpreamble
 \endstandalonepreambles

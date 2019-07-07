@@ -1,15 +1,53 @@
-%\documentclass{book}
+\documentclass{book}
+\usepackage{glossaries}
+\makeglossaries
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%								%
+%BEGIN GLOSSARY ENTRIES						%
+%								%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\newacronym{cat}{CTA}{Cat is a type of animal.}
+\newacronym{cat}{CAT}{A sleepy animal.}
+
+%TERMS: 
+%LABEL = What LaTeX calls this entry.
+%NAME = What readers see as a name for entry.
+%DESCRIPTION = What readers see as explanation for the term.
+%\newglossaryentry{label}
+%{
+%name={name},
+%description={description},
+%other options
+%}
+%FOR LONG GLOSSARY ENTRY, USE \longnewglossaryentry. It allows paragraph breaks.
+
+\newglossaryentry{behavior}
+{
+	name = {Behavior},
+	description = {Refers to an observable act or response from a living organism.}
+}
+
+\newglossaryentry{applied}
+{
+	name = {Applied},
+	description = {Refers to selection of socially significant behaviors when designing interventions.}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%								%
+%END GLOSSARY ENTRIES						%
+%								%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 \begin{document}
-\tableofcontents
-
+%\chapter{Glossary}
+\glsaddall
 \printglossaries
+%\clearpage
 
-\clearpage
 
-\chapter{Glossary}
-\Gls{cat}
+%\gls{cat}
+
 
 \end{document}

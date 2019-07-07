@@ -2,19 +2,16 @@
 %\usepackage[paperwidth=6in,paperheight=9in]{geometry}
 \usepackage[a4paper]{geometry}
 \usepackage{mystyle}
-\usepackage{hyperref}
-\usepackage[backend=biber]{biblatex}
-\usepackage{lipsum}
-\usepackage{glossaries}
-\makeglossaries
+
+
 \title{TrainABA Supervision Curriculum Series\\* Volume 1: BCBA Reference Manual \\* Second Edition}
 \author{B. Theisen}
 \date{\today}
 
 %Bibliography to be added later.
 %\usepackage[style=authortitle-ibid, maxnames=2,natbib=true,sortcites=true,block=space,backend=bibtex]{biblatex}
-\bibliography{refMan.bib}
-%\addbibresource{refMan.bib}
+%\bibliography{refMan.bib}
+\addbibresource{bibliography/refMan.bib}
 \makeindex[intoc]
 % \renewcommand*{\marginfont}{\color{NavyBlue}\bfseries\sffamily}
 \begin{document}
@@ -30,9 +27,8 @@
  \include{chapters/taskListVanilla}
 % \include{sections/segment1/segment1}
 	\nocite{*}	
-	\include{glossary/glossary}
+	\input{glossary/glossary}
 	\printbibliography   
-     \printindex
-% 	\printglossaries   
+	\printindex
 \end{document}
 
