@@ -1,18 +1,18 @@
 \documentclass[12pt]{book}
 %\usepackage[paperwidth=6in,paperheight=9in,margin=1.2in]{geometry}
 \usepackage[a4paper]{geometry}
-
-\usepackage{style}
+\usepackage{mystyle}
 \usepackage{hyperref}
- 
+\usepackage[backend=biber]{biblatex}
+
 \title{TrainABA Supervision Curriculum Series\\ Volume 1: BCBA Reference Manual \\Second Edition}
 \author{B. Theisen}
-\date{April 21, 2019}
+\date{\today}
 
 %Bibliography to be added later.
-%\usepackage[style=authortitle-ibid, %maxnames=2,natbib=true,sortcites=true,block=space,backend=bibtex]{biblatex}
-%\bibliography{refMan.bib}
-
+%\usepackage[style=authortitle-ibid, maxnames=2,natbib=true,sortcites=true,block=space,backend=bibtex]{biblatex}
+\bibliography{refMan.bib}
+%\addbibresource{refMan.bib}
 \makeindex[intoc]
  \renewcommand*{\marginfont}{\color{NavyBlue}\bfseries\sffamily}
 \begin{document}
@@ -27,6 +27,8 @@
  \include{chapters/about/about}
  \include{chapters/taskListVanilla}
 % \include{sections/segment1/segment1}
+	\nocite{*}	
+	\printbibliography   
      \printindex
 \end{document}
 
