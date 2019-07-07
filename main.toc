@@ -27,7 +27,5 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.4}Related Tasks}{15}{section.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Glossary}{21}{chapter.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Index}{25}{section*.8}
+\contentsline {chapter}{Index}{21}{section*.7}
 \contentsfinish 

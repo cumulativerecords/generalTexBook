@@ -79,7 +79,7 @@
       <file>main.bcf</file>
     </requires>
     <requires type="editable">
-      <file>refMan.bib</file>
+      <file>bibliography/refMan.bib</file>
     </requires>
   </external>
 </requests>

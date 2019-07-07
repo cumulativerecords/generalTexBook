@@ -28,3 +28,63 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{behavior}{}%
+{%
+\gls@defglossaryentry{behavior}%
+{%
+name={Behavior},%
+sort={Behavior},%
+type={main},%
+first={Behavior},%
+firstplural={Behaviors},%
+text={Behavior},%
+plural={Behaviors},%
+description={Refers to an observable act or response from a living organism.},%
+descriptionplural={Refers to an observable act or response from a living organism.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{applied}{}%
+{%
+\gls@defglossaryentry{applied}%
+{%
+name={Applied},%
+sort={Applied},%
+type={main},%
+first={Applied},%
+firstplural={Applieds},%
+text={Applied},%
+plural={Applieds},%
+description={Refers to selection of socially significant behaviors when designing interventions.},%
+descriptionplural={Refers to selection of socially significant behaviors when designing interventions.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
