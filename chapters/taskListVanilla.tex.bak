@@ -16,8 +16,8 @@ is an observable or measurable response.
 
 \section{Examples}
 Ex1: \lipsum[1-3]
-%\noindent 
-Ex2: \lipsum[1-3]
+
+\noindent Ex2: \lipsum[1-3]
 
 \section{Relevant Literature}
 

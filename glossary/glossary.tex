@@ -1,24 +1,15 @@
+%\documentclass{book}
 
+\newacronym{cat}{CTA}{Cat is a type of animal.}
 
-\documentclass[float=false, crop=false]{standalone}
-\usepackage[subpreambles=true]{standalone}
-\usepackage{import}
 \begin{document}
+\tableofcontents
+
+\printglossaries
+
+\clearpage
+
 \chapter{Glossary}
-\newglossaryentry{computer}
-{
-  name=computer,
-  description={is a programmable machine that receives input,
-               stores and manipulates data, and provides
-               output in a useful format}
-}
-\newglossaryentry{pi}
-{
-  name={\ensuremath{\pi}},
-  description={ratio of circumference of circle to its
-               diameter},
-  sort=pi
-}
+\Gls{cat}
+
 \end{document}
-
-

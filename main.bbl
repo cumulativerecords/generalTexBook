@@ -1,0 +1,64 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{test}{article}{}
+      \name{author}{3}{}{%
+        {{hash=faac799ab48c5b690f0edf271e13f98f}{%
+           family={Baer},
+           familyi={B\bibinitperiod},
+           given={Donald\bibnamedelima M},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=460f8cf2b6bc729f389aee896effbd5e}{%
+           family={Wolf},
+           familyi={W\bibinitperiod},
+           given={Montrose\bibnamedelima M},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=19c7526e4922903ecc7fdbde700f9c21}{%
+           family={Risley},
+           familyi={R\bibinitperiod},
+           given={Todd\bibnamedelima R},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{b0e90536180900e16170252d4e9af5ef}
+      \strng{fullhash}{b0e90536180900e16170252d4e9af5ef}
+      \strng{bibnamehash}{b0e90536180900e16170252d4e9af5ef}
+      \strng{authorbibnamehash}{b0e90536180900e16170252d4e9af5ef}
+      \strng{authornamehash}{b0e90536180900e16170252d4e9af5ef}
+      \strng{authorfullhash}{b0e90536180900e16170252d4e9af5ef}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Behavior Analysis}
+      \field{number}{4}
+      \field{title}{Some still-current dimensions of applied behavior analysis}
+      \field{volume}{20}
+      \field{year}{1987}
+      \field{pages}{313\bibrangedash 327}
+      \range{pages}{15}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
