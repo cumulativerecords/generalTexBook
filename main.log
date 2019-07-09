@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.6.30)  8 JUL 2019 10:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.6.30)  9 JUL 2019 01:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1585,80 +1585,99 @@ Package caption Info: End \AtBeginDocument code.
 \openout8 = `main.ist'.
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 18.
- (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./frontmatter/copyright.
+tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 18.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 3.
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--24
+Underfull \hbox (badness 10000) in paragraph at lines 2--9
 
  []
 
-[2] (./main.toc)
+[2]) (./frontmatter/author.tex [3
+
+]) (./frontmatter/preface.tex [4
+
+]
+Overfull \hbox (0.60674pt too wide) in paragraph at lines 24--25
+[]\OT1/cmr/m/n/10 Please sub-mit er-rors, ad-di-tions, im-prove-ments, and sug-
+gested omis-
+ []
+
+
+Overfull \hbox (6.23643pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 tent con-tri-bu-tions. The con-tact is post-mas-ter(at)cumulati
+verecords.org. 
+ []
+
+[5] [6]) (./main.toc)
 \tf@toc=\write11
 \openout11 = `main.toc'.
 
- [3
+ [7
 
-] [4
+
+] [8
 
 ] (./main.lof)
 \tf@lof=\write12
 \openout12 = `main.lof'.
 
- [5] [6
+ [9] [10
 
 ] (./main.lot)
 \tf@lot=\write13
 \openout13 = `main.lot'.
 
- [7]
+ [11]
 \openout2 = `chapters/admin/admin.aux'.
 
 
-(./chapters/admin/admin.tex [8
+(./chapters/admin/admin.tex [12
 
 
 ]
 Chapter 1.
-<./images/space.jpg, id=138, 689.57625pt x 546.04pt>
+<./images/space.jpg, id=157, 689.57625pt x 546.04pt>
 File: ./images/space.jpg Graphic file (type jpg)
 <use ./images/space.jpg>
 Package pdftex.def Info: ./images/space.jpg  used on input line 15.
 (pdftex.def)             Requested size: 75.88316pt x 60.08124pt.
-[9 <./images/space.jpg>]
+[13 <./images/space.jpg>]
 Overfull \hbox (0.89838pt too wide) in paragraph at lines 39--49
 [][] 
  []
 
-(./diagram.tex)) [10] [11]
+(./diagram.tex)) [14] [15]
 \openout2 = `chapters/about/about.aux'.
 
- (./chapters/about/about.tex [12
+ (./chapters/about/about.tex [16
 
 
 
 ]
 Chapter 2.
-[13]
+[17]
 Overfull \hbox (7.1624pt too wide) in paragraph at lines 21--22
 \OT1/cmr/m/n/10 Organizational/Business Psy-chol-ogy De-part-ment at The Chicag
 o School
  []
 
-[14]
+[18]
 Underfull \vbox (badness 2334) has occurred while \output is active []
 
- [15])
-[16]
+ [19])
+[20]
 \openout2 = `chapters/taskListVanilla.aux'.
 
  (./chapters/taskListVanilla.tex
 Chapter 3.
-[17
+[21
 
 
 
@@ -1668,38 +1687,38 @@ Overfull \hbox (1.29193pt too wide) in paragraph at lines 11--11
 et, con-sectetuer
  []
 
-[18] [19] [20]) [21] (./glossary/glossary.tex (./main.gls [22
+[22] [23] [24]) [25] (./glossary/glossary.tex (./main.gls [26
 
-])) [23
+])) [27
 
 
-] [24
+] [28
 
 ]
-[25] [26
+[29] [30
 
 ]
 runsystem(makeindex main.idx)...executed safely (allowed).
 
- (./main.ind) [27
+ (./main.ind) [31
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 26.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 26.
  (./main.aux (./chapters/admin/admin.aux)
 (./chapters/about/about.aux) (./chapters/taskListVanilla.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 41.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 26.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 26.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 680D64368C321F4264C1D64FEF8AF41B;973.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 41.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 26.
  ) 
 Here is how much of TeX's memory you used:
- 31997 strings out of 494880
- 590024 string characters out of 6179601
+ 32008 strings out of 494880
+ 590205 string characters out of 6179601
  1156057 words of memory out of 5000000
  34645 multiletter control sequences out of 15000+600000
  8941 words of font info for 32 fonts, out of 8000000 for 9000
@@ -1710,15 +1729,17 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
 live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmtt10.pfb>
-Output written on main.pdf (27 pages, 206558 bytes).
+t/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10
+.pfb>
+Output written on main.pdf (31 pages, 230618 bytes).
 PDF statistics:
- 291 PDF objects out of 1000 (max. 8388607)
- 248 compressed objects within 3 object streams
- 58 named destinations out of 1000 (max. 500000)
+ 317 PDF objects out of 1000 (max. 8388607)
+ 268 compressed objects within 3 object streams
+ 62 named destinations out of 1000 (max. 500000)
  146 words of extra memory for PDF output out of 10000 (max. 10000000)
 
