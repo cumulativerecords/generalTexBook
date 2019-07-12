@@ -1,26 +1,26 @@
-\documentclass[14pt]{book}
+\documentclass[12pt]{book}
 \usepackage[paperwidth=6in,paperheight=9in]{geometry}
 %\usepackage[a4paper]{geometry}
 %\usepackage[a6paper]{geometry}
-\usepackage{mystyle}
+\usepackage{style/style}
 
-\bibliography{bibliography/refMan.bib}
+\bibliography{tex/bibliography/refMan.bib}
 \makeindex[intoc]
 % \renewcommand*{\marginfont}{\color{NavyBlue}\bfseries\sffamily}
 \begin{document}
-	\input{frontmatter/title}
-	\input{frontmatter/copyright}
+	\input{tex/frontmatter/title}
+	\input{tex/frontmatter/copyright}
 	\tableofcontents
 	\listoffigures
 	\listoftables
-	\include{frontmatter/author}
-	\include{frontmatter/preface}
-	\include{chapters/admin/admin}
-	\include{chapters/about/about}
-	\include{chapters/taskListVanilla}
+	\include{tex/frontmatter/author}
+	\include{tex/frontmatter/preface}
+	\include{tex/chapters/admin/admin}
+	\include{tex/chapters/about/about}
+	\include{tex/chapters/taskListVanilla}
 %\nocite{*} means to include all bib entries regardless of when/where/if cited.
 	\nocite{*}	
-	\input{glossary/glossary}
+	\input{tex/glossary/glossary}
 	\printbibliography   
 	\printindex
 \end{document}
