@@ -31,5 +31,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.4}Related Tasks}{28}{section.3.4}
 \defcounter {refsection}{0}\relax 
+\contentsline {chapter}{References}{33}{chapter*.9}
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Index}{35}{section*.10}
 \contentsfinish 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.7.12)  12 JUL 2019 22:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.7.12)  13 JUL 2019 02:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1657,7 +1657,7 @@ Overfull \hbox (23.35841pt too wide) in paragraph at lines 28--29
 
  (./tex/chapters/admin/admin.tex
 Chapter 1.
-<./images/space.jpg, id=155, 689.57625pt x 546.04pt>
+<./images/space.jpg, id=160, 689.57625pt x 546.04pt>
 File: ./images/space.jpg Graphic file (type jpg)
 <use ./images/space.jpg>
 Package pdftex.def Info: ./images/space.jpg  used on input line 10.
@@ -1795,17 +1795,17 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 26.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 26.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 26.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 680D64368C321F4264C1D64FEF8AF41B;973.
+(rerunfilecheck)             Checksum: 234B5720C9B2C2E65C04D2883B3336D6;1020.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 26.
  ) 
 Here is how much of TeX's memory you used:
- 32028 strings out of 492982
- 590616 string characters out of 6134896
+ 32029 strings out of 492982
+ 590628 string characters out of 6134896
  1166538 words of memory out of 5000000
- 34890 multiletter control sequences out of 15000+600000
+ 34891 multiletter control sequences out of 15000+600000
  11292 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,10n,98p,1986b,2641s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1818,10 +1818,10 @@ fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (35 pages, 189124 bytes).
+Output written on main.pdf (35 pages, 189033 bytes).
 PDF statistics:
- 319 PDF objects out of 1000 (max. 8388607)
- 269 compressed objects within 3 object streams
+ 323 PDF objects out of 1000 (max. 8388607)
+ 273 compressed objects within 3 object streams
  66 named destinations out of 1000 (max. 500000)
- 146 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 154 words of extra memory for PDF output out of 10000 (max. 10000000)
 
