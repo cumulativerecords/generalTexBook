@@ -54,7 +54,7 @@
 
 
 52   = "Section 2: Applications"
-5e   = "E. Ethics (Professional and Ethical Compliance Code for Behavior Analysts"
+5e   = "E. Ethics (Professional and Ethical Compliance Code for Behavior Analysts)"
 5e1  = "E-1 Responsible conduct of behavior analysts"
 5e2  = "E-2 Behavior analysts' responsibility to clients"
 5e3  = "E-3 Assessing behavior"
