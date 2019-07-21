@@ -8,4 +8,8 @@ pdflatex main
 pdflatex main
 biber main
 makeglossaries main
+   makeindex -o main.ind main.idx
+   makeindex -o main.nnd main.ndx
+   makeindex -o main.tnd main.tdx
 pdflatex main
+

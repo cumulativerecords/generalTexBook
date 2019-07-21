@@ -1,11 +1,11 @@
-\documentclass[12pt]{book}
-\usepackage[paperwidth=6in,paperheight=9in]{geometry}
-%\usepackage[a4paper]{geometry}
-%\usepackage[a6paper]{geometry}
-\usepackage{style/style}
+\documentclass[12pt,oneside]{book}
+%\usepackage[paperwidth=6in,paperheight=9in]{geometry}
+\usepackage[a4paper]{geometry}
+\usepackage[]{geometry}
+\usepackage{style/style,style/tl,style/bibAndIndex}
 
-\bibliography{tex/bibliography/refMan.bib}
-\makeindex[intoc]
+\bibliography{tex/bib/refMan.bib}
+%\makeindex[intoc]
 % \renewcommand*{\marginfont}{\color{NavyBlue}\bfseries\sffamily}
 \begin{document}
 	\input{tex/frontmatter/title}
@@ -18,9 +18,17 @@
 	\include{tex/chapters/admin/admin}
 	\include{tex/chapters/about/about}
 	\include{tex/chapters/taskListVanilla}
-%\nocite{*} means to include all bib entries regardless of when/where/if cited.
-	\nocite{*}	
 	\input{tex/glossary/glossary}
-	\printbibliography[title=References,heading=bibintoc]   
-	\printindex
+	\nocite{*}
+	\printbibliography[title=References,heading=bibintoc]
+%test
+% We print the printbibliography...
+% (see above)
+% ...and the indexes
+\raggedright
+\printindex         % the general index
+\printindex[names]  % the name index
+\printindex[titles] % the title index
+%end test   
+%	\printindex
 \end{document}

@@ -18,36 +18,93 @@
 
 
 \refsection{0}
-  \datalist[entry]{nty/global//global/global}
+  \datalist[entry]{apa/global//global/global}
+    \entry{alang2017police}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=b8e2c160b2b011d60c34cc424514f3ac}{%
+           family={Alang},
+           familyi={A\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bca36ea08ee0b58c211eec8d84ef7570}{%
+           family={McAlpine},
+           familyi={M\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d6cfdac79805eae11f1a33e21f64e20e}{%
+           family={McCreedy},
+           familyi={M\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=39327f838508e4365fa9057c2667e512}{%
+           family={Hardeman},
+           familyi={H\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Public Health Association}%
+      }
+      \strng{namehash}{3c77a3497490ebddafb492248f265b0c}
+      \strng{fullhash}{933fa125c622bc9588f73e9dbdb3ecf1}
+      \strng{bibnamehash}{933fa125c622bc9588f73e9dbdb3ecf1}
+      \strng{authorbibnamehash}{933fa125c622bc9588f73e9dbdb3ecf1}
+      \strng{authornamehash}{3c77a3497490ebddafb492248f265b0c}
+      \strng{authorfullhash}{933fa125c622bc9588f73e9dbdb3ecf1}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American journal of public health}
+      \field{number}{5}
+      \field{title}{Police brutality and black health: setting the agenda for public health scholars}
+      \field{volume}{107}
+      \field{year}{2017}
+      \field{pages}{662\bibrangedash 665}
+      \range{pages}{4}
+    \endentry
     \entry{test}{article}{}
       \name{author}{3}{}{%
-        {{hash=faac799ab48c5b690f0edf271e13f98f}{%
+        {{uniquename=0,uniquepart=base,hash=d29af8a6239fa4afc21032e83e5ca4c6}{%
            family={Baer},
            familyi={B\bibinitperiod},
-           given={Donald\bibnamedelima M},
-           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=460f8cf2b6bc729f389aee896effbd5e}{%
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f3a6f172b4e52e17555a39cc2e2dee9c}{%
            family={Wolf},
            familyi={W\bibinitperiod},
-           given={Montrose\bibnamedelima M},
-           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=19c7526e4922903ecc7fdbde700f9c21}{%
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3c46e60b0d4e55488f0fd341e3046ea3}{%
            family={Risley},
            familyi={R\bibinitperiod},
-           given={Todd\bibnamedelima R},
-           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
       }
       \list{publisher}{1}{%
         {Wiley Online Library}%
       }
-      \strng{namehash}{b0e90536180900e16170252d4e9af5ef}
-      \strng{fullhash}{b0e90536180900e16170252d4e9af5ef}
-      \strng{bibnamehash}{b0e90536180900e16170252d4e9af5ef}
-      \strng{authorbibnamehash}{b0e90536180900e16170252d4e9af5ef}
-      \strng{authornamehash}{b0e90536180900e16170252d4e9af5ef}
-      \strng{authorfullhash}{b0e90536180900e16170252d4e9af5ef}
+      \strng{namehash}{0afe897f7440be81f3538f1c346f429f}
+      \strng{fullhash}{f372f292644a843c582370a13cab6e0f}
+      \strng{bibnamehash}{f372f292644a843c582370a13cab6e0f}
+      \strng{authorbibnamehash}{f372f292644a843c582370a13cab6e0f}
+      \strng{authornamehash}{0afe897f7440be81f3538f1c346f429f}
+      \strng{authorfullhash}{f372f292644a843c582370a13cab6e0f}
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Applied Behavior Analysis}
@@ -57,6 +114,432 @@
       \field{year}{1987}
       \field{pages}{313\bibrangedash 327}
       \range{pages}{15}
+    \endentry
+    \entry{carver1997you}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=f26d7fb52819bee82095c92102823c5c}{%
+           family={Carver},
+           familyi={C\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{f26d7fb52819bee82095c92102823c5c}
+      \strng{fullhash}{f26d7fb52819bee82095c92102823c5c}
+      \strng{bibnamehash}{f26d7fb52819bee82095c92102823c5c}
+      \strng{authorbibnamehash}{f26d7fb52819bee82095c92102823c5c}
+      \strng{authornamehash}{f26d7fb52819bee82095c92102823c5c}
+      \strng{authorfullhash}{f26d7fb52819bee82095c92102823c5c}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International journal of behavioral medicine}
+      \field{number}{1}
+      \field{title}{You want to measure coping but your protocol is too long: Consider the brief cope}
+      \field{volume}{4}
+      \field{year}{1997}
+      \field{pages}{92}
+      \range{pages}{1}
+    \endentry
+    \entry{clayton2018black}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=38ba22578bae5aeb01fd35ed292703e6}{%
+           family={Clayton},
+           familyi={C\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{38ba22578bae5aeb01fd35ed292703e6}
+      \strng{fullhash}{38ba22578bae5aeb01fd35ed292703e6}
+      \strng{bibnamehash}{38ba22578bae5aeb01fd35ed292703e6}
+      \strng{authorbibnamehash}{38ba22578bae5aeb01fd35ed292703e6}
+      \strng{authornamehash}{38ba22578bae5aeb01fd35ed292703e6}
+      \strng{authorfullhash}{38ba22578bae5aeb01fd35ed292703e6}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Black Studies}
+      \field{number}{5}
+      \field{title}{Black lives matter and the civil rights movement: A comparative analysis of two social movements in the United States}
+      \field{volume}{49}
+      \field{year}{2018}
+      \field{pages}{448\bibrangedash 480}
+      \range{pages}{33}
+    \endentry
+    \entry{gooty2014wisdom}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=d504b1b5c9e0b4b3f95c2650723cd704}{%
+           family={Gooty},
+           familyi={G\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f8551ce3840a600ffffef77168c9cb06}{%
+           family={Gavin},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=97d3f0efce711707f010be45ca8aeb36}{%
+           family={Ashkanasy},
+           familyi={A\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cf4f2a96f5d4841ba4e5bebcea976d1b}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{df3b23d83359961b1d85907a020c9a60}
+      \strng{fullhash}{6816d2910380f715beaa2ce024be41c3}
+      \strng{bibnamehash}{6816d2910380f715beaa2ce024be41c3}
+      \strng{authorbibnamehash}{6816d2910380f715beaa2ce024be41c3}
+      \strng{authornamehash}{df3b23d83359961b1d85907a020c9a60}
+      \strng{authorfullhash}{6816d2910380f715beaa2ce024be41c3}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Occupational and Organizational Psychology}
+      \field{number}{2}
+      \field{title}{The wisdom of letting go and performance: The moderating role of emotional intelligence and discrete emotions}
+      \field{volume}{87}
+      \field{year}{2014}
+      \field{pages}{392\bibrangedash 413}
+      \range{pages}{22}
+    \endentry
+    \entry{granhag2014information}{book}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=f048564a7e471ee0d1d4806d1b2f2257}{%
+           family={Granhag},
+           familyi={G\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fdcdfb57559b68441d54d5aa085f5810}{%
+           family={Vrij},
+           familyi={V\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cb1747738e3df194fd723f4e57e1f5e2}{%
+           family={Meissner},
+           familyi={M\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{e7c832af9412f0f6a92e1b6ffdd3c08a}
+      \strng{fullhash}{10a834f4cc0df63f334362e6f074bad8}
+      \strng{bibnamehash}{10a834f4cc0df63f334362e6f074bad8}
+      \strng{authorbibnamehash}{10a834f4cc0df63f334362e6f074bad8}
+      \strng{authornamehash}{e7c832af9412f0f6a92e1b6ffdd3c08a}
+      \strng{authorfullhash}{10a834f4cc0df63f334362e6f074bad8}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Information gathering in law enforcement and intelligence settings: Advancing theory and practice}
+      \field{year}{2014}
+    \endentry
+    \entry{maguire2017war}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=06ed14fe26ffd5f3b30db7ea2071ef98}{%
+           family={Maguire},
+           familyi={M\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bb0f2dc3b48e53022f4384694137c741}{%
+           family={Nix},
+           familyi={N\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ddb4269e2ea4d6e3fff2a8fc9a780e15}{%
+           family={Campbell},
+           familyi={C\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{18b26d4c4e9b021d4ae5d70e229d0739}
+      \strng{fullhash}{5b09ad26021a53dc6dc908ff185e957c}
+      \strng{bibnamehash}{5b09ad26021a53dc6dc908ff185e957c}
+      \strng{authorbibnamehash}{5b09ad26021a53dc6dc908ff185e957c}
+      \strng{authornamehash}{18b26d4c4e9b021d4ae5d70e229d0739}
+      \strng{authorfullhash}{5b09ad26021a53dc6dc908ff185e957c}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Justice quarterly}
+      \field{number}{5}
+      \field{title}{A war on cops? The effects of Ferguson on the number of US police officers murdered in the line of duty}
+      \field{volume}{34}
+      \field{year}{2017}
+      \field{pages}{739\bibrangedash 758}
+      \range{pages}{20}
+    \endentry
+    \entry{salguero2010measuring}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=976961f565f4909672001e41631151dc}{%
+           family={Salguero},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6b25808c69a7e1f5742dcbd5eebbde2e}{%
+           family={Fernandez-Berrocal},
+           familyi={F\bibinithyphendelim B\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d3b1468f1bcef42856d78ae5153b8ff9}{%
+           family={Balluerka},
+           familyi={B\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a0bd317300504a1b6686353dfd68e958}{%
+           family={Aritzeta},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Scientific Journal Publishers}%
+      }
+      \strng{namehash}{ac0bf1b147d8963ff92483732633a824}
+      \strng{fullhash}{8e678a7b471c234a439ee7590a5c32f5}
+      \strng{bibnamehash}{8e678a7b471c234a439ee7590a5c32f5}
+      \strng{authorbibnamehash}{8e678a7b471c234a439ee7590a5c32f5}
+      \strng{authornamehash}{ac0bf1b147d8963ff92483732633a824}
+      \strng{authorfullhash}{8e678a7b471c234a439ee7590a5c32f5}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Social Behavior and Personality: an international journal}
+      \field{number}{9}
+      \field{title}{Measuring perceived emotional intelligence in the adolescent population: Psychometric properties of the Trait Meta-Mood Scale}
+      \field{volume}{38}
+      \field{year}{2010}
+      \field{pages}{1197\bibrangedash 1209}
+      \range{pages}{13}
+    \endentry
+    \entry{singh2015mediating}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=f195ab7305d3d0d287d218849d754b99}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6702b17272f233b38fddde20229239fd}{%
+           family={Nayak},
+           familyi={N\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Emerald Group Publishing Limited}%
+      }
+      \strng{namehash}{5fd22261baa721ddf805895b8e10e83e}
+      \strng{fullhash}{5fd22261baa721ddf805895b8e10e83e}
+      \strng{bibnamehash}{5fd22261baa721ddf805895b8e10e83e}
+      \strng{authorbibnamehash}{5fd22261baa721ddf805895b8e10e83e}
+      \strng{authornamehash}{5fd22261baa721ddf805895b8e10e83e}
+      \strng{authorfullhash}{5fd22261baa721ddf805895b8e10e83e}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Policing: An International Journal of Police Strategies \& Management}
+      \field{number}{4}
+      \field{title}{Mediating role of stress between work-family conflict and job satisfaction among the police officials: Moderating role of social support}
+      \field{volume}{38}
+      \field{year}{2015}
+      \field{pages}{738\bibrangedash 753}
+      \range{pages}{16}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{1}
+  \datalist[entry]{apa/global//global/global}
+    \entry{alang2017police}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=b8e2c160b2b011d60c34cc424514f3ac}{%
+           family={Alang},
+           familyi={A\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bca36ea08ee0b58c211eec8d84ef7570}{%
+           family={McAlpine},
+           familyi={M\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d6cfdac79805eae11f1a33e21f64e20e}{%
+           family={McCreedy},
+           familyi={M\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=39327f838508e4365fa9057c2667e512}{%
+           family={Hardeman},
+           familyi={H\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Public Health Association}%
+      }
+      \strng{namehash}{3c77a3497490ebddafb492248f265b0c}
+      \strng{fullhash}{933fa125c622bc9588f73e9dbdb3ecf1}
+      \strng{bibnamehash}{933fa125c622bc9588f73e9dbdb3ecf1}
+      \strng{authorbibnamehash}{933fa125c622bc9588f73e9dbdb3ecf1}
+      \strng{authornamehash}{3c77a3497490ebddafb492248f265b0c}
+      \strng{authorfullhash}{933fa125c622bc9588f73e9dbdb3ecf1}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American journal of public health}
+      \field{number}{5}
+      \field{title}{Police brutality and black health: setting the agenda for public health scholars}
+      \field{volume}{107}
+      \field{year}{2017}
+      \field{pages}{662\bibrangedash 665}
+      \range{pages}{4}
+    \endentry
+    \entry{test}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=d29af8a6239fa4afc21032e83e5ca4c6}{%
+           family={Baer},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f3a6f172b4e52e17555a39cc2e2dee9c}{%
+           family={Wolf},
+           familyi={W\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3c46e60b0d4e55488f0fd341e3046ea3}{%
+           family={Risley},
+           familyi={R\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{0afe897f7440be81f3538f1c346f429f}
+      \strng{fullhash}{f372f292644a843c582370a13cab6e0f}
+      \strng{bibnamehash}{f372f292644a843c582370a13cab6e0f}
+      \strng{authorbibnamehash}{f372f292644a843c582370a13cab6e0f}
+      \strng{authornamehash}{0afe897f7440be81f3538f1c346f429f}
+      \strng{authorfullhash}{f372f292644a843c582370a13cab6e0f}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Behavior Analysis}
+      \field{number}{4}
+      \field{title}{Some still-current dimensions of applied behavior analysis}
+      \field{volume}{20}
+      \field{year}{1987}
+      \field{pages}{313\bibrangedash 327}
+      \range{pages}{15}
+    \endentry
+    \entry{clayton2018black}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=38ba22578bae5aeb01fd35ed292703e6}{%
+           family={Clayton},
+           familyi={C\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{38ba22578bae5aeb01fd35ed292703e6}
+      \strng{fullhash}{38ba22578bae5aeb01fd35ed292703e6}
+      \strng{bibnamehash}{38ba22578bae5aeb01fd35ed292703e6}
+      \strng{authorbibnamehash}{38ba22578bae5aeb01fd35ed292703e6}
+      \strng{authornamehash}{38ba22578bae5aeb01fd35ed292703e6}
+      \strng{authorfullhash}{38ba22578bae5aeb01fd35ed292703e6}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Black Studies}
+      \field{number}{5}
+      \field{title}{Black lives matter and the civil rights movement: A comparative analysis of two social movements in the United States}
+      \field{volume}{49}
+      \field{year}{2018}
+      \field{pages}{448\bibrangedash 480}
+      \range{pages}{33}
     \endentry
   \enddatalist
 \endrefsection
