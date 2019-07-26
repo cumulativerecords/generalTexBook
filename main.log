@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.6.30)  25 JUL 2019 00:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.6.30)  25 JUL 2019 02:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1775,6 +1775,42 @@ l.1 ﻿
        %
 ? 
 )
+Overfull \hbox (3.36427pt too wide) in paragraph at lines 425--20
+\T1/cmr/m/n/12 A-12 De-sign and im-ple-ment con-tin-u-ous mea-sure-ment pro-ce-
+dures (e.g., event record-
+ []
+
+
+Overfull \hbox (3.36427pt too wide) in paragraph at lines 425--20
+\T1/cmr/m/n/12 A-12 De-sign and im-ple-ment con-tin-u-ous mea-sure-ment pro-ce-
+dures (e.g., event record-
+ []
+
+
+Overfull \hbox (3.36427pt too wide) in paragraph at lines 425--20
+\T1/cmr/m/n/12 A-12 De-sign and im-ple-ment con-tin-u-ous mea-sure-ment pro-ce-
+dures (e.g., event record-
+ []
+
+
+Overfull \hbox (3.36427pt too wide) in paragraph at lines 425--20
+\T1/cmr/m/n/12 A-12 De-sign and im-ple-ment con-tin-u-ous mea-sure-ment pro-ce-
+dures (e.g., event record-
+ []
+
+
+Overfull \hbox (3.36427pt too wide) in paragraph at lines 425--20
+\T1/cmr/m/n/12 A-12 De-sign and im-ple-ment con-tin-u-ous mea-sure-ment pro-ce-
+dures (e.g., event record-
+ []
+
+
+Overfull \hbox (3.36427pt too wide) in paragraph at lines 425--20
+\T1/cmr/m/n/12 A-12 De-sign and im-ple-ment con-tin-u-ous mea-sure-ment pro-ce-
+dures (e.g., event record-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 425--20
 
  []
@@ -1782,22 +1818,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 425--20
 [17
 
 
-] (./tex/glossary/glossary.tex (./main.gls [18
+] [18] [19] (./tex/glossary/glossary.tex (./main.gls [20
 
-])) [19
-
-
-] (./main.ind [20
-
-]
-[21
+])) [21
 
 
-]) (./main.nnd [22
+] (./main.ind [22
+
+] [23
+
+
+]) (./main.nnd [24
 
 
 
-]) (./main.tnd [23
+]) (./main.tnd [25
 
 
 ])
@@ -1817,9 +1852,9 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 34.
  ) 
 Here is how much of TeX's memory you used:
- 31459 strings out of 494880
- 562907 string characters out of 6179601
- 1208876 words of memory out of 5000000
+ 31461 strings out of 494880
+ 562921 string characters out of 6179601
+ 1210876 words of memory out of 5000000
  34030 multiletter control sequences out of 15000+600000
  19285 words of font info for 43 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
@@ -1842,10 +1877,10 @@ texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2488.600pk> </home/unix-recrds-x1/.te
 xlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/eccc1728.600pk> </home/unix-rec
 rds-x1/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/eccc2074.600pk></usr/
 share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (24 pages, 220710 bytes).
+Output written on main.pdf (26 pages, 222325 bytes).
 PDF statistics:
- 687 PDF objects out of 1000 (max. 8388607)
- 264 compressed objects within 3 object streams
- 62 named destinations out of 1000 (max. 500000)
+ 696 PDF objects out of 1000 (max. 8388607)
+ 271 compressed objects within 3 object streams
+ 64 named destinations out of 1000 (max. 500000)
  130 words of extra memory for PDF output out of 10000 (max. 10000000)
 
