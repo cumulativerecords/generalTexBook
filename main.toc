@@ -29,87 +29,87 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}Introduction}{18}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Supervision Taxonomy}{19}{chapter.5}
+\contentsline {chapter}{\numberline {5}Supervision Taxonomy}{21}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Refresher: Supervisor Workshop}{20}{chapter.6}
+\contentsline {chapter}{\numberline {6}Refresher: Supervisor Workshop}{32}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}Purpose of Supervision}{20}{section.6.1}
+\contentsline {section}{\numberline {6.1}Purpose of Supervision}{32}{section.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}Features of Supervision}{21}{section.6.2}
+\contentsline {section}{\numberline {6.2}Features of Supervision}{33}{section.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.3}Features of Supervision}{22}{section.6.3}
+\contentsline {section}{\numberline {6.3}Features of Supervision}{34}{section.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.4}Using Behavioral Skills Training}{22}{section.6.4}
+\contentsline {section}{\numberline {6.4}Using Behavioral Skills Training}{34}{section.6.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.4.1}Behavioral Skills Training}{22}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.1}Behavioral Skills Training}{34}{subsection.6.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.5}Delivering Performance Feedback}{23}{section.6.5}
+\contentsline {section}{\numberline {6.5}Delivering Performance Feedback}{35}{section.6.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.6}Evaluating the Effects of Supervision}{23}{section.6.6}
+\contentsline {section}{\numberline {6.6}Evaluating the Effects of Supervision}{35}{section.6.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}A-01 Measure frequency (i.e., count).{}}{25}{chapter.7}
+\contentsline {chapter}{\numberline {7}A-01 Measure frequency (i.e., count).{}}{37}{chapter.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}Definition}{25}{section.7.1}
+\contentsline {section}{\numberline {7.1}Definition}{37}{section.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}Example}{25}{section.7.2}
+\contentsline {section}{\numberline {7.2}Example}{37}{section.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.3}Assessment}{25}{section.7.3}
+\contentsline {section}{\numberline {7.3}Assessment}{37}{section.7.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.4}Relevant Literature}{26}{section.7.4}
+\contentsline {section}{\numberline {7.4}Relevant Literature}{38}{section.7.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.5}Related Lessons}{26}{section.7.5}
+\contentsline {section}{\numberline {7.5}Related Lessons}{38}{section.7.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.6}Footnotes}{26}{section.7.6}
+\contentsline {section}{\numberline {7.6}Footnotes}{38}{section.7.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}A-02 Measure rate (i.e., count per unit time).{}}{27}{chapter.8}
+\contentsline {chapter}{\numberline {8}A-02 Measure rate (i.e., count per unit time).{}}{39}{chapter.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.1}Definition}{27}{section.8.1}
+\contentsline {section}{\numberline {8.1}Definition}{39}{section.8.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.2}Examples}{27}{section.8.2}
+\contentsline {section}{\numberline {8.2}Examples}{39}{section.8.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.3}Assessment}{27}{section.8.3}
+\contentsline {section}{\numberline {8.3}Assessment}{39}{section.8.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.4}Relevant Literature}{28}{section.8.4}
+\contentsline {section}{\numberline {8.4}Relevant Literature}{40}{section.8.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.5}Related Lessons}{28}{section.8.5}
+\contentsline {section}{\numberline {8.5}Related Lessons}{40}{section.8.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.6}Footnotes}{28}{section.8.6}
+\contentsline {section}{\numberline {8.6}Footnotes}{40}{section.8.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {9}A-03 Measure duration.{}}{29}{chapter.9}
+\contentsline {chapter}{\numberline {9}A-03 Measure duration.{}}{41}{chapter.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.1}Definition}{29}{section.9.1}
+\contentsline {section}{\numberline {9.1}Definition}{41}{section.9.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.2}Examples}{29}{section.9.2}
+\contentsline {section}{\numberline {9.2}Examples}{41}{section.9.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.3}Assessment}{29}{section.9.3}
+\contentsline {section}{\numberline {9.3}Assessment}{41}{section.9.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.4}Relevant Literature}{30}{section.9.4}
+\contentsline {section}{\numberline {9.4}Relevant Literature}{42}{section.9.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.5}Related Lessons}{30}{section.9.5}
+\contentsline {section}{\numberline {9.5}Related Lessons}{42}{section.9.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {10}A-04 Measure latency.{}}{31}{chapter.10}
+\contentsline {chapter}{\numberline {10}A-04 Measure latency.{}}{43}{chapter.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.1}Definition}{31}{section.10.1}
+\contentsline {section}{\numberline {10.1}Definition}{43}{section.10.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.2}Examples}{31}{section.10.2}
+\contentsline {section}{\numberline {10.2}Examples}{43}{section.10.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.3}Assessment}{31}{section.10.3}
+\contentsline {section}{\numberline {10.3}Assessment}{43}{section.10.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.4}Relevant Literature}{32}{section.10.4}
+\contentsline {section}{\numberline {10.4}Relevant Literature}{44}{section.10.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.5}Related Lessons}{32}{section.10.5}
+\contentsline {section}{\numberline {10.5}Related Lessons}{44}{section.10.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {11}B-03 Systematically arrange independent variables...}{36}{chapter.11}
+\contentsline {chapter}{\numberline {11}B-03 Systematically arrange independent variables...}{48}{chapter.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.1}Definitions}{36}{section.11.1}
+\contentsline {section}{\numberline {11.1}Definitions}{48}{section.11.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.2}Example}{37}{section.11.2}
+\contentsline {section}{\numberline {11.2}Example}{49}{section.11.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.3}Assessment}{37}{section.11.3}
+\contentsline {section}{\numberline {11.3}Assessment}{49}{section.11.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.4}Relevant Literature}{37}{section.11.4}
+\contentsline {section}{\numberline {11.4}Relevant Literature}{49}{section.11.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.5}Related Lessons}{38}{section.11.5}
+\contentsline {section}{\numberline {11.5}Related Lessons}{50}{section.11.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{References}{75}{chapter*.10}
+\contentsline {chapter}{References}{87}{chapter*.10}
 \contentsfinish 
