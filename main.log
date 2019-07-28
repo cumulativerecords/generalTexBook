@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.7.12)  28 JUL 2019 01:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.7.12)  28 JUL 2019 13:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -943,7 +943,7 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
 )
 Package caption Info: supertabular package is loaded.
-))
+)
 (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
@@ -1099,7 +1099,34 @@ Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
 Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
-) (./style/tlfour.sty) (./style/tlfive.sty) (./style/bibAndIndex.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2018/02/11 v5.2c context-sensitive quotations (JAW)
+\csq@reset=\count157
+\csq@gtype=\count158
+\csq@glevel=\count159
+\csq@qlevel=\count160
+\csq@maxlvl=\count161
+\csq@tshold=\count162
+\csq@ltx@everypar=\toks36
+
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2018/02/11 v5.2c csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/epigraph/epigraph.sty
+Package: epigraph 2009/09/02 v1.5c typesetting epigraphs
+\beforeepigraphskip=\skip62
+\afterepigraphskip=\skip63
+\epigraphwidth=\skip64
+\epigraphrule=\skip65
+)
+(./style/tlfour.sty) (./style/tlfive.sty) (./style/bibAndIndex.sty
 
 LaTeX Warning: You have requested package `style/bibAndIndex',
                but the package provides `mystyle'.
@@ -1119,35 +1146,16 @@ Language: english 2017/06/06 v3.3r English support from the babel system
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2018/02/14 3.18 Babel common definitions
-\babel@savecnt=\count157
+\babel@savecnt=\count163
 \U@D=\dimen165
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
-\bbl@dirlevel=\count158
+\bbl@dirlevel=\count164
 )
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 )))
-(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
-Package: csquotes 2018/02/11 v5.2c context-sensitive quotations (JAW)
-\csq@reset=\count159
-\csq@gtype=\count160
-\csq@glevel=\count161
-\csq@qlevel=\count162
-\csq@maxlvl=\count163
-\csq@tshold=\count164
-\csq@ltx@everypar=\toks36
-
-(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
-File: csquotes.def 2018/02/11 v5.2c csquotes generic definitions (JAW)
-)
-Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
-Package csquotes Info: ... configuration file loaded successfully.
-
-(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
-File: csquotes.cfg 
-))
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2017/12/19 v3.10 programmable bibliographies (PK/JW/AB)
 
@@ -1204,14 +1212,14 @@ Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 \blx@parenlevel@text=\count269
 \blx@parenlevel@foot=\count270
 \blx@sectionciteorder@0=\count271
-\labelnumberwidth=\skip62
-\labelalphawidth=\skip63
-\biblabelsep=\skip64
-\bibitemsep=\skip65
-\bibnamesep=\skip66
-\bibinitsep=\skip67
-\bibparsep=\skip68
-\bibhang=\skip69
+\labelnumberwidth=\skip66
+\labelalphawidth=\skip67
+\biblabelsep=\skip68
+\bibitemsep=\skip69
+\bibnamesep=\skip70
+\bibinitsep=\skip71
+\bibparsep=\skip72
+\bibhang=\skip73
 \blx@bcfin=\read1
 \blx@bcfout=\write5
 \c@mincomprange=\count272
@@ -1307,12 +1315,12 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@savedoriglanguage=\count350
 \c@pageref=\count351
 \c@savedpageref=\count352
-\shorthandwidth=\skip70
-\shortjournalwidth=\skip71
-\shortserieswidth=\skip72
-\shorttitlewidth=\skip73
-\shortauthorwidth=\skip74
-\shorteditorwidth=\skip75
+\shorthandwidth=\skip74
+\shortjournalwidth=\skip75
+\shortserieswidth=\skip76
+\shorttitlewidth=\skip77
+\shortauthorwidth=\skip78
+\shorteditorwidth=\skip79
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
@@ -1421,7 +1429,7 @@ Package biblatex Info: ... file 'english.lbx' found.
 File: english.lbx 2017/12/19 v3.10 biblatex localization (PK/JW/AB)
 )))
 (./main.aux (./tex/frontmatter/author.aux) (./tex/frontmatter/preface.aux)
-(./tex/chapters/about/about.aux) (./tex/chapters/v1-ed2/v1-ed2.aux))
+(./tex/chapters/v1-ed2/v1-ed2.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -1572,397 +1580,379 @@ l.11 	\clearpage
                  [1]) (./main.toc [2
 
 
-])
+] [3])
 \tf@toc=\write12
 \openout12 = `main.toc'.
 
- [3] (./main.lof)
+ [4] (./main.lof)
 \tf@lof=\write13
 \openout13 = `main.lof'.
 
- [4
+ [5
 
 ] (./main.lot)
 \tf@lot=\write14
 \openout14 = `main.lot'.
 
 
-[5
+[6
 
 ]
 \openout2 = `tex/frontmatter/author.aux'.
 
- (./tex/frontmatter/author.tex [6
+ (./tex/frontmatter/author.tex [7
 
 ])
 \openout2 = `tex/frontmatter/preface.aux'.
 
- (./tex/frontmatter/preface.tex [7
+ (./tex/frontmatter/preface.tex [8
 
 
 
 ]
-[8])
-\openout2 = `tex/chapters/about/about.aux'.
-
- (./tex/chapters/about/about.tex
-Chapter 1.
-[9
-
-
-
-
-] [10]) [11]
+[9] [10])
 \openout2 = `tex/chapters/v1-ed2/v1-ed2.aux'.
 
  (./tex/chapters/v1-ed2/v1-ed2.tex
+Chapter 1.
+[11
+
+
+
+
+] [12] [13] [14] [15]
 Chapter 2.
-[12
+[16
 
-
-
-] [13] [14]
-Chapter 3.
-[15
-
-] [16]
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
-
- []
-
-[17] [18]
-Underfull \hbox (badness 10000) in paragraph at lines 158--162
+] [17] [18] [19]
+Underfull \hbox (badness 10000) in paragraph at lines 189--193
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--168
-
- []
-
-[19]
-Underfull \hbox (badness 10000) in paragraph at lines 186--189
+Underfull \hbox (badness 10000) in paragraph at lines 197--199
 
  []
 
 [20]
-Underfull \hbox (badness 10000) in paragraph at lines 209--210
+Overfull \hbox (1.05353pt too wide) in paragraph at lines 211--212
+[]\T1/cmr/m/n/12 How does a be-hav-ioral ser-vice provider es-tab-lish billing 
+prac-tices for the worker?
+ []
+
+[21] [22] [23] [24]
+Underfull \hbox (badness 10000) in paragraph at lines 269--272
 
  []
 
-[21]
-Overfull \hbox (12.0705pt too wide) in paragraph at lines 219--221
-\T1/cmr/m/n/12 As a re-sult, the in-tern was able to sat-isfy a re-quire-ment t
-o-ward the BACB\TS1/cmr/m/n/12 ®\T1/cmr/m/n/12 credential
- []
-
-[22]
-Underfull \hbox (badness 10000) in paragraph at lines 237--239
-
- []
-
-[23] [24]
-Underfull \hbox (badness 10000) in paragraph at lines 327--328
+[25] [26]
+Underfull \hbox (badness 10000) in paragraph at lines 355--356
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 329--352
+Underfull \hbox (badness 10000) in paragraph at lines 361--362
 
  []
 
-[25]
+
+Underfull \hbox (badness 10000) in paragraph at lines 363--386
+
+ []
+
+[27]
+Chapter 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 388--389
+
+ []
+
+[28
+
+] [29] [30] [31] [32]
 Chapter 4.
-
-Underfull \hbox (badness 10000) in paragraph at lines 354--355
-
- []
-
-[26
-
-] [27] [28] [29] [30]
-Chapter 5.
 \blx@maxsegment@1=\count369
 \blx@sectionciteorder@1=\count370
-Package biblatex Info: Reference section=1 on input line 533.
-Package biblatex Info: Setting label 'refsection:1' on input line 533.
-[31
-
-]
-Package biblatex Info: Reference section=0 on input line 541.
-
-Underfull \hbox (badness 10000) in paragraph at lines 544--548
-
- []
-
-[32]
-Chapter 6.
-\blx@maxsegment@2=\count371
-\blx@sectionciteorder@2=\count372
-Package biblatex Info: Reference section=2 on input line 572.
-Package biblatex Info: Setting label 'refsection:2' on input line 572.
+Package biblatex Info: Reference section=1 on input line 567.
+Package biblatex Info: Setting label 'refsection:1' on input line 567.
 [33
 
 ]
-Package biblatex Info: Reference section=0 on input line 580.
+Package biblatex Info: Reference section=0 on input line 575.
 
-Underfull \hbox (badness 10000) in paragraph at lines 583--586
+Underfull \hbox (badness 10000) in paragraph at lines 578--582
 
  []
 
 [34]
-Chapter 7.
+Chapter 5.
+\blx@maxsegment@2=\count371
+\blx@sectionciteorder@2=\count372
+Package biblatex Info: Reference section=2 on input line 606.
+Package biblatex Info: Setting label 'refsection:2' on input line 606.
 [35
 
 ]
-\blx@maxsegment@3=\count373
-\blx@sectionciteorder@3=\count374
-Package biblatex Info: Reference section=3 on input line 613.
-Package biblatex Info: Setting label 'refsection:3' on input line 613.
-Package biblatex Info: Reference section=0 on input line 617.
+Package biblatex Info: Reference section=0 on input line 614.
 
-Underfull \hbox (badness 10000) in paragraph at lines 621--624
+Underfull \hbox (badness 10000) in paragraph at lines 617--620
 
  []
 
 [36]
-Chapter 8.
+Chapter 6.
 [37
+
+]
+\blx@maxsegment@3=\count373
+\blx@sectionciteorder@3=\count374
+Package biblatex Info: Reference section=3 on input line 647.
+Package biblatex Info: Setting label 'refsection:3' on input line 647.
+Package biblatex Info: Reference section=0 on input line 651.
+
+Underfull \hbox (badness 10000) in paragraph at lines 655--658
+
+ []
+
+[38]
+Chapter 7.
+[39
 
 ]
 \blx@maxsegment@4=\count375
 \blx@sectionciteorder@4=\count376
-Package biblatex Info: Reference section=4 on input line 659.
-Package biblatex Info: Setting label 'refsection:4' on input line 659.
-Package biblatex Info: Reference section=0 on input line 663.
+Package biblatex Info: Reference section=4 on input line 693.
+Package biblatex Info: Setting label 'refsection:4' on input line 693.
+Package biblatex Info: Reference section=0 on input line 697.
 
-Overfull \hbox (3.36427pt too wide) in paragraph at lines 666--1136
+Overfull \hbox (3.36427pt too wide) in paragraph at lines 700--1170
 \T1/cmr/m/n/12 A-12 De-sign and im-ple-ment con-tin-u-ous mea-sure-ment pro-ce-
 dures (e.g., event record-
  []
 
 
-Overfull \hbox (3.36427pt too wide) in paragraph at lines 666--1136
+Overfull \hbox (3.36427pt too wide) in paragraph at lines 700--1170
 \T1/cmr/m/n/12 A-12 De-sign and im-ple-ment con-tin-u-ous mea-sure-ment pro-ce-
 dures (e.g., event record-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 666--1136
+Underfull \hbox (badness 10000) in paragraph at lines 700--1170
 
  []
 
-[38] [39] [40] [41]
-Chapter 9.
+[40] [41] [42] [43]
+Chapter 8.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1139--1140
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1141--1142
+Underfull \hbox (badness 10000) in paragraph at lines 1173--1174
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1143--1144
+Underfull \hbox (badness 10000) in paragraph at lines 1175--1176
 
  []
 
-[42
+
+Underfull \hbox (badness 10000) in paragraph at lines 1177--1178
+
+ []
+
+[44
 
 ]
 \blx@maxsegment@5=\count377
 \blx@sectionciteorder@5=\count378
-Package biblatex Info: Reference section=5 on input line 1164.
-Package biblatex Info: Setting label 'refsection:5' on input line 1164.
- [43]
-Package biblatex Info: Reference section=0 on input line 1168.
+Package biblatex Info: Reference section=5 on input line 1198.
+Package biblatex Info: Setting label 'refsection:5' on input line 1198.
+ [45]
+Package biblatex Info: Reference section=0 on input line 1202.
 
-Overfull \hbox (0.62738pt too wide) in paragraph at lines 1171--1949
+Overfull \hbox (0.62738pt too wide) in paragraph at lines 1205--1983
 \T1/cmr/m/n/12 J-07 Se-lect in-ter-ven-tion strate-gies based on en-vi-ron-men-
 tal and re-source con-straints. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1171--1949
+Underfull \hbox (badness 10000) in paragraph at lines 1205--1983
 
  []
 
-[44] [45] [46] [47]
-Underfull \hbox (badness 10000) in paragraph at lines 1952--2021
+[46] [47] [48] [49]
+Underfull \hbox (badness 10000) in paragraph at lines 1986--2055
 
  []
 
 
-Overfull \hbox (0.62738pt too wide) in paragraph at lines 2024--2505
+Overfull \hbox (0.62738pt too wide) in paragraph at lines 2058--2539
 \T1/cmr/m/n/12 J-07 Se-lect in-ter-ven-tion strate-gies based on en-vi-ron-men-
 tal and re-source con-straints. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2505
+Underfull \hbox (badness 10000) in paragraph at lines 2058--2539
 
  []
 
-[48] [49] [50]
-Overfull \hbox (0.62738pt too wide) in paragraph at lines 2510--5068
+[50] [51] [52]
+Overfull \hbox (0.62738pt too wide) in paragraph at lines 2544--5102
 \T1/cmr/m/n/12 J-07 Se-lect in-ter-ven-tion strate-gies based on en-vi-ron-men-
 tal and re-source con-straints. 
  []
 
 
-Overfull \hbox (0.62738pt too wide) in paragraph at lines 2510--5068
+Overfull \hbox (0.62738pt too wide) in paragraph at lines 2544--5102
 \T1/cmr/m/n/12 J-07 Se-lect in-ter-ven-tion strate-gies based on en-vi-ron-men-
 tal and re-source con-straints. 
  []
 
 
-Overfull \hbox (3.36427pt too wide) in paragraph at lines 2510--5068
+Overfull \hbox (3.36427pt too wide) in paragraph at lines 2544--5102
 \T1/cmr/m/n/12 A-12 De-sign and im-ple-ment con-tin-u-ous mea-sure-ment pro-ce-
 dures (e.g., event record-
  []
 
 
-Overfull \hbox (3.36427pt too wide) in paragraph at lines 2510--5068
+Overfull \hbox (3.36427pt too wide) in paragraph at lines 2544--5102
 \T1/cmr/m/n/12 A-12 De-sign and im-ple-ment con-tin-u-ous mea-sure-ment pro-ce-
 dures (e.g., event record-
  []
 
 
-Overfull \hbox (0.62738pt too wide) in paragraph at lines 2510--5068
+Overfull \hbox (0.62738pt too wide) in paragraph at lines 2544--5102
 \T1/cmr/m/n/12 J-07 Se-lect in-ter-ven-tion strate-gies based on en-vi-ron-men-
 tal and re-source con-straints. 
  []
 
 
-Overfull \hbox (0.62738pt too wide) in paragraph at lines 2510--5068
+Overfull \hbox (0.62738pt too wide) in paragraph at lines 2544--5102
 \T1/cmr/m/n/12 J-07 Se-lect in-ter-ven-tion strate-gies based on en-vi-ron-men-
 tal and re-source con-straints. 
  []
 
 
-Overfull \hbox (0.62738pt too wide) in paragraph at lines 2510--5068
+Overfull \hbox (0.62738pt too wide) in paragraph at lines 2544--5102
 \T1/cmr/m/n/12 J-07 Se-lect in-ter-ven-tion strate-gies based on en-vi-ron-men-
 tal and re-source con-straints. 
  []
 
 
-Overfull \hbox (0.62738pt too wide) in paragraph at lines 2510--5068
+Overfull \hbox (0.62738pt too wide) in paragraph at lines 2544--5102
 \T1/cmr/m/n/12 J-07 Se-lect in-ter-ven-tion strate-gies based on en-vi-ron-men-
 tal and re-source con-straints. 
  []
 
 
-Overfull \hbox (0.62738pt too wide) in paragraph at lines 2510--5068
+Overfull \hbox (0.62738pt too wide) in paragraph at lines 2544--5102
 \T1/cmr/m/n/12 J-07 Se-lect in-ter-ven-tion strate-gies based on en-vi-ron-men-
 tal and re-source con-straints. 
  []
 
 
-Overfull \hbox (0.62738pt too wide) in paragraph at lines 2510--5068
+Overfull \hbox (0.62738pt too wide) in paragraph at lines 2544--5102
 \T1/cmr/m/n/12 J-07 Se-lect in-ter-ven-tion strate-gies based on en-vi-ron-men-
 tal and re-source con-straints. 
  []
 
 
-Overfull \hbox (0.62738pt too wide) in paragraph at lines 2510--5068
+Overfull \hbox (0.62738pt too wide) in paragraph at lines 2544--5102
 \T1/cmr/m/n/12 J-07 Se-lect in-ter-ven-tion strate-gies based on en-vi-ron-men-
 tal and re-source con-straints. 
  []
 
 
-Overfull \hbox (3.36427pt too wide) in paragraph at lines 2510--5068
+Overfull \hbox (3.36427pt too wide) in paragraph at lines 2544--5102
 \T1/cmr/m/n/12 A-12 De-sign and im-ple-ment con-tin-u-ous mea-sure-ment pro-ce-
 dures (e.g., event record-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2510--5068
+Underfull \hbox (badness 10000) in paragraph at lines 2544--5102
 
  []
 
-[51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65]
-[66] [67]
-Underfull \hbox (badness 10000) in paragraph at lines 5069--5601
+[53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67]
+[68] [69]
+Underfull \hbox (badness 10000) in paragraph at lines 5103--5635
 
  []
 
-[68] [69] [70]
-Underfull \hbox (badness 10000) in paragraph at lines 5607--6070
+[70] [71] [72]
+Underfull \hbox (badness 10000) in paragraph at lines 5641--6104
 
  []
 
-[71] [72] [73])
-Overfull \hbox (0.62738pt too wide) in paragraph at lines 6102--20
+[73] [74] [75])
+Overfull \hbox (0.62738pt too wide) in paragraph at lines 6136--19
 \T1/cmr/m/n/12 J-07 Se-lect in-ter-ven-tion strate-gies based on en-vi-ron-men-
 tal and re-source con-straints. 
  []
 
 
-Overfull \hbox (3.36427pt too wide) in paragraph at lines 6102--20
+Overfull \hbox (3.36427pt too wide) in paragraph at lines 6136--19
 \T1/cmr/m/n/12 A-12 De-sign and im-ple-ment con-tin-u-ous mea-sure-ment pro-ce-
 dures (e.g., event record-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6102--20
+Underfull \hbox (badness 10000) in paragraph at lines 6136--19
 
  []
 
-[74] [75] [76] [77] [78] (./tex/glossary/glossary.tex (./main.gls [79
+[76] [77] [78] [79] [80] (./tex/glossary/glossary.tex (./main.gls [81
 
 ]))
-[80
+[82
 
 
-] (./main.ind) (./main.nnd [81
+] (./main.ind) (./main.nnd [83
 
-] [82
+] [84
 
 
-]) (./main.tnd [83
+]) (./main.tnd [85
 
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 34.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 34.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 33.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 33.
  (./main.aux
 (./tex/frontmatter/author.aux) (./tex/frontmatter/preface.aux)
-(./tex/chapters/about/about.aux) (./tex/chapters/v1-ed2/v1-ed2.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 34.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 34.
+(./tex/chapters/v1-ed2/v1-ed2.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 33.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 33.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E4DAE91E08FF7EBBE927ED5BFD94DB70;3115.
+(rerunfilecheck)             Checksum: C5103064166B7CF9C96C1A8CBA891E9D;4759.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 34.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 33.
  ) 
 Here is how much of TeX's memory you used:
- 22694 strings out of 492982
- 364690 string characters out of 6134896
- 1096450 words of memory out of 5000000
- 25552 multiletter control sequences out of 15000+600000
- 19986 words of font info for 45 fonts, out of 8000000 for 9000
+ 22787 strings out of 492982
+ 365970 string characters out of 6134896
+ 1094938 words of memory out of 5000000
+ 25619 multiletter control sequences out of 15000+600000
+ 23265 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,6n,98p,2019b,2058s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf/
-fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texmf/fonts/type1/public/
+ 73i,6n,98p,2019b,3584s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/texmf
+/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/
 cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pf
 b></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/
 fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/c
 m-super/sfcc1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc2074.pfb
 ></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/f
-onts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm
--super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2488.pfb>
-</usr/share/texmf/fonts/type1/public/cm-super/sfsl1200.pfb></usr/share/texmf/fo
-nts/type1/public/cm-super/sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-
-super/sfti1728.pfb>
-Output written on main.pdf (84 pages, 352304 bytes).
+onts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm
+-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb>
+</usr/share/texmf/fonts/type1/public/cm-super/sfrm2488.pfb></usr/share/texmf/fo
+nts/type1/public/cm-super/sfsl1200.pfb></usr/share/texmf/fonts/type1/public/cm-
+super/sfti1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb><
+/usr/share/texmf/fonts/type1/public/cm-super/sfti1728.pfb>
+Output written on main.pdf (86 pages, 408094 bytes).
 PDF statistics:
- 829 PDF objects out of 1000 (max. 8388607)
- 722 compressed objects within 8 object streams
- 239 named destinations out of 1000 (max. 500000)
- 393 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 962 PDF objects out of 1000 (max. 8388607)
+ 850 compressed objects within 9 object streams
+ 265 named destinations out of 1000 (max. 500000)
+ 553 words of extra memory for PDF output out of 10000 (max. 10000000)
 
