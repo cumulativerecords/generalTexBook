@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.7.12)  28 JUL 2019 01:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.7.12)  28 JUL 2019 01:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1421,8 +1421,7 @@ Package biblatex Info: ... file 'english.lbx' found.
 File: english.lbx 2017/12/19 v3.10 biblatex localization (PK/JW/AB)
 )))
 (./main.aux (./tex/frontmatter/author.aux) (./tex/frontmatter/preface.aux)
-(./tex/chapters/admin/admin.aux) (./tex/chapters/about/about.aux)
-(./tex/chapters/taskListVanilla.aux) (./tex/chapters/v1-ed2/v1-ed2.aux))
+(./tex/chapters/about/about.aux) (./tex/chapters/v1-ed2/v1-ed2.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -1481,294 +1480,28 @@ LaTeX Font Info:    ... okay on input line 9.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(./main.sta (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks41
-\pgfutil@tempdima=\dimen166
-\pgfutil@tempdimb=\dimen167
+(./main.sta
+\glswrite=\write9
+\glo@main@file=\write10
+\openout10 = `main.glo'.
 
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
-ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box64
-(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
-Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-
-ABD: EveryShipout initializing macros))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
-))
-Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
-
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks42
-\pgfkeys@temptoks=\toks43
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
-ex
-\pgfkeys@tmptoks=\toks44
-))
-\pgf@x=\dimen168
-\pgf@y=\dimen169
-\pgf@xa=\dimen170
-\pgf@ya=\dimen171
-\pgf@xb=\dimen172
-\pgf@yb=\dimen173
-\pgf@xc=\dimen174
-\pgf@yc=\dimen175
-\w@pgf@writea=\write9
-\r@pgf@reada=\read2
-\c@pgf@counta=\count362
-\c@pgf@countb=\count363
-\c@pgf@countc=\count364
-\c@pgf@countd=\count365
-\t@pgf@toka=\toks45
-\t@pgf@tokb=\toks46
-\t@pgf@tokc=\toks47
- (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
-)
-Driver file for pgf: pgfsys-pdftex.def
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
-File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
-f
-File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
-)))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
-tex
-File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count366
-\pgfsyssoftpath@bigbuffer@items=\count367
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
-tex
-File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen176
-\pgfmath@count=\count368
-\pgfmath@box=\box65
-\pgfmath@toks=\toks48
-\pgfmath@stack@operand=\toks49
-\pgfmath@stack@operation=\toks50
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
-.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
-ric.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
-e.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
-.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
-tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
-.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
-tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
-thmetics.code.tex)))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count369
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
-x
-File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen177
-\pgf@picmaxx=\dimen178
-\pgf@picminy=\dimen179
-\pgf@picmaxy=\dimen180
-\pgf@pathminx=\dimen181
-\pgf@pathmaxx=\dimen182
-\pgf@pathminy=\dimen183
-\pgf@pathmaxy=\dimen184
-\pgf@xx=\dimen185
-\pgf@xy=\dimen186
-\pgf@yx=\dimen187
-\pgf@yy=\dimen188
-\pgf@zx=\dimen189
-\pgf@zy=\dimen190
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
-code.tex
-File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen191
-\pgf@path@lasty=\dimen192
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
-.tex
-File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
-\pgf@shorten@end@additional=\dimen193
-\pgf@shorten@start@additional=\dimen194
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
-x
-File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
-\pgfpic=\box66
-\pgf@hbox=\box67
-\pgf@layerbox@main=\box68
-\pgf@picture@serial@count=\count370
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
-ode.tex
-File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
-\pgflinewidth=\dimen195
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
-s.code.tex
-File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
-\pgf@pt@x=\dimen196
-\pgf@pt@y=\dimen197
-\pgf@pt@temp=\dimen198
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
-File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
-ex
-File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
-.code.tex
-File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
-x
-File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen199
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen256
-\pgf@sys@shading@range@num=\count371
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
-tex
-File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
-\pgfexternal@startupbox=\box69
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
-x
-File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
-ode.tex
-File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
-tex
-File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
-)))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
-\pgfnodeparttextbox=\box70
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
-.sty
-Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen257
-\pgf@nodesepend=\dimen258
-)
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
-.sty
-Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
-)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen259
-\pgffor@skip=\dimen260
-\pgffor@stack=\toks51
-\pgffor@toks=\toks52
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
-.code.tex
-File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count372
-\pgfplotmarksize=\dimen261
-)
-\tikz@lastx=\dimen262
-\tikz@lasty=\dimen263
-\tikz@lastxsaved=\dimen264
-\tikz@lastysaved=\dimen265
-\tikzleveldistance=\dimen266
-\tikzsiblingdistance=\dimen267
-\tikz@figbox=\box71
-\tikz@figbox@bg=\box72
-\tikz@tempbox=\box73
-\tikz@tempbox@bg=\box74
-\tikztreelevel=\count373
-\tikznumberofchildren=\count374
-\tikznumberofcurrentchild=\count375
-\tikz@fig@count=\count376
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
-File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count377
-\pgfmatrixcurrentcolumn=\count378
-\pgf@matrix@numberofcolumns=\count379
-)
-\tikz@expandcount=\count380
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
-)))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibrarypositioning.code.tex
-File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
-)
-\glswrite=\write10
-\glo@main@file=\write11
-\openout11 = `main.glo'.
-
-Package glossaries Info: Writing glossary file main.glo on input line 6.
+Package glossaries Info: Writing glossary file main.glo on input line 3.
 )
 \openout3 = `main.sta'.
 
-
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count381
-\scratchdimen=\dimen268
-\scratchbox=\box75
-\nofMPsegments=\count382
-\nofMParguments=\count383
-\everyMPshowfont=\toks53
-\MPscratchCnt=\count384
-\MPscratchDim=\dimen269
-\MPnumerator=\count385
-\makeMPintoPDFobject=\count386
-\everyMPtoPDFconversion=\toks54
+\scratchcounter=\count362
+\scratchdimen=\dimen166
+\scratchbox=\box64
+\nofMPsegments=\count363
+\nofMParguments=\count364
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count365
+\MPscratchDim=\dimen167
+\MPnumerator=\count366
+\makeMPintoPDFobject=\count367
+\everyMPtoPDFconversion=\toks42
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1789,8 +1522,7 @@ e
 Package marginnote Info: \pdfoutput not 0 or unimportant and
 (marginnote)             \pdflastxpos or \lastxpos available.
 (marginnote)             Extended position detection mode activated.
-\AtBeginShipoutBox=\box76
-Package atbegshi Info: Package `everyshi' patched.
+\AtBeginShipoutBox=\box65
 Package hyperref Info: Link coloring OFF on input line 9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -1799,15 +1531,15 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count387
+\c@section@level=\count368
 )
 LaTeX Info: Redefining \ref on input line 9.
 LaTeX Info: Redefining \pageref on input line 9.
 LaTeX Info: Redefining \nameref on input line 9.
 
 (./main.out) (./main.out)
-\@outlinefile=\write12
-\openout12 = `main.out'.
+\@outlinefile=\write11
+\openout11 = `main.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
@@ -1823,7 +1555,7 @@ Package biblatex Info: Reference section=0 on input line 9.
 Package biblatex Info: Reference segment=0 on input line 9.
  (./tex/frontmatter/title.tex [1
 
-\openout10 = `main.ist'.
+\openout9 = `main.ist'.
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./tex/frontmatter/copyri
@@ -1841,18 +1573,18 @@ l.11 	\clearpage
 
 
 ])
-\tf@toc=\write13
-\openout13 = `main.toc'.
+\tf@toc=\write12
+\openout12 = `main.toc'.
 
  [3] (./main.lof)
-\tf@lof=\write14
-\openout14 = `main.lof'.
+\tf@lof=\write13
+\openout13 = `main.lof'.
 
  [4
 
 ] (./main.lot)
-\tf@lot=\write15
-\openout15 = `main.lot'.
+\tf@lot=\write14
+\openout14 = `main.lot'.
 
 
 [5
@@ -1871,68 +1603,34 @@ l.11 	\clearpage
 
 ]
 [8])
-\openout2 = `tex/chapters/admin/admin.aux'.
-
- (./tex/chapters/admin/admin.tex
-Chapter 1.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 2.
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-<./images/space.jpg, id=346, 689.57625pt x 546.04pt>
-File: ./images/space.jpg Graphic file (type jpg)
-<use ./images/space.jpg>
-Package pdftex.def Info: ./images/space.jpg  used on input line 10.
-(pdftex.def)             Requested size: 104.56342pt x 82.79398pt.
- [9
-
-
-
-
- <./images/space.jpg>] (./diagram/diagram.tex)) [10]
 \openout2 = `tex/chapters/about/about.aux'.
 
  (./tex/chapters/about/about.tex
-Chapter 2.
-[11
+Chapter 1.
+[9
 
 
 
-] [12]) [13]
-\openout2 = `tex/chapters/taskListVanilla.aux'.
 
- (./tex/chapters/taskListVanilla.tex
-Chapter 3.
-[14
-
-
-
-] [15]
-\blx@maxsegment@1=\count388
-\blx@sectionciteorder@1=\count389
-Package biblatex Info: Reference section=1 on input line 18.
-Package biblatex Info: Setting label 'refsection:1' on input line 18.
- [16]
-Package biblatex Info: Reference section=0 on input line 23.
-) [17]
+] [10]) [11]
 \openout2 = `tex/chapters/v1-ed2/v1-ed2.aux'.
 
  (./tex/chapters/v1-ed2/v1-ed2.tex
-Chapter 4.
-[18
+Chapter 2.
+[12
 
 
 
-] [19] [20]
-Chapter 5.
-[21
+] [13] [14]
+Chapter 3.
+[15
 
-] [22]
+] [16]
 Underfull \hbox (badness 10000) in paragraph at lines 121--122
 
  []
 
-[23] [24]
+[17] [18]
 Underfull \hbox (badness 10000) in paragraph at lines 158--162
 
  []
@@ -1942,28 +1640,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 166--168
 
  []
 
-[25]
+[19]
 Underfull \hbox (badness 10000) in paragraph at lines 186--189
 
  []
 
-[26]
+[20]
 Underfull \hbox (badness 10000) in paragraph at lines 209--210
 
  []
 
-[27]
+[21]
 Overfull \hbox (12.0705pt too wide) in paragraph at lines 219--221
 \T1/cmr/m/n/12 As a re-sult, the in-tern was able to sat-isfy a re-quire-ment t
 o-ward the BACB\TS1/cmr/m/n/12 ®\T1/cmr/m/n/12 credential
  []
 
-[28]
+[22]
 Underfull \hbox (badness 10000) in paragraph at lines 237--239
 
  []
 
-[29] [30]
+[23] [24]
 Underfull \hbox (badness 10000) in paragraph at lines 327--328
 
  []
@@ -1973,22 +1671,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 329--352
 
  []
 
-[31]
-Chapter 6.
+[25]
+Chapter 4.
 
 Underfull \hbox (badness 10000) in paragraph at lines 354--355
 
  []
 
-[32
+[26
 
-] [33] [34] [35] [36]
-Chapter 7.
-\blx@maxsegment@2=\count390
-\blx@sectionciteorder@2=\count391
-Package biblatex Info: Reference section=2 on input line 533.
-Package biblatex Info: Setting label 'refsection:2' on input line 533.
-[37
+] [27] [28] [29] [30]
+Chapter 5.
+\blx@maxsegment@1=\count369
+\blx@sectionciteorder@1=\count370
+Package biblatex Info: Reference section=1 on input line 533.
+Package biblatex Info: Setting label 'refsection:1' on input line 533.
+[31
 
 ]
 Package biblatex Info: Reference section=0 on input line 541.
@@ -1997,13 +1695,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 544--548
 
  []
 
-[38]
-Chapter 8.
-\blx@maxsegment@3=\count392
-\blx@sectionciteorder@3=\count393
-Package biblatex Info: Reference section=3 on input line 572.
-Package biblatex Info: Setting label 'refsection:3' on input line 572.
-[39
+[32]
+Chapter 6.
+\blx@maxsegment@2=\count371
+\blx@sectionciteorder@2=\count372
+Package biblatex Info: Reference section=2 on input line 572.
+Package biblatex Info: Setting label 'refsection:2' on input line 572.
+[33
 
 ]
 Package biblatex Info: Reference section=0 on input line 580.
@@ -2012,30 +1710,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 583--586
 
  []
 
-[40]
-Chapter 9.
-[41
+[34]
+Chapter 7.
+[35
 
 ]
-\blx@maxsegment@4=\count394
-\blx@sectionciteorder@4=\count395
-Package biblatex Info: Reference section=4 on input line 613.
-Package biblatex Info: Setting label 'refsection:4' on input line 613.
+\blx@maxsegment@3=\count373
+\blx@sectionciteorder@3=\count374
+Package biblatex Info: Reference section=3 on input line 613.
+Package biblatex Info: Setting label 'refsection:3' on input line 613.
 Package biblatex Info: Reference section=0 on input line 617.
 
 Underfull \hbox (badness 10000) in paragraph at lines 621--624
 
  []
 
-[42]
-Chapter 10.
-[43
+[36]
+Chapter 8.
+[37
 
 ]
-\blx@maxsegment@5=\count396
-\blx@sectionciteorder@5=\count397
-Package biblatex Info: Reference section=5 on input line 659.
-Package biblatex Info: Setting label 'refsection:5' on input line 659.
+\blx@maxsegment@4=\count375
+\blx@sectionciteorder@4=\count376
+Package biblatex Info: Reference section=4 on input line 659.
+Package biblatex Info: Setting label 'refsection:4' on input line 659.
 Package biblatex Info: Reference section=0 on input line 663.
 
 Overfull \hbox (3.36427pt too wide) in paragraph at lines 666--1136
@@ -2054,8 +1752,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 666--1136
 
  []
 
-[44] [45] [46] [47]
-Chapter 11.
+[38] [39] [40] [41]
+Chapter 9.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1139--1140
 
@@ -2071,14 +1769,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 1143--1144
 
  []
 
-[48
+[42
 
 ]
-\blx@maxsegment@6=\count398
-\blx@sectionciteorder@6=\count399
-Package biblatex Info: Reference section=6 on input line 1164.
-Package biblatex Info: Setting label 'refsection:6' on input line 1164.
- [49]
+\blx@maxsegment@5=\count377
+\blx@sectionciteorder@5=\count378
+Package biblatex Info: Reference section=5 on input line 1164.
+Package biblatex Info: Setting label 'refsection:5' on input line 1164.
+ [43]
 Package biblatex Info: Reference section=0 on input line 1168.
 
 Overfull \hbox (0.62738pt too wide) in paragraph at lines 1171--1949
@@ -2091,7 +1789,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1171--1949
 
  []
 
-[50] [51] [52] [53]
+[44] [45] [46] [47]
 Underfull \hbox (badness 10000) in paragraph at lines 1952--2021
 
  []
@@ -2107,7 +1805,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2024--2505
 
  []
 
-[54] [55] [56]
+[48] [49] [50]
 Overfull \hbox (0.62738pt too wide) in paragraph at lines 2510--5068
 \T1/cmr/m/n/12 J-07 Se-lect in-ter-ven-tion strate-gies based on en-vi-ron-men-
 tal and re-source con-straints. 
@@ -2184,18 +1882,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 2510--5068
 
  []
 
-[57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71]
-[72] [73]
+[51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65]
+[66] [67]
 Underfull \hbox (badness 10000) in paragraph at lines 5069--5601
 
  []
 
-[74] [75] [76]
+[68] [69] [70]
 Underfull \hbox (badness 10000) in paragraph at lines 5607--6070
 
  []
 
-[77] [78] [79])
+[71] [72] [73])
 Overfull \hbox (0.62738pt too wide) in paragraph at lines 6102--20
 \T1/cmr/m/n/12 J-07 Se-lect in-ter-ven-tion strate-gies based on en-vi-ron-men-
 tal and re-source con-straints. 
@@ -2212,21 +1910,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 6102--20
 
  []
 
-[80] [81] [82] [83] [84] (./tex/glossary/glossary.tex (./main.gls [85
+[74] [75] [76] [77] [78] (./tex/glossary/glossary.tex (./main.gls [79
 
 ]))
-[86
+[80
 
 
-] (./main.ind [87
+] (./main.ind) (./main.nnd [81
 
-] [88
-
-
-]) (./main.nnd [89
+] [82
 
 
-]) (./main.tnd [90
+]) (./main.tnd [83
 
 
 ])
@@ -2234,25 +1929,24 @@ Package atveryend Info: Empty hook `BeforeClearDocument' on input line 34.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 34.
  (./main.aux
 (./tex/frontmatter/author.aux) (./tex/frontmatter/preface.aux)
-(./tex/chapters/admin/admin.aux) (./tex/chapters/about/about.aux)
-(./tex/chapters/taskListVanilla.aux) (./tex/chapters/v1-ed2/v1-ed2.aux))
+(./tex/chapters/about/about.aux) (./tex/chapters/v1-ed2/v1-ed2.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 34.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 34.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 422102949DDF66C1DC4BEB9BE7B832FD;3530.
+(rerunfilecheck)             Checksum: E4DAE91E08FF7EBBE927ED5BFD94DB70;3115.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 34.
  ) 
 Here is how much of TeX's memory you used:
- 32285 strings out of 492982
- 574839 string characters out of 6134896
- 1278282 words of memory out of 5000000
- 34890 multiletter control sequences out of 15000+600000
- 20299 words of font info for 46 fonts, out of 8000000 for 9000
+ 22694 strings out of 492982
+ 364690 string characters out of 6134896
+ 1096450 words of memory out of 5000000
+ 25552 multiletter control sequences out of 15000+600000
+ 19986 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,9n,98p,2019b,2058s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,6n,98p,2019b,2058s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf/
 fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texmf/fonts/type1/public/
 cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pf
@@ -2261,15 +1955,14 @@ fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/c
 m-super/sfcc1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc2074.pfb
 ></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/f
 onts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm
--super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb>
-</usr/share/texmf/fonts/type1/public/cm-super/sfrm2488.pfb></usr/share/texmf/fo
-nts/type1/public/cm-super/sfsl1200.pfb></usr/share/texmf/fonts/type1/public/cm-
-super/sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1728.pfb><
-/usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on main.pdf (91 pages, 439696 bytes).
+-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2488.pfb>
+</usr/share/texmf/fonts/type1/public/cm-super/sfsl1200.pfb></usr/share/texmf/fo
+nts/type1/public/cm-super/sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-
+super/sfti1728.pfb>
+Output written on main.pdf (84 pages, 352304 bytes).
 PDF statistics:
- 924 PDF objects out of 1000 (max. 8388607)
- 806 compressed objects within 9 object streams
- 260 named destinations out of 1000 (max. 500000)
- 466 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 829 PDF objects out of 1000 (max. 8388607)
+ 722 compressed objects within 8 object streams
+ 239 named destinations out of 1000 (max. 500000)
+ 393 words of extra memory for PDF output out of 10000 (max. 10000000)
 
