@@ -3,966 +3,194 @@
 \BOOKMARK [1][-]{section.1.2}{History of the TrainABA Supervision Curriculum Series}{chapter.1}% 3
 \BOOKMARK [1][-]{section.1.3}{Publisher}{chapter.1}% 4
 \BOOKMARK [1][-]{section.1.4}{Collaboration Tools}{chapter.1}% 5
-\BOOKMARK [2][-]{subsection.1.4.1}{Creating New Materials from This Book}{section.1.4}% 6
-\BOOKMARK [1][-]{section.1.5}{Versions}{chapter.1}% 7
-\BOOKMARK [0][-]{chapter.2}{Supervision Taxonomy}{}% 8
-\BOOKMARK [1][-]{section.2.1}{What is ABA Supervision?}{chapter.2}% 9
-\BOOKMARK [2][-]{subsection.2.1.1}{Supervision in Management}{section.2.1}% 10
-\BOOKMARK [2][-]{subsection.2.1.2}{Supervision of Humans and Systems}{section.2.1}% 11
-\BOOKMARK [2][-]{subsection.2.1.3}{Supervision in ABA Settings}{section.2.1}% 12
-\BOOKMARK [2][-]{subsection.2.1.4}{Direct vs. Indirect ABA Supervision}{section.2.1}% 13
-\BOOKMARK [2][-]{subsection.2.1.5}{Management Problems in ABA Organizations}{section.2.1}% 14
-\BOOKMARK [2][-]{subsection.2.1.6}{What Is Being Done}{section.2.1}% 15
-\BOOKMARK [1][-]{section.2.2}{A Taxonomy of ABA Supervision}{chapter.2}% 16
-\BOOKMARK [1][-]{section.2.3}{BACB\256 Influence in the Development of Formal Behavior Analysis Supervision}{chapter.2}% 17
-\BOOKMARK [1][-]{section.2.4}{Case Study: Associated Aardvarks for Autism \(AAA\)}{chapter.2}% 18
-\BOOKMARK [2][-]{subsection.2.4.1}{AAA's Accountant}{section.2.4}% 19
-\BOOKMARK [2][-]{subsection.2.4.2}{Funding Sources}{section.2.4}% 20
-\BOOKMARK [2][-]{subsection.2.4.3}{Estimating Supervision Costs}{section.2.4}% 21
-\BOOKMARK [2][-]{subsection.2.4.4}{Consulting the Clinical Director}{section.2.4}% 22
-\BOOKMARK [2][-]{subsection.2.4.5}{Putting It Together}{section.2.4}% 23
-\BOOKMARK [2][-]{subsection.2.4.6}{A Risk for the Company}{section.2.4}% 24
-\BOOKMARK [2][-]{subsection.2.4.7}{Final Decision}{section.2.4}% 25
-\BOOKMARK [1][-]{section.2.5}{Resources for Supervised Experience}{chapter.2}% 26
-\BOOKMARK [2][-]{subsection.2.5.1}{Beyond the Taxonomy}{section.2.5}% 27
-\BOOKMARK [2][-]{subsection.2.5.2}{Registration Process}{section.2.5}% 28
-\BOOKMARK [0][-]{chapter.3}{Refresher: Supervisor Workshop}{}% 29
-\BOOKMARK [1][-]{section.3.1}{Purpose of Supervision}{chapter.3}% 30
-\BOOKMARK [1][-]{section.3.2}{Features of Supervision}{chapter.3}% 31
-\BOOKMARK [1][-]{section.3.3}{Features of Supervision}{chapter.3}% 32
-\BOOKMARK [1][-]{section.3.4}{Using Behavioral Skills Training}{chapter.3}% 33
-\BOOKMARK [2][-]{subsection.3.4.1}{Behavioral Skills Training}{section.3.4}% 34
-\BOOKMARK [1][-]{section.3.5}{Delivering Performance Feedback}{chapter.3}% 35
-\BOOKMARK [1][-]{section.3.6}{Evaluating the Effects of Supervision}{chapter.3}% 36
-\BOOKMARK [2][-]{subsection.3.6.1}{Ongoing Professional Development}{section.3.6}% 37
-\BOOKMARK [0][-]{chapter.4}{A. Measurement}{}% 38
-\BOOKMARK [1][-]{section.4.1}{A-01 Measure frequency \(i.e., count\).}{chapter.4}% 39
-\BOOKMARK [2][-]{subsection.4.1.1}{Definition}{section.4.1}% 40
-\BOOKMARK [2][-]{subsection.4.1.2}{Examples}{section.4.1}% 41
-\BOOKMARK [2][-]{subsection.4.1.3}{Assessment}{section.4.1}% 42
-\BOOKMARK [2][-]{subsection.4.1.4}{Relevant Literature}{section.4.1}% 43
-\BOOKMARK [2][-]{subsection.4.1.5}{Related Tasks}{section.4.1}% 44
-\BOOKMARK [2][-]{subsection.4.1.6}{Footnotes}{section.4.1}% 45
-\BOOKMARK [1][-]{section.4.2}{A-02 Measure rate \(i.e., count per unit time\).}{chapter.4}% 46
-\BOOKMARK [2][-]{subsection.4.2.1}{Definition}{section.4.2}% 47
-\BOOKMARK [2][-]{subsection.4.2.2}{Examples}{section.4.2}% 48
-\BOOKMARK [2][-]{subsection.4.2.3}{Assessment}{section.4.2}% 49
-\BOOKMARK [2][-]{subsection.4.2.4}{Relevant Literature}{section.4.2}% 50
-\BOOKMARK [2][-]{subsection.4.2.5}{Related Tasks}{section.4.2}% 51
-\BOOKMARK [2][-]{subsection.4.2.6}{Footnotes}{section.4.2}% 52
-\BOOKMARK [1][-]{section.4.3}{A-03 Measure duration.}{chapter.4}% 53
-\BOOKMARK [2][-]{subsection.4.3.1}{Definition}{section.4.3}% 54
-\BOOKMARK [2][-]{subsection.4.3.2}{Examples}{section.4.3}% 55
-\BOOKMARK [2][-]{subsection.4.3.3}{Assessment}{section.4.3}% 56
-\BOOKMARK [2][-]{subsection.4.3.4}{Relevant Literature}{section.4.3}% 57
-\BOOKMARK [2][-]{subsection.4.3.5}{Related Tasks}{section.4.3}% 58
-\BOOKMARK [1][-]{section.4.4}{A-04 Measure latency.}{chapter.4}% 59
-\BOOKMARK [2][-]{subsection.4.4.1}{Definition}{section.4.4}% 60
-\BOOKMARK [2][-]{subsection.4.4.2}{Examples}{section.4.4}% 61
-\BOOKMARK [2][-]{subsection.4.4.3}{Assessment}{section.4.4}% 62
-\BOOKMARK [2][-]{subsection.4.4.4}{Relevant Literature}{section.4.4}% 63
-\BOOKMARK [2][-]{subsection.4.4.5}{Related Tasks}{section.4.4}% 64
-\BOOKMARK [1][-]{section.4.5}{A-05 Measure interresponse time \(IRT\).}{chapter.4}% 65
-\BOOKMARK [2][-]{subsection.4.5.1}{Definition}{section.4.5}% 66
-\BOOKMARK [2][-]{subsection.4.5.2}{Examples}{section.4.5}% 67
-\BOOKMARK [2][-]{subsection.4.5.3}{Assessment}{section.4.5}% 68
-\BOOKMARK [2][-]{subsection.4.5.4}{Relevant Literature}{section.4.5}% 69
-\BOOKMARK [2][-]{subsection.4.5.5}{Related Tasks}{section.4.5}% 70
-\BOOKMARK [1][-]{section.4.6}{A-06 Measure percent of occurrence.}{chapter.4}% 71
-\BOOKMARK [2][-]{subsection.4.6.1}{Definition}{section.4.6}% 72
-\BOOKMARK [2][-]{subsection.4.6.2}{Examples}{section.4.6}% 73
-\BOOKMARK [2][-]{subsection.4.6.3}{Assessment}{section.4.6}% 74
-\BOOKMARK [2][-]{subsection.4.6.4}{Relevant Literature}{section.4.6}% 75
-\BOOKMARK [2][-]{subsection.4.6.5}{Related Tasks}{section.4.6}% 76
-\BOOKMARK [1][-]{section.4.7}{A-07 Measure trials to criterion.}{chapter.4}% 77
-\BOOKMARK [2][-]{subsection.4.7.1}{Definition}{section.4.7}% 78
-\BOOKMARK [2][-]{subsection.4.7.2}{Examples}{section.4.7}% 79
-\BOOKMARK [2][-]{subsection.4.7.3}{Assessment}{section.4.7}% 80
-\BOOKMARK [2][-]{subsection.4.7.4}{Relevant Literature}{section.4.7}% 81
-\BOOKMARK [2][-]{subsection.4.7.5}{Related Tasks}{section.4.7}% 82
-\BOOKMARK [1][-]{section.4.8}{A-08 Assess and interpret interobserver agreement.}{chapter.4}% 83
-\BOOKMARK [2][-]{subsection.4.8.1}{Definition}{section.4.8}% 84
-\BOOKMARK [2][-]{subsection.4.8.2}{Examples}{section.4.8}% 85
-\BOOKMARK [2][-]{subsection.4.8.3}{Assessment}{section.4.8}% 86
-\BOOKMARK [2][-]{subsection.4.8.4}{Relevant Literature}{section.4.8}% 87
-\BOOKMARK [2][-]{subsection.4.8.5}{Related Tasks}{section.4.8}% 88
-\BOOKMARK [1][-]{section.4.9}{A-09 Evaluate the accuracy and reliability of measurement procedures.}{chapter.4}% 89
-\BOOKMARK [2][-]{subsection.4.9.1}{Examples}{section.4.9}% 90
-\BOOKMARK [2][-]{subsection.4.9.2}{Assessment}{section.4.9}% 91
-\BOOKMARK [2][-]{subsection.4.9.3}{Relevant Literature}{section.4.9}% 92
-\BOOKMARK [2][-]{subsection.4.9.4}{Related Tasks}{section.4.9}% 93
-\BOOKMARK [1][-]{section.4.10}{A-10 Design, plot, and interpret data using equal-interval graphs.}{chapter.4}% 94
-\BOOKMARK [2][-]{subsection.4.10.1}{Definition}{section.4.10}% 95
-\BOOKMARK [2][-]{subsection.4.10.2}{Examples}{section.4.10}% 96
-\BOOKMARK [2][-]{subsection.4.10.3}{Assessment}{section.4.10}% 97
-\BOOKMARK [2][-]{subsection.4.10.4}{Relevant Literature}{section.4.10}% 98
-\BOOKMARK [2][-]{subsection.4.10.5}{Related Tasks}{section.4.10}% 99
-\BOOKMARK [1][-]{section.4.11}{A-11 Design, plot, and interpret data using a cumulative record to display data.}{chapter.4}% 100
-\BOOKMARK [2][-]{subsection.4.11.1}{Definition}{section.4.11}% 101
-\BOOKMARK [2][-]{subsection.4.11.2}{Examples}{section.4.11}% 102
-\BOOKMARK [2][-]{subsection.4.11.3}{Assessment}{section.4.11}% 103
-\BOOKMARK [2][-]{subsection.4.11.4}{Relevant Literature}{section.4.11}% 104
-\BOOKMARK [2][-]{subsection.4.11.5}{Related Tasks}{section.4.11}% 105
-\BOOKMARK [1][-]{section.4.12}{A-12 Design and implement continuous measurement procedures \(e.g., event recording\).}{chapter.4}% 106
-\BOOKMARK [2][-]{subsection.4.12.1}{Definition}{section.4.12}% 107
-\BOOKMARK [2][-]{subsection.4.12.2}{Examples}{section.4.12}% 108
-\BOOKMARK [2][-]{subsection.4.12.3}{Assessment}{section.4.12}% 109
-\BOOKMARK [2][-]{subsection.4.12.4}{Relevant Literature}{section.4.12}% 110
-\BOOKMARK [2][-]{subsection.4.12.5}{Related Tasks}{section.4.12}% 111
-\BOOKMARK [1][-]{section.4.13}{A-13 Design and implement discontinuous measurement procedures \(e.g., partial \046 whole interval, momentary time sampling\).}{chapter.4}% 112
-\BOOKMARK [2][-]{subsection.4.13.1}{Definition}{section.4.13}% 113
-\BOOKMARK [2][-]{subsection.4.13.2}{Examples}{section.4.13}% 114
-\BOOKMARK [2][-]{subsection.4.13.3}{Assessment}{section.4.13}% 115
-\BOOKMARK [2][-]{subsection.4.13.4}{Relevant Literature}{section.4.13}% 116
-\BOOKMARK [2][-]{subsection.4.13.5}{Related Tasks}{section.4.13}% 117
-\BOOKMARK [1][-]{section.4.14}{A-14 Design and implement choice measures.}{chapter.4}% 118
-\BOOKMARK [2][-]{subsection.4.14.1}{Assessment}{section.4.14}% 119
-\BOOKMARK [2][-]{subsection.4.14.2}{Relevant Literature}{section.4.14}% 120
-\BOOKMARK [2][-]{subsection.4.14.3}{Related Tasks}{section.4.14}% 121
-\BOOKMARK [0][-]{chapter.5}{B. Experimental Design}{}% 122
-\BOOKMARK [1][-]{section.5.1}{B-01 Use the dimensions of applied behavior analysis \(Baer, Wolf, \046 Risley, 1968\) to evaluate whether interventions are behavior analytic in nature.}{chapter.5}% 123
-\BOOKMARK [2][-]{subsection.5.1.1}{Examples}{section.5.1}% 124
-\BOOKMARK [2][-]{subsection.5.1.2}{Assessment}{section.5.1}% 125
-\BOOKMARK [2][-]{subsection.5.1.3}{Relevant Literature}{section.5.1}% 126
-\BOOKMARK [2][-]{subsection.5.1.4}{Related Tasks}{section.5.1}% 127
-\BOOKMARK [1][-]{section.5.2}{B-02 Review and interpret articles from the behavior-analytic literature.}{chapter.5}% 128
-\BOOKMARK [2][-]{subsection.5.2.1}{Assessment}{section.5.2}% 129
-\BOOKMARK [2][-]{subsection.5.2.2}{Relevant Literature}{section.5.2}% 130
-\BOOKMARK [2][-]{subsection.5.2.3}{Related Tasks}{section.5.2}% 131
-\BOOKMARK [1][-]{section.5.3}{B-03 Systematically arrange independent variables to demonstrate their effects on dependent variables.}{chapter.5}% 132
-\BOOKMARK [2][-]{subsection.5.3.1}{Definitions}{section.5.3}% 133
-\BOOKMARK [2][-]{subsection.5.3.2}{Examples}{section.5.3}% 134
-\BOOKMARK [2][-]{subsection.5.3.3}{Assessment}{section.5.3}% 135
-\BOOKMARK [2][-]{subsection.5.3.4}{Relevant Literature}{section.5.3}% 136
-\BOOKMARK [2][-]{subsection.5.3.5}{Related Tasks}{section.5.3}% 137
-\BOOKMARK [1][-]{section.5.4}{B-04 Use withdrawal/reversal designs.}{chapter.5}% 138
-\BOOKMARK [2][-]{subsection.5.4.1}{Definition}{section.5.4}% 139
-\BOOKMARK [2][-]{subsection.5.4.2}{Examples}{section.5.4}% 140
-\BOOKMARK [2][-]{subsection.5.4.3}{Assessment}{section.5.4}% 141
-\BOOKMARK [2][-]{subsection.5.4.4}{Relevant Literature}{section.5.4}% 142
-\BOOKMARK [2][-]{subsection.5.4.5}{Related Tasks}{section.5.4}% 143
-\BOOKMARK [2][-]{subsection.5.4.6}{Footnotes}{section.5.4}% 144
-\BOOKMARK [1][-]{section.5.5}{B-05 Use alternating treatments \(i.e., multielement\) designs.}{chapter.5}% 145
-\BOOKMARK [2][-]{subsection.5.5.1}{Definition}{section.5.5}% 146
-\BOOKMARK [2][-]{subsection.5.5.2}{Examples}{section.5.5}% 147
-\BOOKMARK [2][-]{subsection.5.5.3}{Assessment}{section.5.5}% 148
-\BOOKMARK [2][-]{subsection.5.5.4}{Relevant Literature}{section.5.5}% 149
-\BOOKMARK [2][-]{subsection.5.5.5}{Related Tasks}{section.5.5}% 150
-\BOOKMARK [1][-]{section.5.6}{B-06 Use changing criterion designs.}{chapter.5}% 151
-\BOOKMARK [2][-]{subsection.5.6.1}{Definition}{section.5.6}% 152
-\BOOKMARK [2][-]{subsection.5.6.2}{Examples}{section.5.6}% 153
-\BOOKMARK [2][-]{subsection.5.6.3}{Assessment}{section.5.6}% 154
-\BOOKMARK [2][-]{subsection.5.6.4}{Relevant Literature}{section.5.6}% 155
-\BOOKMARK [2][-]{subsection.5.6.5}{Related Tasks}{section.5.6}% 156
-\BOOKMARK [1][-]{section.5.7}{B-07 Use multiple baseline designs.}{chapter.5}% 157
-\BOOKMARK [2][-]{subsection.5.7.1}{Definition}{section.5.7}% 158
-\BOOKMARK [2][-]{subsection.5.7.2}{Examples}{section.5.7}% 159
-\BOOKMARK [2][-]{subsection.5.7.3}{Assessment}{section.5.7}% 160
-\BOOKMARK [2][-]{subsection.5.7.4}{Relevant Literature}{section.5.7}% 161
-\BOOKMARK [2][-]{subsection.5.7.5}{Related Tasks}{section.5.7}% 162
-\BOOKMARK [1][-]{section.5.8}{B-08 Use multiple probe designs.}{chapter.5}% 163
-\BOOKMARK [2][-]{subsection.5.8.1}{Examples}{section.5.8}% 164
-\BOOKMARK [2][-]{subsection.5.8.2}{Assessment}{section.5.8}% 165
-\BOOKMARK [2][-]{subsection.5.8.3}{Relevant Literature}{section.5.8}% 166
-\BOOKMARK [2][-]{subsection.5.8.4}{Related Tasks}{section.5.8}% 167
-\BOOKMARK [1][-]{section.5.9}{B-09 Use combinations of design elements.}{chapter.5}% 168
-\BOOKMARK [2][-]{subsection.5.9.1}{Definition}{section.5.9}% 169
-\BOOKMARK [2][-]{subsection.5.9.2}{Assessment}{section.5.9}% 170
-\BOOKMARK [2][-]{subsection.5.9.3}{Relevant Literature}{section.5.9}% 171
-\BOOKMARK [2][-]{subsection.5.9.4}{Related Tasks}{section.5.9}% 172
-\BOOKMARK [1][-]{section.5.10}{B-10 Conduct a component analysis to determine the effective components of an intervention package.}{chapter.5}% 173
-\BOOKMARK [2][-]{subsection.5.10.1}{Definition}{section.5.10}% 174
-\BOOKMARK [2][-]{subsection.5.10.2}{Examples}{section.5.10}% 175
-\BOOKMARK [2][-]{subsection.5.10.3}{Assessment}{section.5.10}% 176
-\BOOKMARK [2][-]{subsection.5.10.4}{Relevant Literature}{section.5.10}% 177
-\BOOKMARK [2][-]{subsection.5.10.5}{Related Tasks}{section.5.10}% 178
-\BOOKMARK [1][-]{section.5.11}{B-11 Conduct a parametric analysis to determine the effective values of an independent variable.}{chapter.5}% 179
-\BOOKMARK [2][-]{subsection.5.11.1}{Definition}{section.5.11}% 180
-\BOOKMARK [2][-]{subsection.5.11.2}{Examples}{section.5.11}% 181
-\BOOKMARK [2][-]{subsection.5.11.3}{Assessment}{section.5.11}% 182
-\BOOKMARK [2][-]{subsection.5.11.4}{Relevant Literature}{section.5.11}% 183
-\BOOKMARK [2][-]{subsection.5.11.5}{Related Tasks}{section.5.11}% 184
-\BOOKMARK [0][-]{chapter.6}{C. Behavior-Change Considerations}{}% 185
-\BOOKMARK [1][-]{section.6.1}{C-01 State and plan for the possible unwanted effects of reinforcement.}{chapter.6}% 186
-\BOOKMARK [2][-]{subsection.6.1.1}{Definition}{section.6.1}% 187
-\BOOKMARK [2][-]{subsection.6.1.2}{Assessment}{section.6.1}% 188
-\BOOKMARK [2][-]{subsection.6.1.3}{Relevant Literature}{section.6.1}% 189
-\BOOKMARK [2][-]{subsection.6.1.4}{Related Tasks}{section.6.1}% 190
-\BOOKMARK [1][-]{section.6.2}{C-02 State and plan for the possible unwanted effects of punishment.}{chapter.6}% 191
-\BOOKMARK [2][-]{subsection.6.2.1}{Definition}{section.6.2}% 192
-\BOOKMARK [2][-]{subsection.6.2.2}{Assessment}{section.6.2}% 193
-\BOOKMARK [2][-]{subsection.6.2.3}{Relevant Literature}{section.6.2}% 194
-\BOOKMARK [2][-]{subsection.6.2.4}{Related Tasks}{section.6.2}% 195
-\BOOKMARK [1][-]{section.6.3}{C-03 State and plan for the possible unwanted effects of extinction.}{chapter.6}% 196
-\BOOKMARK [2][-]{subsection.6.3.1}{Definition}{section.6.3}% 197
-\BOOKMARK [2][-]{subsection.6.3.2}{Assessment}{section.6.3}% 198
-\BOOKMARK [2][-]{subsection.6.3.3}{Relevant Literature}{section.6.3}% 199
-\BOOKMARK [2][-]{subsection.6.3.4}{Related Tasks}{section.6.3}% 200
-\BOOKMARK [0][-]{chapter.7}{D. Fundamental Elements of Behavior Change}{}% 201
-\BOOKMARK [1][-]{section.7.1}{D-01 Use positive and negative reinforcement.}{chapter.7}% 202
-\BOOKMARK [2][-]{subsection.7.1.1}{Definition}{section.7.1}% 203
-\BOOKMARK [2][-]{subsection.7.1.2}{Examples}{section.7.1}% 204
-\BOOKMARK [2][-]{subsection.7.1.3}{Examples}{section.7.1}% 205
-\BOOKMARK [2][-]{subsection.7.1.4}{Assessment}{section.7.1}% 206
-\BOOKMARK [2][-]{subsection.7.1.5}{Relevant Literature}{section.7.1}% 207
-\BOOKMARK [2][-]{subsection.7.1.6}{Related Tasks}{section.7.1}% 208
-\BOOKMARK [1][-]{section.7.2}{D-02 Use appropriate parameters and schedules of reinforcement.}{chapter.7}% 209
-\BOOKMARK [2][-]{subsection.7.2.1}{Definition}{section.7.2}% 210
-\BOOKMARK [2][-]{subsection.7.2.2}{Assessment}{section.7.2}% 211
-\BOOKMARK [2][-]{subsection.7.2.3}{Relevant Literature}{section.7.2}% 212
-\BOOKMARK [2][-]{subsection.7.2.4}{Related Tasks}{section.7.2}% 213
-\BOOKMARK [1][-]{section.7.3}{D-03 Use prompts and prompt fading.}{chapter.7}% 214
-\BOOKMARK [2][-]{subsection.7.3.1}{Definition}{section.7.3}% 215
-\BOOKMARK [2][-]{subsection.7.3.2}{Examples}{section.7.3}% 216
-\BOOKMARK [2][-]{subsection.7.3.3}{Assessment}{section.7.3}% 217
-\BOOKMARK [2][-]{subsection.7.3.4}{Relevant Literature}{section.7.3}% 218
-\BOOKMARK [2][-]{subsection.7.3.5}{Related Tasks}{section.7.3}% 219
-\BOOKMARK [1][-]{section.7.4}{D-04 Use modeling and imitation training.}{chapter.7}% 220
-\BOOKMARK [2][-]{subsection.7.4.1}{Definition}{section.7.4}% 221
-\BOOKMARK [2][-]{subsection.7.4.2}{Examples}{section.7.4}% 222
-\BOOKMARK [2][-]{subsection.7.4.3}{Assessment}{section.7.4}% 223
-\BOOKMARK [2][-]{subsection.7.4.4}{Relevant Literature}{section.7.4}% 224
-\BOOKMARK [2][-]{subsection.7.4.5}{Related Tasks}{section.7.4}% 225
-\BOOKMARK [1][-]{section.7.5}{D-05 Use shaping.}{chapter.7}% 226
-\BOOKMARK [2][-]{subsection.7.5.1}{Definition}{section.7.5}% 227
-\BOOKMARK [2][-]{subsection.7.5.2}{Examples}{section.7.5}% 228
-\BOOKMARK [2][-]{subsection.7.5.3}{Assessment}{section.7.5}% 229
-\BOOKMARK [2][-]{subsection.7.5.4}{Relevant Literature}{section.7.5}% 230
-\BOOKMARK [2][-]{subsection.7.5.5}{Related Tasks}{section.7.5}% 231
-\BOOKMARK [1][-]{section.7.6}{D-06 Use chaining.}{chapter.7}% 232
-\BOOKMARK [2][-]{subsection.7.6.1}{Definition}{section.7.6}% 233
-\BOOKMARK [2][-]{subsection.7.6.2}{Examples}{section.7.6}% 234
-\BOOKMARK [2][-]{subsection.7.6.3}{Assessment}{section.7.6}% 235
-\BOOKMARK [2][-]{subsection.7.6.4}{Relevant Literature}{section.7.6}% 236
-\BOOKMARK [2][-]{subsection.7.6.5}{Related Tasks}{section.7.6}% 237
-\BOOKMARK [1][-]{section.7.7}{D-07 Conduct task analyses.}{chapter.7}% 238
-\BOOKMARK [2][-]{subsection.7.7.1}{Definition}{section.7.7}% 239
-\BOOKMARK [2][-]{subsection.7.7.2}{Examples}{section.7.7}% 240
-\BOOKMARK [2][-]{subsection.7.7.3}{Assessment}{section.7.7}% 241
-\BOOKMARK [2][-]{subsection.7.7.4}{Relevant Literature}{section.7.7}% 242
-\BOOKMARK [2][-]{subsection.7.7.5}{Related Tasks}{section.7.7}% 243
-\BOOKMARK [1][-]{section.7.8}{D-08 Use discrete-trial and free-operant arrangements.}{chapter.7}% 244
-\BOOKMARK [2][-]{subsection.7.8.1}{Definition}{section.7.8}% 245
-\BOOKMARK [2][-]{subsection.7.8.2}{Assessment}{section.7.8}% 246
-\BOOKMARK [2][-]{subsection.7.8.3}{Relevant Literature}{section.7.8}% 247
-\BOOKMARK [2][-]{subsection.7.8.4}{Related Tasks}{section.7.8}% 248
-\BOOKMARK [1][-]{section.7.9}{D-09 Use the verbal operants as a basis for language assessment.}{chapter.7}% 249
-\BOOKMARK [2][-]{subsection.7.9.1}{Definition}{section.7.9}% 250
-\BOOKMARK [2][-]{subsection.7.9.2}{Assessment}{section.7.9}% 251
-\BOOKMARK [2][-]{subsection.7.9.3}{Relevant Literature}{section.7.9}% 252
-\BOOKMARK [2][-]{subsection.7.9.4}{Related Tasks}{section.7.9}% 253
-\BOOKMARK [1][-]{section.7.10}{D-10 Use echoic training.}{chapter.7}% 254
-\BOOKMARK [2][-]{subsection.7.10.1}{Definition}{section.7.10}% 255
-\BOOKMARK [2][-]{subsection.7.10.2}{Assessment}{section.7.10}% 256
-\BOOKMARK [2][-]{subsection.7.10.3}{Relevant Literature}{section.7.10}% 257
-\BOOKMARK [2][-]{subsection.7.10.4}{Related Tasks}{section.7.10}% 258
-\BOOKMARK [1][-]{section.7.11}{D-11 Use mand training.}{chapter.7}% 259
-\BOOKMARK [2][-]{subsection.7.11.1}{Definition}{section.7.11}% 260
-\BOOKMARK [2][-]{subsection.7.11.2}{Assessment}{section.7.11}% 261
-\BOOKMARK [2][-]{subsection.7.11.3}{Relevant Literature}{section.7.11}% 262
-\BOOKMARK [2][-]{subsection.7.11.4}{Related Tasks}{section.7.11}% 263
-\BOOKMARK [1][-]{section.7.12}{D-12 Use tact training.}{chapter.7}% 264
-\BOOKMARK [2][-]{subsection.7.12.1}{Definition}{section.7.12}% 265
-\BOOKMARK [2][-]{subsection.7.12.2}{Assessment}{section.7.12}% 266
-\BOOKMARK [2][-]{subsection.7.12.3}{Relevant Literature}{section.7.12}% 267
-\BOOKMARK [2][-]{subsection.7.12.4}{Related Tasks}{section.7.12}% 268
-\BOOKMARK [1][-]{section.7.13}{D-13 Use intraverbal training.}{chapter.7}% 269
-\BOOKMARK [2][-]{subsection.7.13.1}{Definition}{section.7.13}% 270
-\BOOKMARK [2][-]{subsection.7.13.2}{Assessment}{section.7.13}% 271
-\BOOKMARK [2][-]{subsection.7.13.3}{Relevant Literature}{section.7.13}% 272
-\BOOKMARK [2][-]{subsection.7.13.4}{Related Tasks}{section.7.13}% 273
-\BOOKMARK [1][-]{section.7.14}{D-14 Use listener training.}{chapter.7}% 274
-\BOOKMARK [2][-]{subsection.7.14.1}{Definition}{section.7.14}% 275
-\BOOKMARK [2][-]{subsection.7.14.2}{Examples}{section.7.14}% 276
-\BOOKMARK [2][-]{subsection.7.14.3}{Assessment}{section.7.14}% 277
-\BOOKMARK [2][-]{subsection.7.14.4}{Relevant Literature}{section.7.14}% 278
-\BOOKMARK [2][-]{subsection.7.14.5}{Related Tasks}{section.7.14}% 279
-\BOOKMARK [1][-]{section.7.15}{D-15 Identify punishers.}{chapter.7}% 280
-\BOOKMARK [2][-]{subsection.7.15.1}{Definition}{section.7.15}% 281
-\BOOKMARK [2][-]{subsection.7.15.2}{Assessment}{section.7.15}% 282
-\BOOKMARK [2][-]{subsection.7.15.3}{Relevant Literature}{section.7.15}% 283
-\BOOKMARK [2][-]{subsection.7.15.4}{Related Tasks}{section.7.15}% 284
-\BOOKMARK [1][-]{section.7.16}{D-16 Use positive and negative punishment.}{chapter.7}% 285
-\BOOKMARK [2][-]{subsection.7.16.1}{Definition}{section.7.16}% 286
-\BOOKMARK [2][-]{subsection.7.16.2}{Examples}{section.7.16}% 287
-\BOOKMARK [2][-]{subsection.7.16.3}{Assessment}{section.7.16}% 288
-\BOOKMARK [2][-]{subsection.7.16.4}{Relevant Literature}{section.7.16}% 289
-\BOOKMARK [2][-]{subsection.7.16.5}{Related Tasks}{section.7.16}% 290
-\BOOKMARK [2][-]{subsection.7.16.6}{Footnotes}{section.7.16}% 291
-\BOOKMARK [1][-]{section.7.17}{D-17 Use appropriate parameters and schedules of punishment.}{chapter.7}% 292
-\BOOKMARK [2][-]{subsection.7.17.1}{Definition}{section.7.17}% 293
-\BOOKMARK [2][-]{subsection.7.17.2}{Assessment}{section.7.17}% 294
-\BOOKMARK [2][-]{subsection.7.17.3}{Relevant Literature}{section.7.17}% 295
-\BOOKMARK [2][-]{subsection.7.17.4}{Related Tasks}{section.7.17}% 296
-\BOOKMARK [1][-]{section.7.18}{D-18 Use extinction.}{chapter.7}% 297
-\BOOKMARK [2][-]{subsection.7.18.1}{Definition}{section.7.18}% 298
-\BOOKMARK [2][-]{subsection.7.18.2}{Examples}{section.7.18}% 299
-\BOOKMARK [2][-]{subsection.7.18.3}{Assessment}{section.7.18}% 300
-\BOOKMARK [2][-]{subsection.7.18.4}{Relevant Literature}{section.7.18}% 301
-\BOOKMARK [2][-]{subsection.7.18.5}{Related Tasks}{section.7.18}% 302
-\BOOKMARK [1][-]{section.7.19}{D-19 Use combinations of reinforcement with punishment and extinction.}{chapter.7}% 303
-\BOOKMARK [2][-]{subsection.7.19.1}{Definition}{section.7.19}% 304
-\BOOKMARK [2][-]{subsection.7.19.2}{Assessment}{section.7.19}% 305
-\BOOKMARK [2][-]{subsection.7.19.3}{Relevant Literature}{section.7.19}% 306
-\BOOKMARK [2][-]{subsection.7.19.4}{Related Tasks}{section.7.19}% 307
-\BOOKMARK [1][-]{section.7.20}{D-20 Use response-independent \(time-based\) schedules of reinforcement \(i.e., noncontingent reinforcement\).}{chapter.7}% 308
-\BOOKMARK [2][-]{subsection.7.20.1}{Definition}{section.7.20}% 309
-\BOOKMARK [2][-]{subsection.7.20.2}{Examples}{section.7.20}% 310
-\BOOKMARK [2][-]{subsection.7.20.3}{Assessment}{section.7.20}% 311
-\BOOKMARK [2][-]{subsection.7.20.4}{Relevant Literature}{section.7.20}% 312
-\BOOKMARK [2][-]{subsection.7.20.5}{Related Tasks}{section.7.20}% 313
-\BOOKMARK [1][-]{section.7.21}{D-21 Use differential reinforcement \(e.g., DRO, DRA, DRI, DRL, DRH\).}{chapter.7}% 314
-\BOOKMARK [2][-]{subsection.7.21.1}{Examples}{section.7.21}% 315
-\BOOKMARK [2][-]{subsection.7.21.2}{Assessment}{section.7.21}% 316
-\BOOKMARK [2][-]{subsection.7.21.3}{Relevant Literature}{section.7.21}% 317
-\BOOKMARK [2][-]{subsection.7.21.4}{Related Tasks}{section.7.21}% 318
-\BOOKMARK [0][-]{chapter.8}{E. Specific Behavior-Change Procedures}{}% 319
-\BOOKMARK [1][-]{section.8.1}{E-01 Use interventions based on manipulation of antecedents, such as motivating operations and discriminative stimuli.}{chapter.8}% 320
-\BOOKMARK [2][-]{subsection.8.1.1}{Definition}{section.8.1}% 321
-\BOOKMARK [2][-]{subsection.8.1.2}{Assessment}{section.8.1}% 322
-\BOOKMARK [2][-]{subsection.8.1.3}{Relevant Literature}{section.8.1}% 323
-\BOOKMARK [2][-]{subsection.8.1.4}{Related Tasks}{section.8.1}% 324
-\BOOKMARK [1][-]{section.8.2}{E-02 Use discrimination training procedures.}{chapter.8}% 325
-\BOOKMARK [2][-]{subsection.8.2.1}{Definition}{section.8.2}% 326
-\BOOKMARK [2][-]{subsection.8.2.2}{Examples}{section.8.2}% 327
-\BOOKMARK [2][-]{subsection.8.2.3}{Assessment}{section.8.2}% 328
-\BOOKMARK [2][-]{subsection.8.2.4}{Relevant Literature}{section.8.2}% 329
-\BOOKMARK [2][-]{subsection.8.2.5}{Related Tasks}{section.8.2}% 330
-\BOOKMARK [1][-]{section.8.3}{E-03 Use instructions and rules.}{chapter.8}% 331
-\BOOKMARK [2][-]{subsection.8.3.1}{Definition}{section.8.3}% 332
-\BOOKMARK [2][-]{subsection.8.3.2}{Assessment}{section.8.3}% 333
-\BOOKMARK [2][-]{subsection.8.3.3}{Relevant Literature}{section.8.3}% 334
-\BOOKMARK [2][-]{subsection.8.3.4}{Related Tasks}{section.8.3}% 335
-\BOOKMARK [1][-]{section.8.4}{E-04 Use contingency contracting \(i.e., behavioral contracts\).}{chapter.8}% 336
-\BOOKMARK [2][-]{subsection.8.4.1}{Definition}{section.8.4}% 337
-\BOOKMARK [2][-]{subsection.8.4.2}{Assessment}{section.8.4}% 338
-\BOOKMARK [2][-]{subsection.8.4.3}{Relevant Literature}{section.8.4}% 339
-\BOOKMARK [2][-]{subsection.8.4.4}{Related Tasks}{section.8.4}% 340
-\BOOKMARK [1][-]{section.8.5}{E-05 Use independent, interdependent, and dependent group contingencies.}{chapter.8}% 341
-\BOOKMARK [2][-]{subsection.8.5.1}{Definition}{section.8.5}% 342
-\BOOKMARK [2][-]{subsection.8.5.2}{Examples}{section.8.5}% 343
-\BOOKMARK [2][-]{subsection.8.5.3}{Assessment}{section.8.5}% 344
-\BOOKMARK [2][-]{subsection.8.5.4}{Relevant Literature}{section.8.5}% 345
-\BOOKMARK [2][-]{subsection.8.5.5}{Related Tasks}{section.8.5}% 346
-\BOOKMARK [1][-]{section.8.6}{E-06 Use stimulus equivalence procedures.}{chapter.8}% 347
-\BOOKMARK [2][-]{subsection.8.6.1}{Definition}{section.8.6}% 348
-\BOOKMARK [2][-]{subsection.8.6.2}{Assessment}{section.8.6}% 349
-\BOOKMARK [2][-]{subsection.8.6.3}{Relevant Literature}{section.8.6}% 350
-\BOOKMARK [2][-]{subsection.8.6.4}{Related Tasks}{section.8.6}% 351
-\BOOKMARK [1][-]{section.8.7}{E-07 Plan for behavioral contrast effects.}{chapter.8}% 352
-\BOOKMARK [2][-]{subsection.8.7.1}{Definition}{section.8.7}% 353
-\BOOKMARK [2][-]{subsection.8.7.2}{Examples}{section.8.7}% 354
-\BOOKMARK [2][-]{subsection.8.7.3}{Assessment}{section.8.7}% 355
-\BOOKMARK [2][-]{subsection.8.7.4}{Relevant Literature}{section.8.7}% 356
-\BOOKMARK [2][-]{subsection.8.7.5}{Related Tasks}{section.8.7}% 357
-\BOOKMARK [1][-]{section.8.8}{E-08 Use the matching law and recognize factors influencing choice.}{chapter.8}% 358
-\BOOKMARK [2][-]{subsection.8.8.1}{Definition}{section.8.8}% 359
-\BOOKMARK [2][-]{subsection.8.8.2}{Assessment}{section.8.8}% 360
-\BOOKMARK [2][-]{subsection.8.8.3}{Relevant Literature}{section.8.8}% 361
-\BOOKMARK [2][-]{subsection.8.8.4}{Related Tasks}{section.8.8}% 362
-\BOOKMARK [1][-]{section.8.9}{E-09 Arrange high-probability request sequences.}{chapter.8}% 363
-\BOOKMARK [2][-]{subsection.8.9.1}{Definition}{section.8.9}% 364
-\BOOKMARK [2][-]{subsection.8.9.2}{Assessment}{section.8.9}% 365
-\BOOKMARK [2][-]{subsection.8.9.3}{Relevant Literature}{section.8.9}% 366
-\BOOKMARK [2][-]{subsection.8.9.4}{Related Tasks}{section.8.9}% 367
-\BOOKMARK [1][-]{section.8.10}{E-10 Use the Premack principle.}{chapter.8}% 368
-\BOOKMARK [2][-]{subsection.8.10.1}{Definition}{section.8.10}% 369
-\BOOKMARK [2][-]{subsection.8.10.2}{Examples}{section.8.10}% 370
-\BOOKMARK [2][-]{subsection.8.10.3}{Assessment}{section.8.10}% 371
-\BOOKMARK [2][-]{subsection.8.10.4}{Relevant Literature}{section.8.10}% 372
-\BOOKMARK [2][-]{subsection.8.10.5}{Related Tasks}{section.8.10}% 373
-\BOOKMARK [1][-]{section.8.11}{E-11 Use pairing procedures to establish new conditioned reinforcers and punishers.}{chapter.8}% 374
-\BOOKMARK [2][-]{subsection.8.11.1}{Definition}{section.8.11}% 375
-\BOOKMARK [2][-]{subsection.8.11.2}{Assessment}{section.8.11}% 376
-\BOOKMARK [2][-]{subsection.8.11.3}{Relevant Literature}{section.8.11}% 377
-\BOOKMARK [2][-]{subsection.8.11.4}{Related Tasks}{section.8.11}% 378
-\BOOKMARK [1][-]{section.8.12}{E-12 Use errorless learning procedures.}{chapter.8}% 379
-\BOOKMARK [2][-]{subsection.8.12.1}{Definition}{section.8.12}% 380
-\BOOKMARK [2][-]{subsection.8.12.2}{Assessment}{section.8.12}% 381
-\BOOKMARK [2][-]{subsection.8.12.3}{Relevant Literature}{section.8.12}% 382
-\BOOKMARK [2][-]{subsection.8.12.4}{Related Tasks}{section.8.12}% 383
-\BOOKMARK [1][-]{section.8.13}{E-13 Use matching-to-sample procedures.}{chapter.8}% 384
-\BOOKMARK [2][-]{subsection.8.13.1}{Definition}{section.8.13}% 385
-\BOOKMARK [2][-]{subsection.8.13.2}{Examples}{section.8.13}% 386
-\BOOKMARK [2][-]{subsection.8.13.3}{Assessment}{section.8.13}% 387
-\BOOKMARK [2][-]{subsection.8.13.4}{Relevant Literature}{section.8.13}% 388
-\BOOKMARK [2][-]{subsection.8.13.5}{Related Tasks}{section.8.13}% 389
-\BOOKMARK [0][-]{chapter.9}{F. Behavior-Change Systems}{}% 390
-\BOOKMARK [1][-]{section.9.1}{F-01 Use self-management strategies.}{chapter.9}% 391
-\BOOKMARK [2][-]{subsection.9.1.1}{Definition}{section.9.1}% 392
-\BOOKMARK [2][-]{subsection.9.1.2}{Examples}{section.9.1}% 393
-\BOOKMARK [2][-]{subsection.9.1.3}{Assessment}{section.9.1}% 394
-\BOOKMARK [2][-]{subsection.9.1.4}{Relevant Literature}{section.9.1}% 395
-\BOOKMARK [2][-]{subsection.9.1.5}{Related Tasks}{section.9.1}% 396
-\BOOKMARK [1][-]{section.9.2}{F-02 Use token economies and other conditioned reinforcement systems.}{chapter.9}% 397
-\BOOKMARK [2][-]{subsection.9.2.1}{Definition}{section.9.2}% 398
-\BOOKMARK [2][-]{subsection.9.2.2}{Assessment}{section.9.2}% 399
-\BOOKMARK [2][-]{subsection.9.2.3}{Relevant Literature}{section.9.2}% 400
-\BOOKMARK [2][-]{subsection.9.2.4}{Related Tasks}{section.9.2}% 401
-\BOOKMARK [1][-]{section.9.3}{F-03 Use Direct Instruction.}{chapter.9}% 402
-\BOOKMARK [2][-]{subsection.9.3.1}{Definition}{section.9.3}% 403
-\BOOKMARK [2][-]{subsection.9.3.2}{Assessment}{section.9.3}% 404
-\BOOKMARK [2][-]{subsection.9.3.3}{Relevant Literature}{section.9.3}% 405
-\BOOKMARK [2][-]{subsection.9.3.4}{Related Tasks}{section.9.3}% 406
-\BOOKMARK [1][-]{section.9.4}{F-04 Use precision teaching.}{chapter.9}% 407
-\BOOKMARK [2][-]{subsection.9.4.1}{Definition}{section.9.4}% 408
-\BOOKMARK [2][-]{subsection.9.4.2}{Examples}{section.9.4}% 409
-\BOOKMARK [2][-]{subsection.9.4.3}{Assessment}{section.9.4}% 410
-\BOOKMARK [2][-]{subsection.9.4.4}{Relevant Literature}{section.9.4}% 411
-\BOOKMARK [2][-]{subsection.9.4.5}{Related Tasks}{section.9.4}% 412
-\BOOKMARK [1][-]{section.9.5}{F-05 Use personalized systems of instruction \(PSI\).}{chapter.9}% 413
-\BOOKMARK [2][-]{subsection.9.5.1}{Definition}{section.9.5}% 414
-\BOOKMARK [2][-]{subsection.9.5.2}{Assessment}{section.9.5}% 415
-\BOOKMARK [2][-]{subsection.9.5.3}{Relevant Literature}{section.9.5}% 416
-\BOOKMARK [2][-]{subsection.9.5.4}{Related Tasks}{section.9.5}% 417
-\BOOKMARK [1][-]{section.9.6}{F-06 Use incidental teaching.}{chapter.9}% 418
-\BOOKMARK [2][-]{subsection.9.6.1}{Definition}{section.9.6}% 419
-\BOOKMARK [2][-]{subsection.9.6.2}{Examples}{section.9.6}% 420
-\BOOKMARK [2][-]{subsection.9.6.3}{Assessment}{section.9.6}% 421
-\BOOKMARK [2][-]{subsection.9.6.4}{Relevant Literature}{section.9.6}% 422
-\BOOKMARK [2][-]{subsection.9.6.5}{Related Tasks}{section.9.6}% 423
-\BOOKMARK [1][-]{section.9.7}{F-07 Use functional communication training.}{chapter.9}% 424
-\BOOKMARK [2][-]{subsection.9.7.1}{Definition}{section.9.7}% 425
-\BOOKMARK [2][-]{subsection.9.7.2}{Examples}{section.9.7}% 426
-\BOOKMARK [2][-]{subsection.9.7.3}{Assessment}{section.9.7}% 427
-\BOOKMARK [2][-]{subsection.9.7.4}{Relevant Literature}{section.9.7}% 428
-\BOOKMARK [2][-]{subsection.9.7.5}{Related Tasks}{section.9.7}% 429
-\BOOKMARK [1][-]{section.9.8}{F-08 Use augmentative communication systems.}{chapter.9}% 430
-\BOOKMARK [2][-]{subsection.9.8.1}{Definition}{section.9.8}% 431
-\BOOKMARK [2][-]{subsection.9.8.2}{Examples}{section.9.8}% 432
-\BOOKMARK [2][-]{subsection.9.8.3}{Assessment}{section.9.8}% 433
-\BOOKMARK [2][-]{subsection.9.8.4}{Relevant Literature}{section.9.8}% 434
-\BOOKMARK [2][-]{subsection.9.8.5}{Related Tasks}{section.9.8}% 435
-\BOOKMARK [0][-]{chapter.10}{G. Identification of the Problem}{}% 436
-\BOOKMARK [1][-]{section.10.1}{G-01 Review records and available data at the outset of the case.}{chapter.10}% 437
-\BOOKMARK [2][-]{subsection.10.1.1}{Definition}{section.10.1}% 438
-\BOOKMARK [2][-]{subsection.10.1.2}{Assessment}{section.10.1}% 439
-\BOOKMARK [2][-]{subsection.10.1.3}{Relevant Literature}{section.10.1}% 440
-\BOOKMARK [2][-]{subsection.10.1.4}{Related Tasks}{section.10.1}% 441
-\BOOKMARK [1][-]{section.10.2}{G-02 Consider biological/medical variables that may be affecting the client.}{chapter.10}% 442
-\BOOKMARK [2][-]{subsection.10.2.1}{Definition}{section.10.2}% 443
-\BOOKMARK [2][-]{subsection.10.2.2}{Assessment}{section.10.2}% 444
-\BOOKMARK [2][-]{subsection.10.2.3}{Relevant Literature}{section.10.2}% 445
-\BOOKMARK [2][-]{subsection.10.2.4}{Related Tasks}{section.10.2}% 446
-\BOOKMARK [1][-]{section.10.3}{G-03 Conduct a preliminary assessment of the client in order to identify the referral problem.}{chapter.10}% 447
-\BOOKMARK [2][-]{subsection.10.3.1}{Definition}{section.10.3}% 448
-\BOOKMARK [2][-]{subsection.10.3.2}{Assessment}{section.10.3}% 449
-\BOOKMARK [2][-]{subsection.10.3.3}{Relevant Literature}{section.10.3}% 450
-\BOOKMARK [2][-]{subsection.10.3.4}{Related Tasks}{section.10.3}% 451
-\BOOKMARK [1][-]{section.10.4}{G-04 Explain behavioral concepts using nontechnical language.}{chapter.10}% 452
-\BOOKMARK [2][-]{subsection.10.4.1}{Definition}{section.10.4}% 453
-\BOOKMARK [2][-]{subsection.10.4.2}{Assessment}{section.10.4}% 454
-\BOOKMARK [2][-]{subsection.10.4.3}{Relevant Literature}{section.10.4}% 455
-\BOOKMARK [2][-]{subsection.10.4.4}{Related Tasks}{section.10.4}% 456
-\BOOKMARK [1][-]{section.10.5}{G-05 Describe and explain behavior, including private events, in behavior-analytic \(nonmentalistic\) terms.}{chapter.10}% 457
-\BOOKMARK [2][-]{subsection.10.5.1}{Definition}{section.10.5}% 458
-\BOOKMARK [2][-]{subsection.10.5.2}{Assessment}{section.10.5}% 459
-\BOOKMARK [2][-]{subsection.10.5.3}{Relevant Literature}{section.10.5}% 460
-\BOOKMARK [2][-]{subsection.10.5.4}{Related Tasks}{section.10.5}% 461
-\BOOKMARK [1][-]{section.10.6}{G-06 Provide behavior-analytic services in collaboration with others who support and/or provide services to one's clients.}{chapter.10}% 462
-\BOOKMARK [2][-]{subsection.10.6.1}{Definition}{section.10.6}% 463
-\BOOKMARK [2][-]{subsection.10.6.2}{Examples}{section.10.6}% 464
-\BOOKMARK [2][-]{subsection.10.6.3}{Assessment}{section.10.6}% 465
-\BOOKMARK [2][-]{subsection.10.6.4}{Relevant Literature}{section.10.6}% 466
-\BOOKMARK [2][-]{subsection.10.6.5}{Related Tasks}{section.10.6}% 467
-\BOOKMARK [1][-]{section.10.7}{G-07 Practice within one\220s limits of professional competence in applied behavior analysis, and obtain consultation, supervision, and training, or make referrals as necessary.}{chapter.10}% 468
-\BOOKMARK [2][-]{subsection.10.7.1}{Definition}{section.10.7}% 469
-\BOOKMARK [2][-]{subsection.10.7.2}{Assessment}{section.10.7}% 470
-\BOOKMARK [2][-]{subsection.10.7.3}{Relevant Literature}{section.10.7}% 471
-\BOOKMARK [2][-]{subsection.10.7.4}{Related Tasks}{section.10.7}% 472
-\BOOKMARK [1][-]{section.10.8}{G-08 Identify and make environmental changes that reduce the need for behavior analysis services.}{chapter.10}% 473
-\BOOKMARK [2][-]{subsection.10.8.1}{Definition}{section.10.8}% 474
-\BOOKMARK [2][-]{subsection.10.8.2}{Examples}{section.10.8}% 475
-\BOOKMARK [2][-]{subsection.10.8.3}{Assessment}{section.10.8}% 476
-\BOOKMARK [2][-]{subsection.10.8.4}{Relevant Literature}{section.10.8}% 477
-\BOOKMARK [2][-]{subsection.10.8.5}{Related Tasks}{section.10.8}% 478
-\BOOKMARK [0][-]{chapter.11}{H. Measurement}{}% 479
-\BOOKMARK [1][-]{section.11.1}{H-01 Select a measurement system to obtain representative data given the dimensions of the behavior and the logistics of observing and recording.}{chapter.11}% 480
-\BOOKMARK [2][-]{subsection.11.1.1}{Definition}{section.11.1}% 481
-\BOOKMARK [2][-]{subsection.11.1.2}{Examples}{section.11.1}% 482
-\BOOKMARK [2][-]{subsection.11.1.3}{Assessment}{section.11.1}% 483
-\BOOKMARK [2][-]{subsection.11.1.4}{Relevant Literature}{section.11.1}% 484
-\BOOKMARK [2][-]{subsection.11.1.5}{Related Tasks}{section.11.1}% 485
-\BOOKMARK [1][-]{section.11.2}{H-02 Select a schedule of observation and recording periods.}{chapter.11}% 486
-\BOOKMARK [2][-]{subsection.11.2.1}{Definition}{section.11.2}% 487
-\BOOKMARK [2][-]{subsection.11.2.2}{Examples}{section.11.2}% 488
-\BOOKMARK [2][-]{subsection.11.2.3}{Assessment}{section.11.2}% 489
-\BOOKMARK [2][-]{subsection.11.2.4}{Relevant Literature}{section.11.2}% 490
-\BOOKMARK [2][-]{subsection.11.2.5}{Related Tasks}{section.11.2}% 491
-\BOOKMARK [1][-]{section.11.3}{H-03 Select a data display that effectively communicates relevant quantitative relations.}{chapter.11}% 492
-\BOOKMARK [2][-]{subsection.11.3.1}{Definition}{section.11.3}% 493
-\BOOKMARK [2][-]{subsection.11.3.2}{Examples}{section.11.3}% 494
-\BOOKMARK [2][-]{subsection.11.3.3}{Assessment}{section.11.3}% 495
-\BOOKMARK [2][-]{subsection.11.3.4}{Relevant Literature}{section.11.3}% 496
-\BOOKMARK [2][-]{subsection.11.3.5}{Related Tasks}{section.11.3}% 497
-\BOOKMARK [1][-]{section.11.4}{H-04 Evaluate changes in level, trend, and variability.}{chapter.11}% 498
-\BOOKMARK [2][-]{subsection.11.4.1}{Definition}{section.11.4}% 499
-\BOOKMARK [2][-]{subsection.11.4.2}{Assessment}{section.11.4}% 500
-\BOOKMARK [2][-]{subsection.11.4.3}{Relevant Literature}{section.11.4}% 501
-\BOOKMARK [2][-]{subsection.11.4.4}{Related Tasks}{section.11.4}% 502
-\BOOKMARK [1][-]{section.11.5}{H-05 Evaluate temporal relations between observed variables \(within \046 between sessions, time series\).}{chapter.11}% 503
-\BOOKMARK [2][-]{subsection.11.5.1}{Definition}{section.11.5}% 504
-\BOOKMARK [2][-]{subsection.11.5.2}{Assessment}{section.11.5}% 505
-\BOOKMARK [2][-]{subsection.11.5.3}{Relevant Literature}{section.11.5}% 506
-\BOOKMARK [2][-]{subsection.11.5.4}{Related Tasks}{section.11.5}% 507
-\BOOKMARK [0][-]{chapter.12}{I. Assessment}{}% 508
-\BOOKMARK [1][-]{section.12.1}{I-01 Define behavior in observable and measurable terms.}{chapter.12}% 509
-\BOOKMARK [2][-]{subsection.12.1.1}{Definition}{section.12.1}% 510
-\BOOKMARK [2][-]{subsection.12.1.2}{Assessment}{section.12.1}% 511
-\BOOKMARK [2][-]{subsection.12.1.3}{Relevant Literature}{section.12.1}% 512
-\BOOKMARK [2][-]{subsection.12.1.4}{Related Tasks}{section.12.1}% 513
-\BOOKMARK [1][-]{section.12.2}{I-02 Define environmental variables in observable and measurable terms.}{chapter.12}% 514
-\BOOKMARK [2][-]{subsection.12.2.1}{Definition}{section.12.2}% 515
-\BOOKMARK [2][-]{subsection.12.2.2}{Examples}{section.12.2}% 516
-\BOOKMARK [2][-]{subsection.12.2.3}{Assessment}{section.12.2}% 517
-\BOOKMARK [2][-]{subsection.12.2.4}{Relevant Literature}{section.12.2}% 518
-\BOOKMARK [2][-]{subsection.12.2.5}{Related Tasks}{section.12.2}% 519
-\BOOKMARK [1][-]{section.12.3}{I-03 Design and implement individualized behavioral assessment procedures.}{chapter.12}% 520
-\BOOKMARK [2][-]{subsection.12.3.1}{Definition}{section.12.3}% 521
-\BOOKMARK [2][-]{subsection.12.3.2}{Examples}{section.12.3}% 522
-\BOOKMARK [2][-]{subsection.12.3.3}{Assessment}{section.12.3}% 523
-\BOOKMARK [2][-]{subsection.12.3.4}{Relevant Literature}{section.12.3}% 524
-\BOOKMARK [2][-]{subsection.12.3.5}{Related Tasks}{section.12.3}% 525
-\BOOKMARK [1][-]{section.12.4}{I-04 Design and implement the full range of functional assessment procedures.}{chapter.12}% 526
-\BOOKMARK [2][-]{subsection.12.4.1}{Definition}{section.12.4}% 527
-\BOOKMARK [2][-]{subsection.12.4.2}{Assessment}{section.12.4}% 528
-\BOOKMARK [2][-]{subsection.12.4.3}{Relevant Literature}{section.12.4}% 529
-\BOOKMARK [2][-]{subsection.12.4.4}{Related Tasks}{section.12.4}% 530
-\BOOKMARK [2][-]{subsection.12.4.5}{Footnotes}{section.12.4}% 531
-\BOOKMARK [1][-]{section.12.5}{I-05 Organize, analyze, and interpret observed data.}{chapter.12}% 532
-\BOOKMARK [2][-]{subsection.12.5.1}{Definition}{section.12.5}% 533
-\BOOKMARK [2][-]{subsection.12.5.2}{Assessment}{section.12.5}% 534
-\BOOKMARK [2][-]{subsection.12.5.3}{Relevant Literature}{section.12.5}% 535
-\BOOKMARK [2][-]{subsection.12.5.4}{Related Tasks}{section.12.5}% 536
-\BOOKMARK [1][-]{section.12.6}{I-06 Make recommendations regarding behaviors that must be established, maintained, increased, or decreased.}{chapter.12}% 537
-\BOOKMARK [2][-]{subsection.12.6.1}{Definition}{section.12.6}% 538
-\BOOKMARK [2][-]{subsection.12.6.2}{Examples}{section.12.6}% 539
-\BOOKMARK [2][-]{subsection.12.6.3}{Assessment}{section.12.6}% 540
-\BOOKMARK [2][-]{subsection.12.6.4}{Relevant Literature}{section.12.6}% 541
-\BOOKMARK [2][-]{subsection.12.6.5}{Related Tasks}{section.12.6}% 542
-\BOOKMARK [1][-]{section.12.7}{I-07 Design and conduct preference assessments to identify putative reinforcers.}{chapter.12}% 543
-\BOOKMARK [2][-]{subsection.12.7.1}{Definition}{section.12.7}% 544
-\BOOKMARK [2][-]{subsection.12.7.2}{Examples}{section.12.7}% 545
-\BOOKMARK [2][-]{subsection.12.7.3}{Assessment}{section.12.7}% 546
-\BOOKMARK [2][-]{subsection.12.7.4}{Relevant Literature}{section.12.7}% 547
-\BOOKMARK [2][-]{subsection.12.7.5}{Related Tasks}{section.12.7}% 548
-\BOOKMARK [0][-]{chapter.13}{J. Intervention}{}% 549
-\BOOKMARK [1][-]{section.13.1}{J-01 State intervention goals in observable and measurable terms.}{chapter.13}% 550
-\BOOKMARK [2][-]{subsection.13.1.1}{Definition}{section.13.1}% 551
-\BOOKMARK [2][-]{subsection.13.1.2}{Examples}{section.13.1}% 552
-\BOOKMARK [2][-]{subsection.13.1.3}{Assessment}{section.13.1}% 553
-\BOOKMARK [2][-]{subsection.13.1.4}{Relevant Literature}{section.13.1}% 554
-\BOOKMARK [2][-]{subsection.13.1.5}{Related Tasks}{section.13.1}% 555
-\BOOKMARK [1][-]{section.13.2}{J-02 Identify potential interventions based on assessment results and the best available scientific evidence.}{chapter.13}% 556
-\BOOKMARK [2][-]{subsection.13.2.1}{Definition}{section.13.2}% 557
-\BOOKMARK [2][-]{subsection.13.2.2}{Examples}{section.13.2}% 558
-\BOOKMARK [2][-]{subsection.13.2.3}{Assessment}{section.13.2}% 559
-\BOOKMARK [2][-]{subsection.13.2.4}{Relevant Literature}{section.13.2}% 560
-\BOOKMARK [2][-]{subsection.13.2.5}{Related Tasks}{section.13.2}% 561
-\BOOKMARK [1][-]{section.13.3}{J-03 Select intervention strategies based on task analysis.}{chapter.13}% 562
-\BOOKMARK [2][-]{subsection.13.3.1}{Definition}{section.13.3}% 563
-\BOOKMARK [2][-]{subsection.13.3.2}{Assessment}{section.13.3}% 564
-\BOOKMARK [2][-]{subsection.13.3.3}{Relevant Literature}{section.13.3}% 565
-\BOOKMARK [2][-]{subsection.13.3.4}{Related Tasks}{section.13.3}% 566
-\BOOKMARK [1][-]{section.13.4}{J-04 Select intervention strategies based on client preferences.}{chapter.13}% 567
-\BOOKMARK [2][-]{subsection.13.4.1}{Definition}{section.13.4}% 568
-\BOOKMARK [2][-]{subsection.13.4.2}{Assessment}{section.13.4}% 569
-\BOOKMARK [2][-]{subsection.13.4.3}{Relevant Literature}{section.13.4}% 570
-\BOOKMARK [2][-]{subsection.13.4.4}{Related Tasks}{section.13.4}% 571
-\BOOKMARK [1][-]{section.13.5}{J-05 Select intervention strategies based on the client\220s current repertoires.}{chapter.13}% 572
-\BOOKMARK [2][-]{subsection.13.5.1}{Definition}{section.13.5}% 573
-\BOOKMARK [2][-]{subsection.13.5.2}{Assessment}{section.13.5}% 574
-\BOOKMARK [2][-]{subsection.13.5.3}{Relevant Literature}{section.13.5}% 575
-\BOOKMARK [2][-]{subsection.13.5.4}{Related Tasks}{section.13.5}% 576
-\BOOKMARK [1][-]{section.13.6}{J-06 Select intervention strategies based on supporting environments.}{chapter.13}% 577
-\BOOKMARK [2][-]{subsection.13.6.1}{Definition}{section.13.6}% 578
-\BOOKMARK [2][-]{subsection.13.6.2}{Examples}{section.13.6}% 579
-\BOOKMARK [2][-]{subsection.13.6.3}{Assessment}{section.13.6}% 580
-\BOOKMARK [2][-]{subsection.13.6.4}{Relevant Literature}{section.13.6}% 581
-\BOOKMARK [2][-]{subsection.13.6.5}{Related Tasks}{section.13.6}% 582
-\BOOKMARK [1][-]{section.13.7}{J-07 Select intervention strategies based on environmental and resource constraints.}{chapter.13}% 583
-\BOOKMARK [2][-]{subsection.13.7.1}{Definition}{section.13.7}% 584
-\BOOKMARK [2][-]{subsection.13.7.2}{Examples}{section.13.7}% 585
-\BOOKMARK [2][-]{subsection.13.7.3}{Assessment}{section.13.7}% 586
-\BOOKMARK [2][-]{subsection.13.7.4}{Relevant Literature}{section.13.7}% 587
-\BOOKMARK [2][-]{subsection.13.7.5}{Related Tasks}{section.13.7}% 588
-\BOOKMARK [1][-]{section.13.8}{J-08 Select intervention strategies based on the social validity of the intervention.}{chapter.13}% 589
-\BOOKMARK [2][-]{subsection.13.8.1}{Definition}{section.13.8}% 590
-\BOOKMARK [2][-]{subsection.13.8.2}{Examples}{section.13.8}% 591
-\BOOKMARK [2][-]{subsection.13.8.3}{Assessment}{section.13.8}% 592
-\BOOKMARK [2][-]{subsection.13.8.4}{Relevant Literature}{section.13.8}% 593
-\BOOKMARK [2][-]{subsection.13.8.5}{Related Tasks}{section.13.8}% 594
-\BOOKMARK [1][-]{section.13.9}{J-09 Identify and address practical and ethical considerations when using experimental designs to demonstrate treatment effectiveness.}{chapter.13}% 595
-\BOOKMARK [2][-]{subsection.13.9.1}{Definition}{section.13.9}% 596
-\BOOKMARK [2][-]{subsection.13.9.2}{Examples}{section.13.9}% 597
-\BOOKMARK [2][-]{subsection.13.9.3}{Assessment}{section.13.9}% 598
-\BOOKMARK [2][-]{subsection.13.9.4}{Relevant Literature}{section.13.9}% 599
-\BOOKMARK [2][-]{subsection.13.9.5}{Related Tasks}{section.13.9}% 600
-\BOOKMARK [1][-]{section.13.10}{J-10 When a behavior is to be decreased, select an acceptable alternative behavior to be established or increased.}{chapter.13}% 601
-\BOOKMARK [2][-]{subsection.13.10.1}{Definition}{section.13.10}% 602
-\BOOKMARK [2][-]{subsection.13.10.2}{Assessment}{section.13.10}% 603
-\BOOKMARK [2][-]{subsection.13.10.3}{Relevant Literature}{section.13.10}% 604
-\BOOKMARK [2][-]{subsection.13.10.4}{Related Tasks}{section.13.10}% 605
-\BOOKMARK [1][-]{section.13.11}{J-11 Program for stimulus and response generalization.}{chapter.13}% 606
-\BOOKMARK [2][-]{subsection.13.11.1}{Definition}{section.13.11}% 607
-\BOOKMARK [2][-]{subsection.13.11.2}{Assessment}{section.13.11}% 608
-\BOOKMARK [2][-]{subsection.13.11.3}{Examples}{section.13.11}% 609
-\BOOKMARK [2][-]{subsection.13.11.4}{Relevant Literature}{section.13.11}% 610
-\BOOKMARK [2][-]{subsection.13.11.5}{Related Tasks}{section.13.11}% 611
-\BOOKMARK [1][-]{section.13.12}{J-12 Program for maintenance.}{chapter.13}% 612
-\BOOKMARK [2][-]{subsection.13.12.1}{Definition}{section.13.12}% 613
-\BOOKMARK [2][-]{subsection.13.12.2}{Assessment}{section.13.12}% 614
-\BOOKMARK [2][-]{subsection.13.12.3}{Relevant Literature}{section.13.12}% 615
-\BOOKMARK [2][-]{subsection.13.12.4}{Related Tasks}{section.13.12}% 616
-\BOOKMARK [1][-]{section.13.13}{J-13 Select behavioral cusps as goals for intervention when appropriate.}{chapter.13}% 617
-\BOOKMARK [2][-]{subsection.13.13.1}{Definition}{section.13.13}% 618
-\BOOKMARK [2][-]{subsection.13.13.2}{Examples}{section.13.13}% 619
-\BOOKMARK [2][-]{subsection.13.13.3}{Assessment}{section.13.13}% 620
-\BOOKMARK [2][-]{subsection.13.13.4}{Relevant Literature}{section.13.13}% 621
-\BOOKMARK [2][-]{subsection.13.13.5}{Related Tasks}{section.13.13}% 622
-\BOOKMARK [1][-]{section.13.14}{J-14 Arrange instructional procedures to promote generative learning \(i.e., derived relations\).}{chapter.13}% 623
-\BOOKMARK [2][-]{subsection.13.14.1}{Definition}{section.13.14}% 624
-\BOOKMARK [2][-]{subsection.13.14.2}{Examples}{section.13.14}% 625
-\BOOKMARK [2][-]{subsection.13.14.3}{Assessment}{section.13.14}% 626
-\BOOKMARK [2][-]{subsection.13.14.4}{Relevant Literature}{section.13.14}% 627
-\BOOKMARK [2][-]{subsection.13.14.5}{Related Tasks}{section.13.14}% 628
-\BOOKMARK [1][-]{section.13.15}{J-15 Base decision-making on data displayed in various formats.}{chapter.13}% 629
-\BOOKMARK [2][-]{subsection.13.15.1}{Definition}{section.13.15}% 630
-\BOOKMARK [2][-]{subsection.13.15.2}{Examples}{section.13.15}% 631
-\BOOKMARK [2][-]{subsection.13.15.3}{Assessment}{section.13.15}% 632
-\BOOKMARK [2][-]{subsection.13.15.4}{Relevant Literature}{section.13.15}% 633
-\BOOKMARK [2][-]{subsection.13.15.5}{Related Tasks}{section.13.15}% 634
-\BOOKMARK [0][-]{chapter.14}{K. Implementation, Management, and Supervision}{}% 635
-\BOOKMARK [1][-]{section.14.1}{K-01 Provide for ongoing documentation of behavioral services.}{chapter.14}% 636
-\BOOKMARK [2][-]{subsection.14.1.1}{Definition}{section.14.1}% 637
-\BOOKMARK [2][-]{subsection.14.1.2}{Assessment}{section.14.1}% 638
-\BOOKMARK [2][-]{subsection.14.1.3}{Relevant Literature}{section.14.1}% 639
-\BOOKMARK [1][-]{section.14.2}{K-02 Identify the contingencies governing the behavior of those responsible for carrying out behavior-change procedures and design interventions accordingly.}{chapter.14}% 640
-\BOOKMARK [2][-]{subsection.14.2.1}{Definition}{section.14.2}% 641
-\BOOKMARK [2][-]{subsection.14.2.2}{Examples}{section.14.2}% 642
-\BOOKMARK [2][-]{subsection.14.2.3}{Assessment}{section.14.2}% 643
-\BOOKMARK [2][-]{subsection.14.2.4}{Relevant Literature}{section.14.2}% 644
-\BOOKMARK [2][-]{subsection.14.2.5}{Related Tasks}{section.14.2}% 645
-\BOOKMARK [1][-]{section.14.3}{K-03 Design and use competency-based training for persons who are responsible for carrying out behavioral assessment and behavior-change procedures.}{chapter.14}% 646
-\BOOKMARK [2][-]{subsection.14.3.1}{Definition}{section.14.3}% 647
-\BOOKMARK [2][-]{subsection.14.3.2}{Assessment}{section.14.3}% 648
-\BOOKMARK [2][-]{subsection.14.3.3}{Relevant Literature}{section.14.3}% 649
-\BOOKMARK [2][-]{subsection.14.3.4}{Related Tasks}{section.14.3}% 650
-\BOOKMARK [1][-]{section.14.4}{K-04 Design and use effective performance monitoring and reinforcement systems.}{chapter.14}% 651
-\BOOKMARK [2][-]{subsection.14.4.1}{Definition}{section.14.4}% 652
-\BOOKMARK [2][-]{subsection.14.4.2}{Assessment}{section.14.4}% 653
-\BOOKMARK [2][-]{subsection.14.4.3}{Relevant Literature}{section.14.4}% 654
-\BOOKMARK [2][-]{subsection.14.4.4}{Related Tasks}{section.14.4}% 655
-\BOOKMARK [1][-]{section.14.5}{K-05 Design and use systems for monitoring procedural integrity.}{chapter.14}% 656
-\BOOKMARK [2][-]{subsection.14.5.1}{Definition}{section.14.5}% 657
-\BOOKMARK [2][-]{subsection.14.5.2}{Assessment}{section.14.5}% 658
-\BOOKMARK [2][-]{subsection.14.5.3}{Relevant Literature}{section.14.5}% 659
-\BOOKMARK [2][-]{subsection.14.5.4}{Related Tasks}{section.14.5}% 660
-\BOOKMARK [2][-]{subsection.14.5.5}{Footnotes}{section.14.5}% 661
-\BOOKMARK [2][-]{subsection.14.5.6}{Assessment}{section.14.5}% 662
-\BOOKMARK [2][-]{subsection.14.5.7}{Relevant Literature}{section.14.5}% 663
-\BOOKMARK [2][-]{subsection.14.5.8}{Related Tasks}{section.14.5}% 664
-\BOOKMARK [1][-]{section.14.6}{K-07 Evaluate the effectiveness of the behavioral program.}{chapter.14}% 665
-\BOOKMARK [2][-]{subsection.14.6.1}{Definition}{section.14.6}% 666
-\BOOKMARK [2][-]{subsection.14.6.2}{Assessment}{section.14.6}% 667
-\BOOKMARK [2][-]{subsection.14.6.3}{Relevant Literature}{section.14.6}% 668
-\BOOKMARK [2][-]{subsection.14.6.4}{Related Tasks}{section.14.6}% 669
-\BOOKMARK [1][-]{section.14.7}{K-08 Establish support for behavior-analytic services from direct and indirect consumers.}{chapter.14}% 670
-\BOOKMARK [2][-]{subsection.14.7.1}{Definition}{section.14.7}% 671
-\BOOKMARK [2][-]{subsection.14.7.2}{Assessment}{section.14.7}% 672
-\BOOKMARK [2][-]{subsection.14.7.3}{Relevant Literature}{section.14.7}% 673
-\BOOKMARK [2][-]{subsection.14.7.4}{Related Tasks}{section.14.7}% 674
-\BOOKMARK [1][-]{section.14.8}{K-09 Secure the support of others to maintain the client\220s behavioral repertoires in their natural environments.}{chapter.14}% 675
-\BOOKMARK [2][-]{subsection.14.8.1}{Definition}{section.14.8}% 676
-\BOOKMARK [2][-]{subsection.14.8.2}{Examples}{section.14.8}% 677
-\BOOKMARK [2][-]{subsection.14.8.3}{Assessment}{section.14.8}% 678
-\BOOKMARK [2][-]{subsection.14.8.4}{Relevant Literature}{section.14.8}% 679
-\BOOKMARK [2][-]{subsection.14.8.5}{Related Tasks}{section.14.8}% 680
-\BOOKMARK [1][-]{section.14.9}{K-10 Arrange for the orderly termination of services when they are no longer required.}{chapter.14}% 681
-\BOOKMARK [2][-]{subsection.14.9.1}{Definition}{section.14.9}% 682
-\BOOKMARK [2][-]{subsection.14.9.2}{Assessment}{section.14.9}% 683
-\BOOKMARK [2][-]{subsection.14.9.3}{Relevant Literature}{section.14.9}% 684
-\BOOKMARK [2][-]{subsection.14.9.4}{Related Tasks}{section.14.9}% 685
-\BOOKMARK [0][-]{chapter.15}{FK: Foundational Knowledge}{}% 686
-\BOOKMARK [1][-]{section.15.1}{FK-01 Lawfulness of behavior}{chapter.15}% 687
-\BOOKMARK [2][-]{subsection.15.1.1}{Definition}{section.15.1}% 688
-\BOOKMARK [2][-]{subsection.15.1.2}{Assessment}{section.15.1}% 689
-\BOOKMARK [2][-]{subsection.15.1.3}{Relevant Literature}{section.15.1}% 690
-\BOOKMARK [2][-]{subsection.15.1.4}{Related Tasks}{section.15.1}% 691
-\BOOKMARK [1][-]{section.15.2}{FK-02 Selectionism \(phylogenic, ontogenic, cultural\)}{chapter.15}% 692
-\BOOKMARK [2][-]{subsection.15.2.1}{Definition}{section.15.2}% 693
-\BOOKMARK [2][-]{subsection.15.2.2}{Examples}{section.15.2}% 694
-\BOOKMARK [2][-]{subsection.15.2.3}{Assessment}{section.15.2}% 695
-\BOOKMARK [2][-]{subsection.15.2.4}{Relevant Literature}{section.15.2}% 696
-\BOOKMARK [2][-]{subsection.15.2.5}{Related Tasks}{section.15.2}% 697
-\BOOKMARK [1][-]{section.15.3}{FK-03 Determinism}{chapter.15}% 698
-\BOOKMARK [2][-]{subsection.15.3.1}{Definition}{section.15.3}% 699
-\BOOKMARK [2][-]{subsection.15.3.2}{Examples}{section.15.3}% 700
-\BOOKMARK [2][-]{subsection.15.3.3}{Assessment}{section.15.3}% 701
-\BOOKMARK [2][-]{subsection.15.3.4}{Relevant Literature}{section.15.3}% 702
-\BOOKMARK [2][-]{subsection.15.3.5}{Related Tasks}{section.15.3}% 703
-\BOOKMARK [1][-]{section.15.4}{FK-04 Empiricism}{chapter.15}% 704
-\BOOKMARK [2][-]{subsection.15.4.1}{Definition}{section.15.4}% 705
-\BOOKMARK [2][-]{subsection.15.4.2}{Examples}{section.15.4}% 706
-\BOOKMARK [2][-]{subsection.15.4.3}{Assessment}{section.15.4}% 707
-\BOOKMARK [2][-]{subsection.15.4.4}{Relevant Literature}{section.15.4}% 708
-\BOOKMARK [2][-]{subsection.15.4.5}{Related Tasks}{section.15.4}% 709
-\BOOKMARK [1][-]{section.15.5}{FK-05 Parsimony}{chapter.15}% 710
-\BOOKMARK [2][-]{subsection.15.5.1}{Definition}{section.15.5}% 711
-\BOOKMARK [2][-]{subsection.15.5.2}{Examples}{section.15.5}% 712
-\BOOKMARK [2][-]{subsection.15.5.3}{Assessment}{section.15.5}% 713
-\BOOKMARK [2][-]{subsection.15.5.4}{Relevant Literature}{section.15.5}% 714
-\BOOKMARK [2][-]{subsection.15.5.5}{Related Tasks}{section.15.5}% 715
-\BOOKMARK [1][-]{section.15.6}{FK-06 Pragmatism}{chapter.15}% 716
-\BOOKMARK [2][-]{subsection.15.6.1}{Definition}{section.15.6}% 717
-\BOOKMARK [2][-]{subsection.15.6.2}{Examples}{section.15.6}% 718
-\BOOKMARK [2][-]{subsection.15.6.3}{Assessment}{section.15.6}% 719
-\BOOKMARK [2][-]{subsection.15.6.4}{Relevant Literature}{section.15.6}% 720
-\BOOKMARK [2][-]{subsection.15.6.5}{Related Tasks}{section.15.6}% 721
-\BOOKMARK [1][-]{section.15.7}{FK-07 Environmental \(as opposed to mentalistic\) explanations of behavior}{chapter.15}% 722
-\BOOKMARK [2][-]{subsection.15.7.1}{Definition}{section.15.7}% 723
-\BOOKMARK [2][-]{subsection.15.7.2}{Assessment}{section.15.7}% 724
-\BOOKMARK [2][-]{subsection.15.7.3}{Relevant Literature}{section.15.7}% 725
-\BOOKMARK [2][-]{subsection.15.7.4}{Related Tasks}{section.15.7}% 726
-\BOOKMARK [1][-]{section.15.8}{FK-08 Distinguish between radical and methodological behaviorism.}{chapter.15}% 727
-\BOOKMARK [2][-]{subsection.15.8.1}{Definition}{section.15.8}% 728
-\BOOKMARK [2][-]{subsection.15.8.2}{Assessment}{section.15.8}% 729
-\BOOKMARK [2][-]{subsection.15.8.3}{Relevant Literature}{section.15.8}% 730
-\BOOKMARK [2][-]{subsection.15.8.4}{Related Tasks}{section.15.8}% 731
-\BOOKMARK [1][-]{section.15.9}{FK-09 Distinguish between the conceptual analysis of behavior, experimental analysis of behavior, applied behavior analysis, and behavioral service delivery.}{chapter.15}% 732
-\BOOKMARK [2][-]{subsection.15.9.1}{Definition}{section.15.9}% 733
-\BOOKMARK [2][-]{subsection.15.9.2}{Assessment}{section.15.9}% 734
-\BOOKMARK [2][-]{subsection.15.9.3}{Relevant Literature}{section.15.9}% 735
-\BOOKMARK [2][-]{subsection.15.9.4}{Related Tasks}{section.15.9}% 736
-\BOOKMARK [1][-]{section.15.10}{FK-10 behavior, response, response class}{chapter.15}% 737
-\BOOKMARK [2][-]{subsection.15.10.1}{Definition}{section.15.10}% 738
-\BOOKMARK [2][-]{subsection.15.10.2}{Examples}{section.15.10}% 739
-\BOOKMARK [2][-]{subsection.15.10.3}{Assessment}{section.15.10}% 740
-\BOOKMARK [2][-]{subsection.15.10.4}{Relevant Literature}{section.15.10}% 741
-\BOOKMARK [2][-]{subsection.15.10.5}{Related Tasks}{section.15.10}% 742
-\BOOKMARK [1][-]{section.15.11}{FK-11 environment, stimulus, stimulus class}{chapter.15}% 743
-\BOOKMARK [2][-]{subsection.15.11.1}{Definition}{section.15.11}% 744
-\BOOKMARK [2][-]{subsection.15.11.2}{Examples}{section.15.11}% 745
-\BOOKMARK [2][-]{subsection.15.11.3}{Assessment}{section.15.11}% 746
-\BOOKMARK [2][-]{subsection.15.11.4}{Relevant Literature}{section.15.11}% 747
-\BOOKMARK [2][-]{subsection.15.11.5}{Related Tasks}{section.15.11}% 748
-\BOOKMARK [1][-]{section.15.12}{FK-12 stimulus equivalence}{chapter.15}% 749
-\BOOKMARK [2][-]{subsection.15.12.1}{Definition}{section.15.12}% 750
-\BOOKMARK [2][-]{subsection.15.12.2}{Examples}{section.15.12}% 751
-\BOOKMARK [2][-]{subsection.15.12.3}{Assessment}{section.15.12}% 752
-\BOOKMARK [2][-]{subsection.15.12.4}{Relevant Literature}{section.15.12}% 753
-\BOOKMARK [1][-]{section.15.13}{FK-13 reflexive relations \(US-UR\)}{chapter.15}% 754
-\BOOKMARK [2][-]{subsection.15.13.1}{Definition}{section.15.13}% 755
-\BOOKMARK [2][-]{subsection.15.13.2}{Examples}{section.15.13}% 756
-\BOOKMARK [2][-]{subsection.15.13.3}{Assessment}{section.15.13}% 757
-\BOOKMARK [2][-]{subsection.15.13.4}{Relevant Literature}{section.15.13}% 758
-\BOOKMARK [2][-]{subsection.15.13.5}{Related Tasks}{section.15.13}% 759
-\BOOKMARK [1][-]{section.15.14}{FK-14 respondent conditioning \(CS-CR\)}{chapter.15}% 760
-\BOOKMARK [2][-]{subsection.15.14.1}{Definition}{section.15.14}% 761
-\BOOKMARK [2][-]{subsection.15.14.2}{Examples}{section.15.14}% 762
-\BOOKMARK [2][-]{subsection.15.14.3}{Assessment}{section.15.14}% 763
-\BOOKMARK [2][-]{subsection.15.14.4}{Relevant Literature}{section.15.14}% 764
-\BOOKMARK [2][-]{subsection.15.14.5}{Related Tasks}{section.15.14}% 765
-\BOOKMARK [1][-]{section.15.15}{FK-15 operant conditioning}{chapter.15}% 766
-\BOOKMARK [2][-]{subsection.15.15.1}{Definition}{section.15.15}% 767
-\BOOKMARK [2][-]{subsection.15.15.2}{Examples}{section.15.15}% 768
-\BOOKMARK [2][-]{subsection.15.15.3}{Assessment}{section.15.15}% 769
-\BOOKMARK [2][-]{subsection.15.15.4}{Relevant Literature}{section.15.15}% 770
-\BOOKMARK [2][-]{subsection.15.15.5}{Related Tasks}{section.15.15}% 771
-\BOOKMARK [1][-]{section.15.16}{FK-16 respondent-operant interactions}{chapter.15}% 772
-\BOOKMARK [2][-]{subsection.15.16.1}{Definition}{section.15.16}% 773
-\BOOKMARK [2][-]{subsection.15.16.2}{Examples}{section.15.16}% 774
-\BOOKMARK [2][-]{subsection.15.16.3}{Assessment}{section.15.16}% 775
-\BOOKMARK [2][-]{subsection.15.16.4}{Relevant Literature}{section.15.16}% 776
-\BOOKMARK [2][-]{subsection.15.16.5}{Related Tasks}{section.15.16}% 777
-\BOOKMARK [1][-]{section.15.17}{FK-17 unconditioned reinforcement}{chapter.15}% 778
-\BOOKMARK [2][-]{subsection.15.17.1}{Definition}{section.15.17}% 779
-\BOOKMARK [2][-]{subsection.15.17.2}{Examples}{section.15.17}% 780
-\BOOKMARK [2][-]{subsection.15.17.3}{Assessment}{section.15.17}% 781
-\BOOKMARK [2][-]{subsection.15.17.4}{Relevant Literature}{section.15.17}% 782
-\BOOKMARK [2][-]{subsection.15.17.5}{Related Tasks}{section.15.17}% 783
-\BOOKMARK [1][-]{section.15.18}{FK-18 conditioned reinforcement}{chapter.15}% 784
-\BOOKMARK [2][-]{subsection.15.18.1}{Definition}{section.15.18}% 785
-\BOOKMARK [2][-]{subsection.15.18.2}{Examples}{section.15.18}% 786
-\BOOKMARK [2][-]{subsection.15.18.3}{Assessment}{section.15.18}% 787
-\BOOKMARK [2][-]{subsection.15.18.4}{Relevant Literature}{section.15.18}% 788
-\BOOKMARK [2][-]{subsection.15.18.5}{Related Tasks}{section.15.18}% 789
-\BOOKMARK [1][-]{section.15.19}{FK-19 unconditioned punishment}{chapter.15}% 790
-\BOOKMARK [2][-]{subsection.15.19.1}{Definition}{section.15.19}% 791
-\BOOKMARK [2][-]{subsection.15.19.2}{Examples}{section.15.19}% 792
-\BOOKMARK [2][-]{subsection.15.19.3}{Assessment}{section.15.19}% 793
-\BOOKMARK [2][-]{subsection.15.19.4}{Relevant Literature}{section.15.19}% 794
-\BOOKMARK [2][-]{subsection.15.19.5}{Related Tasks}{section.15.19}% 795
-\BOOKMARK [2][-]{subsection.15.19.6}{Footnotes}{section.15.19}% 796
-\BOOKMARK [1][-]{section.15.20}{FK-20 conditioned punishment}{chapter.15}% 797
-\BOOKMARK [2][-]{subsection.15.20.1}{Definition}{section.15.20}% 798
-\BOOKMARK [2][-]{subsection.15.20.2}{Examples}{section.15.20}% 799
-\BOOKMARK [2][-]{subsection.15.20.3}{Assessment}{section.15.20}% 800
-\BOOKMARK [2][-]{subsection.15.20.4}{Relevant Literature}{section.15.20}% 801
-\BOOKMARK [2][-]{subsection.15.20.5}{Related Tasks}{section.15.20}% 802
-\BOOKMARK [1][-]{section.15.21}{FK-21 schedules of reinforcement and punishment}{chapter.15}% 803
-\BOOKMARK [2][-]{subsection.15.21.1}{Definition}{section.15.21}% 804
-\BOOKMARK [2][-]{subsection.15.21.2}{Examples}{section.15.21}% 805
-\BOOKMARK [2][-]{subsection.15.21.3}{Assessment}{section.15.21}% 806
-\BOOKMARK [2][-]{subsection.15.21.4}{Relevant Literature}{section.15.21}% 807
-\BOOKMARK [2][-]{subsection.15.21.5}{Related Tasks}{section.15.21}% 808
-\BOOKMARK [1][-]{section.15.22}{FK-22 extinction}{chapter.15}% 809
-\BOOKMARK [2][-]{subsection.15.22.1}{Definition}{section.15.22}% 810
-\BOOKMARK [2][-]{subsection.15.22.2}{Examples}{section.15.22}% 811
-\BOOKMARK [2][-]{subsection.15.22.3}{Assessment}{section.15.22}% 812
-\BOOKMARK [2][-]{subsection.15.22.4}{Relevant Literature}{section.15.22}% 813
-\BOOKMARK [2][-]{subsection.15.22.5}{Related Tasks}{section.15.22}% 814
-\BOOKMARK [1][-]{section.15.23}{FK-23 automatic reinforcement and punishment}{chapter.15}% 815
-\BOOKMARK [2][-]{subsection.15.23.1}{Definition}{section.15.23}% 816
-\BOOKMARK [2][-]{subsection.15.23.2}{Examples}{section.15.23}% 817
-\BOOKMARK [2][-]{subsection.15.23.3}{Assessment}{section.15.23}% 818
-\BOOKMARK [2][-]{subsection.15.23.4}{Relevant Literature}{section.15.23}% 819
-\BOOKMARK [2][-]{subsection.15.23.5}{Related Tasks}{section.15.23}% 820
-\BOOKMARK [1][-]{section.15.24}{FK-24 stimulus control}{chapter.15}% 821
-\BOOKMARK [2][-]{subsection.15.24.1}{Definition}{section.15.24}% 822
-\BOOKMARK [2][-]{subsection.15.24.2}{Examples}{section.15.24}% 823
-\BOOKMARK [2][-]{subsection.15.24.3}{Assessment}{section.15.24}% 824
-\BOOKMARK [2][-]{subsection.15.24.4}{Relevant Literature}{section.15.24}% 825
-\BOOKMARK [2][-]{subsection.15.24.5}{Related Tasks}{section.15.24}% 826
-\BOOKMARK [1][-]{section.15.25}{FK-25 multiple functions of a single stimulus}{chapter.15}% 827
-\BOOKMARK [2][-]{subsection.15.25.1}{Definition}{section.15.25}% 828
-\BOOKMARK [2][-]{subsection.15.25.2}{Assessment}{section.15.25}% 829
-\BOOKMARK [2][-]{subsection.15.25.3}{Relevant Literature}{section.15.25}% 830
-\BOOKMARK [2][-]{subsection.15.25.4}{Related Tasks}{section.15.25}% 831
-\BOOKMARK [1][-]{section.15.26}{FK-26 unconditioned motivating operations}{chapter.15}% 832
-\BOOKMARK [2][-]{subsection.15.26.1}{Definition}{section.15.26}% 833
-\BOOKMARK [2][-]{subsection.15.26.2}{Examples}{section.15.26}% 834
-\BOOKMARK [2][-]{subsection.15.26.3}{Assessment}{section.15.26}% 835
-\BOOKMARK [2][-]{subsection.15.26.4}{Relevant Literature}{section.15.26}% 836
-\BOOKMARK [2][-]{subsection.15.26.5}{Related Tasks}{section.15.26}% 837
-\BOOKMARK [1][-]{section.15.27}{FK-27 conditioned motivating operations}{chapter.15}% 838
-\BOOKMARK [2][-]{subsection.15.27.1}{Definition}{section.15.27}% 839
-\BOOKMARK [2][-]{subsection.15.27.2}{Examples}{section.15.27}% 840
-\BOOKMARK [2][-]{subsection.15.27.3}{Assessment}{section.15.27}% 841
-\BOOKMARK [2][-]{subsection.15.27.4}{Relevant Literature}{section.15.27}% 842
-\BOOKMARK [2][-]{subsection.15.27.5}{Related Tasks}{section.15.27}% 843
-\BOOKMARK [1][-]{section.15.28}{FK-28 transitive, reflexive, surrogate motivating operations}{chapter.15}% 844
-\BOOKMARK [2][-]{subsection.15.28.1}{Definition}{section.15.28}% 845
-\BOOKMARK [2][-]{subsection.15.28.2}{Examples}{section.15.28}% 846
-\BOOKMARK [2][-]{subsection.15.28.3}{Assessment}{section.15.28}% 847
-\BOOKMARK [2][-]{subsection.15.28.4}{Relevant Literature}{section.15.28}% 848
-\BOOKMARK [2][-]{subsection.15.28.5}{Related Tasks}{section.15.28}% 849
-\BOOKMARK [1][-]{section.15.29}{FK-29 distinguish between the discriminative stimulus and the motivating operation}{chapter.15}% 850
-\BOOKMARK [2][-]{subsection.15.29.1}{Definition}{section.15.29}% 851
-\BOOKMARK [2][-]{subsection.15.29.2}{Examples}{section.15.29}% 852
-\BOOKMARK [2][-]{subsection.15.29.3}{Assessment}{section.15.29}% 853
-\BOOKMARK [2][-]{subsection.15.29.4}{Relevant Literature}{section.15.29}% 854
-\BOOKMARK [2][-]{subsection.15.29.5}{Related Tasks}{section.15.29}% 855
-\BOOKMARK [1][-]{section.15.30}{FK-30 distinguish between motivating operation and reinforcement effects}{chapter.15}% 856
-\BOOKMARK [2][-]{subsection.15.30.1}{Definition}{section.15.30}% 857
-\BOOKMARK [2][-]{subsection.15.30.2}{Examples}{section.15.30}% 858
-\BOOKMARK [2][-]{subsection.15.30.3}{Assessment}{section.15.30}% 859
-\BOOKMARK [2][-]{subsection.15.30.4}{Relevant Literature}{section.15.30}% 860
-\BOOKMARK [2][-]{subsection.15.30.5}{Related Tasks}{section.15.30}% 861
-\BOOKMARK [1][-]{section.15.31}{FK-31 behavioral contingencies}{chapter.15}% 862
-\BOOKMARK [2][-]{subsection.15.31.1}{Definition}{section.15.31}% 863
-\BOOKMARK [2][-]{subsection.15.31.2}{Examples}{section.15.31}% 864
-\BOOKMARK [2][-]{subsection.15.31.3}{Assessment}{section.15.31}% 865
-\BOOKMARK [2][-]{subsection.15.31.4}{Relevant Literature}{section.15.31}% 866
-\BOOKMARK [2][-]{subsection.15.31.5}{Related Tasks}{section.15.31}% 867
-\BOOKMARK [1][-]{section.15.32}{FK-32 contiguity}{chapter.15}% 868
-\BOOKMARK [2][-]{subsection.15.32.1}{Definition}{section.15.32}% 869
-\BOOKMARK [2][-]{subsection.15.32.2}{Examples}{section.15.32}% 870
-\BOOKMARK [2][-]{subsection.15.32.3}{Assessment}{section.15.32}% 871
-\BOOKMARK [2][-]{subsection.15.32.4}{Relevant Literature}{section.15.32}% 872
-\BOOKMARK [2][-]{subsection.15.32.5}{Related Tasks}{section.15.32}% 873
-\BOOKMARK [1][-]{section.15.33}{FK-33 functional relations}{chapter.15}% 874
-\BOOKMARK [2][-]{subsection.15.33.1}{Definition}{section.15.33}% 875
-\BOOKMARK [2][-]{subsection.15.33.2}{Examples}{section.15.33}% 876
-\BOOKMARK [2][-]{subsection.15.33.3}{Assessment}{section.15.33}% 877
-\BOOKMARK [2][-]{subsection.15.33.4}{Relevant Literature}{section.15.33}% 878
-\BOOKMARK [2][-]{subsection.15.33.5}{Related Tasks}{section.15.33}% 879
-\BOOKMARK [1][-]{section.15.34}{FK-34 conditional discriminations}{chapter.15}% 880
-\BOOKMARK [2][-]{subsection.15.34.1}{Definition}{section.15.34}% 881
-\BOOKMARK [2][-]{subsection.15.34.2}{Examples}{section.15.34}% 882
-\BOOKMARK [2][-]{subsection.15.34.3}{Assessment}{section.15.34}% 883
-\BOOKMARK [2][-]{subsection.15.34.4}{Relevant Literature}{section.15.34}% 884
-\BOOKMARK [2][-]{subsection.15.34.5}{Related Tasks}{section.15.34}% 885
-\BOOKMARK [1][-]{section.15.35}{FK-35 stimulus discrimination}{chapter.15}% 886
-\BOOKMARK [2][-]{subsection.15.35.1}{Definition}{section.15.35}% 887
-\BOOKMARK [2][-]{subsection.15.35.2}{Examples}{section.15.35}% 888
-\BOOKMARK [2][-]{subsection.15.35.3}{Assessment}{section.15.35}% 889
-\BOOKMARK [2][-]{subsection.15.35.4}{Relevant Literature}{section.15.35}% 890
-\BOOKMARK [2][-]{subsection.15.35.5}{Related Tasks}{section.15.35}% 891
-\BOOKMARK [1][-]{section.15.36}{FK-36 response generalization}{chapter.15}% 892
-\BOOKMARK [2][-]{subsection.15.36.1}{Definition}{section.15.36}% 893
-\BOOKMARK [2][-]{subsection.15.36.2}{Examples}{section.15.36}% 894
-\BOOKMARK [2][-]{subsection.15.36.3}{Assessment}{section.15.36}% 895
-\BOOKMARK [2][-]{subsection.15.36.4}{Relevant Literature}{section.15.36}% 896
-\BOOKMARK [2][-]{subsection.15.36.5}{Related Tasks}{section.15.36}% 897
-\BOOKMARK [1][-]{section.15.37}{FK-37 stimulus generalization}{chapter.15}% 898
-\BOOKMARK [2][-]{subsection.15.37.1}{Definition}{section.15.37}% 899
-\BOOKMARK [2][-]{subsection.15.37.2}{Examples}{section.15.37}% 900
-\BOOKMARK [2][-]{subsection.15.37.3}{Assessment}{section.15.37}% 901
-\BOOKMARK [2][-]{subsection.15.37.4}{Relevant Literature}{section.15.37}% 902
-\BOOKMARK [2][-]{subsection.15.37.5}{Related Tasks}{section.15.37}% 903
-\BOOKMARK [1][-]{section.15.38}{FK-38 behavioral contrast}{chapter.15}% 904
-\BOOKMARK [2][-]{subsection.15.38.1}{Definition}{section.15.38}% 905
-\BOOKMARK [2][-]{subsection.15.38.2}{Examples}{section.15.38}% 906
-\BOOKMARK [2][-]{subsection.15.38.3}{Assessment}{section.15.38}% 907
-\BOOKMARK [2][-]{subsection.15.38.4}{Relevant Literature}{section.15.38}% 908
-\BOOKMARK [2][-]{subsection.15.38.5}{Related Tasks}{section.15.38}% 909
-\BOOKMARK [1][-]{section.15.39}{FK-39 behavioral momentum}{chapter.15}% 910
-\BOOKMARK [2][-]{subsection.15.39.1}{Definition}{section.15.39}% 911
-\BOOKMARK [2][-]{subsection.15.39.2}{Examples}{section.15.39}% 912
-\BOOKMARK [2][-]{subsection.15.39.3}{Assessment}{section.15.39}% 913
-\BOOKMARK [2][-]{subsection.15.39.4}{Relevant Literature}{section.15.39}% 914
-\BOOKMARK [2][-]{subsection.15.39.5}{Related Tasks}{section.15.39}% 915
-\BOOKMARK [1][-]{section.15.40}{FK-40 matching law}{chapter.15}% 916
-\BOOKMARK [2][-]{subsection.15.40.1}{Definition}{section.15.40}% 917
-\BOOKMARK [2][-]{subsection.15.40.2}{Assessment}{section.15.40}% 918
-\BOOKMARK [2][-]{subsection.15.40.3}{Relevant Literature}{section.15.40}% 919
-\BOOKMARK [2][-]{subsection.15.40.4}{Related Tasks}{section.15.40}% 920
-\BOOKMARK [1][-]{section.15.41}{FK-41 contingency-shaped behavior}{chapter.15}% 921
-\BOOKMARK [2][-]{subsection.15.41.1}{Definition}{section.15.41}% 922
-\BOOKMARK [2][-]{subsection.15.41.2}{Examples}{section.15.41}% 923
-\BOOKMARK [2][-]{subsection.15.41.3}{Assessment}{section.15.41}% 924
-\BOOKMARK [2][-]{subsection.15.41.4}{Relevant Literature}{section.15.41}% 925
-\BOOKMARK [2][-]{subsection.15.41.5}{Related Tasks}{section.15.41}% 926
-\BOOKMARK [1][-]{section.15.42}{FK-42 rule-governed behavior}{chapter.15}% 927
-\BOOKMARK [2][-]{subsection.15.42.1}{Definition}{section.15.42}% 928
-\BOOKMARK [2][-]{subsection.15.42.2}{Examples}{section.15.42}% 929
-\BOOKMARK [2][-]{subsection.15.42.3}{Assessment}{section.15.42}% 930
-\BOOKMARK [2][-]{subsection.15.42.4}{Relevant Literature}{section.15.42}% 931
-\BOOKMARK [2][-]{subsection.15.42.5}{Related Tasks}{section.15.42}% 932
-\BOOKMARK [1][-]{section.15.43}{FK-43 Echoics}{chapter.15}% 933
-\BOOKMARK [2][-]{subsection.15.43.1}{Definition}{section.15.43}% 934
-\BOOKMARK [2][-]{subsection.15.43.2}{Examples}{section.15.43}% 935
-\BOOKMARK [2][-]{subsection.15.43.3}{Assessment}{section.15.43}% 936
-\BOOKMARK [2][-]{subsection.15.43.4}{Relevant Literature}{section.15.43}% 937
-\BOOKMARK [2][-]{subsection.15.43.5}{Related Tasks}{section.15.43}% 938
-\BOOKMARK [1][-]{section.15.44}{FK-44 Mands}{chapter.15}% 939
-\BOOKMARK [2][-]{subsection.15.44.1}{Definition}{section.15.44}% 940
-\BOOKMARK [2][-]{subsection.15.44.2}{Examples}{section.15.44}% 941
-\BOOKMARK [2][-]{subsection.15.44.3}{Assessment}{section.15.44}% 942
-\BOOKMARK [2][-]{subsection.15.44.4}{Relevant Literature}{section.15.44}% 943
-\BOOKMARK [2][-]{subsection.15.44.5}{Related Tasks}{section.15.44}% 944
-\BOOKMARK [1][-]{section.15.45}{FK-45 Tacts}{chapter.15}% 945
-\BOOKMARK [2][-]{subsection.15.45.1}{Definition}{section.15.45}% 946
-\BOOKMARK [2][-]{subsection.15.45.2}{Examples}{section.15.45}% 947
-\BOOKMARK [2][-]{subsection.15.45.3}{Assessment}{section.15.45}% 948
-\BOOKMARK [2][-]{subsection.15.45.4}{Relevant Literature}{section.15.45}% 949
-\BOOKMARK [2][-]{subsection.15.45.5}{Related Tasks}{section.15.45}% 950
-\BOOKMARK [1][-]{section.15.46}{FK-46 Intraverbals}{chapter.15}% 951
-\BOOKMARK [2][-]{subsection.15.46.1}{Definition}{section.15.46}% 952
-\BOOKMARK [2][-]{subsection.15.46.2}{Examples}{section.15.46}% 953
-\BOOKMARK [2][-]{subsection.15.46.3}{Assessment}{section.15.46}% 954
-\BOOKMARK [2][-]{subsection.15.46.4}{Relevant Literature}{section.15.46}% 955
-\BOOKMARK [2][-]{subsection.15.46.5}{Related Tasks}{section.15.46}% 956
-\BOOKMARK [1][-]{section.15.47}{FK-47 Identify the measurable dimensions of behavior \(e.g., rate, duration, latency, interresponse time\).}{chapter.15}% 957
-\BOOKMARK [2][-]{subsection.15.47.1}{Definition}{section.15.47}% 958
-\BOOKMARK [2][-]{subsection.15.47.2}{Assessment}{section.15.47}% 959
-\BOOKMARK [2][-]{subsection.15.47.3}{Relevant Literature}{section.15.47}% 960
-\BOOKMARK [2][-]{subsection.15.47.4}{Related Tasks}{section.15.47}% 961
-\BOOKMARK [1][-]{section.15.48}{FK-48 State the advantages and disadvantages of using continuous measurement procedures and discontinuous measurement procedures \(e.g., partial- and whole-interval recording, momentary time sampling\).}{chapter.15}% 962
-\BOOKMARK [2][-]{subsection.15.48.1}{Definition}{section.15.48}% 963
-\BOOKMARK [2][-]{subsection.15.48.2}{Assessment}{section.15.48}% 964
-\BOOKMARK [2][-]{subsection.15.48.3}{Relevant Literature}{section.15.48}% 965
-\BOOKMARK [2][-]{subsection.15.48.4}{Related Tasks}{section.15.48}% 966
-\BOOKMARK [0][-]{chapter.16}{After Internship}{}% 967
-\BOOKMARK [0][-]{chapter*.166}{References}{}% 968
+\BOOKMARK [1][-]{section.1.5}{Versions}{chapter.1}% 6
+\BOOKMARK [0][-]{chapter.2}{Supervision Taxonomy}{}% 7
+\BOOKMARK [1][-]{section.2.1}{What is ABA Supervision?}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.2}{A Taxonomy of ABA Supervision}{chapter.2}% 9
+\BOOKMARK [1][-]{section.2.3}{Development of Behavior Analysis Supervision}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.4}{Case Study: Associated Aardvarks for Autism \(AAA\)}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.5}{Resources for Supervised Experience}{chapter.2}% 12
+\BOOKMARK [0][-]{chapter.3}{Refresher: Supervisor Workshop}{}% 13
+\BOOKMARK [1][-]{section.3.1}{Purpose of Supervision}{chapter.3}% 14
+\BOOKMARK [1][-]{section.3.2}{Features of Supervision}{chapter.3}% 15
+\BOOKMARK [1][-]{section.3.3}{Features of Supervision}{chapter.3}% 16
+\BOOKMARK [1][-]{section.3.4}{Using Behavioral Skills Training}{chapter.3}% 17
+\BOOKMARK [1][-]{section.3.5}{Delivering Performance Feedback}{chapter.3}% 18
+\BOOKMARK [1][-]{section.3.6}{Evaluating the Effects of Supervision}{chapter.3}% 19
+\BOOKMARK [0][-]{chapter.4}{A. Measurement}{}% 20
+\BOOKMARK [1][-]{section.4.1}{A-01 Measure frequency \(i.e., count\).}{chapter.4}% 21
+\BOOKMARK [1][-]{section.4.2}{A-02 Measure rate \(i.e., count per unit time\).}{chapter.4}% 22
+\BOOKMARK [1][-]{section.4.3}{A-03 Measure duration.}{chapter.4}% 23
+\BOOKMARK [1][-]{section.4.4}{A-04 Measure latency.}{chapter.4}% 24
+\BOOKMARK [1][-]{section.4.5}{A-05 Measure interresponse time \(IRT\).}{chapter.4}% 25
+\BOOKMARK [1][-]{section.4.6}{A-06 Measure percent of occurrence.}{chapter.4}% 26
+\BOOKMARK [1][-]{section.4.7}{A-07 Measure trials to criterion.}{chapter.4}% 27
+\BOOKMARK [1][-]{section.4.8}{A-08 Assess and interpret interobserver agreement.}{chapter.4}% 28
+\BOOKMARK [1][-]{section.4.9}{A-09 Evaluate the accuracy and reliability of measurement procedures.}{chapter.4}% 29
+\BOOKMARK [1][-]{section.4.10}{A-10 Design, plot, and interpret data using equal-interval graphs.}{chapter.4}% 30
+\BOOKMARK [1][-]{section.4.11}{A-11 Design, plot, and interpret data using a cumulative record to display data.}{chapter.4}% 31
+\BOOKMARK [1][-]{section.4.12}{A-12 Design and implement continuous measurement procedures \(e.g., event recording\).}{chapter.4}% 32
+\BOOKMARK [1][-]{section.4.13}{A-13 Design and implement discontinuous measurement procedures \(e.g., partial \046 whole interval, momentary time sampling\).}{chapter.4}% 33
+\BOOKMARK [1][-]{section.4.14}{A-14 Design and implement choice measures.}{chapter.4}% 34
+\BOOKMARK [0][-]{chapter.5}{B. Experimental Design}{}% 35
+\BOOKMARK [1][-]{section.5.1}{B-01 Use the dimensions of applied behavior analysis \(Baer, Wolf, \046 Risley, 1968\) to evaluate whether interventions are behavior analytic in nature.}{chapter.5}% 36
+\BOOKMARK [1][-]{section.5.2}{B-02 Review and interpret articles from the behavior-analytic literature.}{chapter.5}% 37
+\BOOKMARK [1][-]{section.5.3}{B-03 Systematically arrange independent variables to demonstrate their effects on dependent variables.}{chapter.5}% 38
+\BOOKMARK [1][-]{section.5.4}{B-04 Use withdrawal/reversal designs.}{chapter.5}% 39
+\BOOKMARK [1][-]{section.5.5}{B-05 Use alternating treatments \(i.e., multielement\) designs.}{chapter.5}% 40
+\BOOKMARK [1][-]{section.5.6}{B-06 Use changing criterion designs.}{chapter.5}% 41
+\BOOKMARK [1][-]{section.5.7}{B-07 Use multiple baseline designs.}{chapter.5}% 42
+\BOOKMARK [1][-]{section.5.8}{B-08 Use multiple probe designs.}{chapter.5}% 43
+\BOOKMARK [1][-]{section.5.9}{B-09 Use combinations of design elements.}{chapter.5}% 44
+\BOOKMARK [1][-]{section.5.10}{B-10 Conduct a component analysis to determine the effective components of an intervention package.}{chapter.5}% 45
+\BOOKMARK [1][-]{section.5.11}{B-11 Conduct a parametric analysis to determine the effective values of an independent variable.}{chapter.5}% 46
+\BOOKMARK [0][-]{chapter.6}{C. Behavior-Change Considerations}{}% 47
+\BOOKMARK [1][-]{section.6.1}{C-01 State and plan for the possible unwanted effects of reinforcement.}{chapter.6}% 48
+\BOOKMARK [1][-]{section.6.2}{C-02 State and plan for the possible unwanted effects of punishment.}{chapter.6}% 49
+\BOOKMARK [1][-]{section.6.3}{C-03 State and plan for the possible unwanted effects of extinction.}{chapter.6}% 50
+\BOOKMARK [0][-]{chapter.7}{D. Fundamental Elements of Behavior Change}{}% 51
+\BOOKMARK [1][-]{section.7.1}{D-01 Use positive and negative reinforcement.}{chapter.7}% 52
+\BOOKMARK [1][-]{section.7.2}{D-02 Use appropriate parameters and schedules of reinforcement.}{chapter.7}% 53
+\BOOKMARK [1][-]{section.7.3}{D-03 Use prompts and prompt fading.}{chapter.7}% 54
+\BOOKMARK [1][-]{section.7.4}{D-04 Use modeling and imitation training.}{chapter.7}% 55
+\BOOKMARK [1][-]{section.7.5}{D-05 Use shaping.}{chapter.7}% 56
+\BOOKMARK [1][-]{section.7.6}{D-06 Use chaining.}{chapter.7}% 57
+\BOOKMARK [1][-]{section.7.7}{D-07 Conduct task analyses.}{chapter.7}% 58
+\BOOKMARK [1][-]{section.7.8}{D-08 Use discrete-trial and free-operant arrangements.}{chapter.7}% 59
+\BOOKMARK [1][-]{section.7.9}{D-09 Use the verbal operants as a basis for language assessment.}{chapter.7}% 60
+\BOOKMARK [1][-]{section.7.10}{D-10 Use echoic training.}{chapter.7}% 61
+\BOOKMARK [1][-]{section.7.11}{D-11 Use mand training.}{chapter.7}% 62
+\BOOKMARK [1][-]{section.7.12}{D-12 Use tact training.}{chapter.7}% 63
+\BOOKMARK [1][-]{section.7.13}{D-13 Use intraverbal training.}{chapter.7}% 64
+\BOOKMARK [1][-]{section.7.14}{D-14 Use listener training.}{chapter.7}% 65
+\BOOKMARK [1][-]{section.7.15}{D-15 Identify punishers.}{chapter.7}% 66
+\BOOKMARK [1][-]{section.7.16}{D-16 Use positive and negative punishment.}{chapter.7}% 67
+\BOOKMARK [1][-]{section.7.17}{D-17 Use appropriate parameters and schedules of punishment.}{chapter.7}% 68
+\BOOKMARK [1][-]{section.7.18}{D-18 Use extinction.}{chapter.7}% 69
+\BOOKMARK [1][-]{section.7.19}{D-19 Use combinations of reinforcement with punishment and extinction.}{chapter.7}% 70
+\BOOKMARK [1][-]{section.7.20}{D-20 Use response-independent \(time-based\) schedules of reinforcement \(i.e., noncontingent reinforcement\).}{chapter.7}% 71
+\BOOKMARK [1][-]{section.7.21}{D-21 Use differential reinforcement \(e.g., DRO, DRA, DRI, DRL, DRH\).}{chapter.7}% 72
+\BOOKMARK [0][-]{chapter.8}{E. Specific Behavior-Change Procedures}{}% 73
+\BOOKMARK [1][-]{section.8.1}{E-01 Use interventions based on manipulation of antecedents, such as motivating operations and discriminative stimuli.}{chapter.8}% 74
+\BOOKMARK [1][-]{section.8.2}{E-02 Use discrimination training procedures.}{chapter.8}% 75
+\BOOKMARK [1][-]{section.8.3}{E-03 Use instructions and rules.}{chapter.8}% 76
+\BOOKMARK [1][-]{section.8.4}{E-04 Use contingency contracting \(i.e., behavioral contracts\).}{chapter.8}% 77
+\BOOKMARK [1][-]{section.8.5}{E-05 Use independent, interdependent, and dependent group contingencies.}{chapter.8}% 78
+\BOOKMARK [1][-]{section.8.6}{E-06 Use stimulus equivalence procedures.}{chapter.8}% 79
+\BOOKMARK [1][-]{section.8.7}{E-07 Plan for behavioral contrast effects.}{chapter.8}% 80
+\BOOKMARK [1][-]{section.8.8}{E-08 Use the matching law and recognize factors influencing choice.}{chapter.8}% 81
+\BOOKMARK [1][-]{section.8.9}{E-09 Arrange high-probability request sequences.}{chapter.8}% 82
+\BOOKMARK [1][-]{section.8.10}{E-10 Use the Premack principle.}{chapter.8}% 83
+\BOOKMARK [1][-]{section.8.11}{E-11 Use pairing procedures to establish new conditioned reinforcers and punishers.}{chapter.8}% 84
+\BOOKMARK [1][-]{section.8.12}{E-12 Use errorless learning procedures.}{chapter.8}% 85
+\BOOKMARK [1][-]{section.8.13}{E-13 Use matching-to-sample procedures.}{chapter.8}% 86
+\BOOKMARK [0][-]{chapter.9}{F. Behavior-Change Systems}{}% 87
+\BOOKMARK [1][-]{section.9.1}{F-01 Use self-management strategies.}{chapter.9}% 88
+\BOOKMARK [1][-]{section.9.2}{F-02 Use token economies and other conditioned reinforcement systems.}{chapter.9}% 89
+\BOOKMARK [1][-]{section.9.3}{F-03 Use Direct Instruction.}{chapter.9}% 90
+\BOOKMARK [1][-]{section.9.4}{F-04 Use precision teaching.}{chapter.9}% 91
+\BOOKMARK [1][-]{section.9.5}{F-05 Use personalized systems of instruction \(PSI\).}{chapter.9}% 92
+\BOOKMARK [1][-]{section.9.6}{F-06 Use incidental teaching.}{chapter.9}% 93
+\BOOKMARK [1][-]{section.9.7}{F-07 Use functional communication training.}{chapter.9}% 94
+\BOOKMARK [1][-]{section.9.8}{F-08 Use augmentative communication systems.}{chapter.9}% 95
+\BOOKMARK [0][-]{chapter.10}{G. Identification of the Problem}{}% 96
+\BOOKMARK [1][-]{section.10.1}{G-01 Review records and available data at the outset of the case.}{chapter.10}% 97
+\BOOKMARK [1][-]{section.10.2}{G-02 Consider biological/medical variables that may be affecting the client.}{chapter.10}% 98
+\BOOKMARK [1][-]{section.10.3}{G-03 Conduct a preliminary assessment of the client in order to identify the referral problem.}{chapter.10}% 99
+\BOOKMARK [1][-]{section.10.4}{G-04 Explain behavioral concepts using nontechnical language.}{chapter.10}% 100
+\BOOKMARK [1][-]{section.10.5}{G-05 Describe and explain behavior, including private events, in behavior-analytic \(nonmentalistic\) terms.}{chapter.10}% 101
+\BOOKMARK [1][-]{section.10.6}{G-06 Provide behavior-analytic services in collaboration with others who support and/or provide services to one's clients.}{chapter.10}% 102
+\BOOKMARK [1][-]{section.10.7}{G-07 Practice within one's limits of professional competence in applied behavior analysis, and obtain consultation, supervision, and training, or make referrals as necessary.}{chapter.10}% 103
+\BOOKMARK [1][-]{section.10.8}{G-08 Identify and make environmental changes that reduce the need for behavior analysis services.}{chapter.10}% 104
+\BOOKMARK [0][-]{chapter.11}{H. Measurement}{}% 105
+\BOOKMARK [1][-]{section.11.1}{H-01 Select a measurement system to obtain representative data given the dimensions of the behavior and the logistics of observing and recording.}{chapter.11}% 106
+\BOOKMARK [1][-]{section.11.2}{H-02 Select a schedule of observation and recording periods.}{chapter.11}% 107
+\BOOKMARK [1][-]{section.11.3}{H-03 Select a data display that effectively communicates relevant quantitative relations.}{chapter.11}% 108
+\BOOKMARK [1][-]{section.11.4}{H-04 Evaluate changes in level, trend, and variability.}{chapter.11}% 109
+\BOOKMARK [1][-]{section.11.5}{H-05 Evaluate temporal relations between observed variables \(within \046 between sessions, time series\).}{chapter.11}% 110
+\BOOKMARK [0][-]{chapter.12}{I. Assessment}{}% 111
+\BOOKMARK [1][-]{section.12.1}{I-01 Define behavior in observable and measurable terms.}{chapter.12}% 112
+\BOOKMARK [1][-]{section.12.2}{I-02 Define environmental variables in observable and measurable terms.}{chapter.12}% 113
+\BOOKMARK [1][-]{section.12.3}{I-03 Design and implement individualized behavioral assessment procedures.}{chapter.12}% 114
+\BOOKMARK [1][-]{section.12.4}{I-04 Design and implement the full range of functional assessment procedures.}{chapter.12}% 115
+\BOOKMARK [1][-]{section.12.5}{I-05 Organize, analyze, and interpret observed data.}{chapter.12}% 116
+\BOOKMARK [1][-]{section.12.6}{I-06 Make recommendations regarding behaviors that must be established, maintained, increased, or decreased.}{chapter.12}% 117
+\BOOKMARK [1][-]{section.12.7}{I-07 Design and conduct preference assessments to identify putative reinforcers.}{chapter.12}% 118
+\BOOKMARK [0][-]{chapter.13}{J. Intervention}{}% 119
+\BOOKMARK [1][-]{section.13.1}{J-01 State intervention goals in observable and measurable terms.}{chapter.13}% 120
+\BOOKMARK [1][-]{section.13.2}{J-02 Identify potential interventions based on assessment results and the best available scientific evidence.}{chapter.13}% 121
+\BOOKMARK [1][-]{section.13.3}{J-03 Select intervention strategies based on task analysis.}{chapter.13}% 122
+\BOOKMARK [1][-]{section.13.4}{J-04 Select intervention strategies based on client preferences.}{chapter.13}% 123
+\BOOKMARK [1][-]{section.13.5}{J-05 Select intervention strategies based on the client\220s current repertoires.}{chapter.13}% 124
+\BOOKMARK [1][-]{section.13.6}{J-06 Select intervention strategies based on supporting environments.}{chapter.13}% 125
+\BOOKMARK [1][-]{section.13.7}{J-07 Select intervention strategies based on environmental and resource constraints.}{chapter.13}% 126
+\BOOKMARK [1][-]{section.13.8}{J-08 Select intervention strategies based on the social validity of the intervention.}{chapter.13}% 127
+\BOOKMARK [1][-]{section.13.9}{J-09 Identify and address practical and ethical considerations when using experimental designs to demonstrate treatment effectiveness.}{chapter.13}% 128
+\BOOKMARK [1][-]{section.13.10}{J-10 When a behavior is to be decreased, select an acceptable alternative behavior to be established or increased.}{chapter.13}% 129
+\BOOKMARK [1][-]{section.13.11}{J-11 Program for stimulus and response generalization.}{chapter.13}% 130
+\BOOKMARK [1][-]{section.13.12}{J-12 Program for maintenance.}{chapter.13}% 131
+\BOOKMARK [1][-]{section.13.13}{J-13 Select behavioral cusps as goals for intervention when appropriate.}{chapter.13}% 132
+\BOOKMARK [1][-]{section.13.14}{J-14 Arrange instructional procedures to promote generative learning \(i.e., derived relations\).}{chapter.13}% 133
+\BOOKMARK [1][-]{section.13.15}{J-15 Base decision-making on data displayed in various formats.}{chapter.13}% 134
+\BOOKMARK [0][-]{chapter.14}{K. Implementation, Management, and Supervision}{}% 135
+\BOOKMARK [1][-]{section.14.1}{K-01 Provide for ongoing documentation of behavioral services.}{chapter.14}% 136
+\BOOKMARK [1][-]{section.14.2}{K-02 Identify the contingencies governing the behavior of those responsible for carrying out behavior-change procedures and design interventions accordingly.}{chapter.14}% 137
+\BOOKMARK [1][-]{section.14.3}{K-03 Design and use competency-based training for persons who are responsible for carrying out behavioral assessment and behavior-change procedures.}{chapter.14}% 138
+\BOOKMARK [1][-]{section.14.4}{K-04 Design and use effective performance monitoring and reinforcement systems.}{chapter.14}% 139
+\BOOKMARK [1][-]{section.14.5}{K-05 Design and use systems for monitoring procedural integrity.}{chapter.14}% 140
+\BOOKMARK [1][-]{section.14.6}{K-06 Provide supervision for behavior-change agents.}{chapter.14}% 141
+\BOOKMARK [1][-]{section.14.7}{K-07 Evaluate the effectiveness of the behavioral program.}{chapter.14}% 142
+\BOOKMARK [1][-]{section.14.8}{K-08 Establish support for behavior-analytic services from direct and indirect consumers.}{chapter.14}% 143
+\BOOKMARK [1][-]{section.14.9}{K-09 Secure the support of others to maintain the client\220s behavioral repertoires in their natural environments.}{chapter.14}% 144
+\BOOKMARK [1][-]{section.14.10}{K-10 Arrange for the orderly termination of services when they are no longer required.}{chapter.14}% 145
+\BOOKMARK [0][-]{chapter.15}{FK: Foundational Knowledge}{}% 146
+\BOOKMARK [1][-]{section.15.1}{FK-01 Lawfulness of behavior}{chapter.15}% 147
+\BOOKMARK [1][-]{section.15.2}{FK-02 Selectionism \(phylogenic, ontogenic, cultural\)}{chapter.15}% 148
+\BOOKMARK [1][-]{section.15.3}{FK-03 Determinism}{chapter.15}% 149
+\BOOKMARK [1][-]{section.15.4}{FK-04 Empiricism}{chapter.15}% 150
+\BOOKMARK [1][-]{section.15.5}{FK-05 Parsimony}{chapter.15}% 151
+\BOOKMARK [1][-]{section.15.6}{FK-06 Pragmatism}{chapter.15}% 152
+\BOOKMARK [1][-]{section.15.7}{FK-07 Environmental \(as opposed to mentalistic\) explanations of behavior}{chapter.15}% 153
+\BOOKMARK [1][-]{section.15.8}{FK-08 Distinguish between radical and methodological behaviorism.}{chapter.15}% 154
+\BOOKMARK [1][-]{section.15.9}{FK-09 Distinguish between the conceptual analysis of behavior, experimental analysis of behavior, applied behavior analysis, and behavioral service delivery.}{chapter.15}% 155
+\BOOKMARK [1][-]{section.15.10}{FK-10 Behavior, response, response class}{chapter.15}% 156
+\BOOKMARK [1][-]{section.15.11}{FK-11 Environment, stimulus, stimulus class}{chapter.15}% 157
+\BOOKMARK [1][-]{section.15.12}{FK-12 Stimulus equivalence}{chapter.15}% 158
+\BOOKMARK [1][-]{section.15.13}{FK-13 Reflexive relations \(US-UR\)}{chapter.15}% 159
+\BOOKMARK [1][-]{section.15.14}{FK-14 Respondent conditioning \(CS-CR\)}{chapter.15}% 160
+\BOOKMARK [1][-]{section.15.15}{FK-15 Operant conditioning}{chapter.15}% 161
+\BOOKMARK [1][-]{section.15.16}{FK-16 Respondent-operant interactions}{chapter.15}% 162
+\BOOKMARK [1][-]{section.15.17}{FK-17 Unconditioned reinforcement}{chapter.15}% 163
+\BOOKMARK [1][-]{section.15.18}{FK-18 Conditioned reinforcement}{chapter.15}% 164
+\BOOKMARK [1][-]{section.15.19}{FK-19 Unconditioned punishment}{chapter.15}% 165
+\BOOKMARK [1][-]{section.15.20}{FK-20 Conditioned punishment}{chapter.15}% 166
+\BOOKMARK [1][-]{section.15.21}{FK-21 Schedules of reinforcement and punishment}{chapter.15}% 167
+\BOOKMARK [1][-]{section.15.22}{FK-22 Extinction}{chapter.15}% 168
+\BOOKMARK [1][-]{section.15.23}{FK-23 Automatic reinforcement and punishment}{chapter.15}% 169
+\BOOKMARK [1][-]{section.15.24}{FK-24 Stimulus control}{chapter.15}% 170
+\BOOKMARK [1][-]{section.15.25}{FK-25 Multiple functions of a single stimulus}{chapter.15}% 171
+\BOOKMARK [1][-]{section.15.26}{FK-26 Unconditioned motivating operations}{chapter.15}% 172
+\BOOKMARK [1][-]{section.15.27}{FK-27 Conditioned motivating operations}{chapter.15}% 173
+\BOOKMARK [1][-]{section.15.28}{FK-28 Transitive, reflexive, surrogate motivating operations}{chapter.15}% 174
+\BOOKMARK [1][-]{section.15.29}{FK-29 Distinguish between the discriminative stimulus and the motivating operation}{chapter.15}% 175
+\BOOKMARK [1][-]{section.15.30}{FK-30 Distinguish between motivating operation and reinforcement effects}{chapter.15}% 176
+\BOOKMARK [1][-]{section.15.31}{FK-31 Behavioral contingencies}{chapter.15}% 177
+\BOOKMARK [1][-]{section.15.32}{FK-32 Contiguity}{chapter.15}% 178
+\BOOKMARK [1][-]{section.15.33}{FK-33 Functional relations}{chapter.15}% 179
+\BOOKMARK [1][-]{section.15.34}{FK-34 Conditional discriminations}{chapter.15}% 180
+\BOOKMARK [1][-]{section.15.35}{FK-35 Stimulus discrimination}{chapter.15}% 181
+\BOOKMARK [1][-]{section.15.36}{FK-36 Response generalization}{chapter.15}% 182
+\BOOKMARK [1][-]{section.15.37}{FK-37 Stimulus generalization}{chapter.15}% 183
+\BOOKMARK [1][-]{section.15.38}{FK-38 Behavioral contrast}{chapter.15}% 184
+\BOOKMARK [1][-]{section.15.39}{FK-39 Behavioral momentum}{chapter.15}% 185
+\BOOKMARK [1][-]{section.15.40}{FK-40 Matching law}{chapter.15}% 186
+\BOOKMARK [1][-]{section.15.41}{FK-41 Contingency-shaped behavior}{chapter.15}% 187
+\BOOKMARK [1][-]{section.15.42}{FK-42 Rule-governed behavior}{chapter.15}% 188
+\BOOKMARK [1][-]{section.15.43}{FK-43 Echoics}{chapter.15}% 189
+\BOOKMARK [1][-]{section.15.44}{FK-44 Mands}{chapter.15}% 190
+\BOOKMARK [1][-]{section.15.45}{FK-45 Tacts}{chapter.15}% 191
+\BOOKMARK [1][-]{section.15.46}{FK-46 Intraverbals}{chapter.15}% 192
+\BOOKMARK [1][-]{section.15.47}{FK-47 Identify the measurable dimensions of behavior \(e.g., rate, duration, latency, interresponse time\).}{chapter.15}% 193
+\BOOKMARK [1][-]{section.15.48}{FK-48 State the advantages and disadvantages of using continuous measurement procedures and discontinuous measurement procedures \(e.g., partial- and whole-interval recording, momentary time sampling\).}{chapter.15}% 194
+\BOOKMARK [0][-]{chapter.16}{After Internship}{}% 195
+\BOOKMARK [0][-]{chapter*.5}{References}{}% 196

@@ -1,6 +1,6 @@
 This is makeindex, version 2.15 [TeX Live 2017] (kpathsea + Thai support).
-Scanning input file main.tdx....done (972 entries accepted, 0 rejected).
-Sorting entries..........done (10176 comparisons).
-Generating output file main.tnd....done (85 lines written, 0 warnings).
+Scanning input file main.tdx....done (498 entries accepted, 0 rejected).
+Sorting entries.......done (4638 comparisons).
+Generating output file main.tnd....done (79 lines written, 0 warnings).
 Output written in main.tnd.
 Transcript written in main.ilg.

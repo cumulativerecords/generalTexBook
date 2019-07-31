@@ -1,4 +1,5 @@
-\documentclass[12pt,oneside]{book}
+%\documentclass[12pt,oneside]{book}
+\documentclass[11pt]{book}
 %\usepackage[paperwidth=6in,paperheight=9in]{geometry}
 \usepackage[a4paper]{geometry}
 %\usepackage[]{geometry}
@@ -6,11 +7,20 @@
 \bibliography{tex/bib/refMan.bib}
 %\makeindex[intoc]
 % \renewcommand*{\marginfont}{\color{NavyBlue}\bfseries\sffamily}
+%
+%For Table of Contents
+\setcounter{tocdepth}{1}
+\usepackage{tocloft}
+\setlength{\cftsecnumwidth}{4em}
+\makeatother
 \begin{document}
 	\input{tex/frontmatter/title}
 	\input{tex/frontmatter/copyright}
+	\clearpage
 	\tableofcontents
+	\clearpage
 	\listoffigures
+	\clearpage
 	\listoftables
 	\include{tex/frontmatter/author}
 	\include{tex/frontmatter/preface}
@@ -20,14 +30,10 @@
 	\input{tex/glossary/glossary}
 	\nocite{*}
 	\printbibliography[title=References,heading=bibintoc]
-%test
-% We print the printbibliography...
-% (see above)
-% ...and the indexes
+% Print the printbibliography.
+% Now print indexes.
 \raggedright
 \printindex         % the general index
 \printindex[names]  % the name index
-\printindex[titles] % the title index
-%end test   
-%	\printindex
+\printindex[titles] % the title index   
 \end{document}
