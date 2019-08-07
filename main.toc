@@ -391,7 +391,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {6.2.2}Assessment}{84}{subsection.6.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2.3}Relevant Literature}{84}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.3}Relevant Literature}{85}{subsection.6.2.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {6.2.4}Related Tasks}{85}{subsection.6.2.4}
 \defcounter {refsection}{0}\relax 
@@ -421,9 +421,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {7.1.6}Related Tasks}{89}{subsection.7.1.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}D-02 Use appropriate parameters and schedules of reinforcement.{}}{89}{section.7.2}
+\contentsline {section}{\numberline {7.2}D-02 Use appropriate parameters and schedules of reinforcement.{}}{90}{section.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.1}Definition}{89}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.1}Definition}{90}{subsection.7.2.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {7.2.2}Assessment}{90}{subsection.7.2.2}
 \defcounter {refsection}{0}\relax 
@@ -471,35 +471,35 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {7.6.1}Definition}{95}{subsection.7.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.6.2}Examples}{95}{subsection.7.6.2}
+\contentsline {subsection}{\numberline {7.6.2}Examples}{96}{subsection.7.6.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {7.6.3}Assessment}{96}{subsection.7.6.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {7.6.4}Relevant Literature}{96}{subsection.7.6.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.6.5}Related Tasks}{96}{subsection.7.6.5}
+\contentsline {subsection}{\numberline {7.6.5}Related Tasks}{97}{subsection.7.6.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {7.7}D-07 Conduct task analyses.{}}{97}{section.7.7}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {7.7.1}Definition}{97}{subsection.7.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.7.2}Examples}{97}{subsection.7.7.2}
+\contentsline {subsection}{\numberline {7.7.2}Examples}{98}{subsection.7.7.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {7.7.3}Assessment}{98}{subsection.7.7.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.7.4}Relevant Literature}{98}{subsection.7.7.4}
+\contentsline {subsection}{\numberline {7.7.4}Relevant Literature}{99}{subsection.7.7.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.7.5}Related Tasks}{98}{subsection.7.7.5}
+\contentsline {subsection}{\numberline {7.7.5}Related Tasks}{99}{subsection.7.7.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {7.8}D-08 Use discrete-trial and free-operant arrangements.{}}{99}{section.7.8}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {7.8.1}Definition}{99}{subsection.7.8.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.8.2}Assessment}{99}{subsection.7.8.2}
+\contentsline {subsection}{\numberline {7.8.2}Assessment}{100}{subsection.7.8.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.8.3}Relevant Literature}{99}{subsection.7.8.3}
+\contentsline {subsection}{\numberline {7.8.3}Relevant Literature}{100}{subsection.7.8.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.8.4}Related Tasks}{99}{subsection.7.8.4}
+\contentsline {subsection}{\numberline {7.8.4}Related Tasks}{100}{subsection.7.8.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {7.9}D-09 Use the verbal operants as a basis for language assessment.{}}{100}{section.7.9}
 \defcounter {refsection}{0}\relax 
@@ -507,27 +507,27 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {7.9.2}Assessment}{101}{subsection.7.9.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.9.3}Relevant Literature}{101}{subsection.7.9.3}
+\contentsline {subsection}{\numberline {7.9.3}Relevant Literature}{102}{subsection.7.9.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.9.4}Related Tasks}{101}{subsection.7.9.4}
+\contentsline {subsection}{\numberline {7.9.4}Related Tasks}{102}{subsection.7.9.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {7.10}D-10 Use echoic training.{}}{102}{section.7.10}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {7.10.1}Definition}{102}{subsection.7.10.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.10.2}Assessment}{102}{subsection.7.10.2}
+\contentsline {subsection}{\numberline {7.10.2}Assessment}{103}{subsection.7.10.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {7.10.3}Relevant Literature}{103}{subsection.7.10.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.10.4}Related Tasks}{103}{subsection.7.10.4}
+\contentsline {subsection}{\numberline {7.10.4}Related Tasks}{104}{subsection.7.10.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.11}D-11 Use mand training.{}}{103}{section.7.11}
+\contentsline {section}{\numberline {7.11}D-11 Use mand training.{}}{104}{section.7.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.11.1}Definition}{103}{subsection.7.11.1}
+\contentsline {subsection}{\numberline {7.11.1}Definition}{104}{subsection.7.11.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.11.2}Assessment}{104}{subsection.7.11.2}
+\contentsline {subsection}{\numberline {7.11.2}Assessment}{105}{subsection.7.11.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.11.3}Relevant Literature}{104}{subsection.7.11.3}
+\contentsline {subsection}{\numberline {7.11.3}Relevant Literature}{105}{subsection.7.11.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {7.11.4}Related Tasks}{105}{subsection.7.11.4}
 \defcounter {refsection}{0}\relax 
@@ -539,1407 +539,1407 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {7.12.3}Relevant Literature}{106}{subsection.7.12.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.12.4}Related Tasks}{106}{subsection.7.12.4}
+\contentsline {subsection}{\numberline {7.12.4}Related Tasks}{107}{subsection.7.12.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.13}D-13 Use intraverbal training.{}}{106}{section.7.13}
+\contentsline {section}{\numberline {7.13}D-13 Use intraverbal training.{}}{107}{section.7.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.13.1}Definition}{106}{subsection.7.13.1}
+\contentsline {subsection}{\numberline {7.13.1}Definition}{107}{subsection.7.13.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.13.2}Assessment}{107}{subsection.7.13.2}
+\contentsline {subsection}{\numberline {7.13.2}Assessment}{108}{subsection.7.13.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {7.13.3}Relevant Literature}{108}{subsection.7.13.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.13.4}Related Tasks}{108}{subsection.7.13.4}
+\contentsline {subsection}{\numberline {7.13.4}Related Tasks}{109}{subsection.7.13.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.14}D-14 Use listener training.{}}{108}{section.7.14}
+\contentsline {section}{\numberline {7.14}D-14 Use listener training.{}}{109}{section.7.14}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.14.1}Definition}{108}{subsection.7.14.1}
+\contentsline {subsection}{\numberline {7.14.1}Definition}{109}{subsection.7.14.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {7.14.2}Examples}{109}{subsection.7.14.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {7.14.3}Assessment}{109}{subsection.7.14.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.14.4}Relevant Literature}{109}{subsection.7.14.4}
+\contentsline {subsection}{\numberline {7.14.4}Relevant Literature}{110}{subsection.7.14.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.14.5}Related Tasks}{109}{subsection.7.14.5}
+\contentsline {subsection}{\numberline {7.14.5}Related Tasks}{110}{subsection.7.14.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.15}D-15 Identify punishers.{}}{109}{section.7.15}
+\contentsline {section}{\numberline {7.15}D-15 Identify punishers.{}}{110}{section.7.15}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.15.1}Definition}{109}{subsection.7.15.1}
+\contentsline {subsection}{\numberline {7.15.1}Definition}{110}{subsection.7.15.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.15.2}Assessment}{110}{subsection.7.15.2}
+\contentsline {subsection}{\numberline {7.15.2}Assessment}{111}{subsection.7.15.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {7.15.3}Relevant Literature}{111}{subsection.7.15.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.15.4}Related Tasks}{111}{subsection.7.15.4}
+\contentsline {subsection}{\numberline {7.15.4}Related Tasks}{112}{subsection.7.15.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.16}D-16 Use positive and negative punishment.{}}{111}{section.7.16}
+\contentsline {section}{\numberline {7.16}D-16 Use positive and negative punishment.{}}{112}{section.7.16}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.16.1}Definition}{111}{subsection.7.16.1}
+\contentsline {subsection}{\numberline {7.16.1}Definition}{112}{subsection.7.16.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.16.2}Examples}{111}{subsection.7.16.2}
+\contentsline {subsection}{\numberline {7.16.2}Examples}{113}{subsection.7.16.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.16.3}Assessment}{112}{subsection.7.16.3}
+\contentsline {subsection}{\numberline {7.16.3}Assessment}{113}{subsection.7.16.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.16.4}Relevant Literature}{112}{subsection.7.16.4}
+\contentsline {subsection}{\numberline {7.16.4}Relevant Literature}{113}{subsection.7.16.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.16.5}Related Tasks}{112}{subsection.7.16.5}
+\contentsline {subsection}{\numberline {7.16.5}Related Tasks}{113}{subsection.7.16.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.16.6}Footnotes}{112}{subsection.7.16.6}
+\contentsline {subsection}{\numberline {7.16.6}Footnotes}{114}{subsection.7.16.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.17}D-17 Use appropriate parameters and schedules of punishment.{}}{113}{section.7.17}
+\contentsline {section}{\numberline {7.17}D-17 Use appropriate parameters and schedules of punishment.{}}{114}{section.7.17}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.17.1}Definition}{113}{subsection.7.17.1}
+\contentsline {subsection}{\numberline {7.17.1}Definition}{114}{subsection.7.17.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.17.2}Assessment}{114}{subsection.7.17.2}
+\contentsline {subsection}{\numberline {7.17.2}Assessment}{116}{subsection.7.17.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.17.3}Relevant Literature}{115}{subsection.7.17.3}
+\contentsline {subsection}{\numberline {7.17.3}Relevant Literature}{116}{subsection.7.17.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.17.4}Related Tasks}{115}{subsection.7.17.4}
+\contentsline {subsection}{\numberline {7.17.4}Related Tasks}{116}{subsection.7.17.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.18}D-18 Use extinction.{}}{116}{section.7.18}
+\contentsline {section}{\numberline {7.18}D-18 Use extinction.{}}{117}{section.7.18}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.18.1}Definition}{116}{subsection.7.18.1}
+\contentsline {subsection}{\numberline {7.18.1}Definition}{117}{subsection.7.18.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.18.2}Examples}{116}{subsection.7.18.2}
+\contentsline {subsection}{\numberline {7.18.2}Examples}{118}{subsection.7.18.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.18.3}Assessment}{117}{subsection.7.18.3}
+\contentsline {subsection}{\numberline {7.18.3}Assessment}{118}{subsection.7.18.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.18.4}Relevant Literature}{117}{subsection.7.18.4}
+\contentsline {subsection}{\numberline {7.18.4}Relevant Literature}{118}{subsection.7.18.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.18.5}Related Tasks}{117}{subsection.7.18.5}
+\contentsline {subsection}{\numberline {7.18.5}Related Tasks}{118}{subsection.7.18.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.19}D-19 Use combinations of reinforcement with punishment and extinction.{}}{117}{section.7.19}
+\contentsline {section}{\numberline {7.19}D-19 Use combinations of reinforcement with punishment and extinction.{}}{119}{section.7.19}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.19.1}Definition}{117}{subsection.7.19.1}
+\contentsline {subsection}{\numberline {7.19.1}Definition}{119}{subsection.7.19.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.19.2}Assessment}{118}{subsection.7.19.2}
+\contentsline {subsection}{\numberline {7.19.2}Assessment}{119}{subsection.7.19.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.19.3}Relevant Literature}{118}{subsection.7.19.3}
+\contentsline {subsection}{\numberline {7.19.3}Relevant Literature}{120}{subsection.7.19.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.19.4}Related Tasks}{119}{subsection.7.19.4}
+\contentsline {subsection}{\numberline {7.19.4}Related Tasks}{120}{subsection.7.19.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.20}D-20 Use response-independent (time-based) schedules of reinforcement (i.e., noncontingent reinforcement).{}}{119}{section.7.20}
+\contentsline {section}{\numberline {7.20}D-20 Use response-independent (time-based) schedules of reinforcement (i.e., noncontingent reinforcement).{}}{121}{section.7.20}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.20.1}Definition}{119}{subsection.7.20.1}
+\contentsline {subsection}{\numberline {7.20.1}Definition}{121}{subsection.7.20.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.20.2}Examples}{120}{subsection.7.20.2}
+\contentsline {subsection}{\numberline {7.20.2}Examples}{121}{subsection.7.20.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.20.3}Assessment}{120}{subsection.7.20.3}
+\contentsline {subsection}{\numberline {7.20.3}Assessment}{121}{subsection.7.20.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.20.4}Relevant Literature}{120}{subsection.7.20.4}
+\contentsline {subsection}{\numberline {7.20.4}Relevant Literature}{122}{subsection.7.20.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.20.5}Related Tasks}{120}{subsection.7.20.5}
+\contentsline {subsection}{\numberline {7.20.5}Related Tasks}{122}{subsection.7.20.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.21}D-21 Use differential reinforcement (e.g., DRO, DRA, DRI, DRL, DRH).{}}{121}{section.7.21}
+\contentsline {section}{\numberline {7.21}D-21 Use differential reinforcement (e.g., DRO, DRA, DRI, DRL, DRH).{}}{122}{section.7.21}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.21.1}Definition}{121}{subsection.7.21.1}
+\contentsline {subsection}{\numberline {7.21.1}Definition}{122}{subsection.7.21.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.21.2}Examples}{121}{subsection.7.21.2}
+\contentsline {subsection}{\numberline {7.21.2}Examples}{123}{subsection.7.21.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.21.3}Assessment}{122}{subsection.7.21.3}
+\contentsline {subsection}{\numberline {7.21.3}Assessment}{123}{subsection.7.21.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.21.4}Relevant Literature}{122}{subsection.7.21.4}
+\contentsline {subsection}{\numberline {7.21.4}Relevant Literature}{124}{subsection.7.21.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.21.5}Related Tasks}{122}{subsection.7.21.5}
+\contentsline {subsection}{\numberline {7.21.5}Related Tasks}{125}{subsection.7.21.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}E. Specific Behavior-Change Procedures{}}{123}{chapter.8}
+\contentsline {chapter}{\numberline {8}E. Specific Behavior-Change Procedures{}}{127}{chapter.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.1}E-01 Use interventions based on manipulation of antecedents, such as motivating operations and discriminative stimuli.{}}{123}{section.8.1}
+\contentsline {section}{\numberline {8.1}E-01 Use interventions based on manipulation of antecedents, such as motivating operations and discriminative stimuli.{}}{127}{section.8.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.1.1}Definition}{123}{subsection.8.1.1}
+\contentsline {subsection}{\numberline {8.1.1}Definition}{127}{subsection.8.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.1.2}Assessment}{124}{subsection.8.1.2}
+\contentsline {subsection}{\numberline {8.1.2}Assessment}{128}{subsection.8.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.1.3}Relevant Literature}{124}{subsection.8.1.3}
+\contentsline {subsection}{\numberline {8.1.3}Relevant Literature}{128}{subsection.8.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.1.4}Related Tasks}{125}{subsection.8.1.4}
+\contentsline {subsection}{\numberline {8.1.4}Related Tasks}{129}{subsection.8.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.2}E-02 Use discrimination training procedures.{}}{125}{section.8.2}
+\contentsline {section}{\numberline {8.2}E-02 Use discrimination training procedures.{}}{129}{section.8.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.2.1}Definition}{125}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.1}Definition}{129}{subsection.8.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.2.2}Examples}{125}{subsection.8.2.2}
+\contentsline {subsection}{\numberline {8.2.2}Examples}{129}{subsection.8.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.2.3}Assessment}{126}{subsection.8.2.3}
+\contentsline {subsection}{\numberline {8.2.3}Assessment}{130}{subsection.8.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.2.4}Relevant Literature}{126}{subsection.8.2.4}
+\contentsline {subsection}{\numberline {8.2.4}Relevant Literature}{130}{subsection.8.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.2.5}Related Tasks}{126}{subsection.8.2.5}
+\contentsline {subsection}{\numberline {8.2.5}Related Tasks}{130}{subsection.8.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.3}E-03 Use instructions and rules.{}}{126}{section.8.3}
+\contentsline {section}{\numberline {8.3}E-03 Use instructions and rules.{}}{130}{section.8.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.3.1}Definition}{126}{subsection.8.3.1}
+\contentsline {subsection}{\numberline {8.3.1}Definition}{130}{subsection.8.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.3.2}Assessment}{127}{subsection.8.3.2}
+\contentsline {subsection}{\numberline {8.3.2}Assessment}{131}{subsection.8.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.3.3}Relevant Literature}{127}{subsection.8.3.3}
+\contentsline {subsection}{\numberline {8.3.3}Relevant Literature}{131}{subsection.8.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.3.4}Related Tasks}{127}{subsection.8.3.4}
+\contentsline {subsection}{\numberline {8.3.4}Related Tasks}{131}{subsection.8.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.4}E-04 Use contingency contracting (i.e., behavioral contracts).{}}{128}{section.8.4}
+\contentsline {section}{\numberline {8.4}E-04 Use contingency contracting (i.e., behavioral contracts).{}}{132}{section.8.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.4.1}Definition}{128}{subsection.8.4.1}
+\contentsline {subsection}{\numberline {8.4.1}Definition}{132}{subsection.8.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.4.2}Assessment}{128}{subsection.8.4.2}
+\contentsline {subsection}{\numberline {8.4.2}Assessment}{132}{subsection.8.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.4.3}Relevant Literature}{129}{subsection.8.4.3}
+\contentsline {subsection}{\numberline {8.4.3}Relevant Literature}{133}{subsection.8.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.4.4}Related Tasks}{129}{subsection.8.4.4}
+\contentsline {subsection}{\numberline {8.4.4}Related Tasks}{133}{subsection.8.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.5}E-05 Use independent, interdependent, and dependent group contingencies.{}}{129}{section.8.5}
+\contentsline {section}{\numberline {8.5}E-05 Use independent, interdependent, and dependent group contingencies.{}}{133}{section.8.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.5.1}Definition}{129}{subsection.8.5.1}
+\contentsline {subsection}{\numberline {8.5.1}Definition}{133}{subsection.8.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.5.2}Examples}{129}{subsection.8.5.2}
+\contentsline {subsection}{\numberline {8.5.2}Examples}{133}{subsection.8.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.5.3}Assessment}{130}{subsection.8.5.3}
+\contentsline {subsection}{\numberline {8.5.3}Assessment}{134}{subsection.8.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.5.4}Relevant Literature}{130}{subsection.8.5.4}
+\contentsline {subsection}{\numberline {8.5.4}Relevant Literature}{134}{subsection.8.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.5.5}Related Tasks}{130}{subsection.8.5.5}
+\contentsline {subsection}{\numberline {8.5.5}Related Tasks}{134}{subsection.8.5.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.6}E-06 Use stimulus equivalence procedures.{}}{131}{section.8.6}
+\contentsline {section}{\numberline {8.6}E-06 Use stimulus equivalence procedures.{}}{135}{section.8.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.6.1}Definition}{131}{subsection.8.6.1}
+\contentsline {subsection}{\numberline {8.6.1}Definition}{135}{subsection.8.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.6.2}Assessment}{132}{subsection.8.6.2}
+\contentsline {subsection}{\numberline {8.6.2}Assessment}{136}{subsection.8.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.6.3}Relevant Literature}{132}{subsection.8.6.3}
+\contentsline {subsection}{\numberline {8.6.3}Relevant Literature}{136}{subsection.8.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.6.4}Related Tasks}{132}{subsection.8.6.4}
+\contentsline {subsection}{\numberline {8.6.4}Related Tasks}{136}{subsection.8.6.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.7}E-07 Plan for behavioral contrast effects.{}}{132}{section.8.7}
+\contentsline {section}{\numberline {8.7}E-07 Plan for behavioral contrast effects.{}}{136}{section.8.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.7.1}Definition}{132}{subsection.8.7.1}
+\contentsline {subsection}{\numberline {8.7.1}Definition}{136}{subsection.8.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.7.2}Examples}{133}{subsection.8.7.2}
+\contentsline {subsection}{\numberline {8.7.2}Examples}{137}{subsection.8.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.7.3}Assessment}{133}{subsection.8.7.3}
+\contentsline {subsection}{\numberline {8.7.3}Assessment}{137}{subsection.8.7.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.7.4}Relevant Literature}{134}{subsection.8.7.4}
+\contentsline {subsection}{\numberline {8.7.4}Relevant Literature}{138}{subsection.8.7.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.7.5}Related Tasks}{134}{subsection.8.7.5}
+\contentsline {subsection}{\numberline {8.7.5}Related Tasks}{138}{subsection.8.7.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.8}E-08 Use the matching law and recognize factors influencing choice.{}}{134}{section.8.8}
+\contentsline {section}{\numberline {8.8}E-08 Use the matching law and recognize factors influencing choice.{}}{138}{section.8.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.8.1}Definition}{134}{subsection.8.8.1}
+\contentsline {subsection}{\numberline {8.8.1}Definition}{138}{subsection.8.8.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.8.2}Assessment}{135}{subsection.8.8.2}
+\contentsline {subsection}{\numberline {8.8.2}Assessment}{139}{subsection.8.8.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.8.3}Relevant Literature}{135}{subsection.8.8.3}
+\contentsline {subsection}{\numberline {8.8.3}Relevant Literature}{139}{subsection.8.8.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.8.4}Related Tasks}{135}{subsection.8.8.4}
+\contentsline {subsection}{\numberline {8.8.4}Related Tasks}{139}{subsection.8.8.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.9}E-09 Arrange high-probability request sequences.{}}{135}{section.8.9}
+\contentsline {section}{\numberline {8.9}E-09 Arrange high-probability request sequences.{}}{139}{section.8.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.9.1}Definition}{135}{subsection.8.9.1}
+\contentsline {subsection}{\numberline {8.9.1}Definition}{139}{subsection.8.9.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.9.2}Assessment}{136}{subsection.8.9.2}
+\contentsline {subsection}{\numberline {8.9.2}Assessment}{140}{subsection.8.9.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.9.3}Relevant Literature}{136}{subsection.8.9.3}
+\contentsline {subsection}{\numberline {8.9.3}Relevant Literature}{140}{subsection.8.9.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.9.4}Related Tasks}{137}{subsection.8.9.4}
+\contentsline {subsection}{\numberline {8.9.4}Related Tasks}{141}{subsection.8.9.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.10}E-10 Use the Premack principle.{}}{137}{section.8.10}
+\contentsline {section}{\numberline {8.10}E-10 Use the Premack principle.{}}{141}{section.8.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.10.1}Definition}{137}{subsection.8.10.1}
+\contentsline {subsection}{\numberline {8.10.1}Definition}{141}{subsection.8.10.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.10.2}Examples}{137}{subsection.8.10.2}
+\contentsline {subsection}{\numberline {8.10.2}Examples}{141}{subsection.8.10.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.10.3}Assessment}{137}{subsection.8.10.3}
+\contentsline {subsection}{\numberline {8.10.3}Assessment}{141}{subsection.8.10.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.10.4}Relevant Literature}{138}{subsection.8.10.4}
+\contentsline {subsection}{\numberline {8.10.4}Relevant Literature}{142}{subsection.8.10.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.10.5}Related Tasks}{138}{subsection.8.10.5}
+\contentsline {subsection}{\numberline {8.10.5}Related Tasks}{142}{subsection.8.10.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.11}E-11 Use pairing procedures to establish new conditioned reinforcers and punishers.{}}{138}{section.8.11}
+\contentsline {section}{\numberline {8.11}E-11 Use pairing procedures to establish new conditioned reinforcers and punishers.{}}{142}{section.8.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.11.1}Definition}{138}{subsection.8.11.1}
+\contentsline {subsection}{\numberline {8.11.1}Definition}{142}{subsection.8.11.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.11.2}Assessment}{139}{subsection.8.11.2}
+\contentsline {subsection}{\numberline {8.11.2}Assessment}{143}{subsection.8.11.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.11.3}Relevant Literature}{139}{subsection.8.11.3}
+\contentsline {subsection}{\numberline {8.11.3}Relevant Literature}{143}{subsection.8.11.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.11.4}Related Tasks}{139}{subsection.8.11.4}
+\contentsline {subsection}{\numberline {8.11.4}Related Tasks}{143}{subsection.8.11.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.12}E-12 Use errorless learning procedures.{}}{139}{section.8.12}
+\contentsline {section}{\numberline {8.12}E-12 Use errorless learning procedures.{}}{143}{section.8.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.12.1}Definition}{139}{subsection.8.12.1}
+\contentsline {subsection}{\numberline {8.12.1}Definition}{143}{subsection.8.12.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.12.2}Assessment}{140}{subsection.8.12.2}
+\contentsline {subsection}{\numberline {8.12.2}Assessment}{144}{subsection.8.12.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.12.3}Relevant Literature}{140}{subsection.8.12.3}
+\contentsline {subsection}{\numberline {8.12.3}Relevant Literature}{144}{subsection.8.12.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.12.4}Related Tasks}{140}{subsection.8.12.4}
+\contentsline {subsection}{\numberline {8.12.4}Related Tasks}{144}{subsection.8.12.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.13}E-13 Use matching-to-sample procedures.{}}{141}{section.8.13}
+\contentsline {section}{\numberline {8.13}E-13 Use matching-to-sample procedures.{}}{145}{section.8.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.13.1}Definition}{141}{subsection.8.13.1}
+\contentsline {subsection}{\numberline {8.13.1}Definition}{145}{subsection.8.13.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.13.2}Examples}{141}{subsection.8.13.2}
+\contentsline {subsection}{\numberline {8.13.2}Examples}{145}{subsection.8.13.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.13.3}Assessment}{141}{subsection.8.13.3}
+\contentsline {subsection}{\numberline {8.13.3}Assessment}{145}{subsection.8.13.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.13.4}Relevant Literature}{142}{subsection.8.13.4}
+\contentsline {subsection}{\numberline {8.13.4}Relevant Literature}{146}{subsection.8.13.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.13.5}Related Tasks}{142}{subsection.8.13.5}
+\contentsline {subsection}{\numberline {8.13.5}Related Tasks}{146}{subsection.8.13.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {9}F. Behavior-Change Systems{}}{143}{chapter.9}
+\contentsline {chapter}{\numberline {9}F. Behavior-Change Systems{}}{147}{chapter.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.1}F-01 Use self-management strategies.{}}{143}{section.9.1}
+\contentsline {section}{\numberline {9.1}F-01 Use self-management strategies.{}}{147}{section.9.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.1.1}Definition}{143}{subsection.9.1.1}
+\contentsline {subsection}{\numberline {9.1.1}Definition}{147}{subsection.9.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.1.2}Examples}{143}{subsection.9.1.2}
+\contentsline {subsection}{\numberline {9.1.2}Examples}{147}{subsection.9.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.1.3}Assessment}{143}{subsection.9.1.3}
+\contentsline {subsection}{\numberline {9.1.3}Assessment}{147}{subsection.9.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.1.4}Relevant Literature}{144}{subsection.9.1.4}
+\contentsline {subsection}{\numberline {9.1.4}Relevant Literature}{148}{subsection.9.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.1.5}Related Tasks}{144}{subsection.9.1.5}
+\contentsline {subsection}{\numberline {9.1.5}Related Tasks}{148}{subsection.9.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.2}F-02 Use token economies and other conditioned reinforcement systems.{}}{144}{section.9.2}
+\contentsline {section}{\numberline {9.2}F-02 Use token economies and other conditioned reinforcement systems.{}}{148}{section.9.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.1}Definition}{144}{subsection.9.2.1}
+\contentsline {subsection}{\numberline {9.2.1}Definition}{148}{subsection.9.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.2}Assessment}{145}{subsection.9.2.2}
+\contentsline {subsection}{\numberline {9.2.2}Assessment}{149}{subsection.9.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.3}Relevant Literature}{145}{subsection.9.2.3}
+\contentsline {subsection}{\numberline {9.2.3}Relevant Literature}{149}{subsection.9.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.4}Related Tasks}{145}{subsection.9.2.4}
+\contentsline {subsection}{\numberline {9.2.4}Related Tasks}{149}{subsection.9.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.3}F-03 Use Direct Instruction.{}}{146}{section.9.3}
+\contentsline {section}{\numberline {9.3}F-03 Use Direct Instruction.{}}{150}{section.9.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.3.1}Definition}{146}{subsection.9.3.1}
+\contentsline {subsection}{\numberline {9.3.1}Definition}{150}{subsection.9.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.3.2}Assessment}{146}{subsection.9.3.2}
+\contentsline {subsection}{\numberline {9.3.2}Assessment}{150}{subsection.9.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.3.3}Relevant Literature}{147}{subsection.9.3.3}
+\contentsline {subsection}{\numberline {9.3.3}Relevant Literature}{151}{subsection.9.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.3.4}Related Tasks}{147}{subsection.9.3.4}
+\contentsline {subsection}{\numberline {9.3.4}Related Tasks}{151}{subsection.9.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.4}F-04 Use precision teaching.{}}{147}{section.9.4}
+\contentsline {section}{\numberline {9.4}F-04 Use precision teaching.{}}{151}{section.9.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.4.1}Definition}{147}{subsection.9.4.1}
+\contentsline {subsection}{\numberline {9.4.1}Definition}{151}{subsection.9.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.4.2}Examples}{148}{subsection.9.4.2}
+\contentsline {subsection}{\numberline {9.4.2}Examples}{152}{subsection.9.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.4.3}Assessment}{148}{subsection.9.4.3}
+\contentsline {subsection}{\numberline {9.4.3}Assessment}{152}{subsection.9.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.4.4}Relevant Literature}{148}{subsection.9.4.4}
+\contentsline {subsection}{\numberline {9.4.4}Relevant Literature}{152}{subsection.9.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.4.5}Related Tasks}{148}{subsection.9.4.5}
+\contentsline {subsection}{\numberline {9.4.5}Related Tasks}{152}{subsection.9.4.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.5}F-05 Use personalized systems of instruction (PSI).{}}{149}{section.9.5}
+\contentsline {section}{\numberline {9.5}F-05 Use personalized systems of instruction (PSI).{}}{153}{section.9.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.5.1}Definition}{149}{subsection.9.5.1}
+\contentsline {subsection}{\numberline {9.5.1}Definition}{153}{subsection.9.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.5.2}Assessment}{149}{subsection.9.5.2}
+\contentsline {subsection}{\numberline {9.5.2}Assessment}{153}{subsection.9.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.5.3}Relevant Literature}{150}{subsection.9.5.3}
+\contentsline {subsection}{\numberline {9.5.3}Relevant Literature}{154}{subsection.9.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.5.4}Related Tasks}{150}{subsection.9.5.4}
+\contentsline {subsection}{\numberline {9.5.4}Related Tasks}{154}{subsection.9.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.6}F-06 Use incidental teaching.{}}{150}{section.9.6}
+\contentsline {section}{\numberline {9.6}F-06 Use incidental teaching.{}}{154}{section.9.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.6.1}Definition}{150}{subsection.9.6.1}
+\contentsline {subsection}{\numberline {9.6.1}Definition}{154}{subsection.9.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.6.2}Examples}{150}{subsection.9.6.2}
+\contentsline {subsection}{\numberline {9.6.2}Examples}{154}{subsection.9.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.6.3}Assessment}{150}{subsection.9.6.3}
+\contentsline {subsection}{\numberline {9.6.3}Assessment}{154}{subsection.9.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.6.4}Relevant Literature}{151}{subsection.9.6.4}
+\contentsline {subsection}{\numberline {9.6.4}Relevant Literature}{155}{subsection.9.6.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.6.5}Related Tasks}{151}{subsection.9.6.5}
+\contentsline {subsection}{\numberline {9.6.5}Related Tasks}{155}{subsection.9.6.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.7}F-07 Use functional communication training.{}}{151}{section.9.7}
+\contentsline {section}{\numberline {9.7}F-07 Use functional communication training.{}}{155}{section.9.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.7.1}Definition}{151}{subsection.9.7.1}
+\contentsline {subsection}{\numberline {9.7.1}Definition}{155}{subsection.9.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.7.2}Examples}{152}{subsection.9.7.2}
+\contentsline {subsection}{\numberline {9.7.2}Examples}{156}{subsection.9.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.7.3}Assessment}{152}{subsection.9.7.3}
+\contentsline {subsection}{\numberline {9.7.3}Assessment}{156}{subsection.9.7.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.7.4}Relevant Literature}{152}{subsection.9.7.4}
+\contentsline {subsection}{\numberline {9.7.4}Relevant Literature}{156}{subsection.9.7.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.7.5}Related Tasks}{152}{subsection.9.7.5}
+\contentsline {subsection}{\numberline {9.7.5}Related Tasks}{156}{subsection.9.7.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.8}F-08 Use augmentative communication systems.{}}{153}{section.9.8}
+\contentsline {section}{\numberline {9.8}F-08 Use augmentative communication systems.{}}{157}{section.9.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.8.1}Definition}{153}{subsection.9.8.1}
+\contentsline {subsection}{\numberline {9.8.1}Definition}{157}{subsection.9.8.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.8.2}Examples}{153}{subsection.9.8.2}
+\contentsline {subsection}{\numberline {9.8.2}Examples}{157}{subsection.9.8.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.8.3}Assessment}{153}{subsection.9.8.3}
+\contentsline {subsection}{\numberline {9.8.3}Assessment}{157}{subsection.9.8.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.8.4}Relevant Literature}{154}{subsection.9.8.4}
+\contentsline {subsection}{\numberline {9.8.4}Relevant Literature}{158}{subsection.9.8.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.8.5}Related Tasks}{154}{subsection.9.8.5}
+\contentsline {subsection}{\numberline {9.8.5}Related Tasks}{158}{subsection.9.8.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {10}G. Identification of the Problem{}}{155}{chapter.10}
+\contentsline {chapter}{\numberline {10}G. Identification of the Problem{}}{159}{chapter.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.1}G-01 Review records and available data at the outset of the case.{}}{155}{section.10.1}
+\contentsline {section}{\numberline {10.1}G-01 Review records and available data at the outset of the case.{}}{159}{section.10.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.1.1}Definition}{155}{subsection.10.1.1}
+\contentsline {subsection}{\numberline {10.1.1}Definition}{159}{subsection.10.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.1.2}Assessment}{155}{subsection.10.1.2}
+\contentsline {subsection}{\numberline {10.1.2}Assessment}{159}{subsection.10.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.1.3}Relevant Literature}{156}{subsection.10.1.3}
+\contentsline {subsection}{\numberline {10.1.3}Relevant Literature}{160}{subsection.10.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.1.4}Related Tasks}{156}{subsection.10.1.4}
+\contentsline {subsection}{\numberline {10.1.4}Related Tasks}{160}{subsection.10.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.2}G-02 Consider biological/medical variables that may be affecting the client.{}}{156}{section.10.2}
+\contentsline {section}{\numberline {10.2}G-02 Consider biological/medical variables that may be affecting the client.{}}{160}{section.10.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.2.1}Definition}{156}{subsection.10.2.1}
+\contentsline {subsection}{\numberline {10.2.1}Definition}{160}{subsection.10.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.2.2}Assessment}{157}{subsection.10.2.2}
+\contentsline {subsection}{\numberline {10.2.2}Assessment}{161}{subsection.10.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.2.3}Relevant Literature}{157}{subsection.10.2.3}
+\contentsline {subsection}{\numberline {10.2.3}Relevant Literature}{161}{subsection.10.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.2.4}Related Tasks}{158}{subsection.10.2.4}
+\contentsline {subsection}{\numberline {10.2.4}Related Tasks}{162}{subsection.10.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.3}G-03 Conduct a preliminary assessment of the client in order to identify the referral problem.{}}{158}{section.10.3}
+\contentsline {section}{\numberline {10.3}G-03 Conduct a preliminary assessment of the client in order to identify the referral problem.{}}{162}{section.10.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.3.1}Definition}{158}{subsection.10.3.1}
+\contentsline {subsection}{\numberline {10.3.1}Definition}{162}{subsection.10.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.3.2}Assessment}{160}{subsection.10.3.2}
+\contentsline {subsection}{\numberline {10.3.2}Assessment}{164}{subsection.10.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.3.3}Relevant Literature}{160}{subsection.10.3.3}
+\contentsline {subsection}{\numberline {10.3.3}Relevant Literature}{164}{subsection.10.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.3.4}Related Tasks}{160}{subsection.10.3.4}
+\contentsline {subsection}{\numberline {10.3.4}Related Tasks}{164}{subsection.10.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.4}G-04 Explain behavioral concepts using nontechnical language.{}}{161}{section.10.4}
+\contentsline {section}{\numberline {10.4}G-04 Explain behavioral concepts using nontechnical language.{}}{165}{section.10.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.4.1}Definition}{161}{subsection.10.4.1}
+\contentsline {subsection}{\numberline {10.4.1}Definition}{165}{subsection.10.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.4.2}Assessment}{161}{subsection.10.4.2}
+\contentsline {subsection}{\numberline {10.4.2}Assessment}{165}{subsection.10.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.4.3}Relevant Literature}{161}{subsection.10.4.3}
+\contentsline {subsection}{\numberline {10.4.3}Relevant Literature}{165}{subsection.10.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.4.4}Related Tasks}{162}{subsection.10.4.4}
+\contentsline {subsection}{\numberline {10.4.4}Related Tasks}{166}{subsection.10.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.5}G-05 Describe and explain behavior, including private events, in behavior-analytic (nonmentalistic) terms.{}}{162}{section.10.5}
+\contentsline {section}{\numberline {10.5}G-05 Describe and explain behavior, including private events, in behavior-analytic (nonmentalistic) terms.{}}{166}{section.10.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.5.1}Definition}{162}{subsection.10.5.1}
+\contentsline {subsection}{\numberline {10.5.1}Definition}{166}{subsection.10.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.5.2}Assessment}{163}{subsection.10.5.2}
+\contentsline {subsection}{\numberline {10.5.2}Assessment}{167}{subsection.10.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.5.3}Relevant Literature}{163}{subsection.10.5.3}
+\contentsline {subsection}{\numberline {10.5.3}Relevant Literature}{167}{subsection.10.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.5.4}Related Tasks}{163}{subsection.10.5.4}
+\contentsline {subsection}{\numberline {10.5.4}Related Tasks}{167}{subsection.10.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.6}G-06 Provide behavior-analytic services in collaboration with others who support and/or provide services to one's clients.{}}{164}{section.10.6}
+\contentsline {section}{\numberline {10.6}G-06 Provide behavior-analytic services in collaboration with others who support and/or provide services to one's clients.{}}{168}{section.10.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.6.1}Definition}{164}{subsection.10.6.1}
+\contentsline {subsection}{\numberline {10.6.1}Definition}{168}{subsection.10.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.6.2}Examples}{164}{subsection.10.6.2}
+\contentsline {subsection}{\numberline {10.6.2}Examples}{168}{subsection.10.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.6.3}Assessment}{164}{subsection.10.6.3}
+\contentsline {subsection}{\numberline {10.6.3}Assessment}{168}{subsection.10.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.6.4}Relevant Literature}{164}{subsection.10.6.4}
+\contentsline {subsection}{\numberline {10.6.4}Relevant Literature}{168}{subsection.10.6.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.6.5}Related Tasks}{165}{subsection.10.6.5}
+\contentsline {subsection}{\numberline {10.6.5}Related Tasks}{169}{subsection.10.6.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.7}G-07 Practice within one's limits of professional competence in applied behavior analysis, and obtain consultation, supervision, and training, or make referrals as necessary.{}}{165}{section.10.7}
+\contentsline {section}{\numberline {10.7}G-07 Practice within one's limits of professional competence in applied behavior analysis, and obtain consultation, supervision, and training, or make referrals as necessary.{}}{169}{section.10.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.7.1}Definition}{165}{subsection.10.7.1}
+\contentsline {subsection}{\numberline {10.7.1}Definition}{169}{subsection.10.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.7.2}Assessment}{166}{subsection.10.7.2}
+\contentsline {subsection}{\numberline {10.7.2}Assessment}{170}{subsection.10.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.7.3}Relevant Literature}{166}{subsection.10.7.3}
+\contentsline {subsection}{\numberline {10.7.3}Relevant Literature}{170}{subsection.10.7.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.7.4}Related Tasks}{166}{subsection.10.7.4}
+\contentsline {subsection}{\numberline {10.7.4}Related Tasks}{170}{subsection.10.7.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.8}G-08 Identify and make environmental changes that reduce the need for behavior analysis services.{}}{167}{section.10.8}
+\contentsline {section}{\numberline {10.8}G-08 Identify and make environmental changes that reduce the need for behavior analysis services.{}}{171}{section.10.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.8.1}Definition}{167}{subsection.10.8.1}
+\contentsline {subsection}{\numberline {10.8.1}Definition}{171}{subsection.10.8.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.8.2}Examples}{167}{subsection.10.8.2}
+\contentsline {subsection}{\numberline {10.8.2}Examples}{171}{subsection.10.8.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.8.3}Assessment}{167}{subsection.10.8.3}
+\contentsline {subsection}{\numberline {10.8.3}Assessment}{171}{subsection.10.8.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.8.4}Relevant Literature}{168}{subsection.10.8.4}
+\contentsline {subsection}{\numberline {10.8.4}Relevant Literature}{172}{subsection.10.8.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.8.5}Related Tasks}{168}{subsection.10.8.5}
+\contentsline {subsection}{\numberline {10.8.5}Related Tasks}{172}{subsection.10.8.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {11}H. Measurement{}}{169}{chapter.11}
+\contentsline {chapter}{\numberline {11}H. Measurement{}}{173}{chapter.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.1}H-01 Select a measurement system to obtain representative data given the dimensions of the behavior and the logistics of observing and recording.{}}{169}{section.11.1}
+\contentsline {section}{\numberline {11.1}H-01 Select a measurement system to obtain representative data given the dimensions of the behavior and the logistics of observing and recording.{}}{173}{section.11.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.1.1}Definition}{169}{subsection.11.1.1}
+\contentsline {subsection}{\numberline {11.1.1}Definition}{173}{subsection.11.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.1.2}Examples}{169}{subsection.11.1.2}
+\contentsline {subsection}{\numberline {11.1.2}Examples}{173}{subsection.11.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.1.3}Assessment}{170}{subsection.11.1.3}
+\contentsline {subsection}{\numberline {11.1.3}Assessment}{174}{subsection.11.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.1.4}Relevant Literature}{170}{subsection.11.1.4}
+\contentsline {subsection}{\numberline {11.1.4}Relevant Literature}{174}{subsection.11.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.1.5}Related Tasks}{170}{subsection.11.1.5}
+\contentsline {subsection}{\numberline {11.1.5}Related Tasks}{174}{subsection.11.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.2}H-02 Select a schedule of observation and recording periods.{}}{171}{section.11.2}
+\contentsline {section}{\numberline {11.2}H-02 Select a schedule of observation and recording periods.{}}{175}{section.11.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.2.1}Definition}{171}{subsection.11.2.1}
+\contentsline {subsection}{\numberline {11.2.1}Definition}{175}{subsection.11.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.2.2}Examples}{171}{subsection.11.2.2}
+\contentsline {subsection}{\numberline {11.2.2}Examples}{175}{subsection.11.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.2.3}Assessment}{172}{subsection.11.2.3}
+\contentsline {subsection}{\numberline {11.2.3}Assessment}{176}{subsection.11.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.2.4}Relevant Literature}{172}{subsection.11.2.4}
+\contentsline {subsection}{\numberline {11.2.4}Relevant Literature}{176}{subsection.11.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.2.5}Related Tasks}{172}{subsection.11.2.5}
+\contentsline {subsection}{\numberline {11.2.5}Related Tasks}{176}{subsection.11.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.3}H-03 Select a data display that effectively communicates relevant quantitative relations.{}}{173}{section.11.3}
+\contentsline {section}{\numberline {11.3}H-03 Select a data display that effectively communicates relevant quantitative relations.{}}{177}{section.11.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.3.1}Definition}{173}{subsection.11.3.1}
+\contentsline {subsection}{\numberline {11.3.1}Definition}{177}{subsection.11.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.3.2}Examples}{173}{subsection.11.3.2}
+\contentsline {subsection}{\numberline {11.3.2}Examples}{177}{subsection.11.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.3.3}Assessment}{173}{subsection.11.3.3}
+\contentsline {subsection}{\numberline {11.3.3}Assessment}{177}{subsection.11.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.3.4}Relevant Literature}{174}{subsection.11.3.4}
+\contentsline {subsection}{\numberline {11.3.4}Relevant Literature}{178}{subsection.11.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.3.5}Related Tasks}{174}{subsection.11.3.5}
+\contentsline {subsection}{\numberline {11.3.5}Related Tasks}{178}{subsection.11.3.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.4}H-04 Evaluate changes in level, trend, and variability.{}}{174}{section.11.4}
+\contentsline {section}{\numberline {11.4}H-04 Evaluate changes in level, trend, and variability.{}}{178}{section.11.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.4.1}Definition}{174}{subsection.11.4.1}
+\contentsline {subsection}{\numberline {11.4.1}Definition}{178}{subsection.11.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.4.2}Assessment}{175}{subsection.11.4.2}
+\contentsline {subsection}{\numberline {11.4.2}Assessment}{179}{subsection.11.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.4.3}Relevant Literature}{175}{subsection.11.4.3}
+\contentsline {subsection}{\numberline {11.4.3}Relevant Literature}{179}{subsection.11.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.4.4}Related Tasks}{175}{subsection.11.4.4}
+\contentsline {subsection}{\numberline {11.4.4}Related Tasks}{179}{subsection.11.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.5}H-05 Evaluate temporal relations between observed variables (within \& between sessions, time series).{}}{176}{section.11.5}
+\contentsline {section}{\numberline {11.5}H-05 Evaluate temporal relations between observed variables (within \& between sessions, time series).{}}{180}{section.11.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.5.1}Definition}{176}{subsection.11.5.1}
+\contentsline {subsection}{\numberline {11.5.1}Definition}{180}{subsection.11.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.5.2}Assessment}{177}{subsection.11.5.2}
+\contentsline {subsection}{\numberline {11.5.2}Assessment}{181}{subsection.11.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.5.3}Relevant Literature}{177}{subsection.11.5.3}
+\contentsline {subsection}{\numberline {11.5.3}Relevant Literature}{181}{subsection.11.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.5.4}Related Tasks}{177}{subsection.11.5.4}
+\contentsline {subsection}{\numberline {11.5.4}Related Tasks}{181}{subsection.11.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {12}I. Assessment{}}{179}{chapter.12}
+\contentsline {chapter}{\numberline {12}I. Assessment{}}{183}{chapter.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {12.1}I-01 Define behavior in observable and measurable terms.{}}{179}{section.12.1}
+\contentsline {section}{\numberline {12.1}I-01 Define behavior in observable and measurable terms.{}}{183}{section.12.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.1.1}Definition}{179}{subsection.12.1.1}
+\contentsline {subsection}{\numberline {12.1.1}Definition}{183}{subsection.12.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.1.2}Assessment}{180}{subsection.12.1.2}
+\contentsline {subsection}{\numberline {12.1.2}Assessment}{184}{subsection.12.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.1.3}Relevant Literature}{180}{subsection.12.1.3}
+\contentsline {subsection}{\numberline {12.1.3}Relevant Literature}{184}{subsection.12.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.1.4}Related Tasks}{181}{subsection.12.1.4}
+\contentsline {subsection}{\numberline {12.1.4}Related Tasks}{185}{subsection.12.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {12.2}I-02 Define environmental variables in observable and measurable terms.{}}{181}{section.12.2}
+\contentsline {section}{\numberline {12.2}I-02 Define environmental variables in observable and measurable terms.{}}{185}{section.12.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.2.1}Definition}{181}{subsection.12.2.1}
+\contentsline {subsection}{\numberline {12.2.1}Definition}{185}{subsection.12.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.2.2}Examples}{182}{subsection.12.2.2}
+\contentsline {subsection}{\numberline {12.2.2}Examples}{186}{subsection.12.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.2.3}Assessment}{182}{subsection.12.2.3}
+\contentsline {subsection}{\numberline {12.2.3}Assessment}{186}{subsection.12.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.2.4}Relevant Literature}{182}{subsection.12.2.4}
+\contentsline {subsection}{\numberline {12.2.4}Relevant Literature}{186}{subsection.12.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.2.5}Related Tasks}{183}{subsection.12.2.5}
+\contentsline {subsection}{\numberline {12.2.5}Related Tasks}{187}{subsection.12.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {12.3}I-03 Design and implement individualized behavioral assessment procedures.{}}{183}{section.12.3}
+\contentsline {section}{\numberline {12.3}I-03 Design and implement individualized behavioral assessment procedures.{}}{187}{section.12.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.3.1}Definition}{183}{subsection.12.3.1}
+\contentsline {subsection}{\numberline {12.3.1}Definition}{187}{subsection.12.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.3.2}Examples}{184}{subsection.12.3.2}
+\contentsline {subsection}{\numberline {12.3.2}Examples}{188}{subsection.12.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.3.3}Assessment}{184}{subsection.12.3.3}
+\contentsline {subsection}{\numberline {12.3.3}Assessment}{188}{subsection.12.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.3.4}Relevant Literature}{184}{subsection.12.3.4}
+\contentsline {subsection}{\numberline {12.3.4}Relevant Literature}{188}{subsection.12.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.3.5}Related Tasks}{185}{subsection.12.3.5}
+\contentsline {subsection}{\numberline {12.3.5}Related Tasks}{189}{subsection.12.3.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {12.4}I-04 Design and implement the full range of functional assessment procedures.{}}{185}{section.12.4}
+\contentsline {section}{\numberline {12.4}I-04 Design and implement the full range of functional assessment procedures.{}}{189}{section.12.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.4.1}Definition}{185}{subsection.12.4.1}
+\contentsline {subsection}{\numberline {12.4.1}Definition}{189}{subsection.12.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.4.2}Assessment}{187}{subsection.12.4.2}
+\contentsline {subsection}{\numberline {12.4.2}Assessment}{191}{subsection.12.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.4.3}Relevant Literature}{187}{subsection.12.4.3}
+\contentsline {subsection}{\numberline {12.4.3}Relevant Literature}{191}{subsection.12.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.4.4}Related Tasks}{188}{subsection.12.4.4}
+\contentsline {subsection}{\numberline {12.4.4}Related Tasks}{192}{subsection.12.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.4.5}Footnotes}{188}{subsection.12.4.5}
+\contentsline {subsection}{\numberline {12.4.5}Footnotes}{192}{subsection.12.4.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {12.5}I-05 Organize, analyze, and interpret observed data.{}}{188}{section.12.5}
+\contentsline {section}{\numberline {12.5}I-05 Organize, analyze, and interpret observed data.{}}{192}{section.12.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.5.1}Definition}{188}{subsection.12.5.1}
+\contentsline {subsection}{\numberline {12.5.1}Definition}{192}{subsection.12.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.5.2}Assessment}{190}{subsection.12.5.2}
+\contentsline {subsection}{\numberline {12.5.2}Assessment}{194}{subsection.12.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.5.3}Relevant Literature}{190}{subsection.12.5.3}
+\contentsline {subsection}{\numberline {12.5.3}Relevant Literature}{194}{subsection.12.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.5.4}Related Tasks}{190}{subsection.12.5.4}
+\contentsline {subsection}{\numberline {12.5.4}Related Tasks}{194}{subsection.12.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {12.6}I-06 Make recommendations regarding behaviors that must be established, maintained, increased, or decreased.{}}{191}{section.12.6}
+\contentsline {section}{\numberline {12.6}I-06 Make recommendations regarding behaviors that must be established, maintained, increased, or decreased.{}}{195}{section.12.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.6.1}Definition}{191}{subsection.12.6.1}
+\contentsline {subsection}{\numberline {12.6.1}Definition}{195}{subsection.12.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.6.2}Examples}{191}{subsection.12.6.2}
+\contentsline {subsection}{\numberline {12.6.2}Examples}{195}{subsection.12.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.6.3}Assessment}{191}{subsection.12.6.3}
+\contentsline {subsection}{\numberline {12.6.3}Assessment}{195}{subsection.12.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.6.4}Relevant Literature}{192}{subsection.12.6.4}
+\contentsline {subsection}{\numberline {12.6.4}Relevant Literature}{196}{subsection.12.6.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.6.5}Related Tasks}{192}{subsection.12.6.5}
+\contentsline {subsection}{\numberline {12.6.5}Related Tasks}{196}{subsection.12.6.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {12.7}I-07 Design and conduct preference assessments to identify putative reinforcers.{}}{192}{section.12.7}
+\contentsline {section}{\numberline {12.7}I-07 Design and conduct preference assessments to identify putative reinforcers.{}}{196}{section.12.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.7.1}Definition}{192}{subsection.12.7.1}
+\contentsline {subsection}{\numberline {12.7.1}Definition}{196}{subsection.12.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.7.2}Examples}{193}{subsection.12.7.2}
+\contentsline {subsection}{\numberline {12.7.2}Examples}{197}{subsection.12.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.7.3}Assessment}{193}{subsection.12.7.3}
+\contentsline {subsection}{\numberline {12.7.3}Assessment}{197}{subsection.12.7.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.7.4}Relevant Literature}{193}{subsection.12.7.4}
+\contentsline {subsection}{\numberline {12.7.4}Relevant Literature}{197}{subsection.12.7.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.7.5}Related Tasks}{194}{subsection.12.7.5}
+\contentsline {subsection}{\numberline {12.7.5}Related Tasks}{198}{subsection.12.7.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {13}J. Intervention{}}{195}{chapter.13}
+\contentsline {chapter}{\numberline {13}J. Intervention{}}{199}{chapter.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.1}J-01 State intervention goals in observable and measurable terms.{}}{195}{section.13.1}
+\contentsline {section}{\numberline {13.1}J-01 State intervention goals in observable and measurable terms.{}}{199}{section.13.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.1.1}Definition}{195}{subsection.13.1.1}
+\contentsline {subsection}{\numberline {13.1.1}Definition}{199}{subsection.13.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.1.2}Examples}{195}{subsection.13.1.2}
+\contentsline {subsection}{\numberline {13.1.2}Examples}{199}{subsection.13.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.1.3}Assessment}{196}{subsection.13.1.3}
+\contentsline {subsection}{\numberline {13.1.3}Assessment}{200}{subsection.13.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.1.4}Relevant Literature}{196}{subsection.13.1.4}
+\contentsline {subsection}{\numberline {13.1.4}Relevant Literature}{200}{subsection.13.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.1.5}Related Tasks}{196}{subsection.13.1.5}
+\contentsline {subsection}{\numberline {13.1.5}Related Tasks}{200}{subsection.13.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.2}J-02 Identify potential interventions based on assessment results and the best available scientific evidence.{}}{196}{section.13.2}
+\contentsline {section}{\numberline {13.2}J-02 Identify potential interventions based on assessment results and the best available scientific evidence.{}}{200}{section.13.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.2.1}Definition}{196}{subsection.13.2.1}
+\contentsline {subsection}{\numberline {13.2.1}Definition}{200}{subsection.13.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.2.2}Examples}{197}{subsection.13.2.2}
+\contentsline {subsection}{\numberline {13.2.2}Examples}{201}{subsection.13.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.2.3}Assessment}{197}{subsection.13.2.3}
+\contentsline {subsection}{\numberline {13.2.3}Assessment}{201}{subsection.13.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.2.4}Relevant Literature}{197}{subsection.13.2.4}
+\contentsline {subsection}{\numberline {13.2.4}Relevant Literature}{201}{subsection.13.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.2.5}Related Tasks}{198}{subsection.13.2.5}
+\contentsline {subsection}{\numberline {13.2.5}Related Tasks}{202}{subsection.13.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.3}J-03 Select intervention strategies based on task analysis.{}}{198}{section.13.3}
+\contentsline {section}{\numberline {13.3}J-03 Select intervention strategies based on task analysis.{}}{202}{section.13.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.3.1}Definition}{198}{subsection.13.3.1}
+\contentsline {subsection}{\numberline {13.3.1}Definition}{202}{subsection.13.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.3.2}Assessment}{199}{subsection.13.3.2}
+\contentsline {subsection}{\numberline {13.3.2}Assessment}{203}{subsection.13.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.3.3}Relevant Literature}{199}{subsection.13.3.3}
+\contentsline {subsection}{\numberline {13.3.3}Relevant Literature}{203}{subsection.13.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.3.4}Related Tasks}{199}{subsection.13.3.4}
+\contentsline {subsection}{\numberline {13.3.4}Related Tasks}{203}{subsection.13.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.4}J-04 Select intervention strategies based on client preferences.{}}{200}{section.13.4}
+\contentsline {section}{\numberline {13.4}J-04 Select intervention strategies based on client preferences.{}}{204}{section.13.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.4.1}Definition}{200}{subsection.13.4.1}
+\contentsline {subsection}{\numberline {13.4.1}Definition}{204}{subsection.13.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.4.2}Assessment}{201}{subsection.13.4.2}
+\contentsline {subsection}{\numberline {13.4.2}Assessment}{205}{subsection.13.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.4.3}Relevant Literature}{201}{subsection.13.4.3}
+\contentsline {subsection}{\numberline {13.4.3}Relevant Literature}{205}{subsection.13.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.4.4}Related Tasks}{201}{subsection.13.4.4}
+\contentsline {subsection}{\numberline {13.4.4}Related Tasks}{205}{subsection.13.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.5}J-05 Select intervention strategies based on the client\IeC {\textquoteright }s current repertoires.{}}{202}{section.13.5}
+\contentsline {section}{\numberline {13.5}J-05 Select intervention strategies based on the client\IeC {\textquoteright }s current repertoires.{}}{206}{section.13.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.5.1}Definition}{202}{subsection.13.5.1}
+\contentsline {subsection}{\numberline {13.5.1}Definition}{206}{subsection.13.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.5.2}Assessment}{202}{subsection.13.5.2}
+\contentsline {subsection}{\numberline {13.5.2}Assessment}{206}{subsection.13.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.5.3}Relevant Literature}{203}{subsection.13.5.3}
+\contentsline {subsection}{\numberline {13.5.3}Relevant Literature}{207}{subsection.13.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.5.4}Related Tasks}{203}{subsection.13.5.4}
+\contentsline {subsection}{\numberline {13.5.4}Related Tasks}{207}{subsection.13.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.6}J-06 Select intervention strategies based on supporting environments.{}}{203}{section.13.6}
+\contentsline {section}{\numberline {13.6}J-06 Select intervention strategies based on supporting environments.{}}{207}{section.13.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.6.1}Definition}{203}{subsection.13.6.1}
+\contentsline {subsection}{\numberline {13.6.1}Definition}{207}{subsection.13.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.6.2}Examples}{204}{subsection.13.6.2}
+\contentsline {subsection}{\numberline {13.6.2}Examples}{208}{subsection.13.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.6.3}Assessment}{204}{subsection.13.6.3}
+\contentsline {subsection}{\numberline {13.6.3}Assessment}{208}{subsection.13.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.6.4}Relevant Literature}{205}{subsection.13.6.4}
+\contentsline {subsection}{\numberline {13.6.4}Relevant Literature}{209}{subsection.13.6.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.6.5}Related Tasks}{205}{subsection.13.6.5}
+\contentsline {subsection}{\numberline {13.6.5}Related Tasks}{209}{subsection.13.6.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.7}J-07 Select intervention strategies based on environmental and resource constraints.{}}{205}{section.13.7}
+\contentsline {section}{\numberline {13.7}J-07 Select intervention strategies based on environmental and resource constraints.{}}{209}{section.13.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.7.1}Definition}{205}{subsection.13.7.1}
+\contentsline {subsection}{\numberline {13.7.1}Definition}{209}{subsection.13.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.7.2}Examples}{206}{subsection.13.7.2}
+\contentsline {subsection}{\numberline {13.7.2}Examples}{210}{subsection.13.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.7.3}Assessment}{206}{subsection.13.7.3}
+\contentsline {subsection}{\numberline {13.7.3}Assessment}{210}{subsection.13.7.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.7.4}Relevant Literature}{206}{subsection.13.7.4}
+\contentsline {subsection}{\numberline {13.7.4}Relevant Literature}{210}{subsection.13.7.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.7.5}Related Tasks}{206}{subsection.13.7.5}
+\contentsline {subsection}{\numberline {13.7.5}Related Tasks}{210}{subsection.13.7.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.8}J-08 Select intervention strategies based on the social validity of the intervention.{}}{207}{section.13.8}
+\contentsline {section}{\numberline {13.8}J-08 Select intervention strategies based on the social validity of the intervention.{}}{211}{section.13.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.8.1}Definition}{207}{subsection.13.8.1}
+\contentsline {subsection}{\numberline {13.8.1}Definition}{211}{subsection.13.8.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.8.2}Examples}{207}{subsection.13.8.2}
+\contentsline {subsection}{\numberline {13.8.2}Examples}{211}{subsection.13.8.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.8.3}Assessment}{208}{subsection.13.8.3}
+\contentsline {subsection}{\numberline {13.8.3}Assessment}{212}{subsection.13.8.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.8.4}Relevant Literature}{208}{subsection.13.8.4}
+\contentsline {subsection}{\numberline {13.8.4}Relevant Literature}{212}{subsection.13.8.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.8.5}Related Tasks}{208}{subsection.13.8.5}
+\contentsline {subsection}{\numberline {13.8.5}Related Tasks}{212}{subsection.13.8.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.9}J-09 Identify and address practical and ethical considerations when using experimental designs to demonstrate treatment effectiveness.{}}{209}{section.13.9}
+\contentsline {section}{\numberline {13.9}J-09 Identify and address practical and ethical considerations when using experimental designs to demonstrate treatment effectiveness.{}}{213}{section.13.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.9.1}Definition}{209}{subsection.13.9.1}
+\contentsline {subsection}{\numberline {13.9.1}Definition}{213}{subsection.13.9.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.9.2}Examples}{209}{subsection.13.9.2}
+\contentsline {subsection}{\numberline {13.9.2}Examples}{213}{subsection.13.9.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.9.3}Assessment}{210}{subsection.13.9.3}
+\contentsline {subsection}{\numberline {13.9.3}Assessment}{214}{subsection.13.9.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.9.4}Relevant Literature}{210}{subsection.13.9.4}
+\contentsline {subsection}{\numberline {13.9.4}Relevant Literature}{214}{subsection.13.9.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.9.5}Related Tasks}{210}{subsection.13.9.5}
+\contentsline {subsection}{\numberline {13.9.5}Related Tasks}{214}{subsection.13.9.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.10}J-10 When a behavior is to be decreased, select an acceptable alternative behavior to be established or increased.{}}{211}{section.13.10}
+\contentsline {section}{\numberline {13.10}J-10 When a behavior is to be decreased, select an acceptable alternative behavior to be established or increased.{}}{215}{section.13.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.10.1}Definition}{211}{subsection.13.10.1}
+\contentsline {subsection}{\numberline {13.10.1}Definition}{215}{subsection.13.10.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.10.2}Assessment}{212}{subsection.13.10.2}
+\contentsline {subsection}{\numberline {13.10.2}Assessment}{216}{subsection.13.10.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.10.3}Relevant Literature}{212}{subsection.13.10.3}
+\contentsline {subsection}{\numberline {13.10.3}Relevant Literature}{216}{subsection.13.10.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.10.4}Related Tasks}{212}{subsection.13.10.4}
+\contentsline {subsection}{\numberline {13.10.4}Related Tasks}{216}{subsection.13.10.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.11}J-11 Program for stimulus and response generalization.{}}{212}{section.13.11}
+\contentsline {section}{\numberline {13.11}J-11 Program for stimulus and response generalization.{}}{216}{section.13.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.11.1}Definition}{212}{subsection.13.11.1}
+\contentsline {subsection}{\numberline {13.11.1}Definition}{216}{subsection.13.11.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.11.2}Assessment}{213}{subsection.13.11.2}
+\contentsline {subsection}{\numberline {13.11.2}Assessment}{217}{subsection.13.11.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.11.3}Relevant Literature}{213}{subsection.13.11.3}
+\contentsline {subsection}{\numberline {13.11.3}Relevant Literature}{217}{subsection.13.11.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.11.4}Related Tasks}{213}{subsection.13.11.4}
+\contentsline {subsection}{\numberline {13.11.4}Related Tasks}{217}{subsection.13.11.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.12}J-12 Program for maintenance.{}}{214}{section.13.12}
+\contentsline {section}{\numberline {13.12}J-12 Program for maintenance.{}}{218}{section.13.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.12.1}Definition}{214}{subsection.13.12.1}
+\contentsline {subsection}{\numberline {13.12.1}Definition}{218}{subsection.13.12.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.12.2}Assessment}{214}{subsection.13.12.2}
+\contentsline {subsection}{\numberline {13.12.2}Assessment}{218}{subsection.13.12.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.12.3}Relevant Literature}{214}{subsection.13.12.3}
+\contentsline {subsection}{\numberline {13.12.3}Relevant Literature}{218}{subsection.13.12.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.12.4}Related Tasks}{215}{subsection.13.12.4}
+\contentsline {subsection}{\numberline {13.12.4}Related Tasks}{219}{subsection.13.12.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.13}J-13 Select behavioral cusps as goals for intervention when appropriate.{}}{215}{section.13.13}
+\contentsline {section}{\numberline {13.13}J-13 Select behavioral cusps as goals for intervention when appropriate.{}}{219}{section.13.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.13.1}Definition}{215}{subsection.13.13.1}
+\contentsline {subsection}{\numberline {13.13.1}Definition}{219}{subsection.13.13.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.13.2}Examples}{215}{subsection.13.13.2}
+\contentsline {subsection}{\numberline {13.13.2}Examples}{219}{subsection.13.13.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.13.3}Assessment}{215}{subsection.13.13.3}
+\contentsline {subsection}{\numberline {13.13.3}Assessment}{219}{subsection.13.13.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.13.4}Relevant Literature}{216}{subsection.13.13.4}
+\contentsline {subsection}{\numberline {13.13.4}Relevant Literature}{220}{subsection.13.13.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.13.5}Related Tasks}{216}{subsection.13.13.5}
+\contentsline {subsection}{\numberline {13.13.5}Related Tasks}{220}{subsection.13.13.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.14}J-14 Arrange instructional procedures to promote generative learning (i.e., derived relations).{}}{216}{section.13.14}
+\contentsline {section}{\numberline {13.14}J-14 Arrange instructional procedures to promote generative learning (i.e., derived relations).{}}{220}{section.13.14}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.14.1}Definition}{216}{subsection.13.14.1}
+\contentsline {subsection}{\numberline {13.14.1}Definition}{220}{subsection.13.14.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.14.2}Examples}{217}{subsection.13.14.2}
+\contentsline {subsection}{\numberline {13.14.2}Examples}{221}{subsection.13.14.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.14.3}Assessment}{217}{subsection.13.14.3}
+\contentsline {subsection}{\numberline {13.14.3}Assessment}{221}{subsection.13.14.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.14.4}Relevant Literature}{217}{subsection.13.14.4}
+\contentsline {subsection}{\numberline {13.14.4}Relevant Literature}{221}{subsection.13.14.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.14.5}Related Tasks}{217}{subsection.13.14.5}
+\contentsline {subsection}{\numberline {13.14.5}Related Tasks}{221}{subsection.13.14.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.15}J-15 Base decision-making on data displayed in various formats.{}}{218}{section.13.15}
+\contentsline {section}{\numberline {13.15}J-15 Base decision-making on data displayed in various formats.{}}{222}{section.13.15}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.15.1}Definition}{218}{subsection.13.15.1}
+\contentsline {subsection}{\numberline {13.15.1}Definition}{222}{subsection.13.15.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.15.2}Examples}{218}{subsection.13.15.2}
+\contentsline {subsection}{\numberline {13.15.2}Examples}{222}{subsection.13.15.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.15.3}Assessment}{218}{subsection.13.15.3}
+\contentsline {subsection}{\numberline {13.15.3}Assessment}{222}{subsection.13.15.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.15.4}Relevant Literature}{218}{subsection.13.15.4}
+\contentsline {subsection}{\numberline {13.15.4}Relevant Literature}{222}{subsection.13.15.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.15.5}Related Tasks}{219}{subsection.13.15.5}
+\contentsline {subsection}{\numberline {13.15.5}Related Tasks}{223}{subsection.13.15.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {14}K. Implementation, Management, and Supervision{}}{221}{chapter.14}
+\contentsline {chapter}{\numberline {14}K. Implementation, Management, and Supervision{}}{225}{chapter.14}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.1}K-01 Provide for ongoing documentation of behavioral services.{}}{221}{section.14.1}
+\contentsline {section}{\numberline {14.1}K-01 Provide for ongoing documentation of behavioral services.{}}{225}{section.14.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.1.1}Definition}{221}{subsection.14.1.1}
+\contentsline {subsection}{\numberline {14.1.1}Definition}{225}{subsection.14.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.1.2}Assessment}{222}{subsection.14.1.2}
+\contentsline {subsection}{\numberline {14.1.2}Assessment}{226}{subsection.14.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.1.3}Relevant Literature}{222}{subsection.14.1.3}
+\contentsline {subsection}{\numberline {14.1.3}Relevant Literature}{226}{subsection.14.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.2}K-02 Identify the contingencies governing the behavior of those responsible for carrying out behavior-change procedures and design interventions accordingly.{}}{222}{section.14.2}
+\contentsline {section}{\numberline {14.2}K-02 Identify the contingencies governing the behavior of those responsible for carrying out behavior-change procedures and design interventions accordingly.{}}{226}{section.14.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.2.1}Definition}{222}{subsection.14.2.1}
+\contentsline {subsection}{\numberline {14.2.1}Definition}{226}{subsection.14.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.2.2}Examples}{223}{subsection.14.2.2}
+\contentsline {subsection}{\numberline {14.2.2}Examples}{227}{subsection.14.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.2.3}Assessment}{223}{subsection.14.2.3}
+\contentsline {subsection}{\numberline {14.2.3}Assessment}{227}{subsection.14.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.2.4}Relevant Literature}{224}{subsection.14.2.4}
+\contentsline {subsection}{\numberline {14.2.4}Relevant Literature}{228}{subsection.14.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.2.5}Related Tasks}{224}{subsection.14.2.5}
+\contentsline {subsection}{\numberline {14.2.5}Related Tasks}{228}{subsection.14.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.3}K-03 Design and use competency-based training for persons who are responsible for carrying out behavioral assessment and behavior-change procedures.{}}{224}{section.14.3}
+\contentsline {section}{\numberline {14.3}K-03 Design and use competency-based training for persons who are responsible for carrying out behavioral assessment and behavior-change procedures.{}}{228}{section.14.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.3.1}Definition}{224}{subsection.14.3.1}
+\contentsline {subsection}{\numberline {14.3.1}Definition}{228}{subsection.14.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.3.2}Assessment}{225}{subsection.14.3.2}
+\contentsline {subsection}{\numberline {14.3.2}Assessment}{229}{subsection.14.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.3.3}Relevant Literature}{225}{subsection.14.3.3}
+\contentsline {subsection}{\numberline {14.3.3}Relevant Literature}{229}{subsection.14.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.3.4}Related Tasks}{226}{subsection.14.3.4}
+\contentsline {subsection}{\numberline {14.3.4}Related Tasks}{230}{subsection.14.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.4}K-04 Design and use effective performance monitoring and reinforcement systems.{}}{226}{section.14.4}
+\contentsline {section}{\numberline {14.4}K-04 Design and use effective performance monitoring and reinforcement systems.{}}{230}{section.14.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.4.1}Definition}{226}{subsection.14.4.1}
+\contentsline {subsection}{\numberline {14.4.1}Definition}{230}{subsection.14.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.4.2}Assessment}{227}{subsection.14.4.2}
+\contentsline {subsection}{\numberline {14.4.2}Assessment}{231}{subsection.14.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.4.3}Relevant Literature}{227}{subsection.14.4.3}
+\contentsline {subsection}{\numberline {14.4.3}Relevant Literature}{231}{subsection.14.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.4.4}Related Tasks}{227}{subsection.14.4.4}
+\contentsline {subsection}{\numberline {14.4.4}Related Tasks}{231}{subsection.14.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.5}K-05 Design and use systems for monitoring procedural integrity.{}}{228}{section.14.5}
+\contentsline {section}{\numberline {14.5}K-05 Design and use systems for monitoring procedural integrity.{}}{232}{section.14.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.5.1}Definition}{228}{subsection.14.5.1}
+\contentsline {subsection}{\numberline {14.5.1}Definition}{232}{subsection.14.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.5.2}Assessment}{228}{subsection.14.5.2}
+\contentsline {subsection}{\numberline {14.5.2}Assessment}{232}{subsection.14.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.5.3}Relevant Literature}{229}{subsection.14.5.3}
+\contentsline {subsection}{\numberline {14.5.3}Relevant Literature}{233}{subsection.14.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.5.4}Related Tasks}{229}{subsection.14.5.4}
+\contentsline {subsection}{\numberline {14.5.4}Related Tasks}{233}{subsection.14.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.5.5}Footnotes}{229}{subsection.14.5.5}
+\contentsline {subsection}{\numberline {14.5.5}Footnotes}{233}{subsection.14.5.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.6}K-06 Provide supervision for behavior-change agents.{}}{229}{section.14.6}
+\contentsline {section}{\numberline {14.6}K-06 Provide supervision for behavior-change agents.{}}{233}{section.14.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.6.1}Assessment}{230}{subsection.14.6.1}
+\contentsline {subsection}{\numberline {14.6.1}Assessment}{234}{subsection.14.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.6.2}Relevant Literature}{230}{subsection.14.6.2}
+\contentsline {subsection}{\numberline {14.6.2}Relevant Literature}{234}{subsection.14.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.6.3}Related Tasks}{230}{subsection.14.6.3}
+\contentsline {subsection}{\numberline {14.6.3}Related Tasks}{234}{subsection.14.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.7}K-07 Evaluate the effectiveness of the behavioral program.{}}{231}{section.14.7}
+\contentsline {section}{\numberline {14.7}K-07 Evaluate the effectiveness of the behavioral program.{}}{235}{section.14.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.7.1}Definition}{231}{subsection.14.7.1}
+\contentsline {subsection}{\numberline {14.7.1}Definition}{235}{subsection.14.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.7.2}Assessment}{231}{subsection.14.7.2}
+\contentsline {subsection}{\numberline {14.7.2}Assessment}{235}{subsection.14.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.7.3}Relevant Literature}{232}{subsection.14.7.3}
+\contentsline {subsection}{\numberline {14.7.3}Relevant Literature}{236}{subsection.14.7.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.7.4}Related Tasks}{232}{subsection.14.7.4}
+\contentsline {subsection}{\numberline {14.7.4}Related Tasks}{236}{subsection.14.7.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.8}K-08 Establish support for behavior-analytic services from direct and indirect consumers.{}}{232}{section.14.8}
+\contentsline {section}{\numberline {14.8}K-08 Establish support for behavior-analytic services from direct and indirect consumers.{}}{236}{section.14.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.8.1}Definition}{232}{subsection.14.8.1}
+\contentsline {subsection}{\numberline {14.8.1}Definition}{236}{subsection.14.8.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.8.2}Assessment}{233}{subsection.14.8.2}
+\contentsline {subsection}{\numberline {14.8.2}Assessment}{237}{subsection.14.8.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.8.3}Relevant Literature}{233}{subsection.14.8.3}
+\contentsline {subsection}{\numberline {14.8.3}Relevant Literature}{237}{subsection.14.8.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.8.4}Related Tasks}{233}{subsection.14.8.4}
+\contentsline {subsection}{\numberline {14.8.4}Related Tasks}{237}{subsection.14.8.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.9}K-09 Secure the support of others to maintain the client\IeC {\textquoteright }s behavioral repertoires in their natural environments.{}}{234}{section.14.9}
+\contentsline {section}{\numberline {14.9}K-09 Secure the support of others to maintain the client\IeC {\textquoteright }s behavioral repertoires in their natural environments.{}}{238}{section.14.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.9.1}Definition}{234}{subsection.14.9.1}
+\contentsline {subsection}{\numberline {14.9.1}Definition}{238}{subsection.14.9.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.9.2}Examples}{234}{subsection.14.9.2}
+\contentsline {subsection}{\numberline {14.9.2}Examples}{238}{subsection.14.9.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.9.3}Assessment}{234}{subsection.14.9.3}
+\contentsline {subsection}{\numberline {14.9.3}Assessment}{238}{subsection.14.9.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.9.4}Relevant Literature}{235}{subsection.14.9.4}
+\contentsline {subsection}{\numberline {14.9.4}Relevant Literature}{239}{subsection.14.9.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.9.5}Related Tasks}{235}{subsection.14.9.5}
+\contentsline {subsection}{\numberline {14.9.5}Related Tasks}{239}{subsection.14.9.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.10}K-10 Arrange for the orderly termination of services when they are no longer required.{}}{235}{section.14.10}
+\contentsline {section}{\numberline {14.10}K-10 Arrange for the orderly termination of services when they are no longer required.{}}{239}{section.14.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.10.1}Definition}{235}{subsection.14.10.1}
+\contentsline {subsection}{\numberline {14.10.1}Definition}{239}{subsection.14.10.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.10.2}Assessment}{236}{subsection.14.10.2}
+\contentsline {subsection}{\numberline {14.10.2}Assessment}{240}{subsection.14.10.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.10.3}Relevant Literature}{236}{subsection.14.10.3}
+\contentsline {subsection}{\numberline {14.10.3}Relevant Literature}{240}{subsection.14.10.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.10.4}Related Tasks}{236}{subsection.14.10.4}
+\contentsline {subsection}{\numberline {14.10.4}Related Tasks}{240}{subsection.14.10.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {15}FK: Foundational Knowledge{}}{237}{chapter.15}
+\contentsline {chapter}{\numberline {15}FK: Foundational Knowledge{}}{241}{chapter.15}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.1}FK-01 Lawfulness of behavior{}}{237}{section.15.1}
+\contentsline {section}{\numberline {15.1}FK-01 Lawfulness of behavior{}}{241}{section.15.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.1.1}Definition}{237}{subsection.15.1.1}
+\contentsline {subsection}{\numberline {15.1.1}Definition}{241}{subsection.15.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.1.2}Assessment}{237}{subsection.15.1.2}
+\contentsline {subsection}{\numberline {15.1.2}Assessment}{241}{subsection.15.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.1.3}Relevant Literature}{237}{subsection.15.1.3}
+\contentsline {subsection}{\numberline {15.1.3}Relevant Literature}{241}{subsection.15.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.1.4}Related Tasks}{238}{subsection.15.1.4}
+\contentsline {subsection}{\numberline {15.1.4}Related Tasks}{242}{subsection.15.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.2}FK-02 Selectionism (phylogenic, ontogenic, cultural){}}{238}{section.15.2}
+\contentsline {section}{\numberline {15.2}FK-02 Selectionism (phylogenic, ontogenic, cultural){}}{242}{section.15.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.2.1}Definition}{238}{subsection.15.2.1}
+\contentsline {subsection}{\numberline {15.2.1}Definition}{242}{subsection.15.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.2.2}Examples}{238}{subsection.15.2.2}
+\contentsline {subsection}{\numberline {15.2.2}Examples}{242}{subsection.15.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.2.3}Assessment}{239}{subsection.15.2.3}
+\contentsline {subsection}{\numberline {15.2.3}Assessment}{243}{subsection.15.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.2.4}Relevant Literature}{239}{subsection.15.2.4}
+\contentsline {subsection}{\numberline {15.2.4}Relevant Literature}{243}{subsection.15.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.2.5}Related Tasks}{239}{subsection.15.2.5}
+\contentsline {subsection}{\numberline {15.2.5}Related Tasks}{243}{subsection.15.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.3}FK-03 Determinism{}}{239}{section.15.3}
+\contentsline {section}{\numberline {15.3}FK-03 Determinism{}}{243}{section.15.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.3.1}Definition}{239}{subsection.15.3.1}
+\contentsline {subsection}{\numberline {15.3.1}Definition}{243}{subsection.15.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.3.2}Examples}{240}{subsection.15.3.2}
+\contentsline {subsection}{\numberline {15.3.2}Examples}{244}{subsection.15.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.3.3}Assessment}{240}{subsection.15.3.3}
+\contentsline {subsection}{\numberline {15.3.3}Assessment}{244}{subsection.15.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.3.4}Relevant Literature}{241}{subsection.15.3.4}
+\contentsline {subsection}{\numberline {15.3.4}Relevant Literature}{245}{subsection.15.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.3.5}Related Tasks}{241}{subsection.15.3.5}
+\contentsline {subsection}{\numberline {15.3.5}Related Tasks}{245}{subsection.15.3.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.4}FK-04 Empiricism{}}{241}{section.15.4}
+\contentsline {section}{\numberline {15.4}FK-04 Empiricism{}}{245}{section.15.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.4.1}Definition}{241}{subsection.15.4.1}
+\contentsline {subsection}{\numberline {15.4.1}Definition}{245}{subsection.15.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.4.2}Examples}{241}{subsection.15.4.2}
+\contentsline {subsection}{\numberline {15.4.2}Examples}{245}{subsection.15.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.4.3}Assessment}{242}{subsection.15.4.3}
+\contentsline {subsection}{\numberline {15.4.3}Assessment}{246}{subsection.15.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.4.4}Relevant Literature}{242}{subsection.15.4.4}
+\contentsline {subsection}{\numberline {15.4.4}Relevant Literature}{246}{subsection.15.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.4.5}Related Tasks}{242}{subsection.15.4.5}
+\contentsline {subsection}{\numberline {15.4.5}Related Tasks}{246}{subsection.15.4.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.5}FK-05 Parsimony{}}{243}{section.15.5}
+\contentsline {section}{\numberline {15.5}FK-05 Parsimony{}}{247}{section.15.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.5.1}Definition}{243}{subsection.15.5.1}
+\contentsline {subsection}{\numberline {15.5.1}Definition}{247}{subsection.15.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.5.2}Examples}{243}{subsection.15.5.2}
+\contentsline {subsection}{\numberline {15.5.2}Examples}{247}{subsection.15.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.5.3}Assessment}{243}{subsection.15.5.3}
+\contentsline {subsection}{\numberline {15.5.3}Assessment}{247}{subsection.15.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.5.4}Relevant Literature}{244}{subsection.15.5.4}
+\contentsline {subsection}{\numberline {15.5.4}Relevant Literature}{248}{subsection.15.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.5.5}Related Tasks}{244}{subsection.15.5.5}
+\contentsline {subsection}{\numberline {15.5.5}Related Tasks}{248}{subsection.15.5.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.6}FK-06 Pragmatism{}}{244}{section.15.6}
+\contentsline {section}{\numberline {15.6}FK-06 Pragmatism{}}{248}{section.15.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.6.1}Definition}{244}{subsection.15.6.1}
+\contentsline {subsection}{\numberline {15.6.1}Definition}{248}{subsection.15.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.6.2}Examples}{245}{subsection.15.6.2}
+\contentsline {subsection}{\numberline {15.6.2}Examples}{249}{subsection.15.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.6.3}Assessment}{245}{subsection.15.6.3}
+\contentsline {subsection}{\numberline {15.6.3}Assessment}{249}{subsection.15.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.6.4}Relevant Literature}{245}{subsection.15.6.4}
+\contentsline {subsection}{\numberline {15.6.4}Relevant Literature}{249}{subsection.15.6.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.6.5}Related Tasks}{245}{subsection.15.6.5}
+\contentsline {subsection}{\numberline {15.6.5}Related Tasks}{249}{subsection.15.6.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.7}FK-07 Environmental (as opposed to mentalistic) explanations of behavior{}}{246}{section.15.7}
+\contentsline {section}{\numberline {15.7}FK-07 Environmental (as opposed to mentalistic) explanations of behavior{}}{250}{section.15.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.7.1}Definition}{246}{subsection.15.7.1}
+\contentsline {subsection}{\numberline {15.7.1}Definition}{250}{subsection.15.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.7.2}Assessment}{246}{subsection.15.7.2}
+\contentsline {subsection}{\numberline {15.7.2}Assessment}{250}{subsection.15.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.7.3}Relevant Literature}{247}{subsection.15.7.3}
+\contentsline {subsection}{\numberline {15.7.3}Relevant Literature}{251}{subsection.15.7.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.7.4}Related Tasks}{247}{subsection.15.7.4}
+\contentsline {subsection}{\numberline {15.7.4}Related Tasks}{251}{subsection.15.7.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.8}FK-08 Distinguish between radical and methodological behaviorism.{}}{247}{section.15.8}
+\contentsline {section}{\numberline {15.8}FK-08 Distinguish between radical and methodological behaviorism.{}}{251}{section.15.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.8.1}Definition}{247}{subsection.15.8.1}
+\contentsline {subsection}{\numberline {15.8.1}Definition}{251}{subsection.15.8.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.8.2}Assessment}{248}{subsection.15.8.2}
+\contentsline {subsection}{\numberline {15.8.2}Assessment}{252}{subsection.15.8.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.8.3}Relevant Literature}{248}{subsection.15.8.3}
+\contentsline {subsection}{\numberline {15.8.3}Relevant Literature}{252}{subsection.15.8.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.8.4}Related Tasks}{248}{subsection.15.8.4}
+\contentsline {subsection}{\numberline {15.8.4}Related Tasks}{252}{subsection.15.8.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.9}FK-09 Distinguish between the conceptual analysis of behavior, experimental analysis of behavior, applied behavior analysis, and behavioral service delivery.{}}{248}{section.15.9}
+\contentsline {section}{\numberline {15.9}FK-09 Distinguish between the conceptual analysis of behavior, experimental analysis of behavior, applied behavior analysis, and behavioral service delivery.{}}{252}{section.15.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.9.1}Definition}{248}{subsection.15.9.1}
+\contentsline {subsection}{\numberline {15.9.1}Definition}{252}{subsection.15.9.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.9.2}Assessment}{250}{subsection.15.9.2}
+\contentsline {subsection}{\numberline {15.9.2}Assessment}{254}{subsection.15.9.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.9.3}Relevant Literature}{250}{subsection.15.9.3}
+\contentsline {subsection}{\numberline {15.9.3}Relevant Literature}{254}{subsection.15.9.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.9.4}Related Tasks}{250}{subsection.15.9.4}
+\contentsline {subsection}{\numberline {15.9.4}Related Tasks}{254}{subsection.15.9.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.10}FK-10 Behavior, response, response class{}}{251}{section.15.10}
+\contentsline {section}{\numberline {15.10}FK-10 Behavior, response, response class{}}{255}{section.15.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.10.1}Definition}{251}{subsection.15.10.1}
+\contentsline {subsection}{\numberline {15.10.1}Definition}{255}{subsection.15.10.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.10.2}Examples}{251}{subsection.15.10.2}
+\contentsline {subsection}{\numberline {15.10.2}Examples}{255}{subsection.15.10.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.10.3}Assessment}{251}{subsection.15.10.3}
+\contentsline {subsection}{\numberline {15.10.3}Assessment}{255}{subsection.15.10.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.10.4}Relevant Literature}{251}{subsection.15.10.4}
+\contentsline {subsection}{\numberline {15.10.4}Relevant Literature}{255}{subsection.15.10.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.10.5}Related Tasks}{252}{subsection.15.10.5}
+\contentsline {subsection}{\numberline {15.10.5}Related Tasks}{256}{subsection.15.10.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.11}FK-11 Environment, stimulus, stimulus class{}}{252}{section.15.11}
+\contentsline {section}{\numberline {15.11}FK-11 Environment, stimulus, stimulus class{}}{256}{section.15.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.11.1}Definition}{252}{subsection.15.11.1}
+\contentsline {subsection}{\numberline {15.11.1}Definition}{256}{subsection.15.11.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.11.2}Examples}{252}{subsection.15.11.2}
+\contentsline {subsection}{\numberline {15.11.2}Examples}{256}{subsection.15.11.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.11.3}Assessment}{253}{subsection.15.11.3}
+\contentsline {subsection}{\numberline {15.11.3}Assessment}{257}{subsection.15.11.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.11.4}Relevant Literature}{253}{subsection.15.11.4}
+\contentsline {subsection}{\numberline {15.11.4}Relevant Literature}{257}{subsection.15.11.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.11.5}Related Tasks}{253}{subsection.15.11.5}
+\contentsline {subsection}{\numberline {15.11.5}Related Tasks}{257}{subsection.15.11.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.12}FK-12 Stimulus equivalence{}}{253}{section.15.12}
+\contentsline {section}{\numberline {15.12}FK-12 Stimulus equivalence{}}{257}{section.15.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.12.1}Definition}{253}{subsection.15.12.1}
+\contentsline {subsection}{\numberline {15.12.1}Definition}{257}{subsection.15.12.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.12.2}Examples}{253}{subsection.15.12.2}
+\contentsline {subsection}{\numberline {15.12.2}Examples}{257}{subsection.15.12.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.12.3}Assessment}{254}{subsection.15.12.3}
+\contentsline {subsection}{\numberline {15.12.3}Assessment}{258}{subsection.15.12.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.12.4}Relevant Literature}{254}{subsection.15.12.4}
+\contentsline {subsection}{\numberline {15.12.4}Relevant Literature}{258}{subsection.15.12.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.13}FK-13 Reflexive relations (US-UR){}}{255}{section.15.13}
+\contentsline {section}{\numberline {15.13}FK-13 Reflexive relations (US-UR){}}{259}{section.15.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.13.1}Definition}{255}{subsection.15.13.1}
+\contentsline {subsection}{\numberline {15.13.1}Definition}{259}{subsection.15.13.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.13.2}Examples}{255}{subsection.15.13.2}
+\contentsline {subsection}{\numberline {15.13.2}Examples}{259}{subsection.15.13.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.13.3}Assessment}{255}{subsection.15.13.3}
+\contentsline {subsection}{\numberline {15.13.3}Assessment}{259}{subsection.15.13.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.13.4}Relevant Literature}{255}{subsection.15.13.4}
+\contentsline {subsection}{\numberline {15.13.4}Relevant Literature}{259}{subsection.15.13.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.13.5}Related Tasks}{256}{subsection.15.13.5}
+\contentsline {subsection}{\numberline {15.13.5}Related Tasks}{260}{subsection.15.13.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.14}FK-14 Respondent conditioning (CS-CR){}}{256}{section.15.14}
+\contentsline {section}{\numberline {15.14}FK-14 Respondent conditioning (CS-CR){}}{260}{section.15.14}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.14.1}Definition}{256}{subsection.15.14.1}
+\contentsline {subsection}{\numberline {15.14.1}Definition}{260}{subsection.15.14.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.14.2}Examples}{256}{subsection.15.14.2}
+\contentsline {subsection}{\numberline {15.14.2}Examples}{260}{subsection.15.14.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.14.3}Assessment}{256}{subsection.15.14.3}
+\contentsline {subsection}{\numberline {15.14.3}Assessment}{260}{subsection.15.14.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.14.4}Relevant Literature}{257}{subsection.15.14.4}
+\contentsline {subsection}{\numberline {15.14.4}Relevant Literature}{261}{subsection.15.14.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.14.5}Related Tasks}{257}{subsection.15.14.5}
+\contentsline {subsection}{\numberline {15.14.5}Related Tasks}{261}{subsection.15.14.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.15}FK-15 Operant conditioning{}}{257}{section.15.15}
+\contentsline {section}{\numberline {15.15}FK-15 Operant conditioning{}}{261}{section.15.15}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.15.1}Definition}{257}{subsection.15.15.1}
+\contentsline {subsection}{\numberline {15.15.1}Definition}{261}{subsection.15.15.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.15.2}Examples}{257}{subsection.15.15.2}
+\contentsline {subsection}{\numberline {15.15.2}Examples}{261}{subsection.15.15.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.15.3}Assessment}{258}{subsection.15.15.3}
+\contentsline {subsection}{\numberline {15.15.3}Assessment}{262}{subsection.15.15.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.15.4}Relevant Literature}{258}{subsection.15.15.4}
+\contentsline {subsection}{\numberline {15.15.4}Relevant Literature}{262}{subsection.15.15.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.15.5}Related Tasks}{258}{subsection.15.15.5}
+\contentsline {subsection}{\numberline {15.15.5}Related Tasks}{262}{subsection.15.15.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.16}FK-16 Respondent-operant interactions{}}{258}{section.15.16}
+\contentsline {section}{\numberline {15.16}FK-16 Respondent-operant interactions{}}{262}{section.15.16}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.16.1}Definition}{258}{subsection.15.16.1}
+\contentsline {subsection}{\numberline {15.16.1}Definition}{262}{subsection.15.16.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.16.2}Examples}{259}{subsection.15.16.2}
+\contentsline {subsection}{\numberline {15.16.2}Examples}{263}{subsection.15.16.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.16.3}Assessment}{259}{subsection.15.16.3}
+\contentsline {subsection}{\numberline {15.16.3}Assessment}{263}{subsection.15.16.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.16.4}Relevant Literature}{259}{subsection.15.16.4}
+\contentsline {subsection}{\numberline {15.16.4}Relevant Literature}{263}{subsection.15.16.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.16.5}Related Tasks}{259}{subsection.15.16.5}
+\contentsline {subsection}{\numberline {15.16.5}Related Tasks}{263}{subsection.15.16.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.17}FK-17 Unconditioned reinforcement{}}{260}{section.15.17}
+\contentsline {section}{\numberline {15.17}FK-17 Unconditioned reinforcement{}}{264}{section.15.17}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.17.1}Definition}{260}{subsection.15.17.1}
+\contentsline {subsection}{\numberline {15.17.1}Definition}{264}{subsection.15.17.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.17.2}Examples}{260}{subsection.15.17.2}
+\contentsline {subsection}{\numberline {15.17.2}Examples}{264}{subsection.15.17.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.17.3}Assessment}{260}{subsection.15.17.3}
+\contentsline {subsection}{\numberline {15.17.3}Assessment}{264}{subsection.15.17.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.17.4}Relevant Literature}{260}{subsection.15.17.4}
+\contentsline {subsection}{\numberline {15.17.4}Relevant Literature}{264}{subsection.15.17.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.17.5}Related Tasks}{261}{subsection.15.17.5}
+\contentsline {subsection}{\numberline {15.17.5}Related Tasks}{265}{subsection.15.17.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.18}FK-18 Conditioned reinforcement{}}{261}{section.15.18}
+\contentsline {section}{\numberline {15.18}FK-18 Conditioned reinforcement{}}{265}{section.15.18}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.18.1}Definition}{261}{subsection.15.18.1}
+\contentsline {subsection}{\numberline {15.18.1}Definition}{265}{subsection.15.18.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.18.2}Examples}{261}{subsection.15.18.2}
+\contentsline {subsection}{\numberline {15.18.2}Examples}{265}{subsection.15.18.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.18.3}Assessment}{261}{subsection.15.18.3}
+\contentsline {subsection}{\numberline {15.18.3}Assessment}{265}{subsection.15.18.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.18.4}Relevant Literature}{262}{subsection.15.18.4}
+\contentsline {subsection}{\numberline {15.18.4}Relevant Literature}{266}{subsection.15.18.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.18.5}Related Tasks}{262}{subsection.15.18.5}
+\contentsline {subsection}{\numberline {15.18.5}Related Tasks}{266}{subsection.15.18.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.19}FK-19 Unconditioned punishment{}}{262}{section.15.19}
+\contentsline {section}{\numberline {15.19}FK-19 Unconditioned punishment{}}{266}{section.15.19}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.19.1}Definition}{262}{subsection.15.19.1}
+\contentsline {subsection}{\numberline {15.19.1}Definition}{266}{subsection.15.19.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.19.2}Examples}{263}{subsection.15.19.2}
+\contentsline {subsection}{\numberline {15.19.2}Examples}{267}{subsection.15.19.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.19.3}Assessment}{263}{subsection.15.19.3}
+\contentsline {subsection}{\numberline {15.19.3}Assessment}{267}{subsection.15.19.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.19.4}Relevant Literature}{263}{subsection.15.19.4}
+\contentsline {subsection}{\numberline {15.19.4}Relevant Literature}{267}{subsection.15.19.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.19.5}Related Tasks}{263}{subsection.15.19.5}
+\contentsline {subsection}{\numberline {15.19.5}Related Tasks}{267}{subsection.15.19.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.19.6}Footnotes}{263}{subsection.15.19.6}
+\contentsline {subsection}{\numberline {15.19.6}Footnotes}{267}{subsection.15.19.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.20}FK-20 Conditioned punishment{}}{264}{section.15.20}
+\contentsline {section}{\numberline {15.20}FK-20 Conditioned punishment{}}{268}{section.15.20}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.20.1}Definition}{264}{subsection.15.20.1}
+\contentsline {subsection}{\numberline {15.20.1}Definition}{268}{subsection.15.20.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.20.2}Examples}{264}{subsection.15.20.2}
+\contentsline {subsection}{\numberline {15.20.2}Examples}{268}{subsection.15.20.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.20.3}Assessment}{264}{subsection.15.20.3}
+\contentsline {subsection}{\numberline {15.20.3}Assessment}{268}{subsection.15.20.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.20.4}Relevant Literature}{265}{subsection.15.20.4}
+\contentsline {subsection}{\numberline {15.20.4}Relevant Literature}{269}{subsection.15.20.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.20.5}Related Tasks}{265}{subsection.15.20.5}
+\contentsline {subsection}{\numberline {15.20.5}Related Tasks}{269}{subsection.15.20.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.21}FK-21 Schedules of reinforcement and punishment{}}{265}{section.15.21}
+\contentsline {section}{\numberline {15.21}FK-21 Schedules of reinforcement and punishment{}}{269}{section.15.21}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.21.1}Definition}{265}{subsection.15.21.1}
+\contentsline {subsection}{\numberline {15.21.1}Definition}{269}{subsection.15.21.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.21.2}Examples}{265}{subsection.15.21.2}
+\contentsline {subsection}{\numberline {15.21.2}Examples}{269}{subsection.15.21.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.21.3}Assessment}{266}{subsection.15.21.3}
+\contentsline {subsection}{\numberline {15.21.3}Assessment}{270}{subsection.15.21.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.21.4}Relevant Literature}{266}{subsection.15.21.4}
+\contentsline {subsection}{\numberline {15.21.4}Relevant Literature}{270}{subsection.15.21.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.21.5}Related Tasks}{267}{subsection.15.21.5}
+\contentsline {subsection}{\numberline {15.21.5}Related Tasks}{271}{subsection.15.21.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.22}FK-22 Extinction{}}{267}{section.15.22}
+\contentsline {section}{\numberline {15.22}FK-22 Extinction{}}{271}{section.15.22}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.22.1}Definition}{267}{subsection.15.22.1}
+\contentsline {subsection}{\numberline {15.22.1}Definition}{271}{subsection.15.22.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.22.2}Examples}{267}{subsection.15.22.2}
+\contentsline {subsection}{\numberline {15.22.2}Examples}{271}{subsection.15.22.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.22.3}Assessment}{267}{subsection.15.22.3}
+\contentsline {subsection}{\numberline {15.22.3}Assessment}{271}{subsection.15.22.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.22.4}Relevant Literature}{268}{subsection.15.22.4}
+\contentsline {subsection}{\numberline {15.22.4}Relevant Literature}{272}{subsection.15.22.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.22.5}Related Tasks}{268}{subsection.15.22.5}
+\contentsline {subsection}{\numberline {15.22.5}Related Tasks}{272}{subsection.15.22.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.23}FK-23 Automatic reinforcement and punishment{}}{268}{section.15.23}
+\contentsline {section}{\numberline {15.23}FK-23 Automatic reinforcement and punishment{}}{272}{section.15.23}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.23.1}Definition}{268}{subsection.15.23.1}
+\contentsline {subsection}{\numberline {15.23.1}Definition}{272}{subsection.15.23.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.23.2}Examples}{268}{subsection.15.23.2}
+\contentsline {subsection}{\numberline {15.23.2}Examples}{272}{subsection.15.23.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.23.3}Assessment}{269}{subsection.15.23.3}
+\contentsline {subsection}{\numberline {15.23.3}Assessment}{273}{subsection.15.23.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.23.4}Relevant Literature}{269}{subsection.15.23.4}
+\contentsline {subsection}{\numberline {15.23.4}Relevant Literature}{273}{subsection.15.23.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.23.5}Related Tasks}{269}{subsection.15.23.5}
+\contentsline {subsection}{\numberline {15.23.5}Related Tasks}{273}{subsection.15.23.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.24}FK-24 Stimulus control{}}{269}{section.15.24}
+\contentsline {section}{\numberline {15.24}FK-24 Stimulus control{}}{273}{section.15.24}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.24.1}Definition}{269}{subsection.15.24.1}
+\contentsline {subsection}{\numberline {15.24.1}Definition}{273}{subsection.15.24.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.24.2}Examples}{270}{subsection.15.24.2}
+\contentsline {subsection}{\numberline {15.24.2}Examples}{274}{subsection.15.24.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.24.3}Assessment}{270}{subsection.15.24.3}
+\contentsline {subsection}{\numberline {15.24.3}Assessment}{274}{subsection.15.24.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.24.4}Relevant Literature}{270}{subsection.15.24.4}
+\contentsline {subsection}{\numberline {15.24.4}Relevant Literature}{274}{subsection.15.24.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.24.5}Related Tasks}{270}{subsection.15.24.5}
+\contentsline {subsection}{\numberline {15.24.5}Related Tasks}{274}{subsection.15.24.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.25}FK-25 Multiple functions of a single stimulus{}}{271}{section.15.25}
+\contentsline {section}{\numberline {15.25}FK-25 Multiple functions of a single stimulus{}}{275}{section.15.25}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.25.1}Definition}{271}{subsection.15.25.1}
+\contentsline {subsection}{\numberline {15.25.1}Definition}{275}{subsection.15.25.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.25.2}Assessment}{271}{subsection.15.25.2}
+\contentsline {subsection}{\numberline {15.25.2}Assessment}{275}{subsection.15.25.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.25.3}Relevant Literature}{271}{subsection.15.25.3}
+\contentsline {subsection}{\numberline {15.25.3}Relevant Literature}{275}{subsection.15.25.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.25.4}Related Tasks}{271}{subsection.15.25.4}
+\contentsline {subsection}{\numberline {15.25.4}Related Tasks}{275}{subsection.15.25.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.26}FK-26 Unconditioned motivating operations{}}{272}{section.15.26}
+\contentsline {section}{\numberline {15.26}FK-26 Unconditioned motivating operations{}}{276}{section.15.26}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.26.1}Definition}{272}{subsection.15.26.1}
+\contentsline {subsection}{\numberline {15.26.1}Definition}{276}{subsection.15.26.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.26.2}Examples}{272}{subsection.15.26.2}
+\contentsline {subsection}{\numberline {15.26.2}Examples}{276}{subsection.15.26.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.26.3}Assessment}{272}{subsection.15.26.3}
+\contentsline {subsection}{\numberline {15.26.3}Assessment}{276}{subsection.15.26.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.26.4}Relevant Literature}{273}{subsection.15.26.4}
+\contentsline {subsection}{\numberline {15.26.4}Relevant Literature}{277}{subsection.15.26.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.26.5}Related Tasks}{273}{subsection.15.26.5}
+\contentsline {subsection}{\numberline {15.26.5}Related Tasks}{277}{subsection.15.26.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.27}FK-27 Conditioned motivating operations{}}{273}{section.15.27}
+\contentsline {section}{\numberline {15.27}FK-27 Conditioned motivating operations{}}{277}{section.15.27}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.27.1}Definition}{273}{subsection.15.27.1}
+\contentsline {subsection}{\numberline {15.27.1}Definition}{277}{subsection.15.27.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.27.2}Examples}{274}{subsection.15.27.2}
+\contentsline {subsection}{\numberline {15.27.2}Examples}{278}{subsection.15.27.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.27.3}Assessment}{274}{subsection.15.27.3}
+\contentsline {subsection}{\numberline {15.27.3}Assessment}{278}{subsection.15.27.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.27.4}Relevant Literature}{274}{subsection.15.27.4}
+\contentsline {subsection}{\numberline {15.27.4}Relevant Literature}{278}{subsection.15.27.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.27.5}Related Tasks}{275}{subsection.15.27.5}
+\contentsline {subsection}{\numberline {15.27.5}Related Tasks}{279}{subsection.15.27.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.28}FK-28 Transitive, reflexive, surrogate motivating operations{}}{275}{section.15.28}
+\contentsline {section}{\numberline {15.28}FK-28 Transitive, reflexive, surrogate motivating operations{}}{279}{section.15.28}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.28.1}Definition}{275}{subsection.15.28.1}
+\contentsline {subsection}{\numberline {15.28.1}Definition}{279}{subsection.15.28.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.28.2}Examples}{276}{subsection.15.28.2}
+\contentsline {subsection}{\numberline {15.28.2}Examples}{280}{subsection.15.28.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.28.3}Assessment}{276}{subsection.15.28.3}
+\contentsline {subsection}{\numberline {15.28.3}Assessment}{280}{subsection.15.28.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.28.4}Relevant Literature}{276}{subsection.15.28.4}
+\contentsline {subsection}{\numberline {15.28.4}Relevant Literature}{280}{subsection.15.28.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.28.5}Related Tasks}{276}{subsection.15.28.5}
+\contentsline {subsection}{\numberline {15.28.5}Related Tasks}{280}{subsection.15.28.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.29}FK-29 Distinguish between the discriminative stimulus and the motivating operation{}}{277}{section.15.29}
+\contentsline {section}{\numberline {15.29}FK-29 Distinguish between the discriminative stimulus and the motivating operation{}}{281}{section.15.29}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.29.1}Definition}{277}{subsection.15.29.1}
+\contentsline {subsection}{\numberline {15.29.1}Definition}{281}{subsection.15.29.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.29.2}Examples}{277}{subsection.15.29.2}
+\contentsline {subsection}{\numberline {15.29.2}Examples}{281}{subsection.15.29.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.29.3}Assessment}{278}{subsection.15.29.3}
+\contentsline {subsection}{\numberline {15.29.3}Assessment}{282}{subsection.15.29.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.29.4}Relevant Literature}{278}{subsection.15.29.4}
+\contentsline {subsection}{\numberline {15.29.4}Relevant Literature}{282}{subsection.15.29.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.29.5}Related Tasks}{278}{subsection.15.29.5}
+\contentsline {subsection}{\numberline {15.29.5}Related Tasks}{282}{subsection.15.29.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.30}FK-30 Distinguish between motivating operation and reinforcement effects{}}{279}{section.15.30}
+\contentsline {section}{\numberline {15.30}FK-30 Distinguish between motivating operation and reinforcement effects{}}{283}{section.15.30}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.30.1}Definition}{279}{subsection.15.30.1}
+\contentsline {subsection}{\numberline {15.30.1}Definition}{283}{subsection.15.30.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.30.2}Examples}{279}{subsection.15.30.2}
+\contentsline {subsection}{\numberline {15.30.2}Examples}{283}{subsection.15.30.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.30.3}Assessment}{280}{subsection.15.30.3}
+\contentsline {subsection}{\numberline {15.30.3}Assessment}{284}{subsection.15.30.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.30.4}Relevant Literature}{280}{subsection.15.30.4}
+\contentsline {subsection}{\numberline {15.30.4}Relevant Literature}{284}{subsection.15.30.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.30.5}Related Tasks}{280}{subsection.15.30.5}
+\contentsline {subsection}{\numberline {15.30.5}Related Tasks}{284}{subsection.15.30.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.31}FK-31 Behavioral contingencies{}}{280}{section.15.31}
+\contentsline {section}{\numberline {15.31}FK-31 Behavioral contingencies{}}{284}{section.15.31}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.31.1}Definition}{280}{subsection.15.31.1}
+\contentsline {subsection}{\numberline {15.31.1}Definition}{284}{subsection.15.31.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.31.2}Examples}{281}{subsection.15.31.2}
+\contentsline {subsection}{\numberline {15.31.2}Examples}{285}{subsection.15.31.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.31.3}Assessment}{281}{subsection.15.31.3}
+\contentsline {subsection}{\numberline {15.31.3}Assessment}{285}{subsection.15.31.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.31.4}Relevant Literature}{281}{subsection.15.31.4}
+\contentsline {subsection}{\numberline {15.31.4}Relevant Literature}{285}{subsection.15.31.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.31.5}Related Tasks}{281}{subsection.15.31.5}
+\contentsline {subsection}{\numberline {15.31.5}Related Tasks}{285}{subsection.15.31.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.32}FK-32 Contiguity{}}{282}{section.15.32}
+\contentsline {section}{\numberline {15.32}FK-32 Contiguity{}}{286}{section.15.32}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.32.1}Definition}{282}{subsection.15.32.1}
+\contentsline {subsection}{\numberline {15.32.1}Definition}{286}{subsection.15.32.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.32.2}Examples}{282}{subsection.15.32.2}
+\contentsline {subsection}{\numberline {15.32.2}Examples}{286}{subsection.15.32.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.32.3}Assessment}{282}{subsection.15.32.3}
+\contentsline {subsection}{\numberline {15.32.3}Assessment}{286}{subsection.15.32.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.32.4}Relevant Literature}{283}{subsection.15.32.4}
+\contentsline {subsection}{\numberline {15.32.4}Relevant Literature}{287}{subsection.15.32.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.32.5}Related Tasks}{283}{subsection.15.32.5}
+\contentsline {subsection}{\numberline {15.32.5}Related Tasks}{287}{subsection.15.32.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.33}FK-33 Functional relations{}}{283}{section.15.33}
+\contentsline {section}{\numberline {15.33}FK-33 Functional relations{}}{287}{section.15.33}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.33.1}Definition}{283}{subsection.15.33.1}
+\contentsline {subsection}{\numberline {15.33.1}Definition}{287}{subsection.15.33.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.33.2}Examples}{284}{subsection.15.33.2}
+\contentsline {subsection}{\numberline {15.33.2}Examples}{288}{subsection.15.33.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.33.3}Assessment}{284}{subsection.15.33.3}
+\contentsline {subsection}{\numberline {15.33.3}Assessment}{288}{subsection.15.33.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.33.4}Relevant Literature}{285}{subsection.15.33.4}
+\contentsline {subsection}{\numberline {15.33.4}Relevant Literature}{289}{subsection.15.33.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.33.5}Related Tasks}{285}{subsection.15.33.5}
+\contentsline {subsection}{\numberline {15.33.5}Related Tasks}{289}{subsection.15.33.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.34}FK-34 Conditional discriminations{}}{285}{section.15.34}
+\contentsline {section}{\numberline {15.34}FK-34 Conditional discriminations{}}{289}{section.15.34}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.34.1}Definition}{285}{subsection.15.34.1}
+\contentsline {subsection}{\numberline {15.34.1}Definition}{289}{subsection.15.34.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.34.2}Examples}{285}{subsection.15.34.2}
+\contentsline {subsection}{\numberline {15.34.2}Examples}{289}{subsection.15.34.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.34.3}Assessment}{286}{subsection.15.34.3}
+\contentsline {subsection}{\numberline {15.34.3}Assessment}{290}{subsection.15.34.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.34.4}Relevant Literature}{286}{subsection.15.34.4}
+\contentsline {subsection}{\numberline {15.34.4}Relevant Literature}{290}{subsection.15.34.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.34.5}Related Tasks}{286}{subsection.15.34.5}
+\contentsline {subsection}{\numberline {15.34.5}Related Tasks}{290}{subsection.15.34.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.35}FK-35 Stimulus discrimination{}}{287}{section.15.35}
+\contentsline {section}{\numberline {15.35}FK-35 Stimulus discrimination{}}{291}{section.15.35}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.35.1}Definition}{287}{subsection.15.35.1}
+\contentsline {subsection}{\numberline {15.35.1}Definition}{291}{subsection.15.35.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.35.2}Examples}{287}{subsection.15.35.2}
+\contentsline {subsection}{\numberline {15.35.2}Examples}{291}{subsection.15.35.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.35.3}Assessment}{287}{subsection.15.35.3}
+\contentsline {subsection}{\numberline {15.35.3}Assessment}{291}{subsection.15.35.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.35.4}Relevant Literature}{287}{subsection.15.35.4}
+\contentsline {subsection}{\numberline {15.35.4}Relevant Literature}{291}{subsection.15.35.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.35.5}Related Tasks}{287}{subsection.15.35.5}
+\contentsline {subsection}{\numberline {15.35.5}Related Tasks}{291}{subsection.15.35.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.36}FK-36 Response generalization{}}{288}{section.15.36}
+\contentsline {section}{\numberline {15.36}FK-36 Response generalization{}}{292}{section.15.36}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.36.1}Definition}{288}{subsection.15.36.1}
+\contentsline {subsection}{\numberline {15.36.1}Definition}{292}{subsection.15.36.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.36.2}Examples}{288}{subsection.15.36.2}
+\contentsline {subsection}{\numberline {15.36.2}Examples}{292}{subsection.15.36.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.36.3}Assessment}{288}{subsection.15.36.3}
+\contentsline {subsection}{\numberline {15.36.3}Assessment}{292}{subsection.15.36.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.36.4}Relevant Literature}{288}{subsection.15.36.4}
+\contentsline {subsection}{\numberline {15.36.4}Relevant Literature}{292}{subsection.15.36.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.36.5}Related Tasks}{289}{subsection.15.36.5}
+\contentsline {subsection}{\numberline {15.36.5}Related Tasks}{293}{subsection.15.36.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.37}FK-37 Stimulus generalization{}}{289}{section.15.37}
+\contentsline {section}{\numberline {15.37}FK-37 Stimulus generalization{}}{293}{section.15.37}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.37.1}Definition}{289}{subsection.15.37.1}
+\contentsline {subsection}{\numberline {15.37.1}Definition}{293}{subsection.15.37.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.37.2}Examples}{289}{subsection.15.37.2}
+\contentsline {subsection}{\numberline {15.37.2}Examples}{293}{subsection.15.37.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.37.3}Assessment}{289}{subsection.15.37.3}
+\contentsline {subsection}{\numberline {15.37.3}Assessment}{293}{subsection.15.37.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.37.4}Relevant Literature}{290}{subsection.15.37.4}
+\contentsline {subsection}{\numberline {15.37.4}Relevant Literature}{294}{subsection.15.37.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.37.5}Related Tasks}{290}{subsection.15.37.5}
+\contentsline {subsection}{\numberline {15.37.5}Related Tasks}{294}{subsection.15.37.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.38}FK-38 Behavioral contrast{}}{290}{section.15.38}
+\contentsline {section}{\numberline {15.38}FK-38 Behavioral contrast{}}{294}{section.15.38}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.38.1}Definition}{290}{subsection.15.38.1}
+\contentsline {subsection}{\numberline {15.38.1}Definition}{294}{subsection.15.38.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.38.2}Examples}{291}{subsection.15.38.2}
+\contentsline {subsection}{\numberline {15.38.2}Examples}{295}{subsection.15.38.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.38.3}Assessment}{291}{subsection.15.38.3}
+\contentsline {subsection}{\numberline {15.38.3}Assessment}{295}{subsection.15.38.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.38.4}Relevant Literature}{291}{subsection.15.38.4}
+\contentsline {subsection}{\numberline {15.38.4}Relevant Literature}{295}{subsection.15.38.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.38.5}Related Tasks}{291}{subsection.15.38.5}
+\contentsline {subsection}{\numberline {15.38.5}Related Tasks}{295}{subsection.15.38.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.39}FK-39 Behavioral momentum{}}{292}{section.15.39}
+\contentsline {section}{\numberline {15.39}FK-39 Behavioral momentum{}}{296}{section.15.39}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.39.1}Definition}{292}{subsection.15.39.1}
+\contentsline {subsection}{\numberline {15.39.1}Definition}{296}{subsection.15.39.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.39.2}Examples}{292}{subsection.15.39.2}
+\contentsline {subsection}{\numberline {15.39.2}Examples}{296}{subsection.15.39.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.39.3}Assessment}{292}{subsection.15.39.3}
+\contentsline {subsection}{\numberline {15.39.3}Assessment}{296}{subsection.15.39.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.39.4}Relevant Literature}{292}{subsection.15.39.4}
+\contentsline {subsection}{\numberline {15.39.4}Relevant Literature}{296}{subsection.15.39.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.39.5}Related Tasks}{293}{subsection.15.39.5}
+\contentsline {subsection}{\numberline {15.39.5}Related Tasks}{297}{subsection.15.39.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.40}FK-40 Matching law{}}{293}{section.15.40}
+\contentsline {section}{\numberline {15.40}FK-40 Matching law{}}{297}{section.15.40}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.40.1}Definition}{293}{subsection.15.40.1}
+\contentsline {subsection}{\numberline {15.40.1}Definition}{297}{subsection.15.40.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.40.2}Assessment}{294}{subsection.15.40.2}
+\contentsline {subsection}{\numberline {15.40.2}Assessment}{298}{subsection.15.40.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.40.3}Relevant Literature}{294}{subsection.15.40.3}
+\contentsline {subsection}{\numberline {15.40.3}Relevant Literature}{298}{subsection.15.40.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.40.4}Related Tasks}{294}{subsection.15.40.4}
+\contentsline {subsection}{\numberline {15.40.4}Related Tasks}{298}{subsection.15.40.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.41}FK-41 Contingency-shaped behavior{}}{294}{section.15.41}
+\contentsline {section}{\numberline {15.41}FK-41 Contingency-shaped behavior{}}{298}{section.15.41}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.41.1}Definition}{294}{subsection.15.41.1}
+\contentsline {subsection}{\numberline {15.41.1}Definition}{298}{subsection.15.41.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.41.2}Examples}{294}{subsection.15.41.2}
+\contentsline {subsection}{\numberline {15.41.2}Examples}{298}{subsection.15.41.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.41.3}Assessment}{295}{subsection.15.41.3}
+\contentsline {subsection}{\numberline {15.41.3}Assessment}{299}{subsection.15.41.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.41.4}Relevant Literature}{295}{subsection.15.41.4}
+\contentsline {subsection}{\numberline {15.41.4}Relevant Literature}{299}{subsection.15.41.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.41.5}Related Tasks}{295}{subsection.15.41.5}
+\contentsline {subsection}{\numberline {15.41.5}Related Tasks}{299}{subsection.15.41.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.42}FK-42 Rule-governed behavior{}}{295}{section.15.42}
+\contentsline {section}{\numberline {15.42}FK-42 Rule-governed behavior{}}{299}{section.15.42}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.42.1}Definition}{295}{subsection.15.42.1}
+\contentsline {subsection}{\numberline {15.42.1}Definition}{299}{subsection.15.42.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.42.2}Examples}{296}{subsection.15.42.2}
+\contentsline {subsection}{\numberline {15.42.2}Examples}{300}{subsection.15.42.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.42.3}Assessment}{296}{subsection.15.42.3}
+\contentsline {subsection}{\numberline {15.42.3}Assessment}{300}{subsection.15.42.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.42.4}Relevant Literature}{296}{subsection.15.42.4}
+\contentsline {subsection}{\numberline {15.42.4}Relevant Literature}{300}{subsection.15.42.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.42.5}Related Tasks}{296}{subsection.15.42.5}
+\contentsline {subsection}{\numberline {15.42.5}Related Tasks}{300}{subsection.15.42.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.43}FK-43 Echoics{}}{297}{section.15.43}
+\contentsline {section}{\numberline {15.43}FK-43 Echoics{}}{301}{section.15.43}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.43.1}Definition}{297}{subsection.15.43.1}
+\contentsline {subsection}{\numberline {15.43.1}Definition}{301}{subsection.15.43.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.43.2}Examples}{297}{subsection.15.43.2}
+\contentsline {subsection}{\numberline {15.43.2}Examples}{301}{subsection.15.43.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.43.3}Assessment}{297}{subsection.15.43.3}
+\contentsline {subsection}{\numberline {15.43.3}Assessment}{301}{subsection.15.43.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.43.4}Relevant Literature}{297}{subsection.15.43.4}
+\contentsline {subsection}{\numberline {15.43.4}Relevant Literature}{301}{subsection.15.43.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.43.5}Related Tasks}{298}{subsection.15.43.5}
+\contentsline {subsection}{\numberline {15.43.5}Related Tasks}{302}{subsection.15.43.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.44}FK-44 Mands{}}{298}{section.15.44}
+\contentsline {section}{\numberline {15.44}FK-44 Mands{}}{302}{section.15.44}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.44.1}Definition}{298}{subsection.15.44.1}
+\contentsline {subsection}{\numberline {15.44.1}Definition}{302}{subsection.15.44.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.44.2}Examples}{298}{subsection.15.44.2}
+\contentsline {subsection}{\numberline {15.44.2}Examples}{302}{subsection.15.44.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.44.3}Assessment}{298}{subsection.15.44.3}
+\contentsline {subsection}{\numberline {15.44.3}Assessment}{302}{subsection.15.44.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.44.4}Relevant Literature}{298}{subsection.15.44.4}
+\contentsline {subsection}{\numberline {15.44.4}Relevant Literature}{302}{subsection.15.44.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.44.5}Related Tasks}{299}{subsection.15.44.5}
+\contentsline {subsection}{\numberline {15.44.5}Related Tasks}{303}{subsection.15.44.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.45}FK-45 Tacts{}}{299}{section.15.45}
+\contentsline {section}{\numberline {15.45}FK-45 Tacts{}}{303}{section.15.45}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.45.1}Definition}{299}{subsection.15.45.1}
+\contentsline {subsection}{\numberline {15.45.1}Definition}{303}{subsection.15.45.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.45.2}Examples}{299}{subsection.15.45.2}
+\contentsline {subsection}{\numberline {15.45.2}Examples}{303}{subsection.15.45.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.45.3}Assessment}{299}{subsection.15.45.3}
+\contentsline {subsection}{\numberline {15.45.3}Assessment}{303}{subsection.15.45.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.45.4}Relevant Literature}{300}{subsection.15.45.4}
+\contentsline {subsection}{\numberline {15.45.4}Relevant Literature}{304}{subsection.15.45.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.45.5}Related Tasks}{300}{subsection.15.45.5}
+\contentsline {subsection}{\numberline {15.45.5}Related Tasks}{304}{subsection.15.45.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.46}FK-46 Intraverbals{}}{300}{section.15.46}
+\contentsline {section}{\numberline {15.46}FK-46 Intraverbals{}}{304}{section.15.46}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.46.1}Definition}{300}{subsection.15.46.1}
+\contentsline {subsection}{\numberline {15.46.1}Definition}{304}{subsection.15.46.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.46.2}Examples}{300}{subsection.15.46.2}
+\contentsline {subsection}{\numberline {15.46.2}Examples}{304}{subsection.15.46.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.46.3}Assessment}{300}{subsection.15.46.3}
+\contentsline {subsection}{\numberline {15.46.3}Assessment}{304}{subsection.15.46.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.46.4}Relevant Literature}{301}{subsection.15.46.4}
+\contentsline {subsection}{\numberline {15.46.4}Relevant Literature}{305}{subsection.15.46.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.46.5}Related Tasks}{301}{subsection.15.46.5}
+\contentsline {subsection}{\numberline {15.46.5}Related Tasks}{305}{subsection.15.46.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.47}FK-47 Identify the measurable dimensions of behavior (e.g., rate, duration, latency, interresponse time).{}}{301}{section.15.47}
+\contentsline {section}{\numberline {15.47}FK-47 Identify the measurable dimensions of behavior (e.g., rate, duration, latency, interresponse time).{}}{305}{section.15.47}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.47.1}Definition}{301}{subsection.15.47.1}
+\contentsline {subsection}{\numberline {15.47.1}Definition}{305}{subsection.15.47.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.47.2}Assessment}{301}{subsection.15.47.2}
+\contentsline {subsection}{\numberline {15.47.2}Assessment}{305}{subsection.15.47.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.47.3}Relevant Literature}{302}{subsection.15.47.3}
+\contentsline {subsection}{\numberline {15.47.3}Relevant Literature}{306}{subsection.15.47.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.47.4}Related Tasks}{302}{subsection.15.47.4}
+\contentsline {subsection}{\numberline {15.47.4}Related Tasks}{306}{subsection.15.47.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.48}FK-48 State the advantages and disadvantages of using continuous measurement procedures and discontinuous measurement procedures (e.g., partial- and whole-interval recording, momentary time sampling).{}}{302}{section.15.48}
+\contentsline {section}{\numberline {15.48}FK-48 State the advantages and disadvantages of using continuous measurement procedures and discontinuous measurement procedures (e.g., partial- and whole-interval recording, momentary time sampling).{}}{306}{section.15.48}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.48.1}Definition}{302}{subsection.15.48.1}
+\contentsline {subsection}{\numberline {15.48.1}Definition}{306}{subsection.15.48.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.48.2}Assessment}{303}{subsection.15.48.2}
+\contentsline {subsection}{\numberline {15.48.2}Assessment}{307}{subsection.15.48.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.48.3}Relevant Literature}{303}{subsection.15.48.3}
+\contentsline {subsection}{\numberline {15.48.3}Relevant Literature}{307}{subsection.15.48.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.48.4}Related Tasks}{303}{subsection.15.48.4}
+\contentsline {subsection}{\numberline {15.48.4}Related Tasks}{307}{subsection.15.48.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {16}After Internship}{305}{chapter.16}
+\contentsline {chapter}{\numberline {16}After Internship}{309}{chapter.16}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{References}{309}{chapter*.5}
+\contentsline {chapter}{References}{313}{chapter*.5}
 \contentsfinish 
