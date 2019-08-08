@@ -14,6 +14,7 @@
 \setlength{\cftsecnumwidth}{4em}
 \makeatother
 \begin{document}
+    \frontmatter
 	\input{tex/frontmatter/title}
 	\input{tex/frontmatter/copyright}
 	\clearpage
@@ -22,10 +23,12 @@
 	\listoffigures
 	\clearpage
 	\listoftables
+	\clearpage
 	\include{tex/frontmatter/author}
 	\include{tex/frontmatter/preface}
 %	\include{tex/frontmatter/about}
 %	\include{tex/chapters/admin/admin}
+    \mainmatter
 	\include{tex/chapters/v1-ed2/v1-ed2}
 	\input{tex/glossary/glossary}
 	\nocite{*}
