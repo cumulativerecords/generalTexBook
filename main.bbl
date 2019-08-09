@@ -47,57 +47,6 @@
       \field{title}{Student-directed learning: Teaching self-determination skills}
       \field{year}{1997}
     \endentry
-    \entry{alang2017police}{article}{}
-      \name{author}{4}{}{%
-        {{uniquename=0,uniquepart=base,hash=9ce5295d96cbb6605cc176e23baf4e2a}{%
-           family={Alang},
-           familyi={A\bibinitperiod},
-           given={Ssstring},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=e1672c9902cbbe1b2829c357ebd2871f}{%
-           family={McAlpine},
-           familyi={M\bibinitperiod},
-           given={D},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=5ccf6c1da5adb97107908e806a2ec5a9}{%
-           family={McCreedy},
-           familyi={M\bibinitperiod},
-           given={E},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=053bfdfb8c02427ac22d5957b1afbbec}{%
-           family={Hardeman},
-           familyi={H\bibinitperiod},
-           given={R},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {American Public Health Association}%
-      }
-      \strng{namehash}{7e844634c0d99da012cae3517abf8fe0}
-      \strng{fullhash}{43396bd8d26aa39cc082a7cb81b8434c}
-      \strng{bibnamehash}{43396bd8d26aa39cc082a7cb81b8434c}
-      \strng{authorbibnamehash}{43396bd8d26aa39cc082a7cb81b8434c}
-      \strng{authornamehash}{7e844634c0d99da012cae3517abf8fe0}
-      \strng{authorfullhash}{43396bd8d26aa39cc082a7cb81b8434c}
-      \field{sortinit}{A}
-      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{American journal of public health}
-      \field{number}{5}
-      \field{title}{Police brutality and black health: setting the agenda for public health scholars}
-      \field{volume}{107}
-      \field{year}{2017}
-      \field{pages}{662\bibrangedash 665}
-      \range{pages}{4}
-    \endentry
     \entry{alberto2013applied}{book}{}
       \name{author}{2}{}{%
         {{uniquename=0,uniquepart=base,hash=85c7eb5ed0d4d7189d59ef984feef285}{%
@@ -192,7 +141,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of applied behavior analysis}
       \field{number}{3}
-      \field{title}{THE EFFECT OF STUDY SKILL TRAINING ON LEARNING DISABLED STUDENTS'RETELLING OF EXPOSITORY MATERIAL}
+      \field{title}{The effect of study skill training on learning disabled students' retelling of expository material}
       \field{volume}{18}
       \field{year}{1985}
       \field{pages}{263\bibrangedash 267}
@@ -231,7 +180,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of applied behavior analysis}
       \field{number}{4}
-      \field{title}{EXPOSURE-BASED TREATMENT TO CONTROL EXCESSIVE BLOOD GLUCOSE MONITORING}
+      \field{title}{Exposure-based treatment to control excessive blood glucose monitoring}
       \field{volume}{34}
       \field{year}{2001}
       \field{pages}{497\bibrangedash 500}
@@ -803,51 +752,6 @@
       \field{pages}{91\bibrangedash 97}
       \range{pages}{7}
     \endentry
-    \entry{test}{article}{}
-      \name{author}{3}{}{%
-        {{uniquename=1,uniquepart=given,hash=094981e5a75ed6b0079b5c2175dcdb60}{%
-           family={Baer},
-           familyi={B\bibinitperiod},
-           given={D},
-           giveni={D\bibinitperiod},
-           givenun=1}}%
-        {{uniquename=0,uniquepart=base,hash=3f55508ccb68aaac7c65adce70e0f1b4}{%
-           family={Wolf},
-           familyi={W\bibinitperiod},
-           given={M},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=85c92097b57fc535a03cee92c283a554}{%
-           family={Risley},
-           familyi={R\bibinitperiod},
-           given={T},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Wiley Online Library}%
-      }
-      \strng{namehash}{43eb723c43d159333fb5ff0f4d3601d8}
-      \strng{fullhash}{810ebeac28066264664738894543fae7}
-      \strng{bibnamehash}{810ebeac28066264664738894543fae7}
-      \strng{authorbibnamehash}{810ebeac28066264664738894543fae7}
-      \strng{authornamehash}{43eb723c43d159333fb5ff0f4d3601d8}
-      \strng{authorfullhash}{810ebeac28066264664738894543fae7}
-      \field{sortinit}{B}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Applied Behavior Analysis}
-      \field{number}{4}
-      \field{title}{Some still-current dimensions of applied behavior analysis}
-      \field{volume}{20}
-      \field{year}{1987}
-      \field{pages}{313\bibrangedash 327}
-      \range{pages}{15}
-    \endentry
     \entry{baer1987some}{article}{}
       \name{author}{3}{}{%
         {{uniquename=1,uniquepart=given,hash=094981e5a75ed6b0079b5c2175dcdb60}{%
@@ -880,7 +784,6 @@
       \strng{authorfullhash}{810ebeac28066264664738894543fae7}
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -2382,39 +2285,6 @@
       \field{pages}{183\bibrangedash 204}
       \range{pages}{22}
     \endentry
-    \entry{carver1997you}{article}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=327880ebae0ffc3a72d9379bf171c7ad}{%
-           family={Carver},
-           familyi={C\bibinitperiod},
-           given={C},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{327880ebae0ffc3a72d9379bf171c7ad}
-      \strng{fullhash}{327880ebae0ffc3a72d9379bf171c7ad}
-      \strng{bibnamehash}{327880ebae0ffc3a72d9379bf171c7ad}
-      \strng{authorbibnamehash}{327880ebae0ffc3a72d9379bf171c7ad}
-      \strng{authornamehash}{327880ebae0ffc3a72d9379bf171c7ad}
-      \strng{authorfullhash}{327880ebae0ffc3a72d9379bf171c7ad}
-      \field{sortinit}{C}
-      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{International journal of behavioral medicine}
-      \field{number}{1}
-      \field{title}{You want to measure coping but your protocol is too long: Consider the brief cope}
-      \field{volume}{4}
-      \field{year}{1997}
-      \field{pages}{92}
-      \range{pages}{1}
-    \endentry
     \entry{catania1993coming}{article}{}
       \name{author}{1}{}{%
         {{uniquename=1,uniquepart=given,hash=ab699db06cac3ff7d79551cc5f819a7e}{%
@@ -2936,6 +2806,47 @@
       \field{labeltitlesource}{title}
       \field{title}{Applied behavior analysis}
       \field{year}{2007}
+    \endentry
+    \entry{cooper2014applied}{book}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=5c893d13f333c261ddc917a082281822}{%
+           family={Cooper},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima O},
+           giveni={J\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=880fa59b475abe0f802ff349ce7a7690}{%
+           family={Heron},
+           familyi={H\bibinitperiod},
+           given={Timothy\bibnamedelima E},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=22ce62ff54f620486ed7ac1afafc74c5}{%
+           family={Heward},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima L},
+           giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Pearson}%
+      }
+      \strng{namehash}{f460a48d4928a7e3c4afb484255228e4}
+      \strng{fullhash}{33a83c5af25a84a710514c3d9ab51a10}
+      \strng{bibnamehash}{33a83c5af25a84a710514c3d9ab51a10}
+      \strng{authorbibnamehash}{33a83c5af25a84a710514c3d9ab51a10}
+      \strng{authornamehash}{f460a48d4928a7e3c4afb484255228e4}
+      \strng{authorfullhash}{33a83c5af25a84a710514c3d9ab51a10}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Applied behavior analysis}
+      \field{year}{2014}
     \endentry
     \entry{cowdery1990effects}{article}{}
       \name{author}{3}{}{%
@@ -4008,12 +3919,12 @@
            given={Charles\bibnamedelima B},
            giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod},
            givenun=0}}%
-        {{uniquename=2,uniquepart=given,hash=c738d8f78fcd9c16c18febd9b1649283}{%
+        {{uniquename=0,uniquepart=base,hash=c738d8f78fcd9c16c18febd9b1649283}{%
            family={Skinner},
            familyi={S\bibinitperiod},
            given={Burrhus\bibnamedelima Frederic},
            giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=2}}%
+           givenun=0}}%
       }
       \list{publisher}{1}{%
         {Appleton-Century-Crofts}%
@@ -5500,7 +5411,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of the Experimental Analysis of Behavior}
       \field{number}{5}
-      \field{title}{CONDITIONED PUNISHMENT 1}
+      \field{title}{Conditioned punishment}
       \field{volume}{8}
       \field{year}{1965}
       \field{pages}{279\bibrangedash 293}
@@ -9967,6 +9878,33 @@
       \field{title}{Principles of behavior}
       \field{year}{2015}
     \endentry
+    \entry{malott1978behavior}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=1,uniquepart=given,hash=c49ea9fca7ea9a3c827b6d81f71be4cb}{%
+           family={Malott},
+           familyi={M\bibinitperiod},
+           given={Richard\bibnamedelima W},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Aware Journalism}%
+      }
+      \strng{namehash}{c49ea9fca7ea9a3c827b6d81f71be4cb}
+      \strng{fullhash}{c49ea9fca7ea9a3c827b6d81f71be4cb}
+      \strng{bibnamehash}{c49ea9fca7ea9a3c827b6d81f71be4cb}
+      \strng{authorbibnamehash}{c49ea9fca7ea9a3c827b6d81f71be4cb}
+      \strng{authornamehash}{c49ea9fca7ea9a3c827b6d81f71be4cb}
+      \strng{authorfullhash}{c49ea9fca7ea9a3c827b6d81f71be4cb}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Behavior analysis and behavior modification: An introduction}
+      \field{year}{1978}
+    \endentry
     \entry{malott1988rule}{article}{}
       \name{author}{1}{}{%
         {{uniquename=1,uniquepart=given,hash=c49ea9fca7ea9a3c827b6d81f71be4cb}{%
@@ -12950,7 +12888,6 @@
       \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of the Experimental Analysis of behavior}
@@ -12960,6 +12897,42 @@
       \field{year}{1978}
       \field{pages}{31\bibrangedash 36}
       \range{pages}{6}
+    \endentry
+    \entry{poling2001principles}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=9ad267ca2370a0d1c8e98918c786e767}{%
+           family={Poling},
+           familyi={P\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dd7ebfe3a2a984e22b5f17d23db90347}{%
+           family={Braatz},
+           familyi={B\bibinitperiod},
+           given={Diane},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The Haworth Press, Inc. New York}%
+      }
+      \strng{namehash}{59ef8d7f93b07a072fb0e0d1174344ee}
+      \strng{fullhash}{59ef8d7f93b07a072fb0e0d1174344ee}
+      \strng{bibnamehash}{59ef8d7f93b07a072fb0e0d1174344ee}
+      \strng{authorbibnamehash}{59ef8d7f93b07a072fb0e0d1174344ee}
+      \strng{authornamehash}{59ef8d7f93b07a072fb0e0d1174344ee}
+      \strng{authorfullhash}{59ef8d7f93b07a072fb0e0d1174344ee}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Handbook of organizational performance: Behavior analysis and management}
+      \field{title}{Principles of learning: Respondent and operant conditioning and human behavior}
+      \field{year}{2001}
+      \field{pages}{23\bibrangedash 49}
+      \range{pages}{27}
     \endentry
     \entry{potts1993ogden}{article}{}
       \name{author}{3}{}{%
@@ -13076,7 +13049,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Don't shoot the dog!: the new art of teaching and training}
+      \field{title}{Don't shoot the dog: The new art of teaching and training}
       \field{year}{1999}
     \endentry
     \entry{rachlin1971tautology}{article}{}
@@ -13333,7 +13306,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of the Experimental Analysis of Behavior}
       \field{number}{1}
-      \field{title}{SOME LIMITATIONS ON BEHAVIORAL CONTRAST AND INDUCTION DURING SUCCESSIVE DISCRIMINATION 1}
+      \field{title}{Some limitations on behavioral contrast and induction during successive discrimination}
       \field{volume}{6}
       \field{year}{1963}
       \field{pages}{131\bibrangedash 139}
@@ -14561,7 +14534,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{American Journal of Mental Deficiency}
-      \field{title}{Comparison of word-supply and word-analysis error-correction procedures on oral reading by mentally retarded children.}
+      \field{title}{Comparison of word-supply and word-analysis error-correction procedures on oral reading by mentally retarded children}
       \field{year}{1985}
     \endentry
     \entry{singh2015mediating}{article}{}
@@ -14602,41 +14575,14 @@
       \field{pages}{738\bibrangedash 753}
       \range{pages}{16}
     \endentry
-    \entry{skinner1969contingencies}{book}{}
-      \name{author}{1}{}{%
-        {{uniquename=2,uniquepart=given,hash=d83c2a8d87d37a92b4687ef0cef61afe}{%
-           family={Skinner},
-           familyi={S\bibinitperiod},
-           given={Burrhus\bibnamedelima F},
-           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=2}}%
-      }
-      \list{publisher}{1}{%
-        {Appleton-Century-Crofts}%
-      }
-      \strng{namehash}{d83c2a8d87d37a92b4687ef0cef61afe}
-      \strng{fullhash}{d83c2a8d87d37a92b4687ef0cef61afe}
-      \strng{bibnamehash}{d83c2a8d87d37a92b4687ef0cef61afe}
-      \strng{authorbibnamehash}{d83c2a8d87d37a92b4687ef0cef61afe}
-      \strng{authornamehash}{d83c2a8d87d37a92b4687ef0cef61afe}
-      \strng{authorfullhash}{d83c2a8d87d37a92b4687ef0cef61afe}
-      \field{sortinit}{S}
-      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Contingencies of Reinforcement: A Theoretical Analysis}
-      \field{year}{1969}
-    \endentry
     \entry{skinner1938behavior}{book}{}
       \name{author}{1}{}{%
-        {{uniquename=2,uniquepart=given,hash=c738d8f78fcd9c16c18febd9b1649283}{%
+        {{uniquename=0,uniquepart=base,hash=c738d8f78fcd9c16c18febd9b1649283}{%
            family={Skinner},
            familyi={S\bibinitperiod},
            given={Burrhus\bibnamedelima Frederic},
            giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=2}}%
+           givenun=0}}%
       }
       \list{publisher}{1}{%
         {Appleton-Century}%
@@ -14658,12 +14604,12 @@
     \endentry
     \entry{skinner1953science}{book}{}
       \name{author}{1}{}{%
-        {{uniquename=2,uniquepart=given,hash=c738d8f78fcd9c16c18febd9b1649283}{%
+        {{uniquename=0,uniquepart=base,hash=c738d8f78fcd9c16c18febd9b1649283}{%
            family={Skinner},
            familyi={S\bibinitperiod},
            given={Burrhus\bibnamedelima Frederic},
            giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=2}}%
+           givenun=0}}%
       }
       \list{publisher}{2}{%
         {Simon}%
@@ -14686,12 +14632,12 @@
     \endentry
     \entry{skinner1957verbal}{book}{}
       \name{author}{1}{}{%
-        {{uniquename=2,uniquepart=given,hash=c738d8f78fcd9c16c18febd9b1649283}{%
+        {{uniquename=0,uniquepart=base,hash=c738d8f78fcd9c16c18febd9b1649283}{%
            family={Skinner},
            familyi={S\bibinitperiod},
            given={Burrhus\bibnamedelima Frederic},
            giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=2}}%
+           givenun=0}}%
       }
       \list{publisher}{1}{%
         {Appleton-Century}%
@@ -14711,14 +14657,41 @@
       \field{title}{Verbal behavior}
       \field{year}{1957}
     \endentry
-    \entry{skinner1979shaping}{book}{}
+    \entry{skinner1969contingencies}{book}{}
       \name{author}{1}{}{%
-        {{uniquename=2,uniquepart=given,hash=c738d8f78fcd9c16c18febd9b1649283}{%
+        {{uniquename=0,uniquepart=base,hash=c738d8f78fcd9c16c18febd9b1649283}{%
            family={Skinner},
            familyi={S\bibinitperiod},
            given={Burrhus\bibnamedelima Frederic},
            giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=2}}%
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Appleton-Century-Crofts}%
+      }
+      \strng{namehash}{c738d8f78fcd9c16c18febd9b1649283}
+      \strng{fullhash}{c738d8f78fcd9c16c18febd9b1649283}
+      \strng{bibnamehash}{c738d8f78fcd9c16c18febd9b1649283}
+      \strng{authorbibnamehash}{c738d8f78fcd9c16c18febd9b1649283}
+      \strng{authornamehash}{c738d8f78fcd9c16c18febd9b1649283}
+      \strng{authorfullhash}{c738d8f78fcd9c16c18febd9b1649283}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Contingencies of Reinforcement: A Theoretical Analysis}
+      \field{year}{1969}
+    \endentry
+    \entry{skinner1979shaping}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=c738d8f78fcd9c16c18febd9b1649283}{%
+           family={Skinner},
+           familyi={S\bibinitperiod},
+           given={Burrhus\bibnamedelima Frederic},
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
       }
       \list{publisher}{1}{%
         {University Press}%
@@ -14740,12 +14713,12 @@
     \endentry
     \entry{skinner1981selection}{article}{}
       \name{author}{1}{}{%
-        {{uniquename=2,uniquepart=given,hash=c738d8f78fcd9c16c18febd9b1649283}{%
+        {{uniquename=0,uniquepart=base,hash=c738d8f78fcd9c16c18febd9b1649283}{%
            family={Skinner},
            familyi={S\bibinitperiod},
            given={Burrhus\bibnamedelima Frederic},
            giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=2}}%
+           givenun=0}}%
       }
       \list{publisher}{1}{%
         {American Association for the Advancement of Science}%
@@ -14772,12 +14745,12 @@
     \endentry
     \entry{skinner1984evolution}{article}{}
       \name{author}{1}{}{%
-        {{uniquename=2,uniquepart=given,hash=c738d8f78fcd9c16c18febd9b1649283}{%
+        {{uniquename=0,uniquepart=base,hash=c738d8f78fcd9c16c18febd9b1649283}{%
            family={Skinner},
            familyi={S\bibinitperiod},
            given={Burrhus\bibnamedelima Frederic},
            giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=2}}%
+           givenun=0}}%
       }
       \list{publisher}{1}{%
         {Society for the Experimental Analysis of Behavior}%
@@ -14796,7 +14769,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of the experimental analysis of behavior}
       \field{number}{2}
-      \field{title}{The evolution of behavior.}
+      \field{title}{The evolution of behavior}
       \field{volume}{41}
       \field{year}{1984}
       \field{pages}{217}
@@ -14804,12 +14777,12 @@
     \endentry
     \entry{skinner1989recent}{book}{}
       \name{author}{1}{}{%
-        {{uniquename=2,uniquepart=given,hash=c738d8f78fcd9c16c18febd9b1649283}{%
+        {{uniquename=0,uniquepart=base,hash=c738d8f78fcd9c16c18febd9b1649283}{%
            family={Skinner},
            familyi={S\bibinitperiod},
            given={Burrhus\bibnamedelima Frederic},
            giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=2}}%
+           givenun=0}}%
       }
       \list{publisher}{1}{%
         {Prentice Hall}%
@@ -14831,12 +14804,12 @@
     \endentry
     \entry{skinner2014contingencies}{book}{}
       \name{author}{1}{}{%
-        {{uniquename=2,uniquepart=given,hash=c738d8f78fcd9c16c18febd9b1649283}{%
+        {{uniquename=0,uniquepart=base,hash=c738d8f78fcd9c16c18febd9b1649283}{%
            family={Skinner},
            familyi={S\bibinitperiod},
            given={Burrhus\bibnamedelima Frederic},
            giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=2}}%
+           givenun=0}}%
       }
       \list{publisher}{1}{%
         {BF Skinner Foundation}%
@@ -16657,6 +16630,40 @@
       \field{pages}{79\bibrangedash 86}
       \range{pages}{8}
     \endentry
+    \entry{volkmar2013encyclopedia}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=f44a1cad0f1f38550a71ebc5d9133364}{%
+           family={Volkmar},
+           familyi={V\bibinitperiod},
+           given={Fred\bibnamedelima R},
+           giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f44a1cad0f1f38550a71ebc5d9133364}{%
+           family={Volkmar},
+           familyi={V\bibinitperiod},
+           given={Fred\bibnamedelima R},
+           giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer New York, NY}%
+      }
+      \strng{namehash}{2dac4cf48244d638249104c50b4af6a8}
+      \strng{fullhash}{2dac4cf48244d638249104c50b4af6a8}
+      \strng{bibnamehash}{2dac4cf48244d638249104c50b4af6a8}
+      \strng{authorbibnamehash}{2dac4cf48244d638249104c50b4af6a8}
+      \strng{authornamehash}{2dac4cf48244d638249104c50b4af6a8}
+      \strng{authorfullhash}{2dac4cf48244d638249104c50b4af6a8}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Encyclopedia of autism spectrum disorders}
+      \field{year}{2013}
+    \endentry
     \entry{vollmer1994concept}{article}{}
       \name{author}{1}{}{%
         {{uniquename=1,uniquepart=given,hash=a7f761f07f0dcccc5f8382ca1f17d243}{%
@@ -16688,6 +16695,38 @@
       \field{year}{1994}
       \field{pages}{187\bibrangedash 207}
       \range{pages}{21}
+    \endentry
+    \entry{vollmer2002punishment}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=1,uniquepart=given,hash=a7f761f07f0dcccc5f8382ca1f17d243}{%
+           family={Vollmer},
+           familyi={V\bibinitperiod},
+           given={Timothy\bibnamedelima R},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{a7f761f07f0dcccc5f8382ca1f17d243}
+      \strng{fullhash}{a7f761f07f0dcccc5f8382ca1f17d243}
+      \strng{bibnamehash}{a7f761f07f0dcccc5f8382ca1f17d243}
+      \strng{authorbibnamehash}{a7f761f07f0dcccc5f8382ca1f17d243}
+      \strng{authornamehash}{a7f761f07f0dcccc5f8382ca1f17d243}
+      \strng{authorfullhash}{a7f761f07f0dcccc5f8382ca1f17d243}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Behavior Analysis}
+      \field{number}{4}
+      \field{title}{Punishment happens: Some comments on Lerman and Vorndran's review}
+      \field{volume}{35}
+      \field{year}{2002}
+      \field{pages}{469\bibrangedash 473}
+      \range{pages}{5}
     \endentry
     \entry{vollmer2001identifying}{article}{}
       \name{author}{5}{}{%
@@ -16744,6 +16783,44 @@
       \field{year}{2001}
       \field{pages}{269\bibrangedash 287}
       \range{pages}{19}
+    \endentry
+    \entry{vollmer1991establishing}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=1,uniquepart=given,hash=a7f761f07f0dcccc5f8382ca1f17d243}{%
+           family={Vollmer},
+           familyi={V\bibinitperiod},
+           given={Timothy\bibnamedelima R},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=6d72f4ac1512a9acaaeee3a559693cfa}{%
+           family={Iwata},
+           familyi={I\bibinitperiod},
+           given={Brian\bibnamedelima A},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{c202c1a66399994341097107df925319}
+      \strng{fullhash}{c202c1a66399994341097107df925319}
+      \strng{bibnamehash}{c202c1a66399994341097107df925319}
+      \strng{authorbibnamehash}{c202c1a66399994341097107df925319}
+      \strng{authornamehash}{c202c1a66399994341097107df925319}
+      \strng{authorfullhash}{c202c1a66399994341097107df925319}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Behavior Analysis}
+      \field{number}{2}
+      \field{title}{Establishing operations and reinforcement effects}
+      \field{volume}{24}
+      \field{year}{1991}
+      \field{pages}{279\bibrangedash 291}
+      \range{pages}{13}
     \endentry
     \entry{vollmer1992differential}{article}{}
       \name{author}{2}{}{%
@@ -18159,42 +18236,30 @@
 
 \refsection{100}
   \datalist[entry]{apa/global//global/global}
-    \entry{alang2017police}{article}{}
-      \name{author}{4}{}{%
-        {{uniquename=0,uniquepart=base,hash=9ce5295d96cbb6605cc176e23baf4e2a}{%
-           family={Alang},
+    \entry{athens2010investigation}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=647b1268c56e1ec15f41611ca849da9b}{%
+           family={Athens},
            familyi={A\bibinitperiod},
-           given={Ssstring},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=e1672c9902cbbe1b2829c357ebd2871f}{%
-           family={McAlpine},
-           familyi={M\bibinitperiod},
-           given={D},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=5ccf6c1da5adb97107908e806a2ec5a9}{%
-           family={McCreedy},
-           familyi={M\bibinitperiod},
            given={E},
            giveni={E\bibinitperiod},
            givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=053bfdfb8c02427ac22d5957b1afbbec}{%
-           family={Hardeman},
-           familyi={H\bibinitperiod},
-           given={R},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=74b5f55d01fb3d36670466aca63c8a3e}{%
+           family={Vollmer},
+           familyi={V\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod},
+           givenun=1}}%
       }
       \list{publisher}{1}{%
-        {American Public Health Association}%
+        {Wiley Online Library}%
       }
-      \strng{namehash}{7e844634c0d99da012cae3517abf8fe0}
-      \strng{fullhash}{43396bd8d26aa39cc082a7cb81b8434c}
-      \strng{bibnamehash}{43396bd8d26aa39cc082a7cb81b8434c}
-      \strng{authorbibnamehash}{43396bd8d26aa39cc082a7cb81b8434c}
-      \strng{authornamehash}{7e844634c0d99da012cae3517abf8fe0}
-      \strng{authorfullhash}{43396bd8d26aa39cc082a7cb81b8434c}
+      \strng{namehash}{d62e5085a1c2e279a5d93b5e45696af7}
+      \strng{fullhash}{d62e5085a1c2e279a5d93b5e45696af7}
+      \strng{bibnamehash}{d62e5085a1c2e279a5d93b5e45696af7}
+      \strng{authorbibnamehash}{d62e5085a1c2e279a5d93b5e45696af7}
+      \strng{authornamehash}{d62e5085a1c2e279a5d93b5e45696af7}
+      \strng{authorfullhash}{d62e5085a1c2e279a5d93b5e45696af7}
       \field{sortinit}{A}
       \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
       \field{extradatescope}{labelyear}
@@ -18202,77 +18267,46 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{American journal of public health}
-      \field{number}{5}
-      \field{title}{Police brutality and black health: setting the agenda for public health scholars}
-      \field{volume}{107}
-      \field{year}{2017}
-      \field{pages}{662\bibrangedash 665}
-      \range{pages}{4}
-    \endentry
-    \entry{test}{article}{}
-      \name{author}{3}{}{%
-        {{uniquename=0,uniquepart=base,hash=094981e5a75ed6b0079b5c2175dcdb60}{%
-           family={Baer},
-           familyi={B\bibinitperiod},
-           given={D},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=3f55508ccb68aaac7c65adce70e0f1b4}{%
-           family={Wolf},
-           familyi={W\bibinitperiod},
-           given={M},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=85c92097b57fc535a03cee92c283a554}{%
-           family={Risley},
-           familyi={R\bibinitperiod},
-           given={T},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Wiley Online Library}%
-      }
-      \strng{namehash}{43eb723c43d159333fb5ff0f4d3601d8}
-      \strng{fullhash}{810ebeac28066264664738894543fae7}
-      \strng{bibnamehash}{810ebeac28066264664738894543fae7}
-      \strng{authorbibnamehash}{810ebeac28066264664738894543fae7}
-      \strng{authornamehash}{43eb723c43d159333fb5ff0f4d3601d8}
-      \strng{authorfullhash}{810ebeac28066264664738894543fae7}
-      \field{sortinit}{B}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Applied Behavior Analysis}
       \field{number}{4}
-      \field{title}{Some still-current dimensions of applied behavior analysis}
-      \field{volume}{20}
-      \field{year}{1987}
-      \field{pages}{313\bibrangedash 327}
-      \range{pages}{15}
+      \field{title}{An investigation of differential reinforcement of alternative behavior without extinction}
+      \field{volume}{43}
+      \field{year}{2010}
+      \field{pages}{569\bibrangedash 589}
+      \range{pages}{21}
     \endentry
-    \entry{clayton2018black}{article}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=e58aa4fb1c81cea4c022a1f21b95ed00}{%
-           family={Clayton},
+    \entry{cooper2007applied}{book}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=5c893d13f333c261ddc917a082281822}{%
+           family={Cooper},
            familyi={C\bibinitperiod},
-           given={D},
-           giveni={D\bibinitperiod},
+           given={John\bibnamedelima O},
+           giveni={J\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=880fa59b475abe0f802ff349ce7a7690}{%
+           family={Heron},
+           familyi={H\bibinitperiod},
+           given={Timothy\bibnamedelima E},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=22ce62ff54f620486ed7ac1afafc74c5}{%
+           family={Heward},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima L},
+           giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
-        {SAGE Publications Sage CA: Los Angeles, CA}%
+        {Pearson}%
       }
-      \strng{namehash}{e58aa4fb1c81cea4c022a1f21b95ed00}
-      \strng{fullhash}{e58aa4fb1c81cea4c022a1f21b95ed00}
-      \strng{bibnamehash}{e58aa4fb1c81cea4c022a1f21b95ed00}
-      \strng{authorbibnamehash}{e58aa4fb1c81cea4c022a1f21b95ed00}
-      \strng{authornamehash}{e58aa4fb1c81cea4c022a1f21b95ed00}
-      \strng{authorfullhash}{e58aa4fb1c81cea4c022a1f21b95ed00}
+      \strng{namehash}{f460a48d4928a7e3c4afb484255228e4}
+      \strng{fullhash}{33a83c5af25a84a710514c3d9ab51a10}
+      \strng{bibnamehash}{33a83c5af25a84a710514c3d9ab51a10}
+      \strng{authorbibnamehash}{33a83c5af25a84a710514c3d9ab51a10}
+      \strng{authornamehash}{f460a48d4928a7e3c4afb484255228e4}
+      \strng{authorfullhash}{33a83c5af25a84a710514c3d9ab51a10}
       \field{sortinit}{C}
       \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
       \field{extradatescope}{labelyear}
@@ -18280,13 +18314,98 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Black Studies}
-      \field{number}{5}
-      \field{title}{Black lives matter and the civil rights movement: A comparative analysis of two social movements in the United States}
-      \field{volume}{49}
-      \field{year}{2018}
-      \field{pages}{448\bibrangedash 480}
-      \range{pages}{33}
+      \field{title}{Applied behavior analysis}
+      \field{year}{2007}
+    \endentry
+    \entry{sweeney2013effects}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=19b81042852eb7d459b152f614e2c7ff}{%
+           family={Sweeney},
+           familyi={S\bibinitperiod},
+           given={Mary\bibnamedelima M},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=569c7f3682e5e933bba006a18001b19b}{%
+           family={Shahan},
+           familyi={S\bibinitperiod},
+           given={Timothy\bibnamedelima A},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{14e78ce23902b476387b63ec4b027aec}
+      \strng{fullhash}{14e78ce23902b476387b63ec4b027aec}
+      \strng{bibnamehash}{14e78ce23902b476387b63ec4b027aec}
+      \strng{authorbibnamehash}{14e78ce23902b476387b63ec4b027aec}
+      \strng{authornamehash}{14e78ce23902b476387b63ec4b027aec}
+      \strng{authorfullhash}{14e78ce23902b476387b63ec4b027aec}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Experimental Analysis of Behavior}
+      \field{number}{1}
+      \field{title}{Effects of high, low, and thinning rates of alternative reinforcement on response elimination and resurgence}
+      \field{volume}{100}
+      \field{year}{2013}
+      \field{pages}{102\bibrangedash 116}
+      \range{pages}{15}
+    \endentry
+    \entry{vollmer1999evaluating}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=1,uniquepart=given,hash=a7f761f07f0dcccc5f8382ca1f17d243}{%
+           family={Vollmer},
+           familyi={V\bibinitperiod},
+           given={Timothy\bibnamedelima R},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=314acb0bbb3a69862cf15c0dfe439d5b}{%
+           family={Roane},
+           familyi={R\bibinitperiod},
+           given={Henry\bibnamedelima S},
+           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5b255678f01767105cc3d954462eb2a3}{%
+           family={Ringdahl},
+           familyi={R\bibinitperiod},
+           given={Joel\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5ff6f573bb261ea287216fa8869bdbe6}{%
+           family={Marcus},
+           familyi={M\bibinitperiod},
+           given={Bethany\bibnamedelima A},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{b3d042798cf26ca62e18874171842ee9}
+      \strng{fullhash}{d721a540a14018231864eb21a25f6620}
+      \strng{bibnamehash}{d721a540a14018231864eb21a25f6620}
+      \strng{authorbibnamehash}{d721a540a14018231864eb21a25f6620}
+      \strng{authornamehash}{b3d042798cf26ca62e18874171842ee9}
+      \strng{authorfullhash}{d721a540a14018231864eb21a25f6620}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Behavior Analysis}
+      \field{number}{1}
+      \field{title}{Evaluating treatment challenges with differential reinforcement of alternative behavior}
+      \field{volume}{32}
+      \field{year}{1999}
+      \field{pages}{9\bibrangedash 23}
+      \range{pages}{15}
     \endentry
   \enddatalist
 \endrefsection
@@ -22272,22 +22391,22 @@
     \endentry
     \entry{skinner1969contingencies}{book}{}
       \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=d83c2a8d87d37a92b4687ef0cef61afe}{%
+        {{uniquename=0,uniquepart=base,hash=c738d8f78fcd9c16c18febd9b1649283}{%
            family={Skinner},
            familyi={S\bibinitperiod},
-           given={Burrhus\bibnamedelima F},
+           given={Burrhus\bibnamedelima Frederic},
            giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
         {Appleton-Century-Crofts}%
       }
-      \strng{namehash}{d83c2a8d87d37a92b4687ef0cef61afe}
-      \strng{fullhash}{d83c2a8d87d37a92b4687ef0cef61afe}
-      \strng{bibnamehash}{d83c2a8d87d37a92b4687ef0cef61afe}
-      \strng{authorbibnamehash}{d83c2a8d87d37a92b4687ef0cef61afe}
-      \strng{authornamehash}{d83c2a8d87d37a92b4687ef0cef61afe}
-      \strng{authorfullhash}{d83c2a8d87d37a92b4687ef0cef61afe}
+      \strng{namehash}{c738d8f78fcd9c16c18febd9b1649283}
+      \strng{fullhash}{c738d8f78fcd9c16c18febd9b1649283}
+      \strng{bibnamehash}{c738d8f78fcd9c16c18febd9b1649283}
+      \strng{authorbibnamehash}{c738d8f78fcd9c16c18febd9b1649283}
+      \strng{authornamehash}{c738d8f78fcd9c16c18febd9b1649283}
+      \strng{authorfullhash}{c738d8f78fcd9c16c18febd9b1649283}
       \field{sortinit}{S}
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \field{extradatescope}{labelyear}
@@ -22764,6 +22883,43 @@
       \field{title}{Lectures on conditioned reflexes: Twenty-five years of objective study of the higher nervous activity (behaviour) of animals.}
       \field{year}{1928}
     \endentry
+    \entry{poling2001principles}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=9ad267ca2370a0d1c8e98918c786e767}{%
+           family={Poling},
+           familyi={P\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dd7ebfe3a2a984e22b5f17d23db90347}{%
+           family={Braatz},
+           familyi={B\bibinitperiod},
+           given={Diane},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The Haworth Press, Inc. New York}%
+      }
+      \strng{namehash}{59ef8d7f93b07a072fb0e0d1174344ee}
+      \strng{fullhash}{59ef8d7f93b07a072fb0e0d1174344ee}
+      \strng{bibnamehash}{59ef8d7f93b07a072fb0e0d1174344ee}
+      \strng{authorbibnamehash}{59ef8d7f93b07a072fb0e0d1174344ee}
+      \strng{authornamehash}{59ef8d7f93b07a072fb0e0d1174344ee}
+      \strng{authorfullhash}{59ef8d7f93b07a072fb0e0d1174344ee}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Handbook of organizational performance: Behavior analysis and management}
+      \field{title}{Principles of learning: Respondent and operant conditioning and human behavior}
+      \field{year}{2001}
+      \field{pages}{23\bibrangedash 49}
+      \range{pages}{27}
+    \endentry
     \entry{skinner1938behavior}{book}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=c738d8f78fcd9c16c18febd9b1649283}{%
@@ -22817,14 +22973,13 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of the experimental analysis of behavior}
       \field{number}{2}
-      \field{title}{The evolution of behavior.}
+      \field{title}{The evolution of behavior}
       \field{volume}{41}
       \field{year}{1984}
       \field{pages}{217}
       \range{pages}{1}
     \endentry
   \enddatalist
-  \missing{poling2001principles}
 \endrefsection
 
 \refsection{13}
@@ -23340,6 +23495,34 @@
       \field{title}{Infant emotions under the positive-reinforcer control of caregiver attention and touch.}
       \field{year}{2000}
     \endentry
+    \entry{malott1978behavior}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=c49ea9fca7ea9a3c827b6d81f71be4cb}{%
+           family={Malott},
+           familyi={M\bibinitperiod},
+           given={Richard\bibnamedelima W},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Aware Journalism}%
+      }
+      \strng{namehash}{c49ea9fca7ea9a3c827b6d81f71be4cb}
+      \strng{fullhash}{c49ea9fca7ea9a3c827b6d81f71be4cb}
+      \strng{bibnamehash}{c49ea9fca7ea9a3c827b6d81f71be4cb}
+      \strng{authorbibnamehash}{c49ea9fca7ea9a3c827b6d81f71be4cb}
+      \strng{authornamehash}{c49ea9fca7ea9a3c827b6d81f71be4cb}
+      \strng{authorfullhash}{c49ea9fca7ea9a3c827b6d81f71be4cb}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Behavior analysis and behavior modification: An introduction}
+      \field{year}{1978}
+    \endentry
     \entry{pelaez1996infants}{article}{}
       \name{author}{7}{}{%
         {{uniquename=0,uniquepart=base,hash=73a7c15c71be775bd1773cf96f1444f6}{%
@@ -23439,7 +23622,6 @@
       \field{year}{1953}
     \endentry
   \enddatalist
-  \missing{malott1978behavior}
 \endrefsection
 
 \refsection{133}
@@ -23826,7 +24008,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of the Experimental Analysis of Behavior}
       \field{number}{5}
-      \field{title}{CONDITIONED PUNISHMENT 1}
+      \field{title}{Conditioned punishment}
       \field{volume}{8}
       \field{year}{1965}
       \field{pages}{279\bibrangedash 293}
@@ -26156,9 +26338,77 @@
       \field{title}{Applying behavior-analysis procedures with children and youth}
       \field{year}{1977}
     \endentry
+    \entry{vollmer2002punishment}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=a7f761f07f0dcccc5f8382ca1f17d243}{%
+           family={Vollmer},
+           familyi={V\bibinitperiod},
+           given={Timothy\bibnamedelima R},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{a7f761f07f0dcccc5f8382ca1f17d243}
+      \strng{fullhash}{a7f761f07f0dcccc5f8382ca1f17d243}
+      \strng{bibnamehash}{a7f761f07f0dcccc5f8382ca1f17d243}
+      \strng{authorbibnamehash}{a7f761f07f0dcccc5f8382ca1f17d243}
+      \strng{authornamehash}{a7f761f07f0dcccc5f8382ca1f17d243}
+      \strng{authorfullhash}{a7f761f07f0dcccc5f8382ca1f17d243}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Behavior Analysis}
+      \field{number}{4}
+      \field{title}{Punishment happens: Some comments on Lerman and Vorndran's review}
+      \field{volume}{35}
+      \field{year}{2002}
+      \field{pages}{469\bibrangedash 473}
+      \range{pages}{5}
+    \endentry
+    \entry{vollmer1991establishing}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=a7f761f07f0dcccc5f8382ca1f17d243}{%
+           family={Vollmer},
+           familyi={V\bibinitperiod},
+           given={Timothy\bibnamedelima R},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6d72f4ac1512a9acaaeee3a559693cfa}{%
+           family={Iwata},
+           familyi={I\bibinitperiod},
+           given={Brian\bibnamedelima A},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{c202c1a66399994341097107df925319}
+      \strng{fullhash}{c202c1a66399994341097107df925319}
+      \strng{bibnamehash}{c202c1a66399994341097107df925319}
+      \strng{authorbibnamehash}{c202c1a66399994341097107df925319}
+      \strng{authornamehash}{c202c1a66399994341097107df925319}
+      \strng{authorfullhash}{c202c1a66399994341097107df925319}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Behavior Analysis}
+      \field{number}{2}
+      \field{title}{Establishing operations and reinforcement effects}
+      \field{volume}{24}
+      \field{year}{1991}
+      \field{pages}{279\bibrangedash 291}
+      \range{pages}{13}
+    \endentry
   \enddatalist
-  \missing{vollmer1991establishing}
-  \missing{vollmer2002punishment}
 \endrefsection
 
 \refsection{147}
@@ -28252,22 +28502,22 @@
     \endentry
     \entry{skinner1969contingencies}{book}{}
       \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=d83c2a8d87d37a92b4687ef0cef61afe}{%
+        {{uniquename=0,uniquepart=base,hash=c738d8f78fcd9c16c18febd9b1649283}{%
            family={Skinner},
            familyi={S\bibinitperiod},
-           given={Burrhus\bibnamedelima F},
+           given={Burrhus\bibnamedelima Frederic},
            giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
         {Appleton-Century-Crofts}%
       }
-      \strng{namehash}{d83c2a8d87d37a92b4687ef0cef61afe}
-      \strng{fullhash}{d83c2a8d87d37a92b4687ef0cef61afe}
-      \strng{bibnamehash}{d83c2a8d87d37a92b4687ef0cef61afe}
-      \strng{authorbibnamehash}{d83c2a8d87d37a92b4687ef0cef61afe}
-      \strng{authornamehash}{d83c2a8d87d37a92b4687ef0cef61afe}
-      \strng{authorfullhash}{d83c2a8d87d37a92b4687ef0cef61afe}
+      \strng{namehash}{c738d8f78fcd9c16c18febd9b1649283}
+      \strng{fullhash}{c738d8f78fcd9c16c18febd9b1649283}
+      \strng{bibnamehash}{c738d8f78fcd9c16c18febd9b1649283}
+      \strng{authorbibnamehash}{c738d8f78fcd9c16c18febd9b1649283}
+      \strng{authornamehash}{c738d8f78fcd9c16c18febd9b1649283}
+      \strng{authorfullhash}{c738d8f78fcd9c16c18febd9b1649283}
       \field{sortinit}{S}
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \field{extradatescope}{labelyear}
@@ -28283,6 +28533,48 @@
 
 \refsection{158}
   \datalist[entry]{apa/global//global/global}
+    \entry{cooper2014applied}{book}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=5c893d13f333c261ddc917a082281822}{%
+           family={Cooper},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima O},
+           giveni={J\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=880fa59b475abe0f802ff349ce7a7690}{%
+           family={Heron},
+           familyi={H\bibinitperiod},
+           given={Timothy\bibnamedelima E},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=22ce62ff54f620486ed7ac1afafc74c5}{%
+           family={Heward},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima L},
+           giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Pearson}%
+      }
+      \strng{namehash}{f460a48d4928a7e3c4afb484255228e4}
+      \strng{fullhash}{33a83c5af25a84a710514c3d9ab51a10}
+      \strng{bibnamehash}{33a83c5af25a84a710514c3d9ab51a10}
+      \strng{authorbibnamehash}{33a83c5af25a84a710514c3d9ab51a10}
+      \strng{authornamehash}{f460a48d4928a7e3c4afb484255228e4}
+      \strng{authorfullhash}{33a83c5af25a84a710514c3d9ab51a10}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Applied behavior analysis}
+      \field{year}{2014}
+    \endentry
     \entry{skinner1957verbal}{book}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=c738d8f78fcd9c16c18febd9b1649283}{%
@@ -28340,7 +28632,6 @@
       \field{year}{2008}
     \endentry
   \enddatalist
-  \missing{cooper2014applied}
 \endrefsection
 
 \refsection{159}
@@ -29956,7 +30247,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{American Journal of Mental Deficiency}
-      \field{title}{Comparison of word-supply and word-analysis error-correction procedures on oral reading by mentally retarded children.}
+      \field{title}{Comparison of word-supply and word-analysis error-correction procedures on oral reading by mentally retarded children}
       \field{year}{1985}
     \endentry
     \entry{ulman1975multielement}{article}{}
@@ -30106,7 +30397,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of applied behavior analysis}
       \field{number}{4}
-      \field{title}{EXPOSURE-BASED TREATMENT TO CONTROL EXCESSIVE BLOOD GLUCOSE MONITORING}
+      \field{title}{Exposure-based treatment to control excessive blood glucose monitoring}
       \field{volume}{34}
       \field{year}{2001}
       \field{pages}{497\bibrangedash 500}
@@ -30739,7 +31030,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of applied behavior analysis}
       \field{number}{3}
-      \field{title}{THE EFFECT OF STUDY SKILL TRAINING ON LEARNING DISABLED STUDENTS'RETELLING OF EXPOSITORY MATERIAL}
+      \field{title}{The effect of study skill training on learning disabled students' retelling of expository material}
       \field{volume}{18}
       \field{year}{1985}
       \field{pages}{263\bibrangedash 267}
@@ -31983,6 +32274,34 @@
       \field{pages}{113\bibrangedash 118}
       \range{pages}{6}
     \endentry
+    \entry{skinner1938behavior}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=c738d8f78fcd9c16c18febd9b1649283}{%
+           family={Skinner},
+           familyi={S\bibinitperiod},
+           given={Burrhus\bibnamedelima Frederic},
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Appleton-Century}%
+      }
+      \strng{namehash}{c738d8f78fcd9c16c18febd9b1649283}
+      \strng{fullhash}{c738d8f78fcd9c16c18febd9b1649283}
+      \strng{bibnamehash}{c738d8f78fcd9c16c18febd9b1649283}
+      \strng{authorbibnamehash}{c738d8f78fcd9c16c18febd9b1649283}
+      \strng{authornamehash}{c738d8f78fcd9c16c18febd9b1649283}
+      \strng{authorfullhash}{c738d8f78fcd9c16c18febd9b1649283}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The behavior of organisms}
+      \field{year}{1938}
+    \endentry
     \entry{thomas1968production}{article}{}
       \name{author}{3}{}{%
         {{uniquename=0,uniquepart=base,hash=3dbdb1f849c5c2d7678e9df834549615}{%
@@ -32029,7 +32348,6 @@
       \range{pages}{11}
     \endentry
   \enddatalist
-  \missing{skinner1938}
 \endrefsection
 
 \refsection{3}
@@ -32607,7 +32925,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Don't shoot the dog!: the new art of teaching and training}
+      \field{title}{Don't shoot the dog: The new art of teaching and training}
       \field{year}{1999}
     \endentry
     \entry{ricciardi2006shaping}{article}{}
@@ -33946,12 +34264,12 @@
     \endentry
     \entry{sundberg1998teaching}{book}{}
       \name{author}{2}{}{%
-        {{uniquename=0,uniquepart=base,hash=4f1c667e257b9d49c4882f363add6db0}{%
+        {{uniquename=2,uniquepart=given,hash=4f1c667e257b9d49c4882f363add6db0}{%
            family={Sundberg},
            familyi={S\bibinitperiod},
            given={M.\bibnamedelimi L.},
            giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
+           givenun=2}}%
         {{uniquename=0,uniquepart=base,hash=315ad5bbb695fb3475ce7bb554c44d12}{%
            family={Partington},
            familyi={P\bibinitperiod},
@@ -33972,14 +34290,64 @@
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Teaching language to children with autism and other developmental disabilities}
       \field{year}{1998}
     \endentry
+    \entry{sundberg2001contriving}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{4}{}{%
+        {{uniquename=2,uniquepart=given,hash=883a88ea3ac82570651d0cd4b0198431}{%
+           family={Sundberg},
+           familyi={S\bibinitperiod},
+           given={Mark\bibnamedelima L},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=2}}%
+        {{uniquename=0,uniquepart=base,hash=b84c5445ef938e45fb328fd6e5e57946}{%
+           family={Loeb},
+           familyi={L\bibinitperiod},
+           given={Melisa},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8d8251af8bd773351122da9889754b44}{%
+           family={Hale},
+           familyi={H\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=45a7f29bb18705656e29b2ad08192215}{%
+           family={Eigenheer},
+           familyi={E\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{342b1e4a21ff5a967caa49214d1e65a5}
+      \strng{fullhash}{86ba0b7745a8411578b48b2ff143426f}
+      \strng{bibnamehash}{86ba0b7745a8411578b48b2ff143426f}
+      \strng{authorbibnamehash}{86ba0b7745a8411578b48b2ff143426f}
+      \strng{authornamehash}{342b1e4a21ff5a967caa49214d1e65a5}
+      \strng{authorfullhash}{86ba0b7745a8411578b48b2ff143426f}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Analysis of Verbal Behavior}
+      \field{number}{1}
+      \field{title}{Contriving establishing operations to teach mands for information}
+      \field{volume}{18}
+      \field{year}{2001}
+      \field{pages}{15\bibrangedash 29}
+      \range{pages}{15}
+    \endentry
   \enddatalist
-  \missing{sundberg2002contriving}
 \endrefsection
 
 \refsection{4}
@@ -37264,22 +37632,22 @@
     \endentry
     \entry{skinner1969contingencies}{book}{}
       \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=d83c2a8d87d37a92b4687ef0cef61afe}{%
+        {{uniquename=0,uniquepart=base,hash=c738d8f78fcd9c16c18febd9b1649283}{%
            family={Skinner},
            familyi={S\bibinitperiod},
-           given={Burrhus\bibnamedelima F},
+           given={Burrhus\bibnamedelima Frederic},
            giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
         {Appleton-Century-Crofts}%
       }
-      \strng{namehash}{d83c2a8d87d37a92b4687ef0cef61afe}
-      \strng{fullhash}{d83c2a8d87d37a92b4687ef0cef61afe}
-      \strng{bibnamehash}{d83c2a8d87d37a92b4687ef0cef61afe}
-      \strng{authorbibnamehash}{d83c2a8d87d37a92b4687ef0cef61afe}
-      \strng{authornamehash}{d83c2a8d87d37a92b4687ef0cef61afe}
-      \strng{authorfullhash}{d83c2a8d87d37a92b4687ef0cef61afe}
+      \strng{namehash}{c738d8f78fcd9c16c18febd9b1649283}
+      \strng{fullhash}{c738d8f78fcd9c16c18febd9b1649283}
+      \strng{bibnamehash}{c738d8f78fcd9c16c18febd9b1649283}
+      \strng{authorbibnamehash}{c738d8f78fcd9c16c18febd9b1649283}
+      \strng{authornamehash}{c738d8f78fcd9c16c18febd9b1649283}
+      \strng{authorfullhash}{c738d8f78fcd9c16c18febd9b1649283}
       \field{sortinit}{S}
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \field{extradatescope}{labelyear}
@@ -37979,7 +38347,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of the Experimental Analysis of Behavior}
       \field{number}{1}
-      \field{title}{SOME LIMITATIONS ON BEHAVIORAL CONTRAST AND INDUCTION DURING SUCCESSIVE DISCRIMINATION 1}
+      \field{title}{Some limitations on behavioral contrast and induction during successive discrimination}
       \field{volume}{6}
       \field{year}{1963}
       \field{pages}{131\bibrangedash 139}
@@ -38220,6 +38588,38 @@
       \field{pages}{13\bibrangedash 27}
       \range{pages}{15}
     \endentry
+    \entry{catania2012discussion}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=63ed583cec5216098adf22a923682f27}{%
+           family={Catania},
+           familyi={C\bibinitperiod},
+           given={Charles\bibnamedelima A},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{63ed583cec5216098adf22a923682f27}
+      \strng{fullhash}{63ed583cec5216098adf22a923682f27}
+      \strng{bibnamehash}{63ed583cec5216098adf22a923682f27}
+      \strng{authorbibnamehash}{63ed583cec5216098adf22a923682f27}
+      \strng{authornamehash}{63ed583cec5216098adf22a923682f27}
+      \strng{authorfullhash}{63ed583cec5216098adf22a923682f27}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Behavior Analysis}
+      \field{number}{2}
+      \field{title}{Discussion: The flight from experimental analysis}
+      \field{volume}{13}
+      \field{year}{2012}
+      \field{pages}{165\bibrangedash 176}
+      \range{pages}{12}
+    \endentry
     \entry{catania2013learning}{book}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=63ed583cec5216098adf22a923682f27}{%
@@ -38242,7 +38642,6 @@
       \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Learning}
@@ -38463,7 +38862,6 @@
       \range{pages}{3}
     \endentry
   \enddatalist
-  \missing{charles2012discussion}
 \endrefsection
 
 \refsection{58}
@@ -38708,42 +39106,36 @@
 
 \refsection{59}
   \datalist[entry]{apa/global//global/global}
-    \entry{alang2017police}{article}{}
-      \name{author}{4}{}{%
-        {{uniquename=0,uniquepart=base,hash=9ce5295d96cbb6605cc176e23baf4e2a}{%
-           family={Alang},
+    \entry{azrin2007physical}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=f660180b37bb84b89deb4378377f9f33}{%
+           family={Azrin},
            familyi={A\bibinitperiod},
-           given={Ssstring},
-           giveni={S\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod},
            givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=e1672c9902cbbe1b2829c357ebd2871f}{%
-           family={McAlpine},
-           familyi={M\bibinitperiod},
-           given={D},
-           giveni={D\bibinitperiod},
+        {{uniquename=0,uniquepart=base,hash=281f512bfbf95068913e2cf84db82c51}{%
+           family={Vinas},
+           familyi={V\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod},
            givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=5ccf6c1da5adb97107908e806a2ec5a9}{%
-           family={McCreedy},
-           familyi={M\bibinitperiod},
-           given={E},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=053bfdfb8c02427ac22d5957b1afbbec}{%
-           family={Hardeman},
-           familyi={H\bibinitperiod},
-           given={R},
-           giveni={R\bibinitperiod},
+        {{uniquename=0,uniquepart=base,hash=b5a21ed63d6b6dd870483d4dad0ed1ab}{%
+           family={Ehle},
+           familyi={E\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
-        {American Public Health Association}%
+        {Taylor \& Francis}%
       }
-      \strng{namehash}{7e844634c0d99da012cae3517abf8fe0}
-      \strng{fullhash}{43396bd8d26aa39cc082a7cb81b8434c}
-      \strng{bibnamehash}{43396bd8d26aa39cc082a7cb81b8434c}
-      \strng{authorbibnamehash}{43396bd8d26aa39cc082a7cb81b8434c}
-      \strng{authornamehash}{7e844634c0d99da012cae3517abf8fe0}
-      \strng{authorfullhash}{43396bd8d26aa39cc082a7cb81b8434c}
+      \strng{namehash}{c78b6d3da4d4d163c77b5fc67322294a}
+      \strng{fullhash}{747f52c1b7a95e488eb988787ddd74c6}
+      \strng{bibnamehash}{747f52c1b7a95e488eb988787ddd74c6}
+      \strng{authorbibnamehash}{747f52c1b7a95e488eb988787ddd74c6}
+      \strng{authornamehash}{c78b6d3da4d4d163c77b5fc67322294a}
+      \strng{authorfullhash}{747f52c1b7a95e488eb988787ddd74c6}
       \field{sortinit}{A}
       \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
       \field{extradatescope}{labelyear}
@@ -38751,77 +39143,46 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{American journal of public health}
-      \field{number}{5}
-      \field{title}{Police brutality and black health: setting the agenda for public health scholars}
-      \field{volume}{107}
-      \field{year}{2017}
-      \field{pages}{662\bibrangedash 665}
-      \range{pages}{4}
+      \field{journaltitle}{Child \& Family Behavior Therapy}
+      \field{number}{2}
+      \field{title}{Physical activity as reinforcement for classroom calmness of ADHD children: A preliminary study}
+      \field{volume}{29}
+      \field{year}{2007}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
     \endentry
-    \entry{test}{article}{}
+    \entry{cooper2007applied}{book}{}
+      \true{moreauthor}
+      \true{morelabelname}
       \name{author}{3}{}{%
-        {{uniquename=0,uniquepart=base,hash=094981e5a75ed6b0079b5c2175dcdb60}{%
-           family={Baer},
-           familyi={B\bibinitperiod},
-           given={D},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=3f55508ccb68aaac7c65adce70e0f1b4}{%
-           family={Wolf},
-           familyi={W\bibinitperiod},
-           given={M},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=85c92097b57fc535a03cee92c283a554}{%
-           family={Risley},
-           familyi={R\bibinitperiod},
-           given={T},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Wiley Online Library}%
-      }
-      \strng{namehash}{43eb723c43d159333fb5ff0f4d3601d8}
-      \strng{fullhash}{810ebeac28066264664738894543fae7}
-      \strng{bibnamehash}{810ebeac28066264664738894543fae7}
-      \strng{authorbibnamehash}{810ebeac28066264664738894543fae7}
-      \strng{authornamehash}{43eb723c43d159333fb5ff0f4d3601d8}
-      \strng{authorfullhash}{810ebeac28066264664738894543fae7}
-      \field{sortinit}{B}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Applied Behavior Analysis}
-      \field{number}{4}
-      \field{title}{Some still-current dimensions of applied behavior analysis}
-      \field{volume}{20}
-      \field{year}{1987}
-      \field{pages}{313\bibrangedash 327}
-      \range{pages}{15}
-    \endentry
-    \entry{clayton2018black}{article}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=e58aa4fb1c81cea4c022a1f21b95ed00}{%
-           family={Clayton},
+        {{uniquename=0,uniquepart=base,hash=5c893d13f333c261ddc917a082281822}{%
+           family={Cooper},
            familyi={C\bibinitperiod},
-           given={D},
-           giveni={D\bibinitperiod},
+           given={John\bibnamedelima O},
+           giveni={J\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=880fa59b475abe0f802ff349ce7a7690}{%
+           family={Heron},
+           familyi={H\bibinitperiod},
+           given={Timothy\bibnamedelima E},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=22ce62ff54f620486ed7ac1afafc74c5}{%
+           family={Heward},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima L},
+           giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
-        {SAGE Publications Sage CA: Los Angeles, CA}%
+        {Pearson}%
       }
-      \strng{namehash}{e58aa4fb1c81cea4c022a1f21b95ed00}
-      \strng{fullhash}{e58aa4fb1c81cea4c022a1f21b95ed00}
-      \strng{bibnamehash}{e58aa4fb1c81cea4c022a1f21b95ed00}
-      \strng{authorbibnamehash}{e58aa4fb1c81cea4c022a1f21b95ed00}
-      \strng{authornamehash}{e58aa4fb1c81cea4c022a1f21b95ed00}
-      \strng{authorfullhash}{e58aa4fb1c81cea4c022a1f21b95ed00}
+      \strng{namehash}{f460a48d4928a7e3c4afb484255228e4}
+      \strng{fullhash}{33a83c5af25a84a710514c3d9ab51a10}
+      \strng{bibnamehash}{33a83c5af25a84a710514c3d9ab51a10}
+      \strng{authorbibnamehash}{33a83c5af25a84a710514c3d9ab51a10}
+      \strng{authornamehash}{f460a48d4928a7e3c4afb484255228e4}
+      \strng{authorfullhash}{33a83c5af25a84a710514c3d9ab51a10}
       \field{sortinit}{C}
       \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
       \field{extradatescope}{labelyear}
@@ -38829,13 +39190,150 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Black Studies}
-      \field{number}{5}
-      \field{title}{Black lives matter and the civil rights movement: A comparative analysis of two social movements in the United States}
-      \field{volume}{49}
-      \field{year}{2018}
-      \field{pages}{448\bibrangedash 480}
-      \range{pages}{33}
+      \field{title}{Applied behavior analysis}
+      \field{year}{2007}
+    \endentry
+    \entry{mazur1975matching}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=3a973450595232e74a1a20d9fdf893b7}{%
+           family={Mazur},
+           familyi={M\bibinitperiod},
+           given={James\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{3a973450595232e74a1a20d9fdf893b7}
+      \strng{fullhash}{3a973450595232e74a1a20d9fdf893b7}
+      \strng{bibnamehash}{3a973450595232e74a1a20d9fdf893b7}
+      \strng{authorbibnamehash}{3a973450595232e74a1a20d9fdf893b7}
+      \strng{authornamehash}{3a973450595232e74a1a20d9fdf893b7}
+      \strng{authorfullhash}{3a973450595232e74a1a20d9fdf893b7}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Psychology: Animal Behavior Processes}
+      \field{number}{4}
+      \field{title}{The matching law and quantifications related to Premack's principle}
+      \field{volume}{1}
+      \field{year}{1975}
+      \field{pages}{374}
+      \range{pages}{1}
+    \endentry
+    \entry{sigafoos2005premack}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=341608859bb86c9876a1144b51b319af}{%
+           family={Sigafoos},
+           familyi={S\bibinitperiod},
+           given={Jeff},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{341608859bb86c9876a1144b51b319af}
+      \strng{fullhash}{341608859bb86c9876a1144b51b319af}
+      \strng{bibnamehash}{341608859bb86c9876a1144b51b319af}
+      \strng{authorbibnamehash}{341608859bb86c9876a1144b51b319af}
+      \strng{authornamehash}{341608859bb86c9876a1144b51b319af}
+      \strng{authorfullhash}{341608859bb86c9876a1144b51b319af}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Educational Psychology}
+      \field{number}{6}
+      \field{title}{From Premack to PECS: 25 years of progress in communication intervention for individuals with developmental disabilities}
+      \field{volume}{25}
+      \field{year}{2005}
+      \field{pages}{601\bibrangedash 607}
+      \range{pages}{7}
+    \endentry
+    \entry{volkmar2013encyclopedia}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=f44a1cad0f1f38550a71ebc5d9133364}{%
+           family={Volkmar},
+           familyi={V\bibinitperiod},
+           given={Fred\bibnamedelima R},
+           giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f44a1cad0f1f38550a71ebc5d9133364}{%
+           family={Volkmar},
+           familyi={V\bibinitperiod},
+           given={Fred\bibnamedelima R},
+           giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer New York, NY}%
+      }
+      \strng{namehash}{2dac4cf48244d638249104c50b4af6a8}
+      \strng{fullhash}{2dac4cf48244d638249104c50b4af6a8}
+      \strng{bibnamehash}{2dac4cf48244d638249104c50b4af6a8}
+      \strng{authorbibnamehash}{2dac4cf48244d638249104c50b4af6a8}
+      \strng{authornamehash}{2dac4cf48244d638249104c50b4af6a8}
+      \strng{authorfullhash}{2dac4cf48244d638249104c50b4af6a8}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Encyclopedia of autism spectrum disorders}
+      \field{year}{2013}
+    \endentry
+    \entry{welsh1993application}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=41ce30a01d103c685b2b1ac00956fd33}{%
+           family={Welsh},
+           familyi={W\bibinitperiod},
+           given={D.\bibnamedelimi H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=efceb021e62ca5f22b8045359d77d707}{%
+           family={Bernstein},
+           familyi={B\bibinitperiod},
+           given={D.\bibnamedelimi J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=21a19692bbaf9443272eab30fecae5b7}{%
+           family={Luthans},
+           familyi={L\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{aaea6948173a51e03c419f915506bf11}
+      \strng{fullhash}{63aea64182a58b6d35d1859e1a5869cc}
+      \strng{bibnamehash}{63aea64182a58b6d35d1859e1a5869cc}
+      \strng{authorbibnamehash}{63aea64182a58b6d35d1859e1a5869cc}
+      \strng{authornamehash}{aaea6948173a51e03c419f915506bf11}
+      \strng{authorfullhash}{63aea64182a58b6d35d1859e1a5869cc}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Organizational Behavior Management}
+      \field{number}{1}
+      \field{title}{Application of the Premack principle of reinforcement to the quality performance of service employees}
+      \field{volume}{13}
+      \field{year}{1993}
+      \field{pages}{9\bibrangedash 32}
+      \range{pages}{24}
     \endentry
   \enddatalist
 \endrefsection
@@ -42154,8 +42652,40 @@
       \field{pages}{30\bibrangedash 51}
       \range{pages}{22}
     \endentry
+    \entry{van1979social}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=2e0164cbfcb52b7884efec68a1ce9d87}{%
+           family={Van\bibnamedelima Houten},
+           familyi={V\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Ron},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{2e0164cbfcb52b7884efec68a1ce9d87}
+      \strng{fullhash}{2e0164cbfcb52b7884efec68a1ce9d87}
+      \strng{bibnamehash}{2e0164cbfcb52b7884efec68a1ce9d87}
+      \strng{authorbibnamehash}{2e0164cbfcb52b7884efec68a1ce9d87}
+      \strng{authornamehash}{2e0164cbfcb52b7884efec68a1ce9d87}
+      \strng{authorfullhash}{2e0164cbfcb52b7884efec68a1ce9d87}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Behavior Analysis}
+      \field{number}{4}
+      \field{title}{Social validation: The evolution of standards of competency for target behaviors}
+      \field{volume}{12}
+      \field{year}{1979}
+      \field{pages}{581\bibrangedash 591}
+      \range{pages}{11}
+    \endentry
   \enddatalist
-  \missing{houten1979social}
 \endrefsection
 
 \refsection{74}
@@ -44594,7 +45124,6 @@
       \field{year}{2000}
     \endentry
   \enddatalist
-  \missing{gresham2001functional}
 \endrefsection
 
 \refsection{87}
@@ -45806,120 +46335,38 @@
 
 \refsection{93}
   \datalist[entry]{apa/global//global/global}
-    \entry{alang2017police}{article}{}
-      \name{author}{4}{}{%
-        {{uniquename=0,uniquepart=base,hash=9ce5295d96cbb6605cc176e23baf4e2a}{%
-           family={Alang},
-           familyi={A\bibinitperiod},
-           given={Ssstring},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=e1672c9902cbbe1b2829c357ebd2871f}{%
-           family={McAlpine},
-           familyi={M\bibinitperiod},
-           given={D},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=5ccf6c1da5adb97107908e806a2ec5a9}{%
-           family={McCreedy},
-           familyi={M\bibinitperiod},
-           given={E},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=053bfdfb8c02427ac22d5957b1afbbec}{%
-           family={Hardeman},
-           familyi={H\bibinitperiod},
-           given={R},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {American Public Health Association}%
-      }
-      \strng{namehash}{7e844634c0d99da012cae3517abf8fe0}
-      \strng{fullhash}{43396bd8d26aa39cc082a7cb81b8434c}
-      \strng{bibnamehash}{43396bd8d26aa39cc082a7cb81b8434c}
-      \strng{authorbibnamehash}{43396bd8d26aa39cc082a7cb81b8434c}
-      \strng{authornamehash}{7e844634c0d99da012cae3517abf8fe0}
-      \strng{authorfullhash}{43396bd8d26aa39cc082a7cb81b8434c}
-      \field{sortinit}{A}
-      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{American journal of public health}
-      \field{number}{5}
-      \field{title}{Police brutality and black health: setting the agenda for public health scholars}
-      \field{volume}{107}
-      \field{year}{2017}
-      \field{pages}{662\bibrangedash 665}
-      \range{pages}{4}
-    \endentry
-    \entry{test}{article}{}
+    \entry{cooper2007applied}{book}{}
+      \true{moreauthor}
+      \true{morelabelname}
       \name{author}{3}{}{%
-        {{uniquename=0,uniquepart=base,hash=094981e5a75ed6b0079b5c2175dcdb60}{%
-           family={Baer},
-           familyi={B\bibinitperiod},
-           given={D},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=3f55508ccb68aaac7c65adce70e0f1b4}{%
-           family={Wolf},
-           familyi={W\bibinitperiod},
-           given={M},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=85c92097b57fc535a03cee92c283a554}{%
-           family={Risley},
-           familyi={R\bibinitperiod},
-           given={T},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Wiley Online Library}%
-      }
-      \strng{namehash}{43eb723c43d159333fb5ff0f4d3601d8}
-      \strng{fullhash}{810ebeac28066264664738894543fae7}
-      \strng{bibnamehash}{810ebeac28066264664738894543fae7}
-      \strng{authorbibnamehash}{810ebeac28066264664738894543fae7}
-      \strng{authornamehash}{43eb723c43d159333fb5ff0f4d3601d8}
-      \strng{authorfullhash}{810ebeac28066264664738894543fae7}
-      \field{sortinit}{B}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Applied Behavior Analysis}
-      \field{number}{4}
-      \field{title}{Some still-current dimensions of applied behavior analysis}
-      \field{volume}{20}
-      \field{year}{1987}
-      \field{pages}{313\bibrangedash 327}
-      \range{pages}{15}
-    \endentry
-    \entry{clayton2018black}{article}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=e58aa4fb1c81cea4c022a1f21b95ed00}{%
-           family={Clayton},
+        {{uniquename=0,uniquepart=base,hash=5c893d13f333c261ddc917a082281822}{%
+           family={Cooper},
            familyi={C\bibinitperiod},
-           given={D},
-           giveni={D\bibinitperiod},
+           given={John\bibnamedelima O},
+           giveni={J\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=880fa59b475abe0f802ff349ce7a7690}{%
+           family={Heron},
+           familyi={H\bibinitperiod},
+           given={Timothy\bibnamedelima E},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=22ce62ff54f620486ed7ac1afafc74c5}{%
+           family={Heward},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima L},
+           giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
-        {SAGE Publications Sage CA: Los Angeles, CA}%
+        {Pearson}%
       }
-      \strng{namehash}{e58aa4fb1c81cea4c022a1f21b95ed00}
-      \strng{fullhash}{e58aa4fb1c81cea4c022a1f21b95ed00}
-      \strng{bibnamehash}{e58aa4fb1c81cea4c022a1f21b95ed00}
-      \strng{authorbibnamehash}{e58aa4fb1c81cea4c022a1f21b95ed00}
-      \strng{authornamehash}{e58aa4fb1c81cea4c022a1f21b95ed00}
-      \strng{authorfullhash}{e58aa4fb1c81cea4c022a1f21b95ed00}
+      \strng{namehash}{f460a48d4928a7e3c4afb484255228e4}
+      \strng{fullhash}{33a83c5af25a84a710514c3d9ab51a10}
+      \strng{bibnamehash}{33a83c5af25a84a710514c3d9ab51a10}
+      \strng{authorbibnamehash}{33a83c5af25a84a710514c3d9ab51a10}
+      \strng{authornamehash}{f460a48d4928a7e3c4afb484255228e4}
+      \strng{authorfullhash}{33a83c5af25a84a710514c3d9ab51a10}
       \field{sortinit}{C}
       \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
       \field{extradatescope}{labelyear}
@@ -45927,13 +46374,115 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Black Studies}
-      \field{number}{5}
-      \field{title}{Black lives matter and the civil rights movement: A comparative analysis of two social movements in the United States}
-      \field{volume}{49}
-      \field{year}{2018}
-      \field{pages}{448\bibrangedash 480}
-      \range{pages}{33}
+      \field{title}{Applied behavior analysis}
+      \field{year}{2007}
+    \endentry
+    \entry{kazdin2012behavior}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=89e01dc99f87057f6950fed45f36806f}{%
+           family={Kazdin},
+           familyi={K\bibinitperiod},
+           given={Alan\bibnamedelima E},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Waveland Press}%
+      }
+      \strng{namehash}{89e01dc99f87057f6950fed45f36806f}
+      \strng{fullhash}{89e01dc99f87057f6950fed45f36806f}
+      \strng{bibnamehash}{89e01dc99f87057f6950fed45f36806f}
+      \strng{authorbibnamehash}{89e01dc99f87057f6950fed45f36806f}
+      \strng{authornamehash}{89e01dc99f87057f6950fed45f36806f}
+      \strng{authorfullhash}{89e01dc99f87057f6950fed45f36806f}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Behavior modification in applied settings}
+      \field{year}{2012}
+    \endentry
+    \entry{miltenberger2008behavior}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=03f52f998250d5f9514da6811dcb2986}{%
+           family={Miltenberger},
+           familyi={M\bibinitperiod},
+           given={Raymond\bibnamedelima G},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wadsworth Publishing}%
+      }
+      \strng{namehash}{03f52f998250d5f9514da6811dcb2986}
+      \strng{fullhash}{03f52f998250d5f9514da6811dcb2986}
+      \strng{bibnamehash}{03f52f998250d5f9514da6811dcb2986}
+      \strng{authorbibnamehash}{03f52f998250d5f9514da6811dcb2986}
+      \strng{authornamehash}{03f52f998250d5f9514da6811dcb2986}
+      \strng{authorfullhash}{03f52f998250d5f9514da6811dcb2986}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Behavior modification}
+      \field{year}{2008}
+    \endentry
+    \entry{test1990teaching}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=b751790f031e29a4fd433ea5fb37f058}{%
+           family={Test},
+           familyi={T\bibinitperiod},
+           given={David\bibnamedelima W},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=366a71cb5777459f10a7d32ee20f218a}{%
+           family={Spooner},
+           familyi={S\bibinitperiod},
+           given={Fred},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9fb0dbcf227c919535b9ae14a6f96ea2}{%
+           family={Keul},
+           familyi={K\bibinitperiod},
+           given={Patricia\bibnamedelima K},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bddcf60751d0179006f4558d434ad5f4}{%
+           family={Grossi},
+           familyi={G\bibinitperiod},
+           given={Teresa},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Sage}%
+      }
+      \strng{namehash}{e10242ed555977cf0e1e80b1ae45b080}
+      \strng{fullhash}{8e2dbce6c167e9d1755a577343f380e5}
+      \strng{bibnamehash}{8e2dbce6c167e9d1755a577343f380e5}
+      \strng{authorbibnamehash}{8e2dbce6c167e9d1755a577343f380e5}
+      \strng{authornamehash}{e10242ed555977cf0e1e80b1ae45b080}
+      \strng{authorfullhash}{8e2dbce6c167e9d1755a577343f380e5}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Behavior Modification}
+      \field{number}{2}
+      \field{title}{Teaching adolescents with severe disabilities to use the public telephone}
+      \field{volume}{14}
+      \field{year}{1990}
+      \field{pages}{157\bibrangedash 171}
+      \range{pages}{15}
     \endentry
   \enddatalist
 \endrefsection
@@ -46776,120 +47325,38 @@
 
 \refsection{98}
   \datalist[entry]{apa/global//global/global}
-    \entry{alang2017police}{article}{}
-      \name{author}{4}{}{%
-        {{uniquename=0,uniquepart=base,hash=9ce5295d96cbb6605cc176e23baf4e2a}{%
-           family={Alang},
-           familyi={A\bibinitperiod},
-           given={Ssstring},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=e1672c9902cbbe1b2829c357ebd2871f}{%
-           family={McAlpine},
-           familyi={M\bibinitperiod},
-           given={D},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=5ccf6c1da5adb97107908e806a2ec5a9}{%
-           family={McCreedy},
-           familyi={M\bibinitperiod},
-           given={E},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=053bfdfb8c02427ac22d5957b1afbbec}{%
-           family={Hardeman},
-           familyi={H\bibinitperiod},
-           given={R},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {American Public Health Association}%
-      }
-      \strng{namehash}{7e844634c0d99da012cae3517abf8fe0}
-      \strng{fullhash}{43396bd8d26aa39cc082a7cb81b8434c}
-      \strng{bibnamehash}{43396bd8d26aa39cc082a7cb81b8434c}
-      \strng{authorbibnamehash}{43396bd8d26aa39cc082a7cb81b8434c}
-      \strng{authornamehash}{7e844634c0d99da012cae3517abf8fe0}
-      \strng{authorfullhash}{43396bd8d26aa39cc082a7cb81b8434c}
-      \field{sortinit}{A}
-      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{American journal of public health}
-      \field{number}{5}
-      \field{title}{Police brutality and black health: setting the agenda for public health scholars}
-      \field{volume}{107}
-      \field{year}{2017}
-      \field{pages}{662\bibrangedash 665}
-      \range{pages}{4}
-    \endentry
-    \entry{test}{article}{}
+    \entry{cooper2007applied}{book}{}
+      \true{moreauthor}
+      \true{morelabelname}
       \name{author}{3}{}{%
-        {{uniquename=0,uniquepart=base,hash=094981e5a75ed6b0079b5c2175dcdb60}{%
-           family={Baer},
-           familyi={B\bibinitperiod},
-           given={D},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=3f55508ccb68aaac7c65adce70e0f1b4}{%
-           family={Wolf},
-           familyi={W\bibinitperiod},
-           given={M},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=85c92097b57fc535a03cee92c283a554}{%
-           family={Risley},
-           familyi={R\bibinitperiod},
-           given={T},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Wiley Online Library}%
-      }
-      \strng{namehash}{43eb723c43d159333fb5ff0f4d3601d8}
-      \strng{fullhash}{810ebeac28066264664738894543fae7}
-      \strng{bibnamehash}{810ebeac28066264664738894543fae7}
-      \strng{authorbibnamehash}{810ebeac28066264664738894543fae7}
-      \strng{authornamehash}{43eb723c43d159333fb5ff0f4d3601d8}
-      \strng{authorfullhash}{810ebeac28066264664738894543fae7}
-      \field{sortinit}{B}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Applied Behavior Analysis}
-      \field{number}{4}
-      \field{title}{Some still-current dimensions of applied behavior analysis}
-      \field{volume}{20}
-      \field{year}{1987}
-      \field{pages}{313\bibrangedash 327}
-      \range{pages}{15}
-    \endentry
-    \entry{clayton2018black}{article}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=e58aa4fb1c81cea4c022a1f21b95ed00}{%
-           family={Clayton},
+        {{uniquename=0,uniquepart=base,hash=5c893d13f333c261ddc917a082281822}{%
+           family={Cooper},
            familyi={C\bibinitperiod},
-           given={D},
-           giveni={D\bibinitperiod},
+           given={John\bibnamedelima O},
+           giveni={J\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=880fa59b475abe0f802ff349ce7a7690}{%
+           family={Heron},
+           familyi={H\bibinitperiod},
+           given={Timothy\bibnamedelima E},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=22ce62ff54f620486ed7ac1afafc74c5}{%
+           family={Heward},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima L},
+           giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
-        {SAGE Publications Sage CA: Los Angeles, CA}%
+        {Pearson}%
       }
-      \strng{namehash}{e58aa4fb1c81cea4c022a1f21b95ed00}
-      \strng{fullhash}{e58aa4fb1c81cea4c022a1f21b95ed00}
-      \strng{bibnamehash}{e58aa4fb1c81cea4c022a1f21b95ed00}
-      \strng{authorbibnamehash}{e58aa4fb1c81cea4c022a1f21b95ed00}
-      \strng{authornamehash}{e58aa4fb1c81cea4c022a1f21b95ed00}
-      \strng{authorfullhash}{e58aa4fb1c81cea4c022a1f21b95ed00}
+      \strng{namehash}{f460a48d4928a7e3c4afb484255228e4}
+      \strng{fullhash}{33a83c5af25a84a710514c3d9ab51a10}
+      \strng{bibnamehash}{33a83c5af25a84a710514c3d9ab51a10}
+      \strng{authorbibnamehash}{33a83c5af25a84a710514c3d9ab51a10}
+      \strng{authornamehash}{f460a48d4928a7e3c4afb484255228e4}
+      \strng{authorfullhash}{33a83c5af25a84a710514c3d9ab51a10}
       \field{sortinit}{C}
       \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
       \field{extradatescope}{labelyear}
@@ -46897,13 +47364,74 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Black Studies}
-      \field{number}{5}
-      \field{title}{Black lives matter and the civil rights movement: A comparative analysis of two social movements in the United States}
-      \field{volume}{49}
-      \field{year}{2018}
-      \field{pages}{448\bibrangedash 480}
-      \range{pages}{33}
+      \field{title}{Applied behavior analysis}
+      \field{year}{2007}
+    \endentry
+    \entry{fawcett1991social}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=6816e7f7f059950b8ad304378594ab25}{%
+           family={Fawcett},
+           familyi={F\bibinitperiod},
+           given={Stephen\bibnamedelima B},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Society for the Experimental Analysis of Behavior}%
+      }
+      \strng{namehash}{6816e7f7f059950b8ad304378594ab25}
+      \strng{fullhash}{6816e7f7f059950b8ad304378594ab25}
+      \strng{bibnamehash}{6816e7f7f059950b8ad304378594ab25}
+      \strng{authorbibnamehash}{6816e7f7f059950b8ad304378594ab25}
+      \strng{authornamehash}{6816e7f7f059950b8ad304378594ab25}
+      \strng{authorfullhash}{6816e7f7f059950b8ad304378594ab25}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Behavior Analysis}
+      \field{number}{2}
+      \field{title}{Social validity: a note on methodology.}
+      \field{volume}{24}
+      \field{year}{1991}
+      \field{pages}{235}
+      \range{pages}{1}
+    \endentry
+    \entry{wolf1978social}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=460f8cf2b6bc729f389aee896effbd5e}{%
+           family={Wolf},
+           familyi={W\bibinitperiod},
+           given={Montrose\bibnamedelima M},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{460f8cf2b6bc729f389aee896effbd5e}
+      \strng{fullhash}{460f8cf2b6bc729f389aee896effbd5e}
+      \strng{bibnamehash}{460f8cf2b6bc729f389aee896effbd5e}
+      \strng{authorbibnamehash}{460f8cf2b6bc729f389aee896effbd5e}
+      \strng{authornamehash}{460f8cf2b6bc729f389aee896effbd5e}
+      \strng{authorfullhash}{460f8cf2b6bc729f389aee896effbd5e}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of applied behavior analysis}
+      \field{number}{2}
+      \field{title}{Social validity: The case for subjective measurement or how applied behavior analysis is finding its heart}
+      \field{volume}{11}
+      \field{year}{1978}
+      \field{pages}{203\bibrangedash 214}
+      \range{pages}{12}
     \endentry
   \enddatalist
 \endrefsection

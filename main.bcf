@@ -2442,7 +2442,7 @@
     <bcf:citekey order="2">hart1968effect</bcf:citekey>
     <bcf:citekey order="3">michael1975positive</bcf:citekey>
     <bcf:citekey order="4">osborne1969free</bcf:citekey>
-    <bcf:citekey order="5">skinner1938</bcf:citekey>
+    <bcf:citekey order="5">skinner1938behavior</bcf:citekey>
     <bcf:citekey order="6">thomas1968production</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
@@ -2580,7 +2580,7 @@
     <bcf:citekey order="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2">drash1999using</bcf:citekey>
     <bcf:citekey order="3">skinner1957verbal</bcf:citekey>
-    <bcf:citekey order="4">sundberg2002contriving</bcf:citekey>
+    <bcf:citekey order="4">sundberg2001contriving</bcf:citekey>
     <bcf:citekey order="5">sundberg1998teaching</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
@@ -2843,7 +2843,7 @@
     <bcf:citekey order="2">baum1979matching</bcf:citekey>
     <bcf:citekey order="3">borrero2002application</bcf:citekey>
     <bcf:citekey order="4">catania2013learning</bcf:citekey>
-    <bcf:citekey order="5">charles2012discussion</bcf:citekey>
+    <bcf:citekey order="5">catania2012discussion</bcf:citekey>
     <bcf:citekey order="6">cooper2007applied</bcf:citekey>
     <bcf:citekey order="7">epling1983applied</bcf:citekey>
     <bcf:citekey order="8">herrnstein1961relative</bcf:citekey>
@@ -2874,9 +2874,12 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="59">
-    <bcf:citekey order="1">test</bcf:citekey>
-    <bcf:citekey order="2">alang2017police</bcf:citekey>
-    <bcf:citekey order="3">clayton2018black</bcf:citekey>
+    <bcf:citekey order="1">azrin2007physical</bcf:citekey>
+    <bcf:citekey order="2">volkmar2013encyclopedia</bcf:citekey>
+    <bcf:citekey order="3">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="4">mazur1975matching</bcf:citekey>
+    <bcf:citekey order="5">sigafoos2005premack</bcf:citekey>
+    <bcf:citekey order="6">welsh1993application</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3085,7 +3088,7 @@
     <bcf:citekey order="2">cooper2007applied</bcf:citekey>
     <bcf:citekey order="3">hawkins1979functions</bcf:citekey>
     <bcf:citekey order="4">linehan1977issues</bcf:citekey>
-    <bcf:citekey order="5">houten1979social</bcf:citekey>
+    <bcf:citekey order="5">van1979social</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3251,12 +3254,11 @@
   <bcf:section number="86">
     <bcf:citekey order="1">carr1993behavior</bcf:citekey>
     <bcf:citekey order="2">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="3">gresham2001functional</bcf:citekey>
-    <bcf:citekey order="4">watson2001functional</bcf:citekey>
-    <bcf:citekey order="5">iwata1994toward</bcf:citekey>
-    <bcf:citekey order="6">o1997functional</bcf:citekey>
-    <bcf:citekey order="7">sprague1998antisocial</bcf:citekey>
-    <bcf:citekey order="8">witt2000functional</bcf:citekey>
+    <bcf:citekey order="3">watson2001functional</bcf:citekey>
+    <bcf:citekey order="4">iwata1994toward</bcf:citekey>
+    <bcf:citekey order="5">o1997functional</bcf:citekey>
+    <bcf:citekey order="6">sprague1998antisocial</bcf:citekey>
+    <bcf:citekey order="7">witt2000functional</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3345,9 +3347,10 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="93">
-    <bcf:citekey order="1">test</bcf:citekey>
-    <bcf:citekey order="2">alang2017police</bcf:citekey>
-    <bcf:citekey order="3">clayton2018black</bcf:citekey>
+    <bcf:citekey order="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2">kazdin2012behavior</bcf:citekey>
+    <bcf:citekey order="3">miltenberger2008behavior</bcf:citekey>
+    <bcf:citekey order="4">test1990teaching</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3414,9 +3417,9 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="98">
-    <bcf:citekey order="1">test</bcf:citekey>
-    <bcf:citekey order="2">alang2017police</bcf:citekey>
-    <bcf:citekey order="3">clayton2018black</bcf:citekey>
+    <bcf:citekey order="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2">fawcett1991social</bcf:citekey>
+    <bcf:citekey order="3">wolf1978social</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3437,9 +3440,10 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="100">
-    <bcf:citekey order="1">test</bcf:citekey>
-    <bcf:citekey order="2">alang2017police</bcf:citekey>
-    <bcf:citekey order="3">clayton2018black</bcf:citekey>
+    <bcf:citekey order="1">athens2010investigation</bcf:citekey>
+    <bcf:citekey order="2">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="3">sweeney2013effects</bcf:citekey>
+    <bcf:citekey order="4">vollmer1999evaluating</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
