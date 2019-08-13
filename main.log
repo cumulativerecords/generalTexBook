@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.7.12)  8 AUG 2019 18:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.7.12)  13 AUG 2019 12:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1618,12 +1618,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--9
  []
 
 [2]) (./main.toc
-Overfull \hbox (4.38945pt too wide) in paragraph at lines 12--12
+Overfull \hbox (4.38945pt too wide) in paragraph at lines 14--14
  [][] [][]\T1/cmr/m/n/12 History of the Train-ABA Su-per-vi-sion Cur- 
  []
 
 
-Overfull \hbox (23.025pt too wide) in paragraph at lines 42--42
+Overfull \hbox (23.025pt too wide) in paragraph at lines 44--44
  [][] [][]\T1/cmr/m/n/12 Case Study: As-so-ci-ated Aard-varks for Autism 
  []
 
@@ -1631,20 +1631,20 @@ Overfull \hbox (23.025pt too wide) in paragraph at lines 42--42
 
 
 ]
-Overfull \hbox (12.98735pt too wide) in paragraph at lines 222--222
+Overfull \hbox (12.98735pt too wide) in paragraph at lines 224--224
  \T1/cmr/m/n/12 mea-sure-ment pro-ce-dures (e.g., event record- 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1383) has occurred while \output is active []
 
  [4]
-Overfull \hbox (9.32414pt too wide) in paragraph at lines 256--256
+Overfull \hbox (9.32414pt too wide) in paragraph at lines 258--258
  \T1/cmr/m/n/12 hav-ior anal-y-sis (Baer, Wolf, & Ris-ley, 1968) 
  []
 
 
-Overfull \hbox (4.33386pt too wide) in paragraph at lines 300--300
+Overfull \hbox (4.33386pt too wide) in paragraph at lines 302--302
  [][] [][]\T1/cmr/m/n/12 B-05 Use al-ter-nat-ing treat-ments (i.e., mul- 
  []
 
@@ -1652,17 +1652,17 @@ Overfull \hbox (4.33386pt too wide) in paragraph at lines 300--300
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
-Overfull \hbox (14.25372pt too wide) in paragraph at lines 428--428
+Overfull \hbox (14.25372pt too wide) in paragraph at lines 430--430
  [][] [][]\T1/cmr/m/n/12 D-02 Use ap-pro-pri-ate pa-ram-e-ters and sched- 
  []
 
 
-Overfull \hbox (14.25372pt too wide) in paragraph at lines 594--594
+Overfull \hbox (14.25372pt too wide) in paragraph at lines 596--596
  [][] [][]\T1/cmr/m/n/12 D-17 Use ap-pro-pri-ate pa-ram-e-ters and sched- 
  []
 
 
-Overfull \hbox (16.92943pt too wide) in paragraph at lines 626--626
+Overfull \hbox (16.92943pt too wide) in paragraph at lines 628--628
  [][] [][]\T1/cmr/m/n/12 D-20 Use response-independent (time-based) 
  []
 
@@ -1670,7 +1670,7 @@ Overfull \hbox (16.92943pt too wide) in paragraph at lines 626--626
 Underfull \vbox (badness 1077) has occurred while \output is active []
 
  [6]
-Overfull \hbox (9.09804pt too wide) in paragraph at lines 694--694
+Overfull \hbox (9.09804pt too wide) in paragraph at lines 696--696
  [][] [][]\T1/cmr/m/n/12 E-05 Use in-de-pen-dent, in-ter-de-pen-dent, and 
  []
 
@@ -1678,22 +1678,22 @@ Overfull \hbox (9.09804pt too wide) in paragraph at lines 694--694
 Underfull \vbox (badness 2103) has occurred while \output is active []
 
  [7]
-Overfull \hbox (1.39699pt too wide) in paragraph at lines 860--860
+Overfull \hbox (1.39699pt too wide) in paragraph at lines 862--862
  [][] [][]\T1/cmr/m/n/12 F-07 Use func-tional com-mu-ni-ca-tion train- 
  []
 
 
-Overfull \hbox (9.68526pt too wide) in paragraph at lines 872--872
+Overfull \hbox (9.68526pt too wide) in paragraph at lines 874--874
  [][] [][]\T1/cmr/m/n/12 F-08 Use aug-men-ta-tive com-mu-ni-ca-tion sys- 
  []
 
 
-Overfull \hbox (6.93307pt too wide) in paragraph at lines 896--896
+Overfull \hbox (6.93307pt too wide) in paragraph at lines 898--898
  [][] [][]\T1/cmr/m/n/12 G-02 Con-sider bi-o-log-i-cal/medical vari-ables 
  []
 
 
-Overfull \hbox (8.02725pt too wide) in paragraph at lines 926--926
+Overfull \hbox (8.02725pt too wide) in paragraph at lines 928--928
  \T1/cmr/m/n/12 clud-ing pri-vate events, in behavior-analytic 
  []
 
@@ -1701,17 +1701,17 @@ Overfull \hbox (8.02725pt too wide) in paragraph at lines 926--926
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8]
-Overfull \hbox (26.76866pt too wide) in paragraph at lines 958--958
+Overfull \hbox (26.76866pt too wide) in paragraph at lines 960--960
  [][] [][]\T1/cmr/m/n/12 G-08 Iden-tify and make en-vi-ron-men-tal changes 
  []
 
 
-Overfull \hbox (1.59285pt too wide) in paragraph at lines 1008--1008
+Overfull \hbox (1.59285pt too wide) in paragraph at lines 1010--1010
  [][] [][]\T1/cmr/m/n/12 H-04 Eval-u-ate changes in level, trend, and 
  []
 
 
-Overfull \hbox (2.0497pt too wide) in paragraph at lines 1018--1018
+Overfull \hbox (2.0497pt too wide) in paragraph at lines 1020--1020
  [][] [][]\T1/cmr/m/n/12 H-05 Eval-u-ate tem-po-ral re-la-tions be-tween 
  []
 
@@ -1719,12 +1719,12 @@ Overfull \hbox (2.0497pt too wide) in paragraph at lines 1018--1018
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9]
-Overfull \hbox (2.8634pt too wide) in paragraph at lines 1088--1088
+Overfull \hbox (2.8634pt too wide) in paragraph at lines 1090--1090
  [][] [][]\T1/cmr/m/n/12 I-06 Make rec-om-men-da-tions re-gard-ing be- 
  []
 
 
-Overfull \hbox (3.42015pt too wide) in paragraph at lines 1126--1126
+Overfull \hbox (3.42015pt too wide) in paragraph at lines 1128--1128
  [][] [][]\T1/cmr/m/n/12 J-02 Iden-tify po-ten-tial in-ter-ven-tions based 
  []
 
@@ -1732,7 +1732,7 @@ Overfull \hbox (3.42015pt too wide) in paragraph at lines 1126--1126
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [10]
-Overfull \hbox (4.69899pt too wide) in paragraph at lines 1304--1304
+Overfull \hbox (4.69899pt too wide) in paragraph at lines 1306--1306
  \T1/cmr/m/n/12 for car-ry-ing out be-hav-ioral as-sess-ment and 
  []
 
@@ -1740,27 +1740,27 @@ Overfull \hbox (4.69899pt too wide) in paragraph at lines 1304--1304
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11]
-Overfull \hbox (3.42023pt too wide) in paragraph at lines 1314--1314
+Overfull \hbox (3.42023pt too wide) in paragraph at lines 1316--1316
  [][] [][]\T1/cmr/m/n/12 K-04 De-sign and use ef-fec-tive per-for-mance 
  []
 
 
-Overfull \hbox (15.88506pt too wide) in paragraph at lines 1354--1354
+Overfull \hbox (15.88506pt too wide) in paragraph at lines 1356--1356
  [][] [][]\T1/cmr/m/n/12 K-08 Es-tab-lish sup-port for behavior-analytic 
  []
 
 
-Overfull \hbox (3.9118pt too wide) in paragraph at lines 1364--1364
+Overfull \hbox (3.9118pt too wide) in paragraph at lines 1366--1366
  [][] [][]\T1/cmr/m/n/12 K-09 Se-cure the sup-port of oth-ers to main- 
  []
 
 
-Overfull \hbox (8.83679pt too wide) in paragraph at lines 1398--1398
+Overfull \hbox (8.83679pt too wide) in paragraph at lines 1400--1400
  [][] [][]\T1/cmr/m/n/12 FK-02 Se-lec-tion-ism (phy-lo-genic, on-to-genic, 
  []
 
 
-Overfull \hbox (4.56018pt too wide) in paragraph at lines 1458--1458
+Overfull \hbox (4.56018pt too wide) in paragraph at lines 1460--1460
  [][] [][]\T1/cmr/m/n/12 FK-07 En-vi-ron-men-tal (as op-posed to men- 
  []
 
@@ -1768,47 +1768,47 @@ Overfull \hbox (4.56018pt too wide) in paragraph at lines 1458--1458
 Underfull \vbox (badness 2452) has occurred while \output is active []
 
  [12]
-Overfull \hbox (8.09254pt too wide) in paragraph at lines 1478--1478
+Overfull \hbox (8.09254pt too wide) in paragraph at lines 1480--1480
  \T1/cmr/m/n/12 anal-y-sis of be-hav-ior, ap-plied be-hav-ior anal- 
  []
 
 
-Overfull \hbox (7.59698pt too wide) in paragraph at lines 1620--1620
+Overfull \hbox (7.59698pt too wide) in paragraph at lines 1622--1622
  [][] [][]\T1/cmr/m/n/12 FK-21 Sched-ules of re-in-force-ment and pun- 
  []
 
 
-Overfull \hbox (0.67503pt too wide) in paragraph at lines 1644--1644
+Overfull \hbox (0.67503pt too wide) in paragraph at lines 1646--1646
  [][] [][]\T1/cmr/m/n/12 FK-23 Au-to-matic re-in-force-ment and pun- 
  []
 
 
-Overfull \hbox (1.65807pt too wide) in paragraph at lines 1702--1702
+Overfull \hbox (1.65807pt too wide) in paragraph at lines 1704--1704
  [][] [][]\T1/cmr/m/n/12 FK-28 Tran-si-tive, re-flex-ive, sur-ro-gate mo- 
  []
 
 [13]
-Overfull \hbox (4.88641pt too wide) in paragraph at lines 1726--1726
+Overfull \hbox (4.88641pt too wide) in paragraph at lines 1728--1728
  [][] [][]\T1/cmr/m/n/12 FK-30 Dis-tin-guish be-tween mo-ti-vat-ing op- 
  []
 
 
-Overfull \hbox (3.80756pt too wide) in paragraph at lines 1928--1928
+Overfull \hbox (3.80756pt too wide) in paragraph at lines 1930--1930
  [][] [][]\T1/cmr/m/n/12 FK-47 Iden-tify the mea-sur-able di-men-sions 
  []
 
 
-Overfull \hbox (4.0464pt too wide) in paragraph at lines 1938--1938
+Overfull \hbox (4.0464pt too wide) in paragraph at lines 1940--1940
  \T1/cmr/m/n/12 van-tages of us-ing con-tin-u-ous mea-sure-ment 
  []
 
 
-Overfull \hbox (9.91997pt too wide) in paragraph at lines 1938--1938
+Overfull \hbox (9.91997pt too wide) in paragraph at lines 1940--1940
  \T1/cmr/m/n/12 pro-ce-dures and dis-con-tin-u-ous mea-sure-ment 
  []
 
 
-Overfull \hbox (10.96411pt too wide) in paragraph at lines 1938--1938
+Overfull \hbox (10.96411pt too wide) in paragraph at lines 1940--1940
  \T1/cmr/m/n/12 pro-ce-dures (e.g., partial- and whole-interval 
  []
 
@@ -1853,32 +1853,56 @@ nal/Business
 
 
 
-]
-Overfull \hbox (20.29047pt too wide) in paragraph at lines 7--8
+] [21]
+Overfull \hbox (0.27866pt too wide) in paragraph at lines 13--14
+\T1/cmr/m/n/12 cur-ricu-lum to suit in-di-vid-u-al-ized or cohort-wide needs. A
+ny-
+ []
+
+
+Underfull \vbox (badness 2111) has occurred while \output is active []
+
+ [22]
+Overfull \hbox (20.29047pt too wide) in paragraph at lines 15--16
 \T1/cmr/m/n/12 Doc-u-men-ta-tion So-ci-ety (CRDS), a 501(c)(3) non-profit. GitH
 ub,
  []
 
-[21] [22]
+
 Underfull \vbox (badness 2111) has occurred while \output is active []
 
  [23]
-Overfull \hbox (3.18501pt too wide) in paragraph at lines 25--26
+Overfull \hbox (10.21829pt too wide) in paragraph at lines 28--29
+\T1/cmr/m/n/12 Be-hav-ior anal-y-sis prac-ti-tion-ers tend to cus-tomize things
+,
+ []
+
+
+Overfull \hbox (4.11841pt too wide) in paragraph at lines 28--29
+\T1/cmr/m/n/12 able ideas for do-it-yourself su-per-vi-sion cur-ricu-lum that
+ []
+
+
+Overfull \hbox (0.90215pt too wide) in paragraph at lines 30--31
+[]\T1/cmr/m/n/12 FOSS is prac-ti-cal. All type-set-ting soft-ware has a learn-
+ []
+
+[24] [25] [26] [27]
+Underfull \vbox (badness 2111) has occurred while \output is active []
+
+ [28]
+Overfull \hbox (3.18501pt too wide) in paragraph at lines 57--58
 \T1/cmr/m/n/12 project is in-ter-est-ing. Per-haps oth-ers from non-programming
 
  []
 
 
-Overfull \hbox (23.28206pt too wide) in paragraph at lines 31--32
+Overfull \hbox (23.28206pt too wide) in paragraph at lines 63--64
 \T1/cmr/m/n/12 lowed with-out the ex-press writ-ten con-sent of the BCBA/BCaBA.
 
  []
 
-[24] [25]) [26
-
-
-
-]
+[29] [30])
 \openout2 = `tex/chapters/v1-ed2/v1-ed2.aux'.
 
  (./tex/chapters/v1-ed2/v1-ed2.tex
@@ -1889,6 +1913,9 @@ Overfull \hbox (3.41882pt too wide) in paragraph at lines 10--11
  []
 
 [1
+
+
+
 
 
 ]
@@ -9235,17 +9262,17 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 42.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 42.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 42.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: FD2E13217EE19F83422263DDA2671DB3;19943.
+(rerunfilecheck)             Checksum: 32D1E111A6874BADA423FD469A12667D;20009.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
  ) 
 Here is how much of TeX's memory you used:
- 32630 strings out of 492982
- 609959 string characters out of 6134896
- 2248031 words of memory out of 5000000
- 31656 multiletter control sequences out of 15000+600000
+ 32642 strings out of 492982
+ 610075 string characters out of 6134896
+ 2248034 words of memory out of 5000000
+ 31657 multiletter control sequences out of 15000+600000
  22925 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,6n,98p,2019b,4188s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -9263,10 +9290,10 @@ ublic/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1
 texmf/fonts/type1/public/cm-super/sfsl1200.pfb></usr/share/texmf/fonts/type1/pu
 blic/cm-super/sfti1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti12
 00.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1728.pfb>
-Output written on main.pdf (768 pages, 1398456 bytes).
+Output written on main.pdf (772 pages, 1407298 bytes).
 PDF statistics:
- 8435 PDF objects out of 8907 (max. 8388607)
- 7573 compressed objects within 76 object streams
- 4069 named destinations out of 4296 (max. 500000)
- 1593 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 8464 PDF objects out of 8907 (max. 8388607)
+ 7598 compressed objects within 76 object streams
+ 4080 named destinations out of 4296 (max. 500000)
+ 1601 words of extra memory for PDF output out of 10000 (max. 10000000)
 
