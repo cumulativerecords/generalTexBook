@@ -1,0 +1,8 @@
+#!/bin/sh
+#
+# program:	cut-task-list-index
+#
+# usage:	make it easier to pull a field (column) out of a task list			using shell script.
+#
+	grep "^5" taskListIndex.py | cut -d"=" -f2
+
