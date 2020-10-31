@@ -1,0 +1,9 @@
+#!/bin/sh
+#
+# program:	count-lines	
+#
+# usage:	count lines from file and output number of lines	
+#
+
+#	wc $1 -l  
+
