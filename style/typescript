@@ -1,0 +1,583 @@
+Script started on Sat Oct 31 12:31:53 2020
+]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style[1m[7m%[27m[1m[0m                                                                                                   ]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style]2;benjamintheisen@unix-recrdss-MacBook-Pro-2]1;..-v1-ed2/style]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style[0m[27m[24m[J[38;5;237m---------------------------------------------------------------------------------------------------[00m
+[38;5;032m~/Documents/GitHub/trainaba-v1-ed2/style[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[3C [38;5;237mbenjamintheisen@unix-recrdss-MacBook-Pro-2[00m[46D[?1h=[?2004heech[Ko "WH hic    Whi   How many it         What  ich items are in the BACB task list, 4t [Khh ed?"[?1l>[?2004l
+]2;echo "Which items are in the BACB task list, 4th ed?"]1;echoWhich items are in the BACB task list, 4th ed?
+[1m[7m%[27m[1m[0m                                                                                                   ]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style]2;benjamintheisen@unix-recrdss-MacBook-Pro-2]1;..-v1-ed2/style]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style[0m[27m[24m[J[38;5;237m---------------------------------------------------------------------------------------------------[00m
+[38;5;032m~/Documents/GitHub/trainaba-v1-ed2/style[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[3C [38;5;237mbenjamintheisen@unix-recrdss-MacBook-Pro-2[00m[46D[?1h=[?2004hecho "Which items are in the BACB task list, 4th ed?"[K[A[46Cexit[K[1B[K[A[56Cecho "Which items are in the BACB 4th ed task list?"[K[A[52C[P[41Cist?[K[A[49Cgitcom[K[1B[K[A[58Cvim candidates-scales.txt[25Dgitcom                   [19Dvim candidates-scales.txt[25Dls[K[1C [38;5;237mbenjamintheisen@unix-recrdss-MacBook-Pro-2[00m[44Dcd surv-dev[K[11Dls[K[1C [38;5;237mbenjamintheisen@unix-recrdss-MacBook-Pro-2[00m[44Dgitcom[Kls[K[1C [38;5;237mbenjamintheisen@unix-recrdss-MacBook-Pro-2[00m[44Dcd ../oba[K[9Dgitcom   cd genericDissertations[20DDocuments/GitHub    [19D/Volumes/CUBS1T/cumulative/linux/ben/mark\ zac\ info ; exit;[K[A[39Ccd Documents/GitHub[K[1B[K[A[71C[16DgenericDissertations[23Dgitcom                 [17Dcd ../oba[9Dls[K[1C [38;5;237mbenjamintheisen@unix-recrdss-MacBook-Pro-2[00m[44Dgitcom[Kls[K[1C [38;5;237mbenjamintheisen@unix-recrdss-MacBook-Pro-2[00m[44Dcd surv-dev[K[11Dls[K[1C [38;5;237mbenjamintheisen@unix-recrdss-MacBook-Pro-2[00m[44Dvim candidates-scales.txt[K[25Dgitcom                   [19Dvim candidates-scales.txt[25Dgitcom                   [19Decho Which items are in the BACB 4th ed task list?[K[A[54C"Which items are in the BACB 4th ed task list?"[A[47Cexit[K[1B[K[A[56Cecho "Which items are in the BACB task list, 4th ed?"[K[A[46C[K[3C [38;5;237mbenjamintheisen@unix-recrdss-MacBook-Pro-2[00m[1B[K[A[52Cggre[Kp  [K[1C [38;5;237mbenjamintheisen@unix-recrdss-MacBook-Pro-2[00m[44Dg  lls[?1l>[?2004l[1B]2;ls -G]1;lsbibAndIndex.sty style.sty       tlfive.sty      tlfour.sty      typescript
+[1m[7m%[27m[1m[0m                                                                                                   ]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style]2;benjamintheisen@unix-recrdss-MacBook-Pro-2]1;..-v1-ed2/style]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style[0m[27m[24m[J[38;5;237m---------------------------------------------------------------------------------------------------[00m
+[38;5;032m~/Documents/GitHub/trainaba-v1-ed2/style[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[3C [38;5;237mbenjamintheisen@unix-recrdss-MacBook-Pro-2[00m[46D[?1h=[?2004hggre[Kp -F "{\four"  tlfour.sty[?1l>[?2004l
+]2;grep --color=auto --exclude-dir={.bzr,CVS,.git,.hg,.svn,.idea,.tox} -F  ]1;grep\newcommand[01;31m[K{\four[m[KsecOne}{Section I: Basic Behavior-Analytic Skills}
+\newcommand[01;31m[K{\four[m[Kseca}{A. Measurement}
+\newcommand[01;31m[K{\four[m[KaOne}{A-01 Measure frequency (i.e., count).}
+\newcommand[01;31m[K{\four[m[KaTwo}{A-02 Measure rate (i.e., count per unit time).}
+\newcommand[01;31m[K{\four[m[KaThree}{A-03 Measure duration.}
+\newcommand[01;31m[K{\four[m[KaFour}{A-04 Measure latency.}
+\newcommand[01;31m[K{\four[m[KaFive}{A-05 Measure interresponse time (IRT).}
+\newcommand[01;31m[K{\four[m[KaSix}{A-06 Measure percent of occurrence.}
+\newcommand[01;31m[K{\four[m[KaSeven}{A-07 Measure trials to criterion.}
+\newcommand[01;31m[K{\four[m[KaEight}{A-08 Assess and interpret interobserver agreement.}
+\newcommand[01;31m[K{\four[m[KaNine}{A-09 Evaluate the accuracy and reliability of measurement procedures.}
+\newcommand[01;31m[K{\four[m[KaTen}{A-10 Design, plot, and interpret data using equal-interval graphs.}
+\newcommand[01;31m[K{\four[m[KaEleven}{A-11 Design, plot, and interpret data using a cumulative record to display data.}
+\newcommand[01;31m[K{\four[m[KaTwelve}{A-12 Design and implement continuous measurement procedures (e.g., event recording).}
+\newcommand[01;31m[K{\four[m[KaThirteen}{A-13 Design and implement discontinuous measurement procedures (e.g., partial \& whole interval, momentary time sampling).}
+\newcommand[01;31m[K{\four[m[KaFourteen}{A-14 Design and implement choice measures.}
+\newcommand[01;31m[K{\four[m[Ksecb}{B. Experimental Design}
+\newcommand[01;31m[K{\four[m[KbOne}{B-01 Use the dimensions of applied behavior analysis (Baer, Wolf, \& Risley, 1968) to evaluate whether interventions are behavior analytic in nature.}
+\newcommand[01;31m[K{\four[m[KbTwo}{B-02 Review and interpret articles from the behavior-analytic literature.}
+\newcommand[01;31m[K{\four[m[KbThree}{B-03 Systematically arrange independent variables to demonstrate their effects on dependent variables.}
+\newcommand[01;31m[K{\four[m[KbFour}{B-04 Use withdrawal/reversal designs.}
+\newcommand[01;31m[K{\four[m[KbFive}{B-05 Use alternating treatments (i.e., multielement) designs.}
+\newcommand[01;31m[K{\four[m[KbSix}{B-06 Use changing criterion designs.}
+\newcommand[01;31m[K{\four[m[KbSeven}{B-07 Use multiple baseline designs.}
+\newcommand[01;31m[K{\four[m[KbEight}{B-08 Use multiple probe designs.}
+\newcommand[01;31m[K{\four[m[KbNine}{B-09 Use combinations of design elements.}
+\newcommand[01;31m[K{\four[m[KbTen}{B-10 Conduct a component analysis to determine the effective components of an intervention package.}
+\newcommand[01;31m[K{\four[m[KbEleven}{B-11 Conduct a parametric analysis to determine the effective values of an independent variable.}
+\newcommand[01;31m[K{\four[m[Ksecc}{C. Behavior-Change Considerations}
+\newcommand[01;31m[K{\four[m[KcOne}{C-01 State and plan for the possible unwanted effects of reinforcement.}
+\newcommand[01;31m[K{\four[m[KcTwo}{C-02 State and plan for the possible unwanted effects of punishment.}
+\newcommand[01;31m[K{\four[m[KcThree}{C-03 State and plan for the possible unwanted effects of extinction.}
+\newcommand[01;31m[K{\four[m[Ksecd}{D. Fundamental Elements of Behavior Change}
+\newcommand[01;31m[K{\four[m[KdOne}{D-01 Use positive and negative reinforcement.}
+\newcommand[01;31m[K{\four[m[KdTwo}{D-02 Use appropriate parameters and schedules of reinforcement.}
+\newcommand[01;31m[K{\four[m[KdThree}{D-03 Use prompts and prompt fading.}
+\newcommand[01;31m[K{\four[m[KdFour}{D-04 Use modeling and imitation training.}
+\newcommand[01;31m[K{\four[m[KdFive}{D-05 Use shaping.}
+\newcommand[01;31m[K{\four[m[KdSix}{D-06 Use chaining.}
+\newcommand[01;31m[K{\four[m[KdSeven}{D-07 Conduct task analyses.}
+\newcommand[01;31m[K{\four[m[KdEight}{D-08 Use discrete-trial and free-operant arrangements.}
+\newcommand[01;31m[K{\four[m[KdNine}{D-09 Use the verbal operants as a basis for language assessment.}
+\newcommand[01;31m[K{\four[m[KdTen}{D-10 Use echoic training.}
+\newcommand[01;31m[K{\four[m[KdEleven}{D-11 Use mand training.}
+\newcommand[01;31m[K{\four[m[KdTwelve}{D-12 Use tact training.}
+\newcommand[01;31m[K{\four[m[KdThirteen}{D-13 Use intraverbal training.}
+\newcommand[01;31m[K{\four[m[KdFourteen}{D-14 Use listener training.}
+\newcommand[01;31m[K{\four[m[KdFifteen}{D-15 Identify punishers.}
+\newcommand[01;31m[K{\four[m[KdSixteen}{D-16 Use positive and negative punishment.}
+\newcommand[01;31m[K{\four[m[KdSeventeen}{D-17 Use appropriate parameters and schedules of punishment.}
+\newcommand[01;31m[K{\four[m[KdEighteen}{D-18 Use extinction.}
+\newcommand[01;31m[K{\four[m[KdNineteen}{D-19 Use combinations of reinforcement with punishment and extinction.}
+\newcommand[01;31m[K{\four[m[KdTwenty}{D-20 Use response-independent (time-based) schedules of reinforcement (i.e., noncontingent reinforcement).}
+\newcommand[01;31m[K{\four[m[KdTwentyOne}{D-21 Use differential reinforcement (e.g., DRO, DRA, DRI, DRL, DRH).}
+\newcommand[01;31m[K{\four[m[Ksece}{E. Specific Behavior-Change Procedures}
+\newcommand[01;31m[K{\four[m[KeOne}{E-01 Use interventions based on manipulation of antecedents, such as motivating operations and discriminative stimuli.}
+\newcommand[01;31m[K{\four[m[KeTwo}{E-02 Use discrimination training procedures.}
+\newcommand[01;31m[K{\four[m[KeThree}{E-03 Use instructions and rules.}
+\newcommand[01;31m[K{\four[m[KeFour}{E-04 Use contingency contracting (i.e., behavioral contracts).}
+\newcommand[01;31m[K{\four[m[KeFive}{E-05 Use independent, interdependent, and dependent group contingencies.}
+\newcommand[01;31m[K{\four[m[KeSix}{E-06 Use stimulus equivalence procedures.}
+\newcommand[01;31m[K{\four[m[KeSeven}{E-07 Plan for behavioral contrast effects.}
+\newcommand[01;31m[K{\four[m[KeEight}{E-08 Use the matching law and recognize factors influencing choice.}
+\newcommand[01;31m[K{\four[m[KeNine}{E-09 Arrange high-probability request sequences.}
+\newcommand[01;31m[K{\four[m[KeTen}{E-10 Use the Premack principle.}
+\newcommand[01;31m[K{\four[m[KeEleven}{E-11 Use pairing procedures to establish new conditioned reinforcers and punishers.}
+\newcommand[01;31m[K{\four[m[KeTwelve}{E-12 Use errorless learning procedures.}
+\newcommand[01;31m[K{\four[m[KeThirteen}{E-13 Use matching-to-sample procedures.}
+\newcommand[01;31m[K{\four[m[Ksecf}{F. Behavior-Change Systems}
+\newcommand[01;31m[K{\four[m[KfOne}{F-01 Use self-management strategies.}
+\newcommand[01;31m[K{\four[m[KfTwo}{F-02 Use token economies and other conditioned reinforcement systems.}
+\newcommand[01;31m[K{\four[m[KfThree}{F-03 Use Direct Instruction.}
+\newcommand[01;31m[K{\four[m[KfFour}{F-04 Use precision teaching.}
+\newcommand[01;31m[K{\four[m[KfFive}{F-05 Use personalized systems of instruction (PSI).}
+\newcommand[01;31m[K{\four[m[KfSix}{F-06 Use incidental teaching.}
+\newcommand[01;31m[K{\four[m[KfSeven}{F-07 Use functional communication training.}
+\newcommand[01;31m[K{\four[m[KfEight}{F-08 Use augmentative communication systems.}
+\newcommand[01;31m[K{\four[m[KsecTwo}{Section II: Client-Centered Responsibilities}
+\newcommand[01;31m[K{\four[m[Ksecg}{G. Identification of the Problem}
+\newcommand[01;31m[K{\four[m[KgOne}{G-01 Review records and available data at the outset of the case.}
+\newcommand[01;31m[K{\four[m[KgTwo}{G-02 Consider biological/medical variables that may be affecting the client.}
+\newcommand[01;31m[K{\four[m[KgThree}{G-03 Conduct a preliminary assessment of the client in order to identify the referral problem.}
+\newcommand[01;31m[K{\four[m[KgFour}{G-04 Explain behavioral concepts using nontechnical language.}
+\newcommand[01;31m[K{\four[m[KgFive}{G-05 Describe and explain behavior, including private events, in behavior-analytic (nonmentalistic) terms.}
+\newcommand[01;31m[K{\four[m[KgSix}{G-06 Provide behavior-analytic services in collaboration with others who support and/or provide services to one's clients.}
+\newcommand[01;31m[K{\four[m[KgSeven}{G-07 Practice within one's limits of professional competence in applied behavior analysis, and obtain consultation, supervision, and training, or make referrals as necessary.}
+\newcommand[01;31m[K{\four[m[KgEight}{G-08 Identify and make environmental changes that reduce the need for behavior analysis
+\newcommand[01;31m[K{\four[m[Ksech}{H. Measurement}
+\newcommand[01;31m[K{\four[m[KhOne}{H-01 Select a measurement system to obtain representative data given the dimensions of the behavior and the logistics of observing and recording.}
+\newcommand[01;31m[K{\four[m[KhTwo}{H-02 Select a schedule of observation and recording periods.}
+\newcommand[01;31m[K{\four[m[KhThree}{H-03 Select a data display that effectively communicates relevant quantitative relations.}
+\newcommand[01;31m[K{\four[m[KhFour}{H-04 Evaluate changes in level, trend, and variability.}
+\newcommand[01;31m[K{\four[m[KhFive}{H-05 Evaluate temporal relations between observed variables (within \& between sessions, time series).}
+\newcommand[01;31m[K{\four[m[Kseci}{I. Assessment}
+\newcommand[01;31m[K{\four[m[KiOne}{I-01 Define behavior in observable and measurable terms.}
+\newcommand[01;31m[K{\four[m[KiTwo}{I-02 Define environmental variables in observable and measurable terms.}
+\newcommand[01;31m[K{\four[m[KiThree}{I-03 Design and implement individualized behavioral assessment procedures.}
+\newcommand[01;31m[K{\four[m[KiFour}{I-04 Design and implement the full range of functional assessment procedures.}
+\newcommand[01;31m[K{\four[m[KiFive}{I-05 Organize, analyze, and interpret observed data.}
+\newcommand[01;31m[K{\four[m[KiSix}{I-06 Make recommendations regarding behaviors that must be established, maintained, increased, or decreased.}
+\newcommand[01;31m[K{\four[m[KiSeven}{I-07 Design and conduct preference assessments to identify putative reinforcers.}
+\newcommand[01;31m[K{\four[m[Ksecj}{J. Intervention}
+\newcommand[01;31m[K{\four[m[KjOne}{J-01 State intervention goals in observable and measurable terms.}
+\newcommand[01;31m[K{\four[m[KjTwo}{J-02 Identify potential interventions based on assessment results and the best available scientific evidence.}
+\newcommand[01;31m[K{\four[m[KjThree}{J-03 Select intervention strategies based on task analysis.}
+\newcommand[01;31m[K{\four[m[KjFour}{J-04 Select intervention strategies based on client preferences.}
+\newcommand[01;31m[K{\four[m[KjFive}{J-05 Select intervention strategies based on the client’s current repertoires.}
+\newcommand[01;31m[K{\four[m[KjSix}{J-06 Select intervention strategies based on supporting environments.}
+\newcommand[01;31m[K{\four[m[KjSeven}{J-07 Select intervention strategies based on environmental and resource constraints.}
+\newcommand[01;31m[K{\four[m[KjEight}{J-08 Select intervention strategies based on the social validity of the intervention.}
+\newcommand[01;31m[K{\four[m[KjNine}{J-09 Identify and address practical and ethical considerations when using experimental designs to demonstrate treatment effectiveness.}
+\newcommand[01;31m[K{\four[m[KjTen}{J-10 When a behavior is to be decreased, select an acceptable alternative behavior to be established or increased.}
+\newcommand[01;31m[K{\four[m[KjEleven}{J-11 Program for stimulus and response generalization.}
+\newcommand[01;31m[K{\four[m[KjTwelve}{J-12 Program for maintenance.}
+\newcommand[01;31m[K{\four[m[KjThirteen}{J-13 Select behavioral cusps as goals for intervention when appropriate.}
+\newcommand[01;31m[K{\four[m[KjFourteen}{J-14 Arrange instructional procedures to promote generative learning (i.e., derived relations).}
+\newcommand[01;31m[K{\four[m[KjFifteen}{J-15 Base decision-making on data displayed in various formats.}
+\newcommand[01;31m[K{\four[m[Kseck}{K. Implementation, Management, and Supervision}
+\newcommand[01;31m[K{\four[m[KkOne}{K-01 Provide for ongoing documentation of behavioral services.}
+\newcommand[01;31m[K{\four[m[KkTwo}{K-02 Identify the contingencies governing the behavior of those responsible for carrying out behavior-change procedures and design interventions accordingly.}
+\newcommand[01;31m[K{\four[m[KkThree}{K-03 Design and use competency-based training for persons who are responsible for carrying out behavioral assessment and behavior-change procedures.}
+\newcommand[01;31m[K{\four[m[KkFour}{K-04 Design and use effective performance monitoring and reinforcement systems.}
+\newcommand[01;31m[K{\four[m[KkFive}{K-05 Design and use systems for monitoring procedural integrity.}
+\newcommand[01;31m[K{\four[m[KkSix}{K-06 Provide supervision for behavior-change agents.}
+\newcommand[01;31m[K{\four[m[KkSeven}{K-07 Evaluate the effectiveness of the behavioral program.}
+\newcommand[01;31m[K{\four[m[KkEight}{K-08 Establish support for behavior-analytic services from direct and indirect consumers.}
+\newcommand[01;31m[K{\four[m[KkNine}{K-09 Secure the support of others to maintain the client’s behavioral repertoires in their natural environments.}
+\newcommand[01;31m[K{\four[m[KkTen}{K-10 Arrange for the orderly termination of services when they are no longer required.}
+\newcommand[01;31m[K{\four[m[KsecThree}{Section III: Foundational Knowledge Accompanying the BACB Fourth Edition Task List}
+\newcommand[01;31m[K{\four[m[KsecFK}{FK: Foundational Knowledge}
+\newcommand[01;31m[K{\four[m[KFKOne}{FK-01 Lawfulness of behavior}
+\newcommand[01;31m[K{\four[m[KFKTwo}{FK-02 Selectionism (phylogenic, ontogenic, cultural)}
+\newcommand[01;31m[K{\four[m[KFKThree}{FK-03 Determinism}
+\newcommand[01;31m[K{\four[m[KFKFour}{FK-04 Empiricism}
+\newcommand[01;31m[K{\four[m[KFKFive}{FK-05 Parsimony}
+\newcommand[01;31m[K{\four[m[KFKSix}{FK-06 Pragmatism}
+\newcommand[01;31m[K{\four[m[KFKSeven}{FK-07 Environmental (as opposed to mentalistic) explanations of behavior}
+\newcommand[01;31m[K{\four[m[KFKEight}{FK-08 Distinguish between radical and methodological behaviorism.}
+\newcommand[01;31m[K{\four[m[KFKNine}{FK-09 Distinguish between the conceptual analysis of behavior, experimental analysis of behavior, applied behavior analysis, and behavioral service delivery.}
+\newcommand[01;31m[K{\four[m[KFKTen}{FK-10 Behavior, response, response class}
+\newcommand[01;31m[K{\four[m[KFKEleven}{FK-11 Environment, stimulus, stimulus class}
+\newcommand[01;31m[K{\four[m[KFKTwelve}{FK-12 Stimulus equivalence}
+\newcommand[01;31m[K{\four[m[KFKThirteen}{FK-13 Reflexive relations (US-UR)}
+\newcommand[01;31m[K{\four[m[KFKFourteen}{FK-14 Respondent conditioning (CS-CR)}
+\newcommand[01;31m[K{\four[m[KFKFifteen}{FK-15 Operant conditioning}
+\newcommand[01;31m[K{\four[m[KFKSixteen}{FK-16 Respondent-operant interactions}
+\newcommand[01;31m[K{\four[m[KFKSeventeen}{FK-17 Unconditioned reinforcement}
+\newcommand[01;31m[K{\four[m[KFKEighteen}{FK-18 Conditioned reinforcement}
+\newcommand[01;31m[K{\four[m[KFKNineteen}{FK-19 Unconditioned punishment}
+\newcommand[01;31m[K{\four[m[KFKTwenty}{FK-20 Conditioned punishment}
+\newcommand[01;31m[K{\four[m[KFKTwentyOne}{FK-21 Schedules of reinforcement and punishment}
+\newcommand[01;31m[K{\four[m[KFKTwentyTwo}{FK-22 Extinction}
+\newcommand[01;31m[K{\four[m[KFKTwentyThree}{FK-23 Automatic reinforcement and punishment}
+\newcommand[01;31m[K{\four[m[KFKTwentyFour}{FK-24 Stimulus control}
+\newcommand[01;31m[K{\four[m[KFKTwentyFive}{FK-25 Multiple functions of a single stimulus}
+\newcommand[01;31m[K{\four[m[KFKTwentySix}{FK-26 Unconditioned motivating operations}
+\newcommand[01;31m[K{\four[m[KFKTwentySeven}{FK-27 Conditioned motivating operations}
+\newcommand[01;31m[K{\four[m[KFKTwentyEight}{FK-28 Transitive, reflexive, surrogate motivating operations}
+\newcommand[01;31m[K{\four[m[KFKTwentyNine}{FK-29 Distinguish between the discriminative stimulus and the motivating operation}
+\newcommand[01;31m[K{\four[m[KFKThirty}{FK-30 Distinguish between motivating operation and reinforcement effects}
+\newcommand[01;31m[K{\four[m[KFKThirtyOne}{FK-31 Behavioral contingencies}
+\newcommand[01;31m[K{\four[m[KFKThirtyTwo}{FK-32 Contiguity}
+\newcommand[01;31m[K{\four[m[KFKThirtyThree}{FK-33 Functional relations}
+\newcommand[01;31m[K{\four[m[KFKThirtyFour}{FK-34 Conditional discriminations}
+\newcommand[01;31m[K{\four[m[KFKThirtyFive}{FK-35 Stimulus discrimination}
+\newcommand[01;31m[K{\four[m[KFKThirtySix}{FK-36 Response generalization}
+\newcommand[01;31m[K{\four[m[KFKThirtySeven}{FK-37 Stimulus generalization}
+\newcommand[01;31m[K{\four[m[KFKThirtyEight}{FK-38 Behavioral contrast}
+\newcommand[01;31m[K{\four[m[KFKThirtyNine}{FK-39 Behavioral momentum}
+\newcommand[01;31m[K{\four[m[KFKFourty}{FK-40 Matching law}
+\newcommand[01;31m[K{\four[m[KFKFourtyOne}{FK-41 Contingency-shaped behavior}
+\newcommand[01;31m[K{\four[m[KFKFourtyTwo}{FK-42 Rule-governed behavior}
+\newcommand[01;31m[K{\four[m[KFKFourtyThree}{FK-43 Echoics}
+\newcommand[01;31m[K{\four[m[KFKFourtyFour}{FK-44 Mands}
+\newcommand[01;31m[K{\four[m[KFKFourtyFive}{FK-45 Tacts}
+\newcommand[01;31m[K{\four[m[KFKFourtySix}{FK-46 Intraverbals}
+\newcommand[01;31m[K{\four[m[KFKFourtySeven}{FK-47 Identify the measurable dimensions of behavior (e.g., rate, duration, latency, interresponse time).}
+\newcommand[01;31m[K{\four[m[KFKFourtyEight}{FK-48 State the advantages and disadvantages of using continuous measurement procedures and discontinuous measurement procedures (e.g., partial- and whole-interval recording, momentary time sampling).}
+[1m[7m%[27m[1m[0m                                                                                                   ]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style]2;benjamintheisen@unix-recrdss-MacBook-Pro-2]1;..-v1-ed2/style]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style[0m[27m[24m[J[38;5;237m---------------------------------------------------------------------------------------------------[00m
+[38;5;032m~/Documents/GitHub/trainaba-v1-ed2/style[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[3C [38;5;237mbenjamintheisen@unix-recrdss-MacBook-Pro-2[00m[46D[?1h=[?2004heech[Ko "how many of th           How   That's a lot to count. How many items is  [Ktthat? Don't include the section headings, just task list item.s  s."[?1l>[?2004l
+]2;echo ]1;echoThat's a lot to count. How many items is that? Don't include the section headings, just task list items.
+[1m[7m%[27m[1m[0m                                                                                                   ]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style]2;benjamintheisen@unix-recrdss-MacBook-Pro-2]1;..-v1-ed2/style]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style[0m[27m[24m[J[38;5;237m---------------------------------------------------------------------------------------------------[00m
+[38;5;032m~/Documents/GitHub/trainaba-v1-ed2/style[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[3C [38;5;237mbenjamintheisen@unix-recrdss-MacBook-Pro-2[00m[46D[?1h=[?2004hecho "That's a lot to count. How many items is that? Don't include the section headings, just task list items."[K[A[12Dgrep -F "{\four" tlfour.sty[K[1B[K[A[79C | grep -Fv "\fourse [Kcc" tlfour.sty          | sty   wc -l[?1l>[?2004l
+]2;grep --color=auto --exclude-dir={.bzr,CVS,.git,.hg,.svn,.idea,.tox} -F   |   ]1;grep     163
+[1m[7m%[27m[1m[0m                                                                                                   ]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style]2;benjamintheisen@unix-recrdss-MacBook-Pro-2]1;..-v1-ed2/style]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style[0m[27m[24m[J[38;5;237m---------------------------------------------------------------------------------------------------[00m
+[38;5;032m~/Documents/GitHub/trainaba-v1-ed2/style[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[3C [38;5;237mbenjamintheisen@unix-recrdss-MacBook-Pro-2[00m[46D[?1h=[?2004heech[Ko "163 sounds right. Show me."[?1l>[?2004l
+]2;echo "163 sounds right. Show me."]1;echo163 sounds right. Show me.
+[1m[7m%[27m[1m[0m                                                                                                   ]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style]2;benjamintheisen@unix-recrdss-MacBook-Pro-2]1;..-v1-ed2/style]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style[0m[27m[24m[J[38;5;237m---------------------------------------------------------------------------------------------------[00m
+[38;5;032m~/Documents/GitHub/trainaba-v1-ed2/style[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[3C [38;5;237mbenjamintheisen@unix-recrdss-MacBook-Pro-2[00m[46D[?1h=[?2004hecho "163 sounds right. Show me."[K[33Dgrep -F "{\four" tlfour.sty | grep -Fv "\foursec" | wc -l[K[K    [?1l>[?2004l
+]2;grep --color=auto --exclude-dir={.bzr,CVS,.git,.hg,.svn,.idea,.tox} -F   |   ]1;grep\newcommand{\fouraOne}{A-01 Measure frequency (i.e., count).}
+\newcommand{\fouraTwo}{A-02 Measure rate (i.e., count per unit time).}
+\newcommand{\fouraThree}{A-03 Measure duration.}
+\newcommand{\fouraFour}{A-04 Measure latency.}
+\newcommand{\fouraFive}{A-05 Measure interresponse time (IRT).}
+\newcommand{\fouraSix}{A-06 Measure percent of occurrence.}
+\newcommand{\fouraSeven}{A-07 Measure trials to criterion.}
+\newcommand{\fouraEight}{A-08 Assess and interpret interobserver agreement.}
+\newcommand{\fouraNine}{A-09 Evaluate the accuracy and reliability of measurement procedures.}
+\newcommand{\fouraTen}{A-10 Design, plot, and interpret data using equal-interval graphs.}
+\newcommand{\fouraEleven}{A-11 Design, plot, and interpret data using a cumulative record to display data.}
+\newcommand{\fouraTwelve}{A-12 Design and implement continuous measurement procedures (e.g., event recording).}
+\newcommand{\fouraThirteen}{A-13 Design and implement discontinuous measurement procedures (e.g., partial \& whole interval, momentary time sampling).}
+\newcommand{\fouraFourteen}{A-14 Design and implement choice measures.}
+\newcommand{\fourbOne}{B-01 Use the dimensions of applied behavior analysis (Baer, Wolf, \& Risley, 1968) to evaluate whether interventions are behavior analytic in nature.}
+\newcommand{\fourbTwo}{B-02 Review and interpret articles from the behavior-analytic literature.}
+\newcommand{\fourbThree}{B-03 Systematically arrange independent variables to demonstrate their effects on dependent variables.}
+\newcommand{\fourbFour}{B-04 Use withdrawal/reversal designs.}
+\newcommand{\fourbFive}{B-05 Use alternating treatments (i.e., multielement) designs.}
+\newcommand{\fourbSix}{B-06 Use changing criterion designs.}
+\newcommand{\fourbSeven}{B-07 Use multiple baseline designs.}
+\newcommand{\fourbEight}{B-08 Use multiple probe designs.}
+\newcommand{\fourbNine}{B-09 Use combinations of design elements.}
+\newcommand{\fourbTen}{B-10 Conduct a component analysis to determine the effective components of an intervention package.}
+\newcommand{\fourbEleven}{B-11 Conduct a parametric analysis to determine the effective values of an independent variable.}
+\newcommand{\fourcOne}{C-01 State and plan for the possible unwanted effects of reinforcement.}
+\newcommand{\fourcTwo}{C-02 State and plan for the possible unwanted effects of punishment.}
+\newcommand{\fourcThree}{C-03 State and plan for the possible unwanted effects of extinction.}
+\newcommand{\fourdOne}{D-01 Use positive and negative reinforcement.}
+\newcommand{\fourdTwo}{D-02 Use appropriate parameters and schedules of reinforcement.}
+\newcommand{\fourdThree}{D-03 Use prompts and prompt fading.}
+\newcommand{\fourdFour}{D-04 Use modeling and imitation training.}
+\newcommand{\fourdFive}{D-05 Use shaping.}
+\newcommand{\fourdSix}{D-06 Use chaining.}
+\newcommand{\fourdSeven}{D-07 Conduct task analyses.}
+\newcommand{\fourdEight}{D-08 Use discrete-trial and free-operant arrangements.}
+\newcommand{\fourdNine}{D-09 Use the verbal operants as a basis for language assessment.}
+\newcommand{\fourdTen}{D-10 Use echoic training.}
+\newcommand{\fourdEleven}{D-11 Use mand training.}
+\newcommand{\fourdTwelve}{D-12 Use tact training.}
+\newcommand{\fourdThirteen}{D-13 Use intraverbal training.}
+\newcommand{\fourdFourteen}{D-14 Use listener training.}
+\newcommand{\fourdFifteen}{D-15 Identify punishers.}
+\newcommand{\fourdSixteen}{D-16 Use positive and negative punishment.}
+\newcommand{\fourdSeventeen}{D-17 Use appropriate parameters and schedules of punishment.}
+\newcommand{\fourdEighteen}{D-18 Use extinction.}
+\newcommand{\fourdNineteen}{D-19 Use combinations of reinforcement with punishment and extinction.}
+\newcommand{\fourdTwenty}{D-20 Use response-independent (time-based) schedules of reinforcement (i.e., noncontingent reinforcement).}
+\newcommand{\fourdTwentyOne}{D-21 Use differential reinforcement (e.g., DRO, DRA, DRI, DRL, DRH).}
+\newcommand{\foureOne}{E-01 Use interventions based on manipulation of antecedents, such as motivating operations and discriminative stimuli.}
+\newcommand{\foureTwo}{E-02 Use discrimination training procedures.}
+\newcommand{\foureThree}{E-03 Use instructions and rules.}
+\newcommand{\foureFour}{E-04 Use contingency contracting (i.e., behavioral contracts).}
+\newcommand{\foureFive}{E-05 Use independent, interdependent, and dependent group contingencies.}
+\newcommand{\foureSix}{E-06 Use stimulus equivalence procedures.}
+\newcommand{\foureSeven}{E-07 Plan for behavioral contrast effects.}
+\newcommand{\foureEight}{E-08 Use the matching law and recognize factors influencing choice.}
+\newcommand{\foureNine}{E-09 Arrange high-probability request sequences.}
+\newcommand{\foureTen}{E-10 Use the Premack principle.}
+\newcommand{\foureEleven}{E-11 Use pairing procedures to establish new conditioned reinforcers and punishers.}
+\newcommand{\foureTwelve}{E-12 Use errorless learning procedures.}
+\newcommand{\foureThirteen}{E-13 Use matching-to-sample procedures.}
+\newcommand{\fourfOne}{F-01 Use self-management strategies.}
+\newcommand{\fourfTwo}{F-02 Use token economies and other conditioned reinforcement systems.}
+\newcommand{\fourfThree}{F-03 Use Direct Instruction.}
+\newcommand{\fourfFour}{F-04 Use precision teaching.}
+\newcommand{\fourfFive}{F-05 Use personalized systems of instruction (PSI).}
+\newcommand{\fourfSix}{F-06 Use incidental teaching.}
+\newcommand{\fourfSeven}{F-07 Use functional communication training.}
+\newcommand{\fourfEight}{F-08 Use augmentative communication systems.}
+\newcommand{\fourgOne}{G-01 Review records and available data at the outset of the case.}
+\newcommand{\fourgTwo}{G-02 Consider biological/medical variables that may be affecting the client.}
+\newcommand{\fourgThree}{G-03 Conduct a preliminary assessment of the client in order to identify the referral problem.}
+\newcommand{\fourgFour}{G-04 Explain behavioral concepts using nontechnical language.}
+\newcommand{\fourgFive}{G-05 Describe and explain behavior, including private events, in behavior-analytic (nonmentalistic) terms.}
+\newcommand{\fourgSix}{G-06 Provide behavior-analytic services in collaboration with others who support and/or provide services to one's clients.}
+\newcommand{\fourgSeven}{G-07 Practice within one's limits of professional competence in applied behavior analysis, and obtain consultation, supervision, and training, or make referrals as necessary.}
+\newcommand{\fourgEight}{G-08 Identify and make environmental changes that reduce the need for behavior analysis
+\newcommand{\fourhOne}{H-01 Select a measurement system to obtain representative data given the dimensions of the behavior and the logistics of observing and recording.}
+\newcommand{\fourhTwo}{H-02 Select a schedule of observation and recording periods.}
+\newcommand{\fourhThree}{H-03 Select a data display that effectively communicates relevant quantitative relations.}
+\newcommand{\fourhFour}{H-04 Evaluate changes in level, trend, and variability.}
+\newcommand{\fourhFive}{H-05 Evaluate temporal relations between observed variables (within \& between sessions, time series).}
+\newcommand{\fouriOne}{I-01 Define behavior in observable and measurable terms.}
+\newcommand{\fouriTwo}{I-02 Define environmental variables in observable and measurable terms.}
+\newcommand{\fouriThree}{I-03 Design and implement individualized behavioral assessment procedures.}
+\newcommand{\fouriFour}{I-04 Design and implement the full range of functional assessment procedures.}
+\newcommand{\fouriFive}{I-05 Organize, analyze, and interpret observed data.}
+\newcommand{\fouriSix}{I-06 Make recommendations regarding behaviors that must be established, maintained, increased, or decreased.}
+\newcommand{\fouriSeven}{I-07 Design and conduct preference assessments to identify putative reinforcers.}
+\newcommand{\fourjOne}{J-01 State intervention goals in observable and measurable terms.}
+\newcommand{\fourjTwo}{J-02 Identify potential interventions based on assessment results and the best available scientific evidence.}
+\newcommand{\fourjThree}{J-03 Select intervention strategies based on task analysis.}
+\newcommand{\fourjFour}{J-04 Select intervention strategies based on client preferences.}
+\newcommand{\fourjFive}{J-05 Select intervention strategies based on the client’s current repertoires.}
+\newcommand{\fourjSix}{J-06 Select intervention strategies based on supporting environments.}
+\newcommand{\fourjSeven}{J-07 Select intervention strategies based on environmental and resource constraints.}
+\newcommand{\fourjEight}{J-08 Select intervention strategies based on the social validity of the intervention.}
+\newcommand{\fourjNine}{J-09 Identify and address practical and ethical considerations when using experimental designs to demonstrate treatment effectiveness.}
+\newcommand{\fourjTen}{J-10 When a behavior is to be decreased, select an acceptable alternative behavior to be established or increased.}
+\newcommand{\fourjEleven}{J-11 Program for stimulus and response generalization.}
+\newcommand{\fourjTwelve}{J-12 Program for maintenance.}
+\newcommand{\fourjThirteen}{J-13 Select behavioral cusps as goals for intervention when appropriate.}
+\newcommand{\fourjFourteen}{J-14 Arrange instructional procedures to promote generative learning (i.e., derived relations).}
+\newcommand{\fourjFifteen}{J-15 Base decision-making on data displayed in various formats.}
+\newcommand{\fourkOne}{K-01 Provide for ongoing documentation of behavioral services.}
+\newcommand{\fourkTwo}{K-02 Identify the contingencies governing the behavior of those responsible for carrying out behavior-change procedures and design interventions accordingly.}
+\newcommand{\fourkThree}{K-03 Design and use competency-based training for persons who are responsible for carrying out behavioral assessment and behavior-change procedures.}
+\newcommand{\fourkFour}{K-04 Design and use effective performance monitoring and reinforcement systems.}
+\newcommand{\fourkFive}{K-05 Design and use systems for monitoring procedural integrity.}
+\newcommand{\fourkSix}{K-06 Provide supervision for behavior-change agents.}
+\newcommand{\fourkSeven}{K-07 Evaluate the effectiveness of the behavioral program.}
+\newcommand{\fourkEight}{K-08 Establish support for behavior-analytic services from direct and indirect consumers.}
+\newcommand{\fourkNine}{K-09 Secure the support of others to maintain the client’s behavioral repertoires in their natural environments.}
+\newcommand{\fourkTen}{K-10 Arrange for the orderly termination of services when they are no longer required.}
+\newcommand{\fourFKOne}{FK-01 Lawfulness of behavior}
+\newcommand{\fourFKTwo}{FK-02 Selectionism (phylogenic, ontogenic, cultural)}
+\newcommand{\fourFKThree}{FK-03 Determinism}
+\newcommand{\fourFKFour}{FK-04 Empiricism}
+\newcommand{\fourFKFive}{FK-05 Parsimony}
+\newcommand{\fourFKSix}{FK-06 Pragmatism}
+\newcommand{\fourFKSeven}{FK-07 Environmental (as opposed to mentalistic) explanations of behavior}
+\newcommand{\fourFKEight}{FK-08 Distinguish between radical and methodological behaviorism.}
+\newcommand{\fourFKNine}{FK-09 Distinguish between the conceptual analysis of behavior, experimental analysis of behavior, applied behavior analysis, and behavioral service delivery.}
+\newcommand{\fourFKTen}{FK-10 Behavior, response, response class}
+\newcommand{\fourFKEleven}{FK-11 Environment, stimulus, stimulus class}
+\newcommand{\fourFKTwelve}{FK-12 Stimulus equivalence}
+\newcommand{\fourFKThirteen}{FK-13 Reflexive relations (US-UR)}
+\newcommand{\fourFKFourteen}{FK-14 Respondent conditioning (CS-CR)}
+\newcommand{\fourFKFifteen}{FK-15 Operant conditioning}
+\newcommand{\fourFKSixteen}{FK-16 Respondent-operant interactions}
+\newcommand{\fourFKSeventeen}{FK-17 Unconditioned reinforcement}
+\newcommand{\fourFKEighteen}{FK-18 Conditioned reinforcement}
+\newcommand{\fourFKNineteen}{FK-19 Unconditioned punishment}
+\newcommand{\fourFKTwenty}{FK-20 Conditioned punishment}
+\newcommand{\fourFKTwentyOne}{FK-21 Schedules of reinforcement and punishment}
+\newcommand{\fourFKTwentyTwo}{FK-22 Extinction}
+\newcommand{\fourFKTwentyThree}{FK-23 Automatic reinforcement and punishment}
+\newcommand{\fourFKTwentyFour}{FK-24 Stimulus control}
+\newcommand{\fourFKTwentyFive}{FK-25 Multiple functions of a single stimulus}
+\newcommand{\fourFKTwentySix}{FK-26 Unconditioned motivating operations}
+\newcommand{\fourFKTwentySeven}{FK-27 Conditioned motivating operations}
+\newcommand{\fourFKTwentyEight}{FK-28 Transitive, reflexive, surrogate motivating operations}
+\newcommand{\fourFKTwentyNine}{FK-29 Distinguish between the discriminative stimulus and the motivating operation}
+\newcommand{\fourFKThirty}{FK-30 Distinguish between motivating operation and reinforcement effects}
+\newcommand{\fourFKThirtyOne}{FK-31 Behavioral contingencies}
+\newcommand{\fourFKThirtyTwo}{FK-32 Contiguity}
+\newcommand{\fourFKThirtyThree}{FK-33 Functional relations}
+\newcommand{\fourFKThirtyFour}{FK-34 Conditional discriminations}
+\newcommand{\fourFKThirtyFive}{FK-35 Stimulus discrimination}
+\newcommand{\fourFKThirtySix}{FK-36 Response generalization}
+\newcommand{\fourFKThirtySeven}{FK-37 Stimulus generalization}
+\newcommand{\fourFKThirtyEight}{FK-38 Behavioral contrast}
+\newcommand{\fourFKThirtyNine}{FK-39 Behavioral momentum}
+\newcommand{\fourFKFourty}{FK-40 Matching law}
+\newcommand{\fourFKFourtyOne}{FK-41 Contingency-shaped behavior}
+\newcommand{\fourFKFourtyTwo}{FK-42 Rule-governed behavior}
+\newcommand{\fourFKFourtyThree}{FK-43 Echoics}
+\newcommand{\fourFKFourtyFour}{FK-44 Mands}
+\newcommand{\fourFKFourtyFive}{FK-45 Tacts}
+\newcommand{\fourFKFourtySix}{FK-46 Intraverbals}
+\newcommand{\fourFKFourtySeven}{FK-47 Identify the measurable dimensions of behavior (e.g., rate, duration, latency, interresponse time).}
+\newcommand{\fourFKFourtyEight}{FK-48 State the advantages and disadvantages of using continuous measurement procedures and discontinuous measurement procedures (e.g., partial- and whole-interval recording, momentary time sampling).}
+[1m[7m%[27m[1m[0m                                                                                                   ]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style]2;benjamintheisen@unix-recrdss-MacBook-Pro-2]1;..-v1-ed2/style]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style[0m[27m[24m[J[38;5;237m---------------------------------------------------------------------------------------------------[00m
+[38;5;032m~/Documents/GitHub/trainaba-v1-ed2/style[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[3C [38;5;237mbenjamintheisen@unix-recrdss-MacBook-Pro-2[00m[46D[?1h=[?2004heech[Ko "Okay. NOw   w ow s let's look at fifth edition.[8D[3Ctfifth edition.[14Dhfifth edition.[14Defifth edition. [K[A[85C fifth edition.[A[85C[1C[1C[1C[1C[1C edition. [K[A[89C[P[9C[K[1B[K[A[89C[P[9C [10D[P[9C [10D[P[9C [10D5 edition.[9Dt edition.[9Dh edition.[9D[1C[1C[1Ction. ion. on. n. . [1C task  [Kllist. C SHow    how me those items."[?1l>[?2004l
+]2;echo "Okay. Now let's look at the 5th ed. task list. Show me those items."]1;echoOkay. Now let's look at the 5th ed. task list. Show me those items.
+[1m[7m%[27m[1m[0m                                                                                                   ]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style]2;benjamintheisen@unix-recrdss-MacBook-Pro-2]1;..-v1-ed2/style]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style[0m[27m[24m[J[38;5;237m---------------------------------------------------------------------------------------------------[00m
+[38;5;032m~/Documents/GitHub/trainaba-v1-ed2/style[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[3C [38;5;237mbenjamintheisen@unix-recrdss-MacBook-Pro-2[00m[46D[?1h=[?2004hecho "Okay. Now let's look at the 5th ed. task list. Show me those items."[K[A[25Cgrep -F "{\four" tlfour.sty | grep -Fv "\foursec[25P[73C[K[72D[A[50Cecho "163 sounds right. Show me."[K[1B[K[A[85C[33Dgrep -F "{\four" tlfour.sty | grep -Fv "\foursec" | wc -l[K[A[42Cecho "That's a lot to count. How many items is that? Don't include the section headings, just task list items."[A[12Dgrep -F "{\four" tlfour.sty[K[1B[K[A[79C.sty .sty .sty i.styv.stye.sty[1C[P[12C [13D[P[12C [13D[P[12C [13Di" tlfive.sty[12Dv" tlfive.sty[12De" tlfive.sty[12D[?1l>[?2004l[1B]2;grep --color=auto --exclude-dir={.bzr,CVS,.git,.hg,.svn,.idea,.tox} -F  ]1;grep\newcommand[01;31m[K{\five[m[KsecOne}{Section 1: Foundations}
+\newcommand[01;31m[K{\five[m[Kseca}{A. Philosophical Underpinnings}
+\newcommand[01;31m[K{\five[m[KaOne}{A-1 Identify the goals of behavior analysis as a science (i.e., description, prediction, control).}
+\newcommand[01;31m[K{\five[m[KaTwo}{A-2 Explain the philosophical assumptions underlying the science of behavior analysis (e.g., selectionism, determinism, empiricism, parsimony, pragmatism).}
+\newcommand[01;31m[K{\five[m[KaThree}{A-3 Describe and explain behavior from the perspective of radical behaviorism.}
+\newcommand[01;31m[K{\five[m[KaFour}{A-4 Distinguish among behaviorism, the experimental analysis of behavior, applied behavior analysis, and professional practice guided by the science of behavior analysis.}
+\newcommand[01;31m[K{\five[m[KaFive}{A-5 Describe and define the dimensions of applied behavior analysis (Baer, Wolf, \& Risley, 1968).}
+\newcommand[01;31m[K{\five[m[Ksecb}{B. Concepts and Principles}
+\newcommand[01;31m[K{\five[m[KbOne}{B-1 Define and provide examples of behavior, response, and response class.}
+\newcommand[01;31m[K{\five[m[KbTwo}{B-2 Define and provide examples of stimulus and stimulus class.}
+\newcommand[01;31m[K{\five[m[KbThree}{B-3 Define and provide examples of respondent and operant conditioning.}
+\newcommand[01;31m[K{\five[m[KbFour}{B-4 Define and provide examples of positive and negative reinforcement contingencies.}
+\newcommand[01;31m[K{\five[m[KbFive}{B-5 Define and provide examples of schedules of reinforcement.}
+\newcommand[01;31m[K{\five[m[KbSix}{B-6 Define and provide examples of positive and negative punishment contingencies.}
+\newcommand[01;31m[K{\five[m[KbSeven}{B-7 Define and provide examples of automatic and socially mediated contingencies.}
+\newcommand[01;31m[K{\five[m[KbEight}{B-8 Define and provide examples of unconditioned, conditioned, and generalized reinforcers and punishers.}
+\newcommand[01;31m[K{\five[m[KbNine}{B-9 Define and provide examples of operant extinction.}
+\newcommand[01;31m[K{\five[m[KbTen}{B-10 Define and provide examples of stimulus control.}
+\newcommand[01;31m[K{\five[m[KbEleven}{B-11 Define and provide examples of discrimination, generalization, and maintenance.}
+\newcommand[01;31m[K{\five[m[KbTwelve}{B-12 Define and provide examples of motivating operations.}
+\newcommand[01;31m[K{\five[m[KbThirteen}{B-13 Define and provide examples of rule-governed and contingency-shaped behavior.}
+\newcommand[01;31m[K{\five[m[KbFourteen}{B-14 Define and provide examples of the verbal operants.}
+\newcommand[01;31m[K{\five[m[KbFifteen}{B-15 Define and provide examples of derived stimulus relations.}
+\newcommand[01;31m[K{\five[m[Ksecc}{C. Measurement, Data Display, and Interpretation}
+\newcommand[01;31m[K{\five[m[KcOne}{C-1 Establish operational definitions of behavior.}
+\newcommand[01;31m[K{\five[m[KcTwo}{C-2 Distinguish among direct, indirect, and product measures of behavior.}
+\newcommand[01;31m[K{\five[m[KcThree}{C-3 Measure occurrence (e.g., frequency, rate, percentage).}
+\newcommand[01;31m[K{\five[m[KcFour}{C-4 Measure temporal dimensions of behavior (e.g., duration, latency, interresponse time).}
+\newcommand[01;31m[K{\five[m[KcFive}{C-5 Measure form and strength of behavior (e.g., topography, magnitude).}
+\newcommand[01;31m[K{\five[m[KcSix}{C-6 Measure trials to criterion.}
+\newcommand[01;31m[K{\five[m[KcSeven}{C-7 Design and implement sampling procedures (i.e., interval recording, time sampling).}
+\newcommand[01;31m[K{\five[m[KcEight}{C-8 Evaluate the validity and reliability of measurement procedures.}
+\newcommand[01;31m[K{\five[m[KcNine}{C-9 Select a measurement system to obtain representative data given the dimensions of behavior and the logistics of observing and recording.}
+\newcommand[01;31m[K{\five[m[KcTen}{C-10 Graph data to communicate relevant quantitative relations (e.g., equal-interval graphs, bar graphs, cumulative records).}
+\newcommand[01;31m[K{\five[m[KcEleven}{C-11 Interpret graphed data.}
+\newcommand[01;31m[K{\five[m[Ksecd}{D. Experimental Design}
+\newcommand[01;31m[K{\five[m[KdOne}{D-1 Distinguish between dependent and independent variables.}
+\newcommand[01;31m[K{\five[m[KdTwo}{D-2 Distinguish between internal and external validity.}
+\newcommand[01;31m[K{\five[m[KdThree}{D-3 Identify the defining features of single-subject experimental designs (e.g., individuals serve as their own controls, repeated measures, prediction, verification, replication).}
+\newcommand[01;31m[K{\five[m[KdFour}{D-4 Describe the advantages of single-subject experimental designs compared to group designs.}
+\newcommand[01;31m[K{\five[m[KdFive}{D-5 Use single-subject experimental designs (e.g., reversal, multiple baseline, multielement, changing criterion).}
+\newcommand[01;31m[K{\five[m[KdSix}{D-6 Describe rationales for conducting comparative, component, and parametric analyses.}
+\newcommand[01;31m[K{\five[m[KsecTwo}{Section 2: Applications}
+\newcommand[01;31m[K{\five[m[Ksece}{E. Ethics (Professional and Ethical Compliance Code for Behavior Analysts)}
+\newcommand[01;31m[K{\five[m[KeOne}{E-1 Responsible conduct of behavior analysts}
+\newcommand[01;31m[K{\five[m[KeTwo}{E-2 Behavior analysts' responsibility to clients}
+\newcommand[01;31m[K{\five[m[KeThree}{E-3 Assessing behavior}
+\newcommand[01;31m[K{\five[m[KeFour}{E-4 Behavior analysts and the behavior-change program}
+\newcommand[01;31m[K{\five[m[KeFive}{E-5 Behavior analysts as supervisors}
+\newcommand[01;31m[K{\five[m[KeSix}{E-6 Behavior analysts' ethical responsibility to the profession of behavior analysis}
+\newcommand[01;31m[K{\five[m[KeSeven}{E-7 Behavior analysts' ethical responsibility to colleagues}
+\newcommand[01;31m[K{\five[m[KeEight}{E-8 Public statements}
+\newcommand[01;31m[K{\five[m[KeNine}{E-9 Behavior analysts and research}
+\newcommand[01;31m[K{\five[m[KeTen}{E-10 Behavior analysts' ethical responsibility to the BACB}
+\newcommand[01;31m[K{\five[m[Ksecf}{F. Behavior Assessment}
+\newcommand[01;31m[K{\five[m[KfOne}{F-1 Review records and available data (e.g., educational, medical, historical) at the outset of the case.}
+\newcommand[01;31m[K{\five[m[KfTwo}{F-2 Determine the need for behavior-analytic services.}
+\newcommand[01;31m[K{\five[m[KfThree}{F-3 Identify and prioritize socially significant behavior-change goals.}
+\newcommand[01;31m[K{\five[m[KfFour}{F-4 Conduct assessments of relevant skill strengths and deficits.}
+\newcommand[01;31m[K{\five[m[KfFive}{F-5 Conduct preference assessments.}
+\newcommand[01;31m[K{\five[m[KfSix}{F-6 Describe the common functions of problem behavior.}
+\newcommand[01;31m[K{\five[m[KfSeven}{F-7 Conduct a descriptive assessment of problem behavior. }
+\newcommand[01;31m[K{\five[m[KfEight}{F-8 Conduct a functional analysis of problem behavior.}
+\newcommand[01;31m[K{\five[m[KfNine}{F-9 Interpret functional assessment data. }
+\newcommand[01;31m[K{\five[m[Ksecg}{G. Behavior-Change Procedures}
+\newcommand[01;31m[K{\five[m[KgOne}{G-1 Use positive and negative reinforcement procedures to strengthen behavior.}
+\newcommand[01;31m[K{\five[m[KgTwo}{G-2 Use interventions based on motivating operations and discriminative stimuli.}
+\newcommand[01;31m[K{\five[m[KgThree}{G-3 Establish and use conditioned reinforcers.}
+\newcommand[01;31m[K{\five[m[KgFour}{G-4 Use stimulus and response prompts and fading (e.g., errorless, most-to-least, least-to-most, prompt delay, stimulus fading).}
+\newcommand[01;31m[K{\five[m[KgFive}{G-5 Use modeling and imitation training.}
+\newcommand[01;31m[K{\five[m[KgSix}{G-6 Use instructions and rules.}
+\newcommand[01;31m[K{\five[m[KgSeven}{G-7 Use shaping.}
+\newcommand[01;31m[K{\five[m[KgEight}{G-8 Use chaining.}
+\newcommand[01;31m[K{\five[m[KgNine}{G-9 Use discrete-trial, free-operant, and naturalistic teaching arrangements.}
+\newcommand[01;31m[K{\five[m[KgTen}{G-10 Teach simple and conditional discriminations.}
+\newcommand[01;31m[K{\five[m[KgEleven}{G-11 Use Skinner's analysis to teach verbal behavior.}
+\newcommand[01;31m[K{\five[m[KgTwelve}{G-12 Use equivalence-based instruction.}
+\newcommand[01;31m[K{\five[m[KgThirteen}{G-13 Use the high-probability instructional sequence.}
+\newcommand[01;31m[K{\five[m[KgFourteen}{G-14 Use reinforcement procedures to weaken behavior (e.g., DRA, FCT, DRO, DRL, NCR).}
+\newcommand[01;31m[K{\five[m[KgFifteen}{G-15 Use extinction.}
+\newcommand[01;31m[K{\five[m[KgSixteen}{G-16 Use positive and negative punishment (e.g., time-out, response cost, overcorrection).}
+\newcommand[01;31m[K{\five[m[KgSeventeen}{G-17 Use token economies.}
+\newcommand[01;31m[K{\five[m[KgEighteen}{G-18 Use group contingencies.}
+\newcommand[01;31m[K{\five[m[KgNineteen}{G-19 Use contingency contracting.}
+\newcommand[01;31m[K{\five[m[KgTwenty}{G-20 Use self-management strategies.}
+\newcommand[01;31m[K{\five[m[KgTwentyone}{G-21 Use procedures to promote stimulus and response generalization.}
+\newcommand[01;31m[K{\five[m[KgTwentytwo}{G-22 Use procedures to promote maintenance.}
+\newcommand[01;31m[K{\five[m[Ksech}{H. Selecting and Implementing Interventions}
+\newcommand[01;31m[K{\five[m[KhOne}{H-1 State intervention goals in observable and measurable terms. }
+\newcommand[01;31m[K{\five[m[KhTwo}{H-2 Identify potential interventions based on assessment results and the best available scientific evidence.}
+\newcommand[01;31m[K{\five[m[KhThree}{H-3 Recommend intervention goals and strategies based on such factors as client preferences, supporting environments, risks, constraints, and social validity.}
+\newcommand[01;31m[K{\five[m[KhFour}{H-4 When a target behavior is to be decreased, select an acceptable alternative behavior to be established or increased.}
+\newcommand[01;31m[K{\five[m[KhFive}{H-5 Plan for possible unwanted effects when using reinforcement, extinction, and punishment procedures.}
+\newcommand[01;31m[K{\five[m[KhSix}{H-6 Monitor client progress and treatment integrity.}
+\newcommand[01;31m[K{\five[m[KhSeven}{H-7 Make data-based decisions about the effectiveness of the intervention and the need for treatment revision.}
+\newcommand[01;31m[K{\five[m[KhEight}{H-8 Make data-based decisions about the need for ongoing services.}
+\newcommand[01;31m[K{\five[m[KhNine}{H-9 Collaborate with others who support and/or provide services to clients.}
+\newcommand[01;31m[K{\five[m[Kseci}{I. Personnel Supervision and Management}
+\newcommand[01;31m[K{\five[m[KiOne}{I-1 State the reasons for using behavior-analytic supervision and the potential risks of ineffective supervision (e.g., poor client outcomes, poor supervisee performance).}
+\newcommand[01;31m[K{\five[m[KiTwo}{I-2 Establish clear performance expectations for the supervisor and supervisee.}
+\newcommand[01;31m[K{\five[m[KiThree}{I-3 Select supervision goals based on an assessment of the supervisee's skills.}
+\newcommand[01;31m[K{\five[m[KiFour}{I-4 Train personnel to competently perform assessment and intervention procedures.}
+\newcommand[01;31m[K{\five[m[KiFive}{I-5 Use performance monitoring, feedback, and reinforcement systems.}
+\newcommand[01;31m[K{\five[m[KiSix}{I-6 Use a functional assessment approach (e.g., performance diagnostics) to identify variables affecting personnel performance.}
+\newcommand[01;31m[K{\five[m[KiSeven}{I-7 Use function-based strategies to improve personnel performance.}
+\newcommand[01;31m[K{\five[m[KiEight}{I-8 Evaluate the effects of supervision (e.g., on client outcomes, on supervisee repertoires).}
+[1m[7m%[27m[1m[0m                                                                                                   ]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style]2;benjamintheisen@unix-recrdss-MacBook-Pro-2]1;..-v1-ed2/style]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style[0m[27m[24m[J[38;5;237m---------------------------------------------------------------------------------------------------[00m
+[38;5;032m~/Documents/GitHub/trainaba-v1-ed2/style[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[3C [38;5;237mbenjamintheisen@unix-recrdss-MacBook-Pro-2[00m[46D[?1h=[?2004heech[Ko "That's not as much to count. How many ite [Kmms are in the 5th ed. task list, not including setion    ction titles?"[?1l>[?2004l
+]2;echo ]1;echoThat's not as much to count. How many items are in the 5th ed. task list, not including section titles?
+[1m[7m%[27m[1m[0m                                                                                                   ]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style]2;benjamintheisen@unix-recrdss-MacBook-Pro-2]1;..-v1-ed2/style]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style[0m[27m[24m[J[38;5;237m---------------------------------------------------------------------------------------------------[00m
+[38;5;032m~/Documents/GitHub/trainaba-v1-ed2/style[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[3C [38;5;237mbenjamintheisen@unix-recrdss-MacBook-Pro-2[00m[46D[?1h=[?2004hecho "That's not as much to count. How many items are in the 5th ed. task list, not including section titles?"[K[A[11Dgrep -F "{\five" tlfive.sty[K[1B[K[A[79C | grep -F " v { "\fivesc [Ke[K[A[98C[K[1B[K[A[98Ce [Kcc" | wc -l[?1l>[?2004l
+]2;grep --color=auto --exclude-dir={.bzr,CVS,.git,.hg,.svn,.idea,.tox} -F   |   ]1;grep      95
+[1m[7m%[27m[1m[0m                                                                                                   ]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style]2;benjamintheisen@unix-recrdss-MacBook-Pro-2]1;..-v1-ed2/style]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style[0m[27m[24m[J[38;5;237m---------------------------------------------------------------------------------------------------[00m
+[38;5;032m~/Documents/GitHub/trainaba-v1-ed2/style[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[3C [38;5;237mbenjamintheisen@unix-recrdss-MacBook-Pro-2[00m[46D[?1h=[?2004heech[Ko h o "That sounds l right. Show me.  the items."[?1l>[?2004l
+]2;echo "That sounds right. Show me the items."]1;echoThat sounds right. Show me the items.
+[1m[7m%[27m[1m[0m                                                                                                   ]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style]2;benjamintheisen@unix-recrdss-MacBook-Pro-2]1;..-v1-ed2/style]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style[0m[27m[24m[J[38;5;237m---------------------------------------------------------------------------------------------------[00m
+[38;5;032m~/Documents/GitHub/trainaba-v1-ed2/style[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[3C [38;5;237mbenjamintheisen@unix-recrdss-MacBook-Pro-2[00m[46D[?1h=[?2004hecho "That sounds right. Show me the items."[K[44Dgrep -F "{\five" tlfive.sty | grep -Fv "\fivesec" | wc -l[K[K    [?1l>[?2004l
+]2;grep --color=auto --exclude-dir={.bzr,CVS,.git,.hg,.svn,.idea,.tox} -F   |   ]1;grep\newcommand{\fiveaOne}{A-1 Identify the goals of behavior analysis as a science (i.e., description, prediction, control).}
+\newcommand{\fiveaTwo}{A-2 Explain the philosophical assumptions underlying the science of behavior analysis (e.g., selectionism, determinism, empiricism, parsimony, pragmatism).}
+\newcommand{\fiveaThree}{A-3 Describe and explain behavior from the perspective of radical behaviorism.}
+\newcommand{\fiveaFour}{A-4 Distinguish among behaviorism, the experimental analysis of behavior, applied behavior analysis, and professional practice guided by the science of behavior analysis.}
+\newcommand{\fiveaFive}{A-5 Describe and define the dimensions of applied behavior analysis (Baer, Wolf, \& Risley, 1968).}
+\newcommand{\fivebOne}{B-1 Define and provide examples of behavior, response, and response class.}
+\newcommand{\fivebTwo}{B-2 Define and provide examples of stimulus and stimulus class.}
+\newcommand{\fivebThree}{B-3 Define and provide examples of respondent and operant conditioning.}
+\newcommand{\fivebFour}{B-4 Define and provide examples of positive and negative reinforcement contingencies.}
+\newcommand{\fivebFive}{B-5 Define and provide examples of schedules of reinforcement.}
+\newcommand{\fivebSix}{B-6 Define and provide examples of positive and negative punishment contingencies.}
+\newcommand{\fivebSeven}{B-7 Define and provide examples of automatic and socially mediated contingencies.}
+\newcommand{\fivebEight}{B-8 Define and provide examples of unconditioned, conditioned, and generalized reinforcers and punishers.}
+\newcommand{\fivebNine}{B-9 Define and provide examples of operant extinction.}
+\newcommand{\fivebTen}{B-10 Define and provide examples of stimulus control.}
+\newcommand{\fivebEleven}{B-11 Define and provide examples of discrimination, generalization, and maintenance.}
+\newcommand{\fivebTwelve}{B-12 Define and provide examples of motivating operations.}
+\newcommand{\fivebThirteen}{B-13 Define and provide examples of rule-governed and contingency-shaped behavior.}
+\newcommand{\fivebFourteen}{B-14 Define and provide examples of the verbal operants.}
+\newcommand{\fivebFifteen}{B-15 Define and provide examples of derived stimulus relations.}
+\newcommand{\fivecOne}{C-1 Establish operational definitions of behavior.}
+\newcommand{\fivecTwo}{C-2 Distinguish among direct, indirect, and product measures of behavior.}
+\newcommand{\fivecThree}{C-3 Measure occurrence (e.g., frequency, rate, percentage).}
+\newcommand{\fivecFour}{C-4 Measure temporal dimensions of behavior (e.g., duration, latency, interresponse time).}
+\newcommand{\fivecFive}{C-5 Measure form and strength of behavior (e.g., topography, magnitude).}
+\newcommand{\fivecSix}{C-6 Measure trials to criterion.}
+\newcommand{\fivecSeven}{C-7 Design and implement sampling procedures (i.e., interval recording, time sampling).}
+\newcommand{\fivecEight}{C-8 Evaluate the validity and reliability of measurement procedures.}
+\newcommand{\fivecNine}{C-9 Select a measurement system to obtain representative data given the dimensions of behavior and the logistics of observing and recording.}
+\newcommand{\fivecTen}{C-10 Graph data to communicate relevant quantitative relations (e.g., equal-interval graphs, bar graphs, cumulative records).}
+\newcommand{\fivecEleven}{C-11 Interpret graphed data.}
+\newcommand{\fivedOne}{D-1 Distinguish between dependent and independent variables.}
+\newcommand{\fivedTwo}{D-2 Distinguish between internal and external validity.}
+\newcommand{\fivedThree}{D-3 Identify the defining features of single-subject experimental designs (e.g., individuals serve as their own controls, repeated measures, prediction, verification, replication).}
+\newcommand{\fivedFour}{D-4 Describe the advantages of single-subject experimental designs compared to group designs.}
+\newcommand{\fivedFive}{D-5 Use single-subject experimental designs (e.g., reversal, multiple baseline, multielement, changing criterion).}
+\newcommand{\fivedSix}{D-6 Describe rationales for conducting comparative, component, and parametric analyses.}
+\newcommand{\fiveeOne}{E-1 Responsible conduct of behavior analysts}
+\newcommand{\fiveeTwo}{E-2 Behavior analysts' responsibility to clients}
+\newcommand{\fiveeThree}{E-3 Assessing behavior}
+\newcommand{\fiveeFour}{E-4 Behavior analysts and the behavior-change program}
+\newcommand{\fiveeFive}{E-5 Behavior analysts as supervisors}
+\newcommand{\fiveeSix}{E-6 Behavior analysts' ethical responsibility to the profession of behavior analysis}
+\newcommand{\fiveeSeven}{E-7 Behavior analysts' ethical responsibility to colleagues}
+\newcommand{\fiveeEight}{E-8 Public statements}
+\newcommand{\fiveeNine}{E-9 Behavior analysts and research}
+\newcommand{\fiveeTen}{E-10 Behavior analysts' ethical responsibility to the BACB}
+\newcommand{\fivefOne}{F-1 Review records and available data (e.g., educational, medical, historical) at the outset of the case.}
+\newcommand{\fivefTwo}{F-2 Determine the need for behavior-analytic services.}
+\newcommand{\fivefThree}{F-3 Identify and prioritize socially significant behavior-change goals.}
+\newcommand{\fivefFour}{F-4 Conduct assessments of relevant skill strengths and deficits.}
+\newcommand{\fivefFive}{F-5 Conduct preference assessments.}
+\newcommand{\fivefSix}{F-6 Describe the common functions of problem behavior.}
+\newcommand{\fivefSeven}{F-7 Conduct a descriptive assessment of problem behavior. }
+\newcommand{\fivefEight}{F-8 Conduct a functional analysis of problem behavior.}
+\newcommand{\fivefNine}{F-9 Interpret functional assessment data. }
+\newcommand{\fivegOne}{G-1 Use positive and negative reinforcement procedures to strengthen behavior.}
+\newcommand{\fivegTwo}{G-2 Use interventions based on motivating operations and discriminative stimuli.}
+\newcommand{\fivegThree}{G-3 Establish and use conditioned reinforcers.}
+\newcommand{\fivegFour}{G-4 Use stimulus and response prompts and fading (e.g., errorless, most-to-least, least-to-most, prompt delay, stimulus fading).}
+\newcommand{\fivegFive}{G-5 Use modeling and imitation training.}
+\newcommand{\fivegSix}{G-6 Use instructions and rules.}
+\newcommand{\fivegSeven}{G-7 Use shaping.}
+\newcommand{\fivegEight}{G-8 Use chaining.}
+\newcommand{\fivegNine}{G-9 Use discrete-trial, free-operant, and naturalistic teaching arrangements.}
+\newcommand{\fivegTen}{G-10 Teach simple and conditional discriminations.}
+\newcommand{\fivegEleven}{G-11 Use Skinner's analysis to teach verbal behavior.}
+\newcommand{\fivegTwelve}{G-12 Use equivalence-based instruction.}
+\newcommand{\fivegThirteen}{G-13 Use the high-probability instructional sequence.}
+\newcommand{\fivegFourteen}{G-14 Use reinforcement procedures to weaken behavior (e.g., DRA, FCT, DRO, DRL, NCR).}
+\newcommand{\fivegFifteen}{G-15 Use extinction.}
+\newcommand{\fivegSixteen}{G-16 Use positive and negative punishment (e.g., time-out, response cost, overcorrection).}
+\newcommand{\fivegSeventeen}{G-17 Use token economies.}
+\newcommand{\fivegEighteen}{G-18 Use group contingencies.}
+\newcommand{\fivegNineteen}{G-19 Use contingency contracting.}
+\newcommand{\fivegTwenty}{G-20 Use self-management strategies.}
+\newcommand{\fivegTwentyone}{G-21 Use procedures to promote stimulus and response generalization.}
+\newcommand{\fivegTwentytwo}{G-22 Use procedures to promote maintenance.}
+\newcommand{\fivehOne}{H-1 State intervention goals in observable and measurable terms. }
+\newcommand{\fivehTwo}{H-2 Identify potential interventions based on assessment results and the best available scientific evidence.}
+\newcommand{\fivehThree}{H-3 Recommend intervention goals and strategies based on such factors as client preferences, supporting environments, risks, constraints, and social validity.}
+\newcommand{\fivehFour}{H-4 When a target behavior is to be decreased, select an acceptable alternative behavior to be established or increased.}
+\newcommand{\fivehFive}{H-5 Plan for possible unwanted effects when using reinforcement, extinction, and punishment procedures.}
+\newcommand{\fivehSix}{H-6 Monitor client progress and treatment integrity.}
+\newcommand{\fivehSeven}{H-7 Make data-based decisions about the effectiveness of the intervention and the need for treatment revision.}
+\newcommand{\fivehEight}{H-8 Make data-based decisions about the need for ongoing services.}
+\newcommand{\fivehNine}{H-9 Collaborate with others who support and/or provide services to clients.}
+\newcommand{\fiveiOne}{I-1 State the reasons for using behavior-analytic supervision and the potential risks of ineffective supervision (e.g., poor client outcomes, poor supervisee performance).}
+\newcommand{\fiveiTwo}{I-2 Establish clear performance expectations for the supervisor and supervisee.}
+\newcommand{\fiveiThree}{I-3 Select supervision goals based on an assessment of the supervisee's skills.}
+\newcommand{\fiveiFour}{I-4 Train personnel to competently perform assessment and intervention procedures.}
+\newcommand{\fiveiFive}{I-5 Use performance monitoring, feedback, and reinforcement systems.}
+\newcommand{\fiveiSix}{I-6 Use a functional assessment approach (e.g., performance diagnostics) to identify variables affecting personnel performance.}
+\newcommand{\fiveiSeven}{I-7 Use function-based strategies to improve personnel performance.}
+\newcommand{\fiveiEight}{I-8 Evaluate the effects of supervision (e.g., on client outcomes, on supervisee repertoires).}
+[1m[7m%[27m[1m[0m                                                                                                   ]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style]2;benjamintheisen@unix-recrdss-MacBook-Pro-2]1;..-v1-ed2/style]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style[0m[27m[24m[J[38;5;237m---------------------------------------------------------------------------------------------------[00m
+[38;5;032m~/Documents/GitHub/trainaba-v1-ed2/style[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[3C [38;5;237mbenjamintheisen@unix-recrdss-MacBook-Pro-2[00m[46D[?1h=[?2004heech[Ko "Hope that         That's all for now. Tis  his concludes the de [Kmmonstrations o   of us  a simp    way to use TrainABA documentation to                                            m [K[A[98C[K[1B[K[A[98C                               at's r enough for coutn  nting. How about sho [Kwwing me a nice trick tf  for                  w [K[A[98C[K[1B[K[A[98C          That conclude [Kss the demonstrationf  of using TrainABA documentation to count tsk l   ask list itesm   ms across editions. For m [Koore information, or to                 o [K[A[98C[K[1B[K[A[98C   To pa [Krrticipate in TrainABA documention   ation, please donate to Cumulate  ive Records Documentation Society. It  [K[K[A[98C  "  , a 5 [K001(c)(3) nonprofirt.   t. Y Please use  , modof  ify, share,cmodify, share,[14Domodify, share,[14Dpmodify, share,[14Dymodify, share,[14D modify, share,[14D[1C, modify, share,[15D[1C[1C[1C[1C[1C[1C[1C[1C[1Cashare,nshare,dshare, share,[1C[1C[1C[1C[1C[1C  TrainABA documenation      tation as you would like.                in accordance with o [Kuur u [K[A[98C[K[1B[K[A[98C                . If ou  you      "[15D[9D[8D[11D[A[95C[9D[14D[8D[11D[15D[9D[A[87C[10D[10C[3C[1B[87D[P[89C01[P[78C [A[71D[P[90C1([P[77C [A[71D[P[91C(c[P[76C [A[71D[P[92Cc)[P[75C [A[71D[P[93C)([P[74C [A[71D[P[93C(3[P[73C [A[71D[P[95C3)[P[72C [A[71D[P[95C) [P[71C [A[71Dr[P[97C n[P[70C [A[71D[P[98Cno[P[69C [A[A[98Cin[P[97Con[P[68C [A[A[28Cin [P[97Cnp[P[67C [A[A[28Cin T[P[97Cpr[P[66C [A[A[28Cin Tr[P[97Cro[P[65C [A[A[28Cin Tra[P[97Cof[P[64C [A[A[28CPin TrainABA d[50P[12C, please donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[A[29Clin TrainABA d[50P[12C, please donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[A[29Cein TrainABA d[50P[12C, please donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[A[29Cain TrainABA d[50P[12C, please donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[A[29Csin TrainABA d[50P[12C, please donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[Aein TrainABA d[50P[12C, please donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[70De in TrainABA d[50P[12C, please donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[70Dsin TrainABA d[50P[12C, please donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[70Duin TrainABA d[50P[12C, please donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[70Dpin TrainABA d[50P[12C, please donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[70Dpin TrainABA d[50P[12C, please donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[70Doin TrainABA d[50P[12C, please donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[70Drin TrainABA d[50P[12C, please donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[70Dtin TrainABA d[50P[12C, please donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[70D in TrainABA d[50P[12C, please donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[70D[P[88C01[P[78C [A[70D[P[88C1([P[77C [A[69D[P[88C(c[P[76C [A[68D[9C[15C[7C[P[65Cc)[P[75C [A[44D[P[66C)([P[74C [A[44D please donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[43Dtplease donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[43D[P[65Cc)[P[75C [A[44Dbplease donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[43Dyplease donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[43D please donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[43Ddplease donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[43Doplease donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[43Dnplease donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[43Daplease donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[43Dtplease donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[43Diplease donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[43Dnplease donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[43Dgplease donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[43D please donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[43Dtplease donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[43Doplease donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[43D please donate to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation."[A[43D[P[50Coc[P[89C [A[43D[P[50Cci[P[88C [A[42D[P[50Cie[P[87C [A[41D[P[50Cet[P[86C [A[40D[P[50Cty[P[85C [A[39D[P[50Cy,[P[84C [A[38D[P[50C, [P[83C [A[37D[P[50C a[P[82C [A[36D[P[50Ca [P[81C [A[35D[P[50C 5[P[80C [A[34D[P[50C50[P[79C [A[33D[P[50C01[P[78C [A[32D[P[50C1([P[77C [A[31D[P[50C(c[P[76C [A[30D[P[50Cc)[P[75C [A[29D[P[50C)([P[74C [A[28D[P[50C(3[P[73C [A[27D[11C[8C[14C[9C[2C[4C[1B[3C[11C[7C[5C[6C[8C[4C[6C[9C[15C "N"o"t"e" "t"h"a"t" "" " " " " o"u"r" "c"o"p"y"r"i"g"h"t"" " " " " " " " " " " " " t"h"a"t" "o"n"y" "t"h"" " " " " " t"h"e" "b"" " " " " B"A"C"B" "" " " " " r"e"f"e"r"e"n"c"e" "" s"" " " " " " " " " " w"e" "p"r"o"v"i"d"" " " " " " u"s"e" "B"A"C"B" "T"a" [K[A[98Cs"k"k "i"" L"i"s"t" "w"i"t"h" "p"e"r"m"i"s"s"i"o"n" "f"o"r"" " r"o"m" "t"h"e" "B"A"C"B"." "F"o"r" "m"o"r"e" "i"n"f"o"r"m"a"t"i"o"n"," "v"i"s"i"t" "w"w"w"."b"a"c"b"."c"o"m"."[?1l>[?2004l
+]2;echo ]1;echoThat's enough for counting. That concludes the demonstration of using TrainABA documentation to count task list items across editions. Please support TrainABA documentation by donating to Cumulative Records Documentation Society, a 501(c)(3) nonprofit. Please use, copy, modify, and share TrainABA documentation. Note that we use BACB Task List with permission from the BACB. For more information, visit www.bacb.com.
+[1m[7m%[27m[1m[0m                                                                                                   ]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style]2;benjamintheisen@unix-recrdss-MacBook-Pro-2]1;..-v1-ed2/style]7;file://unix-recrdss-MacBook-Pro-2.local/Users/benjamintheisen/Documents/GitHub/trainaba-v1-ed2/style[0m[27m[24m[J[38;5;237m---------------------------------------------------------------------------------------------------[00m
+[38;5;032m~/Documents/GitHub/trainaba-v1-ed2/style[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[3C [38;5;237mbenjamintheisen@unix-recrdss-MacBook-Pro-2[00m[46D[?1h=[?2004heech[Ko  [K[1C [38;5;237mbenjamintheisen@unix-recrdss-MacBook-Pro-2[00m[44De  eexi[Kt[?1l>[?2004l
+]2;exit]1;exit
+Script done on Sat Oct 31 12:42:07 2020
