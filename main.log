@@ -1,9 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  31 OCT 2020 21:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  3 NOV 2020 16:13
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**main.tex
+**main
 (./main.tex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/book.cls
@@ -1496,13 +1495,8 @@ Package biblatex Info: Automatic encoding selection.
 \openout4 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-
-
-Package biblatex Warning: File 'main.bbl' is wrong format version - expected 3.
-0.
-
 Package biblatex Info: ... file 'main.bbl' found.
-(./main.bbl)
+ (./main.bbl)
 Package biblatex Info: Reference section=0 on input line 16.
 Package biblatex Info: Reference segment=0 on input line 16.
  (./tex/frontmatter/title.tex [1
@@ -1511,8 +1505,8 @@ Package biblatex Info: Reference segment=0 on input line 16.
 
 
 
-{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./tex
-/frontmatter/copyright.tex
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
+(./tex/frontmatter/copyright.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--9
 
  []
@@ -4799,7 +4793,7 @@ it/12 School Psy-chol-ogy Re-view\T1/cmr/m/n/12 , \T1/cmr/m/it/12 30\T1/cmr/m/n
 [448] (./main.ind) (./main.nnd [449] [450
 
 ] [451]
-Underfull \vbox (badness 1275) has occurred while \output is active []
+Underfull \vbox (badness 1490) has occurred while \output is active []
 
  [452]
 [453]
@@ -4900,11 +4894,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
 Here is how much of TeX's memory you used:
  42052 strings out of 492616
  809998 string characters out of 6129482
- 2426595 words of memory out of 5000000
+ 2448504 words of memory out of 5000000
  41673 multiletter control sequences out of 15000+600000
  551623 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 74i,6n,112p,2023b,4222s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 74i,6n,112p,2019b,4222s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<
 /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
@@ -4923,7 +4917,7 @@ ve/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive
 texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2019/te
 xmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2019/texm
 f-dist/fonts/type1/public/cm-super/sfti1728.pfb>
-Output written on main.pdf (502 pages, 1267657 bytes).
+Output written on main.pdf (502 pages, 1267017 bytes).
 PDF statistics:
  7192 PDF objects out of 7423 (max. 8388607)
  6605 compressed objects within 67 object streams
