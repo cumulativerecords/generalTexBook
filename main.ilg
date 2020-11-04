@@ -1,12 +1,4 @@
 This is makeindex, version 2.15 [TeX Live 2019] (kpathsea + Thai support).
-Scanning input file main.tdx....
-!! Input index error (file = main.tdx, line = 326):
-   -- Incomplete first argument (premature LFD).
-
-!! Input index error (file = main.tdx, line = 922):
-   -- Incomplete first argument (premature LFD).
-.done (1176 entries accepted, 2 rejected).
-Sorting entries............done (13185 comparisons).
-Generating output file main.tnd.....done (906 lines written, 0 warnings).
-Output written in main.tnd.
+Scanning input file main.tdx...done (0 entries accepted, 0 rejected).
+Nothing written in main.tnd.
 Transcript written in main.ilg.

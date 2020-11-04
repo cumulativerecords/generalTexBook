@@ -1,11 +1,11 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {american}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{About the Maintainer}{xiii}{chapter*.1}% 
+\contentsline {chapter}{About the Maintainer}{xi}{chapter*.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Preface}{xv}{chapter*.2}% 
+\contentsline {chapter}{Preface}{xiii}{chapter*.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {0.1}For the Rebellion}{xviii}{section.0.1}% 
+\contentsline {section}{\numberline {0.1}For the Rebellion}{xvi}{section.0.1}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}% 
 \defcounter {refsection}{0}\relax 
