@@ -1,0 +1,10 @@
+%	For Volume 2, main.tex should have \import for each Segment. There should be one file like this for each Segment, calling respective task lists.
+
+% 	For Volume 1, main.tex has one \import call to this file. Each task list item should have its own .tex file. This should be a giant list of every task list item. That keeps the main.tex page cleaner and allows for easier file management. The file structure can be anything/anywhere. Remember the relative paths for definitions... keep those in place. 
+	
+%	example of subimport for a file that contains no preamble
+\subimport{intro/}{intro.tex}
+%	example of using \input macro instead of subimport
+\input{tex/chapters/after-internship/after-internship}
+%	example of subimport for a file with preamble and defined commands.
+\subimport{v1-ed2/}{v1-ed2.tex}
