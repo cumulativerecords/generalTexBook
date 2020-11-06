@@ -27,4 +27,9 @@ sed -e 's/^/mkdir /' ../../tex/chapters/new-dirs-list.txt > temp
 # Check file <mk-dirs> before it generates dirs.
 # Comment out lines below if you are ready to run it.
 # This will create an empty directory for each task list item.
-echo "Done processing."
+echo "Done processing. Created new file: <temp>"
+echo "Here are the first three lines:" 
+cat temp  | head -3
+echo "Total number of lines:"
+cat temp | wc -l
+echo "If that looks right, run ./mk-dirs"
