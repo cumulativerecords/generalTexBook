@@ -1,0 +1,20 @@
+#!/bin/sh
+#
+#	program:	list-from-task-list
+#
+#	usage:		Unix script. Use with task list variables.
+#			Purpose is to generate a list of each
+#			task lists on its own line.
+#			
+#			Then it's easy to count them and make dirs.
+#			Each dir holds the data for a task list item.
+#			The module gets called from a main file.
+#			
+#			Goal is to keep TrainABA Documentation clean.
+#
+echo "Extracting list of task lists now..."
+grep -F '\newcommand' ../../style/tlfive.sty | grep -F '\five' | cut -d'{' -f2 | cut -d'}' -f1 | cut -d'\' -f2 | grep -v 'fivesec' > ../../tex/chapters/new-dirs-list.txt
+echo "File complete."
+echo "Location: ../../tex/chapters/new-dirs-list.txt"
+echo "Number of items in list is: "
+cat ../../tex/chapters/new-dirs-list.txt | wc -l
