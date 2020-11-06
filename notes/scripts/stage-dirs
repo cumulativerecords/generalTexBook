@@ -1,0 +1,35 @@
+#!/bin/sh
+#
+#	program:	stage-dirs
+#
+#	related:	list-from-task-list
+#			stage-dirs
+#			mk-dirs
+#
+#	usage:		Use once every five years (when BACB updated task list).
+#
+#			Unix script. Use with list-from-task-list program.
+#			
+#			Creates new program, mk-dirs
+#			Makes that program executable. Does NOT run it.
+#
+#			Purpose of these programs is to generate a bunch of empty directories
+#			from a curated lists.
+#			
+#	In TrainABA:	Each dir holds the data for a task list item.
+#			The module gets called from a main file.
+#			
+#			Goal is to keep TrainABA Documentation clean.
+#
+echo "Extracting list of task lists now..."
+# Add unix command and create a new file
+sed -e 's/^/mkdir /' ../../tex/chapters/new-dirs-list.txt > mk-dirs
+# Check file <mk-dirs> before it generates dirs.
+# Comment out lines below if you are ready to run it.
+# This will create an empty directory for each task list item.
+
+echo "Making list executable."
+chmod 0755 mk-dirs
+chmod +x mk-dirs
+
+echo "Done processing."
