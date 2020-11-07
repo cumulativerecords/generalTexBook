@@ -21,7 +21,7 @@
 #
 #	author:		Ben Theisen, 2020 Nov 6. CC 4.0 - BY-NC-ND
 echo "Extracting list of task lists now..."
-grep -F '\newcommand' ../../style/tlfive.sty | grep -F '\five' | cut -d'{' -f2 | cut -d'}' -f1 | cut -d'\' -f2 | grep -v 'fivesec' > ../../tex/chapters/new-dirs-list.txt
+grep -F '\newcommand' ../../style/tlsix.sty | grep -F '\six' | cut -d'{' -f2 | cut -d'}' -f1 | cut -d'\' -f2 | grep -v 'sixsec' > ../../tex/chapters/new-dirs-list.txt
 echo "File complete."
 echo "Location: ../../tex/chapters/new-dirs-list.txt"
 echo "Number of items in list is: "

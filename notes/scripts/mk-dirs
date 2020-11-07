@@ -24,13 +24,13 @@
 # Comment out lines below if you are ready to run it.
 # This will create an empty directory for each task list item.
 
-sed -i '1 i\cd ../../tex/chapters/' temp
-
 echo "Creating empty directories..."
 chmod 0755 temp
 chmod +x temp
 ./temp
 
+echo "Moving the files to correct location..."
+mv six* ../../tex/chapters/
 echo "Done processing. Removing temporary files."
 rm temp
 rm ../../tex/chapters/new-dirs-list.txt

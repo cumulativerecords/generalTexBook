@@ -1,0 +1,18 @@
+#!/bin/sh
+#
+#	program:	dirs-maker
+#	
+#	usage:		Use every five years (BACB Task List update).
+#	
+#	purpose:	This calls a few related programs.
+#			Goal is to create a bunch of empty folders,
+#			one per task list item.
+#
+#			This is part of TrainABA Documentation.
+#			After making empty dirs for the new task list,
+#			repurpose content module-by-module.
+#			
+#			It keeps all the task list information modular.
+./list-from-task-list
+./stage-dirs
+./mk-dirs
