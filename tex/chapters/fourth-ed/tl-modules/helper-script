@@ -1,0 +1,12 @@
+#!/bin/sh
+#
+#	program:	helper-script
+#	
+#	usage:		The script below copies a range of lines
+#			from a specific file and creates a file
+#			with the copied contents.
+#			
+#			It's just an example.
+#
+sed -n '550,579p' v1-ed2-call-modules.tex  > fouraOne/body.tex
+
