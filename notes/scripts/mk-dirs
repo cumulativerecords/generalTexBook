@@ -30,8 +30,8 @@ chmod +x temp
 ./temp
 
 echo "Moving the files to correct location..."
-mv six* ../../tex/chapters/
+mv four* ../../tex/chapters/fourth-ed/tl-modules
 echo "Done processing. Removing temporary files."
 rm temp
-rm ../../tex/chapters/new-dirs-list.txt
-echo "Check for new directories here: ../../tex/chapters/"
+rm new-dirs-list.txt
+echo "Check for new directories here: ../../tex/chapters/*-ed/tl-modules"

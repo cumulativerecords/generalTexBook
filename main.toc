@@ -1,0 +1,2033 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {american}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{About the Maintainer}{xiii}{chapter*.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Preface}{xv}{chapter*.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {0.1}For the Rebellion}{xviii}{section.0.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}About the Second Edition}{3}{section.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}History of the TrainABA Supervision Curriculum Series}{4}{section.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Publisher}{4}{section.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}Collaboration Tools}{5}{section.1.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4.1}Creating New Materials from This Book}{5}{subsection.1.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.5}Versions}{5}{section.1.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Supervision Taxonomy}{7}{chapter.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}What is ABA Supervision?}{7}{section.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.1}Supervision in Management}{7}{subsection.2.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.2}Supervision of Humans and Systems}{7}{subsection.2.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.3}Supervision in ABA Settings}{8}{subsection.2.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.4}Direct vs. Indirect ABA Supervision}{8}{subsection.2.1.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.5}Management Problems in ABA Organizations}{8}{subsection.2.1.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.6}What Is Being Done}{9}{subsection.2.1.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}A Taxonomy of ABA Supervision}{9}{section.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Development of Behavior Analysis Supervision}{10}{section.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Case Study: Associated Aardvarks for Autism (AAA)}{13}{section.2.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.1}AAA's Accountant}{13}{subsection.2.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.2}Funding Sources}{14}{subsection.2.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.3}Estimating Supervision Costs}{14}{subsection.2.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Billing for Parent Education Groups}{14}{section*.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.4}Consulting the Clinical Director}{15}{subsection.2.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.5}Putting It Together}{15}{subsection.2.4.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.6}A Risk for the Company}{15}{subsection.2.4.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.7}Final Decision}{15}{subsection.2.4.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Resources for Supervised Experience}{16}{section.2.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.1}Beyond the Taxonomy}{17}{subsection.2.5.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{BACB\textregistered {} Rules for Supervision}{17}{section*.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.2}Registration Process}{19}{subsection.2.5.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Refresher: Supervisor Workshop}{21}{chapter.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Purpose of Supervision}{21}{section.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Features of Supervision}{22}{section.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Features of Supervision}{23}{section.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Using Behavioral Skills Training}{23}{section.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.1}Behavioral Skills Training}{23}{subsection.3.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}Delivering Performance Feedback}{24}{section.3.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}Evaluating the Effects of Supervision}{24}{section.3.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.6.1}Ongoing Professional Development}{25}{subsection.3.6.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Introduction}{27}{chapter.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}About the Second Edition}{29}{section.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}History of the TrainABA Supervision Curriculum Series}{30}{section.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Publisher}{30}{section.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Collaboration Tools}{31}{section.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.1}Creating New Materials from This Book}{31}{subsection.4.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}Versions}{31}{section.4.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Supervision Taxonomy}{33}{chapter.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}What is ABA Supervision?}{33}{section.5.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.1}Supervision in Management}{33}{subsection.5.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.2}Supervision of Humans and Systems}{33}{subsection.5.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.3}Supervision in ABA Settings}{34}{subsection.5.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.4}Direct vs. Indirect ABA Supervision}{34}{subsection.5.1.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.5}Management Problems in ABA Organizations}{34}{subsection.5.1.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.6}What Is Being Done}{35}{subsection.5.1.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}A Taxonomy of ABA Supervision}{35}{section.5.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}Development of Behavior Analysis Supervision}{36}{section.5.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4}Case Study: Associated Aardvarks for Autism (AAA)}{39}{section.5.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.1}AAA's Accountant}{39}{subsection.5.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.2}Funding Sources}{40}{subsection.5.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.3}Estimating Supervision Costs}{40}{subsection.5.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Billing for Parent Education Groups}{40}{section*.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.4}Consulting the Clinical Director}{41}{subsection.5.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.5}Putting It Together}{41}{subsection.5.4.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.6}A Risk for the Company}{41}{subsection.5.4.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.7}Final Decision}{41}{subsection.5.4.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.5}Resources for Supervised Experience}{42}{section.5.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5.1}Beyond the Taxonomy}{43}{subsection.5.5.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{BACB\textregistered {} Rules for Supervision}{43}{section*.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5.2}Registration Process}{45}{subsection.5.5.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Refresher: Supervisor Workshop}{47}{chapter.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}Purpose of Supervision}{47}{section.6.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}Features of Supervision}{48}{section.6.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.3}Features of Supervision}{49}{section.6.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.4}Using Behavioral Skills Training}{49}{section.6.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.1}Behavioral Skills Training}{49}{subsection.6.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.5}Delivering Performance Feedback}{50}{section.6.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.6}Evaluating the Effects of Supervision}{50}{section.6.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.6.1}Ongoing Professional Development}{51}{subsection.6.6.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}A. Measurement{}}{53}{chapter.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.1}A-01 Measure frequency (i.e., count).{}}{54}{section.7.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.1.1}Definition}{54}{subsection.7.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.1.2}Examples}{54}{subsection.7.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.1.3}Assessment}{54}{subsection.7.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.1.4}Relevant Literature}{54}{subsection.7.1.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.1.5}Related Tasks}{54}{subsection.7.1.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.1.6}Footnotes}{55}{subsection.7.1.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.2}A-02 Measure rate (i.e., count per unit time).{}}{56}{section.7.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.2.1}Definition}{56}{subsection.7.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.2.2}Examples}{56}{subsection.7.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.2.3}Assessment}{56}{subsection.7.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.2.4}Relevant Literature}{56}{subsection.7.2.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.2.5}Related Tasks}{56}{subsection.7.2.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.2.6}Footnotes}{57}{subsection.7.2.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.3}A-03 Measure duration.{}}{58}{section.7.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.3.1}Definition}{58}{subsection.7.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.3.2}Examples}{58}{subsection.7.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.3.3}Assessment}{58}{subsection.7.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.3.4}Relevant Literature}{58}{subsection.7.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.3.5}Related Tasks}{59}{subsection.7.3.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.4}A-04 Measure latency.{}}{60}{section.7.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.4.1}Definition}{60}{subsection.7.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.4.2}Examples}{60}{subsection.7.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.4.3}Assessment}{60}{subsection.7.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.4.4}Relevant Literature}{60}{subsection.7.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.4.5}Related Tasks}{61}{subsection.7.4.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.5}A-05 Measure interresponse time (IRT).{}}{62}{section.7.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.5.1}Definition}{62}{subsection.7.5.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.5.2}Examples}{62}{subsection.7.5.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.5.3}Assessment}{62}{subsection.7.5.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.5.4}Relevant Literature}{62}{subsection.7.5.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.5.5}Related Tasks}{63}{subsection.7.5.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.6}A-06 Measure percent of occurrence.{}}{64}{section.7.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.6.1}Definition}{64}{subsection.7.6.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.6.2}Examples}{64}{subsection.7.6.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.6.3}Assessment}{64}{subsection.7.6.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.6.4}Relevant Literature}{65}{subsection.7.6.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.6.5}Related Tasks}{65}{subsection.7.6.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.7}A-07 Measure trials to criterion.{}}{66}{section.7.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.7.1}Definition}{66}{subsection.7.7.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.7.2}Examples}{66}{subsection.7.7.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.7.3}Assessment}{66}{subsection.7.7.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.7.4}Relevant Literature}{66}{subsection.7.7.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.7.5}Related Tasks}{67}{subsection.7.7.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.8}A-08 Assess and interpret interobserver agreement.{}}{68}{section.7.8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.8.1}Definition}{68}{subsection.7.8.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.8.2}Examples}{68}{subsection.7.8.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.8.3}Assessment}{69}{subsection.7.8.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.8.4}Relevant Literature}{69}{subsection.7.8.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.8.5}Related Tasks}{69}{subsection.7.8.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.9}A-09 Evaluate the accuracy and reliability of measurement procedures.{}}{71}{section.7.9}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.9.1}Examples}{71}{subsection.7.9.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.9.2}Assessment}{71}{subsection.7.9.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.9.3}Relevant Literature}{71}{subsection.7.9.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.9.4}Related Tasks}{72}{subsection.7.9.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.10}A-10 Design, plot, and interpret data using equal-interval graphs.{}}{73}{section.7.10}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.10.1}Definition}{73}{subsection.7.10.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.10.2}Examples}{73}{subsection.7.10.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.10.3}Assessment}{74}{subsection.7.10.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.10.4}Relevant Literature}{75}{subsection.7.10.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.10.5}Related Tasks}{75}{subsection.7.10.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.11}A-11 Design, plot, and interpret data using a cumulative record to display data.{}}{76}{section.7.11}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.11.1}Definition}{76}{subsection.7.11.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.11.2}Examples}{76}{subsection.7.11.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.11.3}Assessment}{76}{subsection.7.11.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.11.4}Relevant Literature}{76}{subsection.7.11.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.11.5}Related Tasks}{77}{subsection.7.11.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.12}A-12 Design and implement continuous measurement procedures (e.g., event recording).{}}{78}{section.7.12}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.12.1}Definition}{78}{subsection.7.12.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.12.2}Examples}{78}{subsection.7.12.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.12.3}Assessment}{78}{subsection.7.12.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.12.4}Relevant Literature}{79}{subsection.7.12.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.12.5}Related Tasks}{79}{subsection.7.12.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.13}A-13 Design and implement discontinuous measurement procedures (e.g., partial \& whole interval, momentary time sampling).{}}{80}{section.7.13}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.13.1}Definition}{80}{subsection.7.13.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.13.2}Examples}{80}{subsection.7.13.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.13.3}Assessment}{81}{subsection.7.13.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.13.4}Relevant Literature}{82}{subsection.7.13.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.13.5}Related Tasks}{82}{subsection.7.13.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.14}A-14 Design and implement choice measures.{}}{84}{section.7.14}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.14.1}Assessment}{85}{subsection.7.14.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.14.2}Relevant Literature}{85}{subsection.7.14.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.14.3}Related Tasks}{86}{subsection.7.14.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}B. Experimental Design{}}{87}{chapter.8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.1}B-01 Use the dimensions of applied behavior analysis (Baer, Wolf, \& Risley, 1968) to evaluate whether interventions are behavior analytic in nature.{}}{88}{section.8.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.1.1}Examples}{89}{subsection.8.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.1.2}Assessment}{89}{subsection.8.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.1.3}Relevant Literature}{89}{subsection.8.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.1.4}Related Tasks}{90}{subsection.8.1.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.2}B-02 Review and interpret articles from the behavior-analytic literature.{}}{91}{section.8.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.2.1}Assessment}{92}{subsection.8.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.2.2}Relevant Literature}{92}{subsection.8.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.2.3}Related Tasks}{92}{subsection.8.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.3}B-03 Systematically arrange independent variables to demonstrate their effects on dependent variables.{}}{94}{section.8.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.3.1}Definitions}{94}{subsection.8.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.3.2}Examples}{94}{subsection.8.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.3.3}Assessment}{95}{subsection.8.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.3.4}Relevant Literature}{95}{subsection.8.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.3.5}Related Tasks}{95}{subsection.8.3.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.4}B-04 Use withdrawal/reversal designs.{}}{96}{section.8.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.4.1}Definition}{96}{subsection.8.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.4.2}Examples}{96}{subsection.8.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.4.3}Assessment}{96}{subsection.8.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.4.4}Relevant Literature}{97}{subsection.8.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.4.5}Related Tasks}{97}{subsection.8.4.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.4.6}Footnotes}{97}{subsection.8.4.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.5}B-05 Use alternating treatments (i.e., multielement) designs.{}}{98}{section.8.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.5.1}Definition}{98}{subsection.8.5.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.5.2}Examples}{98}{subsection.8.5.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.5.3}Assessment}{98}{subsection.8.5.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.5.4}Relevant Literature}{99}{subsection.8.5.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.5.5}Related Tasks}{99}{subsection.8.5.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.6}B-06 Use changing criterion designs.{}}{100}{section.8.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.6.1}Definition}{100}{subsection.8.6.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.6.2}Examples}{100}{subsection.8.6.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.6.3}Assessment}{101}{subsection.8.6.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.6.4}Relevant Literature}{101}{subsection.8.6.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.6.5}Related Tasks}{102}{subsection.8.6.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.7}B-07 Use multiple baseline designs.{}}{103}{section.8.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.7.1}Definition}{103}{subsection.8.7.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.7.2}Examples}{103}{subsection.8.7.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.7.3}Assessment}{104}{subsection.8.7.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.7.4}Relevant Literature}{104}{subsection.8.7.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.7.5}Related Tasks}{105}{subsection.8.7.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.8}B-08 Use multiple probe designs.{}}{106}{section.8.8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.8.1}Examples}{106}{subsection.8.8.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.8.2}Assessment}{106}{subsection.8.8.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.8.3}Relevant Literature}{107}{subsection.8.8.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.8.4}Related Tasks}{107}{subsection.8.8.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.9}B-09 Use combinations of design elements.{}}{108}{section.8.9}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.9.1}Definition}{108}{subsection.8.9.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.9.2}Assessment}{108}{subsection.8.9.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.9.3}Relevant Literature}{108}{subsection.8.9.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.9.4}Related Tasks}{109}{subsection.8.9.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.10}B-10 Conduct a component analysis to determine the effective components of an intervention package.{}}{110}{section.8.10}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.10.1}Definition}{110}{subsection.8.10.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.10.2}Examples}{110}{subsection.8.10.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.10.3}Assessment}{110}{subsection.8.10.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.10.4}Relevant Literature}{111}{subsection.8.10.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.10.5}Related Tasks}{111}{subsection.8.10.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.11}B-11 Conduct a parametric analysis to determine the effective values of an independent variable.{}}{112}{section.8.11}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.11.1}Definition}{112}{subsection.8.11.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.11.2}Examples}{112}{subsection.8.11.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.11.3}Assessment}{112}{subsection.8.11.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.11.4}Relevant Literature}{112}{subsection.8.11.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.11.5}Related Tasks}{113}{subsection.8.11.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {9}C. Behavior-Change Considerations{}}{115}{chapter.9}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.1}C-01 State and plan for the possible unwanted effects of reinforcement.{}}{116}{section.9.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.1.1}Definition}{116}{subsection.9.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.1.2}Assessment}{117}{subsection.9.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.1.3}Relevant Literature}{117}{subsection.9.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.1.4}Related Tasks}{118}{subsection.9.1.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.2}C-02 State and plan for the possible unwanted effects of punishment.{}}{119}{section.9.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.2.1}Definition}{119}{subsection.9.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.2.2}Assessment}{120}{subsection.9.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.2.3}Relevant Literature}{120}{subsection.9.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.2.4}Related Tasks}{121}{subsection.9.2.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.3}C-03 State and plan for the possible unwanted effects of extinction.{}}{122}{section.9.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.3.1}Definition}{122}{subsection.9.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.3.2}Assessment}{122}{subsection.9.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.3.3}Relevant Literature}{123}{subsection.9.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.3.4}Related Tasks}{123}{subsection.9.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {10}D. Fundamental Elements of Behavior Change{}}{125}{chapter.10}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.1}D-01 Use positive and negative reinforcement.{}}{126}{section.10.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.1.1}Definition}{126}{subsection.10.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.1.2}Examples}{126}{subsection.10.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.1.3}Examples}{126}{subsection.10.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.1.4}Assessment}{127}{subsection.10.1.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.1.5}Relevant Literature}{127}{subsection.10.1.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.1.6}Related Tasks}{128}{subsection.10.1.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.2}D-02 Use appropriate parameters and schedules of reinforcement.{}}{129}{section.10.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.2.1}Definition}{129}{subsection.10.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.2.2}Assessment}{129}{subsection.10.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.2.3}Relevant Literature}{129}{subsection.10.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.2.4}Related Tasks}{129}{subsection.10.2.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.3}D-03 Use prompts and prompt fading.{}}{131}{section.10.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.3.1}Definition}{131}{subsection.10.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.3.2}Examples}{131}{subsection.10.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.3.3}Assessment}{131}{subsection.10.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.3.4}Relevant Literature}{132}{subsection.10.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.3.5}Related Tasks}{132}{subsection.10.3.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.4}D-04 Use modeling and imitation training.{}}{133}{section.10.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.4.1}Definition}{133}{subsection.10.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.4.2}Examples}{133}{subsection.10.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.4.3}Assessment}{133}{subsection.10.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.4.4}Relevant Literature}{134}{subsection.10.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.4.5}Related Tasks}{134}{subsection.10.4.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.5}D-05 Use shaping.{}}{135}{section.10.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.5.1}Definition}{135}{subsection.10.5.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.5.2}Examples}{135}{subsection.10.5.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.5.3}Assessment}{136}{subsection.10.5.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.5.4}Relevant Literature}{136}{subsection.10.5.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.5.5}Related Tasks}{136}{subsection.10.5.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.6}D-06 Use chaining.{}}{137}{section.10.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.6.1}Definition}{137}{subsection.10.6.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.6.2}Examples}{137}{subsection.10.6.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.6.3}Assessment}{138}{subsection.10.6.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.6.4}Relevant Literature}{138}{subsection.10.6.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.6.5}Related Tasks}{139}{subsection.10.6.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.7}D-07 Conduct task analyses.{}}{140}{section.10.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.7.1}Definition}{140}{subsection.10.7.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.7.2}Examples}{140}{subsection.10.7.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.7.3}Assessment}{141}{subsection.10.7.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.7.4}Relevant Literature}{141}{subsection.10.7.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.7.5}Related Tasks}{142}{subsection.10.7.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.8}D-08 Use discrete-trial and free-operant arrangements.{}}{143}{section.10.8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.8.1}Definition}{143}{subsection.10.8.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.8.2}Assessment}{143}{subsection.10.8.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.8.3}Relevant Literature}{143}{subsection.10.8.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.8.4}Related Tasks}{144}{subsection.10.8.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.9}D-09 Use the verbal operants as a basis for language assessment.{}}{145}{section.10.9}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.9.1}Definition}{145}{subsection.10.9.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.9.2}Assessment}{146}{subsection.10.9.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.9.3}Relevant Literature}{146}{subsection.10.9.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.9.4}Related Tasks}{146}{subsection.10.9.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.10}D-10 Use echoic training.{}}{148}{section.10.10}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.10.1}Definition}{148}{subsection.10.10.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.10.2}Assessment}{148}{subsection.10.10.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.10.3}Relevant Literature}{149}{subsection.10.10.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.10.4}Related Tasks}{149}{subsection.10.10.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.11}D-11 Use mand training.{}}{150}{section.10.11}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.11.1}Definition}{150}{subsection.10.11.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.11.2}Assessment}{151}{subsection.10.11.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.11.3}Relevant Literature}{151}{subsection.10.11.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.11.4}Related Tasks}{151}{subsection.10.11.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.12}D-12 Use tact training.{}}{152}{section.10.12}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.12.1}Definition}{152}{subsection.10.12.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.12.2}Assessment}{153}{subsection.10.12.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.12.3}Relevant Literature}{153}{subsection.10.12.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.12.4}Related Tasks}{153}{subsection.10.12.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.13}D-13 Use intraverbal training.{}}{154}{section.10.13}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.13.1}Definition}{154}{subsection.10.13.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.13.2}Assessment}{155}{subsection.10.13.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.13.3}Relevant Literature}{155}{subsection.10.13.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.13.4}Related Tasks}{156}{subsection.10.13.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.14}D-14 Use listener training.{}}{157}{section.10.14}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.14.1}Definition}{157}{subsection.10.14.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.14.2}Examples}{157}{subsection.10.14.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.14.3}Assessment}{157}{subsection.10.14.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.14.4}Relevant Literature}{158}{subsection.10.14.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.14.5}Related Tasks}{158}{subsection.10.14.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.15}D-15 Identify punishers.{}}{159}{section.10.15}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.15.1}Definition}{159}{subsection.10.15.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.15.2}Assessment}{160}{subsection.10.15.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.15.3}Relevant Literature}{160}{subsection.10.15.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.15.4}Related Tasks}{161}{subsection.10.15.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.16}D-16 Use positive and negative punishment.{}}{162}{section.10.16}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.16.1}Definition}{162}{subsection.10.16.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.16.2}Examples}{162}{subsection.10.16.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.16.3}Assessment}{162}{subsection.10.16.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.16.4}Relevant Literature}{162}{subsection.10.16.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.16.5}Related Tasks}{163}{subsection.10.16.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.16.6}Footnotes}{163}{subsection.10.16.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.17}D-17 Use appropriate parameters and schedules of punishment.{}}{164}{section.10.17}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.17.1}Definition}{164}{subsection.10.17.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.17.2}Assessment}{166}{subsection.10.17.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.17.3}Relevant Literature}{166}{subsection.10.17.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.17.4}Related Tasks}{166}{subsection.10.17.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.18}D-18 Use extinction.{}}{168}{section.10.18}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.18.1}Definition}{168}{subsection.10.18.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.18.2}Examples}{168}{subsection.10.18.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.18.3}Assessment}{169}{subsection.10.18.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.18.4}Relevant Literature}{169}{subsection.10.18.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.18.5}Related Tasks}{169}{subsection.10.18.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.19}D-19 Use combinations of reinforcement with punishment and extinction.{}}{170}{section.10.19}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.19.1}Definition}{170}{subsection.10.19.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.19.2}Assessment}{170}{subsection.10.19.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.19.3}Relevant Literature}{171}{subsection.10.19.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.19.4}Related Tasks}{171}{subsection.10.19.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.20}D-20 Use response-independent (time-based) schedules of reinforcement (i.e., noncontingent reinforcement).{}}{173}{section.10.20}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.20.1}Definition}{173}{subsection.10.20.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.20.2}Examples}{173}{subsection.10.20.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.20.3}Assessment}{173}{subsection.10.20.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.20.4}Relevant Literature}{174}{subsection.10.20.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.20.5}Related Tasks}{174}{subsection.10.20.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.21}D-21 Use differential reinforcement (e.g., DRO, DRA, DRI, DRL, DRH).{}}{175}{section.10.21}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.21.1}Definition}{175}{subsection.10.21.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.21.2}Examples}{175}{subsection.10.21.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.21.3}Assessment}{176}{subsection.10.21.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.21.4}Relevant Literature}{176}{subsection.10.21.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.21.5}Related Tasks}{177}{subsection.10.21.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {11}E. Specific Behavior-Change Procedures{}}{179}{chapter.11}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.1}E-01 Use interventions based on manipulation of antecedents, such as motivating operations and discriminative stimuli.{}}{180}{section.11.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.1.1}Definition}{180}{subsection.11.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.1.2}Assessment}{181}{subsection.11.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.1.3}Relevant Literature}{181}{subsection.11.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.1.4}Related Tasks}{181}{subsection.11.1.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.2}E-02 Use discrimination training procedures.{}}{182}{section.11.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.2.1}Definition}{182}{subsection.11.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.2.2}Examples}{182}{subsection.11.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.2.3}Assessment}{182}{subsection.11.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.2.4}Relevant Literature}{183}{subsection.11.2.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.2.5}Related Tasks}{183}{subsection.11.2.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.3}E-03 Use instructions and rules.{}}{184}{section.11.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.3.1}Definition}{184}{subsection.11.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.3.2}Assessment}{184}{subsection.11.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.3.3}Relevant Literature}{184}{subsection.11.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.3.4}Related Tasks}{185}{subsection.11.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.4}E-04 Use contingency contracting (i.e., behavioral contracts).{}}{186}{section.11.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.4.1}Definition}{186}{subsection.11.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.4.2}Assessment}{186}{subsection.11.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.4.3}Relevant Literature}{187}{subsection.11.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.4.4}Related Tasks}{187}{subsection.11.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.5}E-05 Use independent, interdependent, and dependent group contingencies.{}}{188}{section.11.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.5.1}Definition}{188}{subsection.11.5.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.5.2}Examples}{188}{subsection.11.5.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.5.3}Assessment}{189}{subsection.11.5.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.5.4}Relevant Literature}{189}{subsection.11.5.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.5.5}Related Tasks}{189}{subsection.11.5.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.6}E-06 Use stimulus equivalence procedures.{}}{190}{section.11.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.6.1}Definition}{190}{subsection.11.6.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.6.2}Assessment}{191}{subsection.11.6.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.6.3}Relevant Literature}{191}{subsection.11.6.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.6.4}Related Tasks}{191}{subsection.11.6.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.7}E-07 Plan for behavioral contrast effects.{}}{192}{section.11.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.7.1}Definition}{192}{subsection.11.7.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.7.2}Examples}{192}{subsection.11.7.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.7.3}Assessment}{193}{subsection.11.7.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.7.4}Relevant Literature}{193}{subsection.11.7.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.7.5}Related Tasks}{194}{subsection.11.7.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.8}E-08 Use the matching law and recognize factors influencing choice.{}}{195}{section.11.8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.8.1}Definition}{195}{subsection.11.8.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.8.2}Assessment}{195}{subsection.11.8.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.8.3}Relevant Literature}{196}{subsection.11.8.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.8.4}Related Tasks}{196}{subsection.11.8.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.9}E-09 Arrange high-probability request sequences.{}}{197}{section.11.9}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.9.1}Definition}{197}{subsection.11.9.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.9.2}Assessment}{197}{subsection.11.9.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.9.3}Relevant Literature}{198}{subsection.11.9.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.9.4}Related Tasks}{198}{subsection.11.9.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.10}E-10 Use the Premack principle.{}}{199}{section.11.10}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.10.1}Definition}{199}{subsection.11.10.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.10.2}Examples}{199}{subsection.11.10.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.10.3}Assessment}{199}{subsection.11.10.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.10.4}Relevant Literature}{200}{subsection.11.10.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.10.5}Related Tasks}{200}{subsection.11.10.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.11}E-11 Use pairing procedures to establish new conditioned reinforcers and punishers.{}}{201}{section.11.11}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.11.1}Definition}{201}{subsection.11.11.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.11.2}Assessment}{201}{subsection.11.11.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.11.3}Relevant Literature}{202}{subsection.11.11.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.11.4}Related Tasks}{202}{subsection.11.11.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.12}E-12 Use errorless learning procedures.{}}{203}{section.11.12}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.12.1}Definition}{203}{subsection.11.12.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.12.2}Assessment}{203}{subsection.11.12.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.12.3}Relevant Literature}{203}{subsection.11.12.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.12.4}Related Tasks}{204}{subsection.11.12.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.13}E-13 Use matching-to-sample procedures.{}}{205}{section.11.13}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.13.1}Definition}{205}{subsection.11.13.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.13.2}Examples}{205}{subsection.11.13.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.13.3}Assessment}{205}{subsection.11.13.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.13.4}Relevant Literature}{206}{subsection.11.13.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.13.5}Related Tasks}{206}{subsection.11.13.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {12}F. Behavior-Change Systems{}}{207}{chapter.12}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.1}F-01 Use self-management strategies.{}}{208}{section.12.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.1.1}Definition}{208}{subsection.12.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.1.2}Examples}{208}{subsection.12.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.1.3}Assessment}{208}{subsection.12.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.1.4}Relevant Literature}{209}{subsection.12.1.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.1.5}Related Tasks}{209}{subsection.12.1.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.2}F-02 Use token economies and other conditioned reinforcement systems.{}}{210}{section.12.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.2.1}Definition}{210}{subsection.12.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.2.2}Assessment}{210}{subsection.12.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.2.3}Relevant Literature}{211}{subsection.12.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.2.4}Related Tasks}{211}{subsection.12.2.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.3}F-03 Use Direct Instruction.{}}{212}{section.12.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.3.1}Definition}{212}{subsection.12.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.3.2}Assessment}{212}{subsection.12.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.3.3}Relevant Literature}{212}{subsection.12.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.3.4}Related Tasks}{213}{subsection.12.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.4}F-04 Use precision teaching.{}}{214}{section.12.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.4.1}Definition}{214}{subsection.12.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.4.2}Examples}{214}{subsection.12.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.4.3}Assessment}{215}{subsection.12.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.4.4}Relevant Literature}{215}{subsection.12.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.4.5}Related Tasks}{215}{subsection.12.4.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.5}F-05 Use personalized systems of instruction (PSI).{}}{217}{section.12.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.5.1}Definition}{217}{subsection.12.5.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.5.2}Assessment}{217}{subsection.12.5.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.5.3}Relevant Literature}{217}{subsection.12.5.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.5.4}Related Tasks}{218}{subsection.12.5.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.6}F-06 Use incidental teaching.{}}{219}{section.12.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.6.1}Definition}{219}{subsection.12.6.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.6.2}Examples}{219}{subsection.12.6.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.6.3}Assessment}{219}{subsection.12.6.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.6.4}Relevant Literature}{219}{subsection.12.6.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.6.5}Related Tasks}{220}{subsection.12.6.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.7}F-07 Use functional communication training.{}}{221}{section.12.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.7.1}Definition}{221}{subsection.12.7.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.7.2}Examples}{221}{subsection.12.7.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.7.3}Assessment}{221}{subsection.12.7.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.7.4}Relevant Literature}{222}{subsection.12.7.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.7.5}Related Tasks}{222}{subsection.12.7.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.8}F-08 Use augmentative communication systems.{}}{223}{section.12.8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.8.1}Definition}{223}{subsection.12.8.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.8.2}Examples}{223}{subsection.12.8.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.8.3}Assessment}{224}{subsection.12.8.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.8.4}Relevant Literature}{224}{subsection.12.8.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.8.5}Related Tasks}{224}{subsection.12.8.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {13}G. Identification of the Problem{}}{227}{chapter.13}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {13.1}G-01 Review records and available data at the outset of the case.{}}{228}{section.13.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.1.1}Definition}{228}{subsection.13.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.1.2}Assessment}{228}{subsection.13.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.1.3}Relevant Literature}{228}{subsection.13.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.1.4}Related Tasks}{229}{subsection.13.1.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {13.2}G-02 Consider biological/medical variables that may be affecting the client.{}}{230}{section.13.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.2.1}Definition}{230}{subsection.13.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.2.2}Assessment}{230}{subsection.13.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.2.3}Relevant Literature}{231}{subsection.13.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.2.4}Related Tasks}{231}{subsection.13.2.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {13.3}G-03 Conduct a preliminary assessment of the client in order to identify the referral problem.{}}{233}{section.13.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.3.1}Definition}{233}{subsection.13.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.3.2}Assessment}{235}{subsection.13.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.3.3}Relevant Literature}{235}{subsection.13.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.3.4}Related Tasks}{235}{subsection.13.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {13.4}G-04 Explain behavioral concepts using nontechnical language.{}}{236}{section.13.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.4.1}Definition}{236}{subsection.13.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.4.2}Assessment}{236}{subsection.13.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.4.3}Relevant Literature}{237}{subsection.13.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.4.4}Related Tasks}{237}{subsection.13.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {13.5}G-05 Describe and explain behavior, including private events, in behavior-analytic (nonmentalistic) terms.{}}{238}{section.13.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.5.1}Definition}{238}{subsection.13.5.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.5.2}Assessment}{238}{subsection.13.5.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.5.3}Relevant Literature}{239}{subsection.13.5.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.5.4}Related Tasks}{239}{subsection.13.5.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {13.6}G-06 Provide behavior-analytic services in collaboration with others who support and/or provide services to one's clients.{}}{240}{section.13.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.6.1}Definition}{240}{subsection.13.6.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.6.2}Examples}{240}{subsection.13.6.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.6.3}Assessment}{240}{subsection.13.6.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.6.4}Relevant Literature}{241}{subsection.13.6.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.6.5}Related Tasks}{241}{subsection.13.6.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {13.7}G-07 Practice within one's limits of professional competence in applied behavior analysis, and obtain consultation, supervision, and training, or make referrals as necessary.{}}{242}{section.13.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.7.1}Definition}{242}{subsection.13.7.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.7.2}Assessment}{242}{subsection.13.7.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.7.3}Relevant Literature}{243}{subsection.13.7.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.7.4}Related Tasks}{243}{subsection.13.7.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {13.8}G-08 Identify and make environmental changes that reduce the need for behavior analysis services.{}}{244}{section.13.8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.8.1}Definition}{244}{subsection.13.8.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.8.2}Examples}{244}{subsection.13.8.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.8.3}Assessment}{244}{subsection.13.8.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.8.4}Relevant Literature}{245}{subsection.13.8.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.8.5}Related Tasks}{245}{subsection.13.8.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {14}H. Measurement{}}{247}{chapter.14}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {14.1}H-01 Select a measurement system to obtain representative data given the dimensions of the behavior and the logistics of observing and recording.{}}{248}{section.14.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.1.1}Definition}{248}{subsection.14.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.1.2}Examples}{248}{subsection.14.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.1.3}Assessment}{249}{subsection.14.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.1.4}Relevant Literature}{249}{subsection.14.1.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.1.5}Related Tasks}{249}{subsection.14.1.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {14.2}H-02 Select a schedule of observation and recording periods.{}}{251}{section.14.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.2.1}Definition}{251}{subsection.14.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.2.2}Examples}{251}{subsection.14.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.2.3}Assessment}{251}{subsection.14.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.2.4}Relevant Literature}{252}{subsection.14.2.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.2.5}Related Tasks}{252}{subsection.14.2.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {14.3}H-03 Select a data display that effectively communicates relevant quantitative relations.{}}{253}{section.14.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.3.1}Definition}{253}{subsection.14.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.3.2}Examples}{253}{subsection.14.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.3.3}Assessment}{254}{subsection.14.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.3.4}Relevant Literature}{254}{subsection.14.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.3.5}Related Tasks}{254}{subsection.14.3.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {14.4}H-04 Evaluate changes in level, trend, and variability.{}}{255}{section.14.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.4.1}Definition}{255}{subsection.14.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.4.2}Assessment}{255}{subsection.14.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.4.3}Relevant Literature}{255}{subsection.14.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.4.4}Related Tasks}{256}{subsection.14.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {14.5}H-05 Evaluate temporal relations between observed variables (within \& between sessions, time series).{}}{257}{section.14.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.5.1}Definition}{257}{subsection.14.5.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.5.2}Assessment}{258}{subsection.14.5.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.5.3}Relevant Literature}{258}{subsection.14.5.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.5.4}Related Tasks}{259}{subsection.14.5.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {15}I. Assessment{}}{261}{chapter.15}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {15.1}I-01 Define behavior in observable and measurable terms.{}}{262}{section.15.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.1.1}Definition}{262}{subsection.15.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.1.2}Assessment}{263}{subsection.15.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.1.3}Relevant Literature}{263}{subsection.15.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.1.4}Related Tasks}{264}{subsection.15.1.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {15.2}I-02 Define environmental variables in observable and measurable terms.{}}{265}{section.15.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.2.1}Definition}{265}{subsection.15.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.2.2}Examples}{266}{subsection.15.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.2.3}Assessment}{266}{subsection.15.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.2.4}Relevant Literature}{266}{subsection.15.2.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.2.5}Related Tasks}{267}{subsection.15.2.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {15.3}I-03 Design and implement individualized behavioral assessment procedures.{}}{268}{section.15.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.3.1}Definition}{268}{subsection.15.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.3.2}Examples}{269}{subsection.15.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.3.3}Assessment}{269}{subsection.15.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.3.4}Relevant Literature}{269}{subsection.15.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.3.5}Related Tasks}{270}{subsection.15.3.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {15.4}I-04 Design and implement the full range of functional assessment procedures.{}}{271}{section.15.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.4.1}Definition}{271}{subsection.15.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.4.2}Assessment}{272}{subsection.15.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.4.3}Relevant Literature}{273}{subsection.15.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.4.4}Related Tasks}{274}{subsection.15.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.4.5}Footnotes}{274}{subsection.15.4.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {15.5}I-05 Organize, analyze, and interpret observed data.{}}{275}{section.15.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {15.6}I-05 Organize, analyze, and interpret observed data.{}}{276}{section.15.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.6.1}Definition}{276}{subsection.15.6.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.6.2}Assessment}{277}{subsection.15.6.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.6.3}Relevant Literature}{278}{subsection.15.6.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.6.4}Related Tasks}{278}{subsection.15.6.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {15.7}I-06 Make recommendations regarding behaviors that must be established, maintained, increased, or decreased.{}}{279}{section.15.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.7.1}Definition}{279}{subsection.15.7.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.7.2}Examples}{280}{subsection.15.7.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.7.3}Assessment}{280}{subsection.15.7.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.7.4}Relevant Literature}{280}{subsection.15.7.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.7.5}Related Tasks}{280}{subsection.15.7.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {15.8}I-07 Design and conduct preference assessments to identify putative reinforcers.{}}{282}{section.15.8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.8.1}Definition}{282}{subsection.15.8.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.8.2}Examples}{282}{subsection.15.8.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.8.3}Assessment}{283}{subsection.15.8.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.8.4}Relevant Literature}{283}{subsection.15.8.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {15.8.5}Related Tasks}{283}{subsection.15.8.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {16}J. Intervention{}}{285}{chapter.16}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {16.1}J-01 State intervention goals in observable and measurable terms.{}}{286}{section.16.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.1.1}Definition}{286}{subsection.16.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.1.2}Examples}{286}{subsection.16.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.1.3}Assessment}{286}{subsection.16.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.1.4}Relevant Literature}{287}{subsection.16.1.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.1.5}Related Tasks}{287}{subsection.16.1.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {16.2}J-02 Identify potential interventions based on assessment results and the best available scientific evidence.{}}{288}{section.16.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.2.1}Definition}{288}{subsection.16.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.2.2}Examples}{288}{subsection.16.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.2.3}Assessment}{289}{subsection.16.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.2.4}Relevant Literature}{289}{subsection.16.2.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.2.5}Related Tasks}{289}{subsection.16.2.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {16.3}J-03 Select intervention strategies based on task analysis.{}}{290}{section.16.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.3.1}Definition}{290}{subsection.16.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.3.2}Assessment}{291}{subsection.16.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.3.3}Relevant Literature}{291}{subsection.16.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.3.4}Related Tasks}{291}{subsection.16.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {16.4}J-04 Select intervention strategies based on client preferences.{}}{292}{section.16.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.4.1}Definition}{292}{subsection.16.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.4.2}Assessment}{293}{subsection.16.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.4.3}Relevant Literature}{293}{subsection.16.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.4.4}Related Tasks}{293}{subsection.16.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {16.5}J-05 Select intervention strategies based on the client\IeC {\textquoteright }s current repertoires.{}}{295}{section.16.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.5.1}Definition}{295}{subsection.16.5.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.5.2}Assessment}{296}{subsection.16.5.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.5.3}Relevant Literature}{296}{subsection.16.5.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.5.4}Related Tasks}{296}{subsection.16.5.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {16.6}J-06 Select intervention strategies based on supporting environments.{}}{297}{section.16.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.6.1}Definition}{297}{subsection.16.6.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.6.2}Examples}{298}{subsection.16.6.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.6.3}Assessment}{298}{subsection.16.6.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.6.4}Relevant Literature}{298}{subsection.16.6.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.6.5}Related Tasks}{298}{subsection.16.6.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {16.7}J-07 Select intervention strategies based on environmental and resource constraints.{}}{300}{section.16.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.7.1}Definition}{300}{subsection.16.7.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.7.2}Examples}{300}{subsection.16.7.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.7.3}Assessment}{300}{subsection.16.7.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.7.4}Relevant Literature}{301}{subsection.16.7.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.7.5}Related Tasks}{301}{subsection.16.7.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {16.8}J-08 Select intervention strategies based on the social validity of the intervention.{}}{302}{section.16.8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.8.1}Definition}{302}{subsection.16.8.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.8.2}Examples}{302}{subsection.16.8.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.8.3}Assessment}{303}{subsection.16.8.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.8.4}Relevant Literature}{303}{subsection.16.8.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.8.5}Related Tasks}{304}{subsection.16.8.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {16.9}J-09 Identify and address practical and ethical considerations when using experimental designs to demonstrate treatment effectiveness.{}}{305}{section.16.9}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.9.1}Definition}{305}{subsection.16.9.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.9.2}Examples}{305}{subsection.16.9.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.9.3}Assessment}{306}{subsection.16.9.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.9.4}Relevant Literature}{306}{subsection.16.9.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.9.5}Related Tasks}{306}{subsection.16.9.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {16.10}J-10 When a behavior is to be decreased, select an acceptable alternative behavior to be established or increased.{}}{308}{section.16.10}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.10.1}Definition}{308}{subsection.16.10.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.10.2}Assessment}{308}{subsection.16.10.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.10.3}Relevant Literature}{309}{subsection.16.10.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.10.4}Related Tasks}{309}{subsection.16.10.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {16.11}J-11 Program for stimulus and response generalization.{}}{310}{section.16.11}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.11.1}Definition}{310}{subsection.16.11.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.11.2}Assessment}{310}{subsection.16.11.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.11.3}Relevant Literature}{310}{subsection.16.11.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.11.4}Related Tasks}{311}{subsection.16.11.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {16.12}J-12 Program for maintenance.{}}{312}{section.16.12}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.12.1}Definition}{312}{subsection.16.12.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.12.2}Assessment}{312}{subsection.16.12.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.12.3}Relevant Literature}{312}{subsection.16.12.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.12.4}Related Tasks}{313}{subsection.16.12.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {16.13}J-13 Select behavioral cusps as goals for intervention when appropriate.{}}{314}{section.16.13}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.13.1}Definition}{314}{subsection.16.13.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.13.2}Examples}{314}{subsection.16.13.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.13.3}Assessment}{314}{subsection.16.13.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.13.4}Relevant Literature}{314}{subsection.16.13.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.13.5}Related Tasks}{315}{subsection.16.13.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {16.14}J-14 Arrange instructional procedures to promote generative learning (i.e., derived relations).{}}{316}{section.16.14}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.14.1}Definition}{316}{subsection.16.14.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.14.2}Examples}{316}{subsection.16.14.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.14.3}Assessment}{316}{subsection.16.14.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.14.4}Relevant Literature}{317}{subsection.16.14.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.14.5}Related Tasks}{317}{subsection.16.14.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {16.15}J-15 Base decision-making on data displayed in various formats.{}}{318}{section.16.15}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.15.1}Definition}{318}{subsection.16.15.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.15.2}Examples}{318}{subsection.16.15.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.15.3}Assessment}{318}{subsection.16.15.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.15.4}Relevant Literature}{319}{subsection.16.15.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {16.15.5}Related Tasks}{319}{subsection.16.15.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {17}K. Implementation, Management, and Supervision{}}{321}{chapter.17}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {17.1}K-01 Provide for ongoing documentation of behavioral services.{}}{322}{section.17.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.1.1}Definition}{322}{subsection.17.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.1.2}Assessment}{323}{subsection.17.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.1.3}Relevant Literature}{323}{subsection.17.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {17.2}K-02 Identify the contingencies governing the behavior of those responsible for carrying out behavior-change procedures and design interventions accordingly.{}}{324}{section.17.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.2.1}Definition}{324}{subsection.17.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.2.2}Examples}{324}{subsection.17.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.2.3}Assessment}{325}{subsection.17.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.2.4}Relevant Literature}{325}{subsection.17.2.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.2.5}Related Tasks}{326}{subsection.17.2.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {17.3}K-03 Design and use competency-based training for persons who are responsible for carrying out behavioral assessment and behavior-change procedures.{}}{327}{section.17.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.3.1}Definition}{327}{subsection.17.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.3.2}Assessment}{328}{subsection.17.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.3.3}Relevant Literature}{328}{subsection.17.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.3.4}Related Tasks}{329}{subsection.17.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {17.4}K-04 Design and use effective performance monitoring and reinforcement systems.{}}{330}{section.17.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.4.1}Definition}{330}{subsection.17.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.4.2}Assessment}{330}{subsection.17.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.4.3}Relevant Literature}{331}{subsection.17.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.4.4}Related Tasks}{331}{subsection.17.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {17.5}K-05 Design and use systems for monitoring procedural integrity.{}}{332}{section.17.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.5.1}Definition}{332}{subsection.17.5.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.5.2}Assessment}{332}{subsection.17.5.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.5.3}Relevant Literature}{333}{subsection.17.5.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.5.4}Related Tasks}{333}{subsection.17.5.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.5.5}Footnotes}{333}{subsection.17.5.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {17.6}K-06 Provide supervision for behavior-change agents.{}}{334}{section.17.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.6.1}Assessment}{334}{subsection.17.6.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.6.2}Relevant Literature}{335}{subsection.17.6.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.6.3}Related Tasks}{335}{subsection.17.6.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {17.7}K-07 Evaluate the effectiveness of the behavioral program.{}}{336}{section.17.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.7.1}Definition}{336}{subsection.17.7.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.7.2}Assessment}{336}{subsection.17.7.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.7.3}Relevant Literature}{337}{subsection.17.7.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.7.4}Related Tasks}{337}{subsection.17.7.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {17.8}K-08 Establish support for behavior-analytic services from direct and indirect consumers.{}}{338}{section.17.8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.8.1}Definition}{338}{subsection.17.8.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.8.2}Assessment}{338}{subsection.17.8.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.8.3}Relevant Literature}{339}{subsection.17.8.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.8.4}Related Tasks}{339}{subsection.17.8.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {17.9}K-09 Secure the support of others to maintain the client\IeC {\textquoteright }s behavioral repertoires in their natural environments.{}}{340}{section.17.9}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.9.1}Definition}{340}{subsection.17.9.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.9.2}Examples}{340}{subsection.17.9.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.9.3}Assessment}{340}{subsection.17.9.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.9.4}Relevant Literature}{341}{subsection.17.9.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.9.5}Related Tasks}{341}{subsection.17.9.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {17.10}K-10 Arrange for the orderly termination of services when they are no longer required.{}}{342}{section.17.10}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.10.1}Definition}{342}{subsection.17.10.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.10.2}Assessment}{342}{subsection.17.10.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.10.3}Relevant Literature}{342}{subsection.17.10.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {17.10.4}Related Tasks}{343}{subsection.17.10.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {18}FK: Foundational Knowledge{}}{345}{chapter.18}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.1}FK-01 Lawfulness of behavior{}}{346}{section.18.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.1.1}Definition}{346}{subsection.18.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.1.2}Assessment}{346}{subsection.18.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.1.3}Relevant Literature}{346}{subsection.18.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.1.4}Related Tasks}{346}{subsection.18.1.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.2}FK-02 Selectionism (phylogenic, ontogenic, cultural){}}{347}{section.18.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.2.1}Definition}{347}{subsection.18.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.2.2}Examples}{347}{subsection.18.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.2.3}Assessment}{348}{subsection.18.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.2.4}Relevant Literature}{348}{subsection.18.2.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.2.5}Related Tasks}{348}{subsection.18.2.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.3}FK-03 Determinism{}}{349}{section.18.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.3.1}Definition}{349}{subsection.18.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.3.2}Examples}{349}{subsection.18.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.3.3}Assessment}{349}{subsection.18.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.3.4}Relevant Literature}{350}{subsection.18.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.3.5}Related Tasks}{350}{subsection.18.3.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.4}FK-04 Empiricism{}}{351}{section.18.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.4.1}Definition}{351}{subsection.18.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.4.2}Examples}{351}{subsection.18.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.4.3}Assessment}{351}{subsection.18.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.4.4}Relevant Literature}{352}{subsection.18.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.4.5}Related Tasks}{352}{subsection.18.4.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.5}FK-05 Parsimony{}}{353}{section.18.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.5.1}Definition}{353}{subsection.18.5.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.5.2}Examples}{353}{subsection.18.5.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.5.3}Assessment}{353}{subsection.18.5.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.5.4}Relevant Literature}{354}{subsection.18.5.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.5.5}Related Tasks}{354}{subsection.18.5.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.6}FK-06 Pragmatism{}}{355}{section.18.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.6.1}Definition}{355}{subsection.18.6.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.6.2}Examples}{355}{subsection.18.6.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.6.3}Assessment}{355}{subsection.18.6.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.6.4}Relevant Literature}{356}{subsection.18.6.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.6.5}Related Tasks}{356}{subsection.18.6.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.7}FK-07 Environmental (as opposed to mentalistic) explanations of behavior{}}{357}{section.18.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.7.1}Definition}{357}{subsection.18.7.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.7.2}Assessment}{357}{subsection.18.7.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.7.3}Relevant Literature}{358}{subsection.18.7.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.7.4}Related Tasks}{358}{subsection.18.7.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.8}FK-08 Distinguish between radical and methodological behaviorism.{}}{359}{section.18.8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.8.1}Definition}{359}{subsection.18.8.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.8.2}Assessment}{359}{subsection.18.8.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.8.3}Relevant Literature}{359}{subsection.18.8.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.8.4}Related Tasks}{360}{subsection.18.8.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.9}FK-09 Distinguish between the conceptual analysis of behavior, experimental analysis of behavior, applied behavior analysis, and behavioral service delivery.{}}{361}{section.18.9}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.9.1}Definition}{361}{subsection.18.9.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.9.2}Assessment}{362}{subsection.18.9.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.9.3}Relevant Literature}{362}{subsection.18.9.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.9.4}Related Tasks}{363}{subsection.18.9.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.10}FK-10 Behavior, response, response class{}}{364}{section.18.10}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.10.1}Definition}{364}{subsection.18.10.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.10.2}Examples}{364}{subsection.18.10.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.10.3}Assessment}{364}{subsection.18.10.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.10.4}Relevant Literature}{365}{subsection.18.10.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.10.5}Related Tasks}{365}{subsection.18.10.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.11}FK-11 Environment, stimulus, stimulus class{}}{366}{section.18.11}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.11.1}Definition}{366}{subsection.18.11.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.11.2}Examples}{366}{subsection.18.11.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.11.3}Assessment}{366}{subsection.18.11.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.11.4}Relevant Literature}{367}{subsection.18.11.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.11.5}Related Tasks}{367}{subsection.18.11.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.12}FK-12 Stimulus equivalence{}}{368}{section.18.12}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.12.1}Definition}{368}{subsection.18.12.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.12.2}Examples}{368}{subsection.18.12.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.12.3}Assessment}{369}{subsection.18.12.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.12.4}Relevant Literature}{369}{subsection.18.12.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.13}FK-13 Reflexive relations (US-UR){}}{370}{section.18.13}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.13.1}Definition}{370}{subsection.18.13.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.13.2}Examples}{370}{subsection.18.13.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.13.3}Assessment}{370}{subsection.18.13.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.13.4}Relevant Literature}{370}{subsection.18.13.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.13.5}Related Tasks}{370}{subsection.18.13.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.14}FK-14 Respondent conditioning (CS-CR){}}{371}{section.18.14}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.14.1}Definition}{371}{subsection.18.14.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.14.2}Examples}{371}{subsection.18.14.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.14.3}Assessment}{371}{subsection.18.14.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.14.4}Relevant Literature}{372}{subsection.18.14.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.14.5}Related Tasks}{372}{subsection.18.14.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.15}FK-15 Operant conditioning{}}{373}{section.18.15}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.15.1}Definition}{373}{subsection.18.15.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.15.2}Examples}{373}{subsection.18.15.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.15.3}Assessment}{373}{subsection.18.15.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.15.4}Relevant Literature}{373}{subsection.18.15.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.15.5}Related Tasks}{373}{subsection.18.15.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.16}FK-16 Respondent-operant interactions{}}{374}{section.18.16}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.16.1}Definition}{374}{subsection.18.16.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.16.2}Examples}{374}{subsection.18.16.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.16.3}Assessment}{375}{subsection.18.16.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.16.4}Relevant Literature}{375}{subsection.18.16.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.16.5}Related Tasks}{375}{subsection.18.16.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.17}FK-17 Unconditioned reinforcement{}}{376}{section.18.17}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.17.1}Definition}{376}{subsection.18.17.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.17.2}Examples}{376}{subsection.18.17.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.17.3}Assessment}{376}{subsection.18.17.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.17.4}Relevant Literature}{376}{subsection.18.17.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.17.5}Related Tasks}{377}{subsection.18.17.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.18}FK-18 Conditioned reinforcement{}}{378}{section.18.18}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.18.1}Definition}{378}{subsection.18.18.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.18.2}Examples}{378}{subsection.18.18.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.18.3}Assessment}{378}{subsection.18.18.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.18.4}Relevant Literature}{378}{subsection.18.18.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.18.5}Related Tasks}{379}{subsection.18.18.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.19}FK-19 Unconditioned punishment{}}{380}{section.18.19}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.19.1}Definition}{380}{subsection.18.19.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.19.2}Examples}{380}{subsection.18.19.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.19.3}Assessment}{380}{subsection.18.19.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.19.4}Relevant Literature}{380}{subsection.18.19.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.19.5}Related Tasks}{380}{subsection.18.19.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.19.6}Footnotes}{381}{subsection.18.19.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.20}FK-20 Conditioned punishment{}}{382}{section.18.20}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.20.1}Definition}{382}{subsection.18.20.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.20.2}Examples}{382}{subsection.18.20.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.20.3}Assessment}{382}{subsection.18.20.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.20.4}Relevant Literature}{383}{subsection.18.20.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.20.5}Related Tasks}{383}{subsection.18.20.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.21}FK-21 Schedules of reinforcement and punishment{}}{384}{section.18.21}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.21.1}Definition}{384}{subsection.18.21.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.21.2}Examples}{384}{subsection.18.21.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.21.3}Assessment}{385}{subsection.18.21.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.21.4}Relevant Literature}{385}{subsection.18.21.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.21.5}Related Tasks}{385}{subsection.18.21.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.22}FK-22 Extinction{}}{386}{section.18.22}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.22.1}Definition}{386}{subsection.18.22.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.22.2}Examples}{386}{subsection.18.22.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.22.3}Assessment}{387}{subsection.18.22.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.22.4}Relevant Literature}{387}{subsection.18.22.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.22.5}Related Tasks}{387}{subsection.18.22.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.23}FK-23 Automatic reinforcement and punishment{}}{388}{section.18.23}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.23.1}Definition}{388}{subsection.18.23.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.23.2}Examples}{388}{subsection.18.23.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.23.3}Assessment}{388}{subsection.18.23.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.23.4}Relevant Literature}{389}{subsection.18.23.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.23.5}Related Tasks}{389}{subsection.18.23.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.24}FK-24 Stimulus control{}}{390}{section.18.24}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.24.1}Definition}{390}{subsection.18.24.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.24.2}Examples}{390}{subsection.18.24.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.24.3}Assessment}{390}{subsection.18.24.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.24.4}Relevant Literature}{390}{subsection.18.24.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.24.5}Related Tasks}{391}{subsection.18.24.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.25}FK-25 Multiple functions of a single stimulus{}}{392}{section.18.25}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.25.1}Definition}{392}{subsection.18.25.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.25.2}Assessment}{392}{subsection.18.25.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.25.3}Relevant Literature}{392}{subsection.18.25.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.25.4}Related Tasks}{393}{subsection.18.25.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.26}FK-26 Unconditioned motivating operations{}}{394}{section.18.26}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.26.1}Definition}{394}{subsection.18.26.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.26.2}Examples}{394}{subsection.18.26.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.26.3}Assessment}{394}{subsection.18.26.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.26.4}Relevant Literature}{395}{subsection.18.26.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.26.5}Related Tasks}{395}{subsection.18.26.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.27}FK-27 Conditioned motivating operations{}}{396}{section.18.27}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.27.1}Definition}{396}{subsection.18.27.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.27.2}Examples}{396}{subsection.18.27.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.27.3}Assessment}{397}{subsection.18.27.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.27.4}Relevant Literature}{397}{subsection.18.27.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.27.5}Related Tasks}{397}{subsection.18.27.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.28}FK-28 Transitive, reflexive, surrogate motivating operations{}}{399}{section.18.28}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.28.1}Definition}{399}{subsection.18.28.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.28.2}Examples}{399}{subsection.18.28.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.28.3}Assessment}{400}{subsection.18.28.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.28.4}Relevant Literature}{400}{subsection.18.28.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.28.5}Related Tasks}{400}{subsection.18.28.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.29}FK-29 Distinguish between the discriminative stimulus and the motivating operation{}}{402}{section.18.29}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.29.1}Definition}{402}{subsection.18.29.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.29.2}Examples}{402}{subsection.18.29.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.29.3}Assessment}{403}{subsection.18.29.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.29.4}Relevant Literature}{403}{subsection.18.29.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.29.5}Related Tasks}{403}{subsection.18.29.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.30}FK-30 Distinguish between motivating operation and reinforcement effects{}}{404}{section.18.30}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.30.1}Definition}{404}{subsection.18.30.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.30.2}Examples}{404}{subsection.18.30.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.30.3}Assessment}{405}{subsection.18.30.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.30.4}Relevant Literature}{405}{subsection.18.30.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.30.5}Related Tasks}{405}{subsection.18.30.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.31}FK-31 Behavioral contingencies{}}{407}{section.18.31}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.31.1}Definition}{407}{subsection.18.31.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.31.2}Examples}{407}{subsection.18.31.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.31.3}Assessment}{407}{subsection.18.31.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.31.4}Relevant Literature}{407}{subsection.18.31.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.31.5}Related Tasks}{408}{subsection.18.31.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.32}FK-32 Contiguity{}}{409}{section.18.32}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.32.1}Definition}{409}{subsection.18.32.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.32.2}Examples}{409}{subsection.18.32.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.32.3}Assessment}{409}{subsection.18.32.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.32.4}Relevant Literature}{409}{subsection.18.32.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.32.5}Related Tasks}{409}{subsection.18.32.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.33}FK-33 Functional relations{}}{411}{section.18.33}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.33.1}Definition}{411}{subsection.18.33.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.33.2}Examples}{411}{subsection.18.33.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.33.3}Assessment}{412}{subsection.18.33.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.33.4}Relevant Literature}{412}{subsection.18.33.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.33.5}Related Tasks}{413}{subsection.18.33.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.34}FK-34 Conditional discriminations{}}{414}{section.18.34}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.34.1}Definition}{414}{subsection.18.34.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.34.2}Examples}{414}{subsection.18.34.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.34.3}Assessment}{414}{subsection.18.34.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.34.4}Relevant Literature}{415}{subsection.18.34.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.34.5}Related Tasks}{415}{subsection.18.34.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.35}FK-35 Stimulus discrimination{}}{416}{section.18.35}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.35.1}Definition}{416}{subsection.18.35.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.35.2}Examples}{416}{subsection.18.35.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.35.3}Assessment}{416}{subsection.18.35.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.35.4}Relevant Literature}{416}{subsection.18.35.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.35.5}Related Tasks}{417}{subsection.18.35.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.36}FK-36 Response generalization{}}{418}{section.18.36}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.36.1}Definition}{418}{subsection.18.36.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.36.2}Examples}{418}{subsection.18.36.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.36.3}Assessment}{418}{subsection.18.36.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.36.4}Relevant Literature}{418}{subsection.18.36.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.36.5}Related Tasks}{419}{subsection.18.36.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.37}FK-37 Stimulus generalization{}}{420}{section.18.37}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.37.1}Definition}{420}{subsection.18.37.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.37.2}Examples}{420}{subsection.18.37.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.37.3}Assessment}{420}{subsection.18.37.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.37.4}Relevant Literature}{420}{subsection.18.37.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.37.5}Related Tasks}{421}{subsection.18.37.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.38}FK-38 Behavioral contrast{}}{422}{section.18.38}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.38.1}Definition}{422}{subsection.18.38.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.38.2}Examples}{422}{subsection.18.38.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.38.3}Assessment}{422}{subsection.18.38.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.38.4}Relevant Literature}{422}{subsection.18.38.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.38.5}Related Tasks}{423}{subsection.18.38.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.39}FK-39 Behavioral momentum{}}{424}{section.18.39}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.39.1}Definition}{424}{subsection.18.39.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.39.2}Examples}{424}{subsection.18.39.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.39.3}Assessment}{424}{subsection.18.39.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.39.4}Relevant Literature}{425}{subsection.18.39.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.39.5}Related Tasks}{425}{subsection.18.39.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.40}FK-40 Matching law{}}{426}{section.18.40}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.40.1}Definition}{426}{subsection.18.40.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.40.2}Assessment}{426}{subsection.18.40.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.40.3}Relevant Literature}{427}{subsection.18.40.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.40.4}Related Tasks}{427}{subsection.18.40.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.41}FK-41 Contingency-shaped behavior{}}{428}{section.18.41}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.41.1}Definition}{428}{subsection.18.41.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.41.2}Examples}{428}{subsection.18.41.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.41.3}Assessment}{428}{subsection.18.41.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.41.4}Relevant Literature}{429}{subsection.18.41.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.41.5}Related Tasks}{429}{subsection.18.41.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.42}FK-42 Rule-governed behavior{}}{430}{section.18.42}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.42.1}Definition}{430}{subsection.18.42.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.42.2}Examples}{430}{subsection.18.42.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.42.3}Assessment}{430}{subsection.18.42.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.42.4}Relevant Literature}{430}{subsection.18.42.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.42.5}Related Tasks}{431}{subsection.18.42.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.43}FK-43 Echoics{}}{432}{section.18.43}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.43.1}Definition}{432}{subsection.18.43.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.43.2}Examples}{432}{subsection.18.43.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.43.3}Assessment}{432}{subsection.18.43.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.43.4}Relevant Literature}{432}{subsection.18.43.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.43.5}Related Tasks}{433}{subsection.18.43.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.44}FK-44 Mands{}}{434}{section.18.44}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.44.1}Definition}{434}{subsection.18.44.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.44.2}Examples}{434}{subsection.18.44.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.44.3}Assessment}{434}{subsection.18.44.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.44.4}Relevant Literature}{434}{subsection.18.44.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.44.5}Related Tasks}{435}{subsection.18.44.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.45}FK-45 Tacts{}}{436}{section.18.45}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.45.1}Definition}{436}{subsection.18.45.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.45.2}Examples}{436}{subsection.18.45.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.45.3}Assessment}{436}{subsection.18.45.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.45.4}Relevant Literature}{436}{subsection.18.45.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.45.5}Related Tasks}{437}{subsection.18.45.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.46}FK-46 Intraverbals{}}{438}{section.18.46}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.46.1}Definition}{438}{subsection.18.46.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.46.2}Examples}{438}{subsection.18.46.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.46.3}Assessment}{438}{subsection.18.46.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.46.4}Relevant Literature}{438}{subsection.18.46.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.46.5}Related Tasks}{438}{subsection.18.46.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.47}FK-47 Identify the measurable dimensions of behavior (e.g., rate, duration, latency, interresponse time).{}}{439}{section.18.47}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.47.1}Definition}{439}{subsection.18.47.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.47.2}Assessment}{439}{subsection.18.47.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.47.3}Relevant Literature}{440}{subsection.18.47.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.47.4}Related Tasks}{440}{subsection.18.47.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.48}FK-48 State the advantages and disadvantages of using continuous measurement procedures and discontinuous measurement procedures (e.g., partial- and whole-interval recording, momentary time sampling).{}}{441}{section.18.48}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.48.1}Definition}{441}{subsection.18.48.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.48.2}Assessment}{441}{subsection.18.48.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.48.3}Relevant Literature}{442}{subsection.18.48.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {18.48.4}Related Tasks}{442}{subsection.18.48.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {19}After Internship}{443}{chapter.19}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {20}After Internship}{445}{chapter.20}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{References}{449}{chapter*.9}% 
+\contentsfinish 

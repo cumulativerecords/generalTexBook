@@ -23,7 +23,7 @@
 #
 echo "Extracting list of task lists now..."
 # Add unix command and create a new file
-sed -e 's/^/mkdir /' ../../tex/chapters/new-dirs-list.txt > temp
+sed -e 's/^/mkdir /' new-dirs-list.txt > temp
 # Check file <mk-dirs> before it generates dirs.
 # Comment out lines below if you are ready to run it.
 # This will create an empty directory for each task list item.
