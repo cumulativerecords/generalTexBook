@@ -26,7 +26,7 @@ cat ../../tex/chapters/fourth-ed/tl-modules/fourFKNine/body.tex >> ../../tex/cha
 cat ../../tex/chapters/fourth-ed/tl-modules/fourbOne/body.tex >> ../../tex/chapters/fifth-ed/tl-modules/fiveaFive/body.tex
 
 #fivebOne
-cat ../../tex/chapters/fourth-ed/tl-modules/fourbFKTen/body.tex >> ../../tex/chapters/fifth-ed/tl-modules/fivebOne/body.tex
+cat ../../tex/chapters/fourth-ed/tl-modules/fourFKTen/body.tex >> ../../tex/chapters/fifth-ed/tl-modules/fivebOne/body.tex
 
 #fivebTwo
 cat ../../tex/chapters/fourth-ed/tl-modules/fourFKEleven/body.tex >> ../../tex/chapters/fifth-ed/tl-modules/fivebTwo/body.tex
@@ -65,7 +65,7 @@ cat ../../tex/chapters/fourth-ed/tl-modules/fourFKNineteen/body.tex >> ../../tex
 echo "%" >> ../../tex/chapters/fifth-ed/tl-modules/fivebSix/body.tex
 cat ../../tex/chapters/fourth-ed/tl-modules/fourFKTwenty/body.tex >> ../../tex/chapters/fifth-ed/tl-modules/fivebSix/body.tex
 echo "%" >> ../../tex/chapters/fifth-ed/tl-modules/fivebSix/body.tex
-cat ../../tex/chapters/fourth-ed/tl-modules/fourTwentyTwo/body.tex >> ../../tex/chapters/fifth-ed/tl-modules/fivebSix/body.tex
+cat ../../tex/chapters/fourth-ed/tl-modules/fourFKTwentyTwo/body.tex >> ../../tex/chapters/fifth-ed/tl-modules/fivebSix/body.tex
 
 #fivebSeven
 cat ../../tex/chapters/fourth-ed/tl-modules/fourFKTwentyThree/body.tex >> ../../tex/chapters/fifth-ed/tl-modules/fivebSeven/body.tex
@@ -534,8 +534,6 @@ cat ../../tex/chapters/fourth-ed/tl-modules/fourkSix/body.tex >> ../../tex/chapt
 
 #fiveiOne
 cat ../../tex/chapters/fourth-ed/tl-modules/fourkTwo/body.tex >> ../../tex/chapters/fifth-ed/tl-modules/fiveiOne/body.tex
-echo "%" >> ../../tex/chapters/fifth-ed/tl-modules/fiveiOne/body.tex
-cat ../../tex/chapters/fourth-ed/tl-modules/four/body.tex >> ../../tex/chapters/fifth-ed/tl-modules/fiveiOne/body.tex
 
 #fiveiTwo
 echo "% Nothing to import from 4th ed." >> ../../tex/chapters/fifth-ed/tl-modules/fiveiTwo/body.tex
