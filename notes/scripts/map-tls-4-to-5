@@ -1,0 +1,474 @@
+#fiveaOne
+cat fourth-ed/tl-modules/fourFKOne/body.tex >> fifth-ed/tl-modules/fiveaOne/body.tex
+echo "%" >> fifth-ed/tl-modules/fiveaOne/body.tex
+cat fourth-ed/tl-modules/fourFKSeven/body.tex >> fifth-ed/tl-modules/fiveaOne/body.tex
+
+#fiveaTwo
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveaTwo/body.tex
+echo "%" >> fifth-ed/tl-modules/fiveaTwo/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveaTwo/body.tex
+
+#fiveaThree
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveaThree/body.tex
+echo "%" >> fifth-ed/tl-modules/fiveaThree/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveaThree/body.tex
+
+#fiveaFour
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveaFour/body.tex
+echo "%" >> fifth-ed/tl-modules/fiveaFour/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveaFour/body.tex
+
+#fiveaFive
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveaFive/body.tex
+echo "%" >> fifth-ed/tl-modules/fiveaFive/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveaFive/body.tex
+
+#fivebOne
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebOne/body.tex
+echo "%" >> fifth-ed/tl-modules/fivebOne/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebOne/body.tex
+
+#fivebTwo
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebTwo/body.tex
+echo "%" >> fifth-ed/tl-modules/fivebTwo/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebTwo/body.tex
+
+#fivebThree
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebThree/body.tex
+echo "%" >> fifth-ed/tl-modules/fivebThree/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebThree/body.tex
+
+#fivebFour
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebFour/body.tex
+echo "%" >> fifth-ed/tl-modules/fivebFour/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebFour/body.tex
+
+#fivebFive
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebFive/body.tex
+echo "%" >> fifth-ed/tl-modules/fivebFive/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebFive/body.tex
+
+#fivebSix
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebSix/body.tex
+echo "%" >> fifth-ed/tl-modules/fivebSix/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebSix/body.tex
+
+#fivebSeven
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebSeven/body.tex
+echo "%" >> fifth-ed/tl-modules/fivebSeven/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebSeven/body.tex
+
+#fivebEight
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebEight/body.tex
+echo "%" >> fifth-ed/tl-modules/fivebEight/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebEight/body.tex
+
+#fivebNine
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebNine/body.tex
+echo "%" >> fifth-ed/tl-modules/fivebNine/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebNine/body.tex
+
+#fivebTen
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebTen/body.tex
+echo "%" >> fifth-ed/tl-modules/fivebTen/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebTen/body.tex
+
+#fivebEleven
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebEleven/body.tex
+echo "%" >> fifth-ed/tl-modules/fivebEleven/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebEleven/body.tex
+
+#fivebTwelve
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebTwelve/body.tex
+echo "%" >> fifth-ed/tl-modules/fivebTwelve/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebTwelve/body.tex
+
+#fivebThirteen
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebThirteen/body.tex
+echo "%" >> fifth-ed/tl-modules/fivebThirteen/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebThirteen/body.tex
+
+#fivebFourteen
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebFourteen/body.tex
+echo "%" >> fifth-ed/tl-modules/fivebFourteen/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebFourteen/body.tex
+
+#fivebFifteen
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebFifteen/body.tex
+echo "%" >> fifth-ed/tl-modules/fivebFifteen/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivebFifteen/body.tex
+
+#fivecOne
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivecOne/body.tex
+echo "%" >> fifth-ed/tl-modules/fivecOne/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivecOne/body.tex
+
+#fivecTwo
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivecTwo/body.tex
+echo "%" >> fifth-ed/tl-modules/fivecTwo/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivecTwo/body.tex
+
+#fivecThree
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivecThree/body.tex
+echo "%" >> fifth-ed/tl-modules/fivecThree/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivecThree/body.tex
+
+#fivecFour
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivecFour/body.tex
+echo "%" >> fifth-ed/tl-modules/fivecFour/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivecFour/body.tex
+
+#fivecFive
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivecFive/body.tex
+echo "%" >> fifth-ed/tl-modules/fivecFive/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivecFive/body.tex
+
+#fivecSix
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivecSix/body.tex
+echo "%" >> fifth-ed/tl-modules/fivecSix/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivecSix/body.tex
+
+#fivecSeven
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivecSeven/body.tex
+echo "%" >> fifth-ed/tl-modules/fivecSeven/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivecSeven/body.tex
+
+#fivecEight
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivecEight/body.tex
+echo "%" >> fifth-ed/tl-modules/fivecEight/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivecEight/body.tex
+
+#fivecNine
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivecNine/body.tex
+echo "%" >> fifth-ed/tl-modules/fivecNine/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivecNine/body.tex
+
+#fivecTen
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivecTen/body.tex
+echo "%" >> fifth-ed/tl-modules/fivecTen/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivecTen/body.tex
+
+#fivecEleven
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivecEleven/body.tex
+echo "%" >> fifth-ed/tl-modules/fivecEleven/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivecEleven/body.tex
+
+#fivedOne
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivedOne/body.tex
+echo "%" >> fifth-ed/tl-modules/fivedOne/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivedOne/body.tex
+
+#fivedTwo
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivedTwo/body.tex
+echo "%" >> fifth-ed/tl-modules/fivedTwo/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivedTwo/body.tex
+
+#fivedThree
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivedThree/body.tex
+echo "%" >> fifth-ed/tl-modules/fivedThree/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivedThree/body.tex
+
+#fivedFour
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivedFour/body.tex
+echo "%" >> fifth-ed/tl-modules/fivedFour/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivedFour/body.tex
+
+#fivedFive
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivedFive/body.tex
+echo "%" >> fifth-ed/tl-modules/fivedFive/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivedFive/body.tex
+
+#fivedSix
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivedSix/body.tex
+echo "%" >> fifth-ed/tl-modules/fivedSix/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivedSix/body.tex
+
+#fiveeOne
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveeOne/body.tex
+echo "%" >> fifth-ed/tl-modules/fiveeOne/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveeOne/body.tex
+
+#fiveeTwo
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveeTwo/body.tex
+echo "%" >> fifth-ed/tl-modules/fiveeTwo/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveeTwo/body.tex
+
+#fiveeThree
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveeThree/body.tex
+echo "%" >> fifth-ed/tl-modules/fiveeThree/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveeThree/body.tex
+
+#fiveeFour
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveeFour/body.tex
+echo "%" >> fifth-ed/tl-modules/fiveeFour/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveeFour/body.tex
+
+#fiveeFive
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveeFive/body.tex
+echo "%" >> fifth-ed/tl-modules/fiveeFive/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveeFive/body.tex
+
+#fiveeSix
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveeSix/body.tex
+echo "%" >> fifth-ed/tl-modules/fiveeSix/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveeSix/body.tex
+
+#fiveeSeven
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveeSeven/body.tex
+echo "%" >> fifth-ed/tl-modules/fiveeSeven/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveeSeven/body.tex
+
+#fiveeEight
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveeEight/body.tex
+echo "%" >> fifth-ed/tl-modules/fiveeEight/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveeEight/body.tex
+
+#fiveeNine
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveeNine/body.tex
+echo "%" >> fifth-ed/tl-modules/fiveeNine/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveeNine/body.tex
+
+#fiveeTen
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveeTen/body.tex
+echo "%" >> fifth-ed/tl-modules/fiveeTen/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveeTen/body.tex
+
+#fivefOne
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivefOne/body.tex
+echo "%" >> fifth-ed/tl-modules/fivefOne/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivefOne/body.tex
+
+#fivefTwo
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivefTwo/body.tex
+echo "%" >> fifth-ed/tl-modules/fivefTwo/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivefTwo/body.tex
+
+#fivefThree
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivefThree/body.tex
+echo "%" >> fifth-ed/tl-modules/fivefThree/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivefThree/body.tex
+
+#fivefFour
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivefFour/body.tex
+echo "%" >> fifth-ed/tl-modules/fivefFour/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivefFour/body.tex
+
+#fivefFive
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivefFive/body.tex
+echo "%" >> fifth-ed/tl-modules/fivefFive/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivefFive/body.tex
+
+#fivefSix
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivefSix/body.tex
+echo "%" >> fifth-ed/tl-modules/fivefSix/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivefSix/body.tex
+
+#fivefSeven
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivefSeven/body.tex
+echo "%" >> fifth-ed/tl-modules/fivefSeven/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivefSeven/body.tex
+
+#fivefEight
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivefEight/body.tex
+echo "%" >> fifth-ed/tl-modules/fivefEight/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivefEight/body.tex
+
+#fivefNine
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivefNine/body.tex
+echo "%" >> fifth-ed/tl-modules/fivefNine/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivefNine/body.tex
+
+#fivegOne
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegOne/body.tex
+echo "%" >> fifth-ed/tl-modules/fivegOne/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegOne/body.tex
+
+#fivegTwo
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegTwo/body.tex
+echo "%" >> fifth-ed/tl-modules/fivegTwo/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegTwo/body.tex
+
+#fivegThree
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegThree/body.tex
+echo "%" >> fifth-ed/tl-modules/fivegThree/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegThree/body.tex
+
+#fivegFour
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegFour/body.tex
+echo "%" >> fifth-ed/tl-modules/fivegFour/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegFour/body.tex
+
+#fivegFive
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegFive/body.tex
+echo "%" >> fifth-ed/tl-modules/fivegFive/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegFive/body.tex
+
+#fivegSix
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegSix/body.tex
+echo "%" >> fifth-ed/tl-modules/fivegSix/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegSix/body.tex
+
+#fivegSeven
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegSeven/body.tex
+echo "%" >> fifth-ed/tl-modules/fivegSeven/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegSeven/body.tex
+
+#fivegEight
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegEight/body.tex
+echo "%" >> fifth-ed/tl-modules/fivegEight/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegEight/body.tex
+
+#fivegNine
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegNine/body.tex
+echo "%" >> fifth-ed/tl-modules/fivegNine/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegNine/body.tex
+
+#fivegTen
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegTen/body.tex
+echo "%" >> fifth-ed/tl-modules/fivegTen/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegTen/body.tex
+
+#fivegEleven
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegEleven/body.tex
+echo "%" >> fifth-ed/tl-modules/fivegEleven/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegEleven/body.tex
+
+#fivegTwelve
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegTwelve/body.tex
+echo "%" >> fifth-ed/tl-modules/fivegTwelve/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegTwelve/body.tex
+
+#fivegThirteen
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegThirteen/body.tex
+echo "%" >> fifth-ed/tl-modules/fivegThirteen/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegThirteen/body.tex
+
+#fivegFourteen
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegFourteen/body.tex
+echo "%" >> fifth-ed/tl-modules/fivegFourteen/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegFourteen/body.tex
+
+#fivegFifteen
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegFifteen/body.tex
+echo "%" >> fifth-ed/tl-modules/fivegFifteen/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegFifteen/body.tex
+
+#fivegSixteen
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegSixteen/body.tex
+echo "%" >> fifth-ed/tl-modules/fivegSixteen/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegSixteen/body.tex
+
+#fivegSeventeen
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegSeventeen/body.tex
+echo "%" >> fifth-ed/tl-modules/fivegSeventeen/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegSeventeen/body.tex
+
+#fivegEighteen
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegEighteen/body.tex
+echo "%" >> fifth-ed/tl-modules/fivegEighteen/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegEighteen/body.tex
+
+#fivegNineteen
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegNineteen/body.tex
+echo "%" >> fifth-ed/tl-modules/fivegNineteen/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegNineteen/body.tex
+
+#fivegTwenty
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegTwenty/body.tex
+echo "%" >> fifth-ed/tl-modules/fivegTwenty/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegTwenty/body.tex
+
+#fivegTwentyOne
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegTwentyOne/body.tex
+echo "%" >> fifth-ed/tl-modules/fivegTwentyOne/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegTwentyOne/body.tex
+
+#fivegTwentyTwo
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegTwentyTwo/body.tex
+echo "%" >> fifth-ed/tl-modules/fivegTwentyTwo/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivegTwentyTwo/body.tex
+
+#fivehOne
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivehOne/body.tex
+echo "%" >> fifth-ed/tl-modules/fivehOne/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivehOne/body.tex
+
+#fivehTwo
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivehTwo/body.tex
+echo "%" >> fifth-ed/tl-modules/fivehTwo/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivehTwo/body.tex
+
+#fivehThree
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivehThree/body.tex
+echo "%" >> fifth-ed/tl-modules/fivehThree/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivehThree/body.tex
+
+#fivehFour
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivehFour/body.tex
+echo "%" >> fifth-ed/tl-modules/fivehFour/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivehFour/body.tex
+
+#fivehFive
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivehFive/body.tex
+echo "%" >> fifth-ed/tl-modules/fivehFive/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivehFive/body.tex
+
+#fivehSix
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivehSix/body.tex
+echo "%" >> fifth-ed/tl-modules/fivehSix/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivehSix/body.tex
+
+#fivehSeven
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivehSeven/body.tex
+echo "%" >> fifth-ed/tl-modules/fivehSeven/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivehSeven/body.tex
+
+#fivehEight
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivehEight/body.tex
+echo "%" >> fifth-ed/tl-modules/fivehEight/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivehEight/body.tex
+
+#fivehNine
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivehNine/body.tex
+echo "%" >> fifth-ed/tl-modules/fivehNine/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fivehNine/body.tex
+
+#fiveiOne
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveiOne/body.tex
+echo "%" >> fifth-ed/tl-modules/fiveiOne/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveiOne/body.tex
+
+#fiveiTwo
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveiTwo/body.tex
+echo "%" >> fifth-ed/tl-modules/fiveiTwo/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveiTwo/body.tex
+
+#fiveiThree
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveiThree/body.tex
+echo "%" >> fifth-ed/tl-modules/fiveiThree/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveiThree/body.tex
+
+#fiveiFour
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveiFour/body.tex
+echo "%" >> fifth-ed/tl-modules/fiveiFour/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveiFour/body.tex
+
+#fiveiFive
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveiFive/body.tex
+echo "%" >> fifth-ed/tl-modules/fiveiFive/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveiFive/body.tex
+
+#fiveiSix
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveiSix/body.tex
+echo "%" >> fifth-ed/tl-modules/fiveiSix/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveiSix/body.tex
+
+#fiveiSeven
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveiSeven/body.tex
+echo "%" >> fifth-ed/tl-modules/fiveiSeven/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveiSeven/body.tex
+
+#fiveiEight
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveiEight/body.tex
+echo "%" >> fifth-ed/tl-modules/fiveiEight/body.tex
+cat fourth-ed/tl-modules/four/body.tex >> fifth-ed/tl-modules/fiveiEight/body.tex
