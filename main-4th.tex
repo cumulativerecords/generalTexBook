@@ -1,0 +1,57 @@
+%\documentclass[12pt,oneside]{book}
+\documentclass[12pt]{book}
+%\usepackage[paperwidth=6in,paperheight=9in]{geometry}
+\usepackage[a4paper]{geometry}
+%\usepackage[]{geometry}
+\usepackage{style/style,style/tlfour,style/tlfive,style/bibAndIndex}
+\bibliography{tex/bib/refMan.bib}
+%\makeindex[intoc]
+% \renewcommand*{\marginfont}{\color{NavyBlue}\bfseries\sffamily}
+%
+%For Table of Contents
+\setcounter{tocdepth}{1}
+\usepackage{tocloft}
+\setlength{\cftsecnumwidth}{4em}
+\makeatother
+\begin{document}
+    \frontmatter
+	\input{tex/frontmatter/title}
+	\input{tex/frontmatter/copyright}
+	\clearpage
+	\tableofcontents
+	\clearpage
+	\listoffigures
+	\clearpage
+	\listoftables
+	\clearpage
+	\include{tex/frontmatter/author}
+	\include{tex/frontmatter/preface}
+%	\include{tex/frontmatter/about}
+%	\include{tex/chapters/admin/admin}
+    \mainmatter
+%	Write chapters below.
+	\import{tex/chapters/fourth-ed/intro/}{intro.tex}
+	\import{tex/chapters/fourth-ed/}{fourseca.tex}
+	\import{tex/chapters/fourth-ed/}{foursecb.tex}
+	\import{tex/chapters/fourth-ed/}{foursecc.tex}
+	\import{tex/chapters/fourth-ed/}{foursecd.tex}
+	\import{tex/chapters/fourth-ed/}{foursece.tex}
+	\import{tex/chapters/fourth-ed/}{foursecf.tex}
+	\import{tex/chapters/fourth-ed/}{foursecg.tex}
+	\import{tex/chapters/fourth-ed/}{foursech.tex}
+	\import{tex/chapters/fourth-ed/}{fourseci.tex}
+	\import{tex/chapters/fourth-ed/}{foursecj.tex}
+	\import{tex/chapters/fourth-ed/}{fourseck.tex}
+	\import{tex/chapters/fourth-ed/}{foursecFK.tex}
+	\import{tex/chapters/fourth-ed/after-internship/}{after-internship.tex}
+		
+	\input{tex/glossary/glossary}
+	\nocite{*}
+	\printbibliography[title=References,heading=bibintoc]
+% Print the printbibliography.
+% Now print indexes.
+\raggedright
+\printindex         % the general index
+\printindex[names]  % the name index
+\printindex[titles] % the title index   
+\end{document}
