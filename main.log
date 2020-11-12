@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  11 NOV 2020 22:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  12 NOV 2020 09:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1543,12 +1543,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--14
 [2]) (./main.toc [3
 
 
-] [4] [5]
-Underfull \vbox (badness 2165) has occurred while \output is active []
+] [4]
+Underfull \vbox (badness 2181) has occurred while \output is active []
+
+ [5]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6]
 [7] [8]
-Overfull \hbox (3.5655pt too wide) in paragraph at lines 2074--2074
+Overfull \hbox (3.5655pt too wide) in paragraph at lines 2072--2072
  [][] [][]\T1/cmr/m/n/12 D-21 Use dif-fer-en-tial re-in-force-ment (e.g., DRO, 
 DRA, DRI, DRL, 
  []
@@ -1738,86 +1741,86 @@ SCIENCE OF BEHAVIOR ANALYSIS (E.G., SELECTIONISM, DETERMINISM, EMPIRICISM, PARS
 IMONY, PRAGMATISM). \T1/cmr/m/n/12 13
  []
 
-[13] [14
-
-]
-\blx@maxsegment@7=\count476
-\blx@sectionciteorder@7=\count477
-Package biblatex Info: Reference section=7 on input line 24.
-Package biblatex Info: Setting label 'refsection:7' on input line 24.
-Package biblatex Info: Reference section=0 on input line 28.
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--41
-
- []
-
-[15]
-Overfull \hbox (7.73743pt too wide) in paragraph at lines 42--42
-[]\T1/cmr/bx/n/17.28 FK-08 Dis-tin-guish be-tween rad-i-cal and method-
- []
-
-
-Overfull \hbox (3.53764pt too wide) in paragraph at lines 49--50
+[13] (./tex/chapters/fifth-ed/tl-modules/fiveaThree/nfo.tex
+Overfull \hbox (3.53764pt too wide) in paragraph at lines 16--17
 []\T1/cmr/m/n/12 The dis-tinc-tion be-tween rad-i-cal and method-olog-i-cal be-
 hav-ior-ism can be summed
  []
 
+[14
+
+]) (./tex/chapters/fifth-ed/tl-modules/fiveaThree/ssmt.tex)
+(./tex/chapters/fifth-ed/tl-modules/fiveaThree/lit.tex
+\blx@maxsegment@7=\count476
+\blx@sectionciteorder@7=\count477
+Package biblatex Info: Reference section=7 on input line 2.
+Package biblatex Info: Setting label 'refsection:7' on input line 2.
+Package biblatex Info: Reference section=0 on input line 6.
 \blx@maxsegment@8=\count478
 \blx@sectionciteorder@8=\count479
-Package biblatex Info: Reference section=8 on input line 59.
-Package biblatex Info: Setting label 'refsection:8' on input line 59.
-[16
+Package biblatex Info: Reference section=8 on input line 10.
+Package biblatex Info: Setting label 'refsection:8' on input line 10.
 
-]
-Package biblatex Info: Reference section=0 on input line 67.
-) (./tex/chapters/fifth-ed/tl-modules/fiveaFour/body.tex
-Underfull \hbox (badness 10000) in paragraph at lines 70--1
+Overfull \hbox (175.68398pt too wide) has occurred while \output is active
+\T1/cmr/m/sl/12 1.3.  A-3 DESCRIBE AND EXPLAIN BEHAVIOR FROM THE PERSPECTIVE OF
+ RADICAL BEHAVIORISM. \T1/cmr/m/n/12 15
+ []
+
+[15]
+Package biblatex Info: Reference section=0 on input line 18.
+) (./tex/chapters/fifth-ed/tl-modules/fiveaThree/lssnz.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--13
 
  []
 
-[17]
+)
+Underfull \hbox (badness 10000) in paragraph at lines 14--7
+
+ []
+
+) (./tex/chapters/fifth-ed/tl-modules/fiveaFour/body.tex [16]
 Overfull \hbox (8.14565pt too wide) in paragraph at lines 2--2
 []\T1/cmr/bx/n/17.28 FK-09 Dis-tin-guish be-tween the con-cep-tual anal-
  []
 
-[18
+[17
 
 ]
 \blx@maxsegment@9=\count480
 \blx@sectionciteorder@9=\count481
 Package biblatex Info: Reference section=9 on input line 26.
 Package biblatex Info: Setting label 'refsection:9' on input line 26.
- [19]
+ [18]
 Package biblatex Info: Reference section=0 on input line 35.
 ) (./tex/chapters/fifth-ed/tl-modules/fiveaFive/body.tex
 Underfull \hbox (badness 10000) in paragraph at lines 38--1
 
  []
 
-[20] [21
+[19] [20
 
 ]
 \blx@maxsegment@10=\count482
 \blx@sectionciteorder@10=\count483
 Package biblatex Info: Reference section=10 on input line 30.
 Package biblatex Info: Setting label 'refsection:10' on input line 30.
- [22]
+ [21]
 Package biblatex Info: Reference section=0 on input line 37.
 )) (./tex/chapters/fifth-ed/fivesecb.tex
 Underfull \hbox (badness 10000) in paragraph at lines 40--1
 
  []
 
-[23] [24
+[22]
+Chapter 2.
+(./tex/chapters/fifth-ed/tl-modules/fivebOne/body.tex [23
 
 ]
-Chapter 2.
-(./tex/chapters/fifth-ed/tl-modules/fivebOne/body.tex [25]
 \blx@maxsegment@11=\count484
 \blx@sectionciteorder@11=\count485
 Package biblatex Info: Reference section=11 on input line 28.
 Package biblatex Info: Setting label 'refsection:11' on input line 28.
- [26
+ [24
 
 ]
 Overfull \hbox (20.22926pt too wide) in paragraph at lines 33--33
@@ -1831,12 +1834,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--1
 
  []
 
-[27]
+[25]
 Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
-[28
+[26
 
 ]
 \blx@maxsegment@12=\count486
@@ -1849,7 +1852,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--40
 
  []
 
-[29] [30
+[27] [28
 
 ]
 \blx@maxsegment@13=\count488
@@ -1857,7 +1860,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--40
 Package biblatex Info: Reference section=13 on input line 71.
 Package biblatex Info: Setting label 'refsection:13' on input line 71.
 Package biblatex Info: Reference section=0 on input line 76.
-) (./tex/chapters/fifth-ed/tl-modules/fivebThree/body.tex [31]
+) (./tex/chapters/fifth-ed/tl-modules/fivebThree/body.tex [29]
 \blx@maxsegment@14=\count490
 \blx@sectionciteorder@14=\count491
 Package biblatex Info: Reference section=14 on input line 23.
@@ -1868,9 +1871,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--36
 
  []
 
-[32
+[30
 
-] [33
+] [31
 
 ]
 \blx@maxsegment@15=\count492
@@ -1883,7 +1886,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 74--83
 
  []
 
-[34]
+[32]
 \blx@maxsegment@16=\count494
 \blx@sectionciteorder@16=\count495
 Package biblatex Info: Reference section=16 on input line 102.
@@ -1894,9 +1897,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 109--113
 
  []
 
-[35
+[33
 
-] [36
+] [34
 
 ]
 \blx@maxsegment@17=\count496
@@ -1909,12 +1912,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--1
 
  []
 
-[37]
+[35]
 \blx@maxsegment@18=\count498
 \blx@sectionciteorder@18=\count499
 Package biblatex Info: Reference section=18 on input line 23.
 Package biblatex Info: Setting label 'refsection:18' on input line 23.
- [38
+ [36
 
 ]
 Package biblatex Info: Reference section=0 on input line 31.
@@ -1923,12 +1926,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--46
 
  []
 
-[39]
+[37]
 \blx@maxsegment@19=\count500
 \blx@sectionciteorder@19=\count501
 Package biblatex Info: Reference section=19 on input line 67.
 Package biblatex Info: Setting label 'refsection:19' on input line 67.
- [40
+ [38
 
 ]
 Package biblatex Info: Reference section=0 on input line 74.
@@ -1937,12 +1940,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--94
 
  []
 
-[41]
+[39]
 \blx@maxsegment@20=\count502
 \blx@sectionciteorder@20=\count503
 Package biblatex Info: Reference section=20 on input line 116.
 Package biblatex Info: Setting label 'refsection:20' on input line 116.
- [42
+ [40
 
 ]
 Package biblatex Info: Reference section=0 on input line 121.
@@ -1951,12 +1954,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 124--127
 
  []
 
-[43]
+[41]
 \blx@maxsegment@21=\count504
 \blx@sectionciteorder@21=\count505
 Package biblatex Info: Reference section=21 on input line 150.
 Package biblatex Info: Setting label 'refsection:21' on input line 150.
- [44
+ [42
 
 ]
 Package biblatex Info: Reference section=0 on input line 158.
@@ -1965,7 +1968,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 161--1
 
  []
 
-[45]
+[43]
 \blx@maxsegment@22=\count506
 \blx@sectionciteorder@22=\count507
 Package biblatex Info: Reference section=22 on input line 19.
@@ -1976,14 +1979,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--33
 
  []
 
-[46
+[44
 
-] [47]
+] [45]
 Underfull \hbox (badness 10000) in paragraph at lines 37--38
 
  []
 
-[48
+[46
 
 ]
 \blx@maxsegment@23=\count508
@@ -1996,32 +1999,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--1
 
  []
 
-[49] [50
+[47] [48
 
 ]
+Overfull \hbox (61.67914pt too wide) has occurred while \output is active
+\T1/cmr/m/sl/12 2.14.  D-17 USE APPROPRIATE PARAMETERS AND SCHEDULES OF PUNISHM
+ENT. \T1/cmr/m/n/12 49
+ []
+
+[49]
+\blx@maxsegment@24=\count510
+\blx@sectionciteorder@24=\count511
+Package biblatex Info: Reference section=24 on input line 60.
+Package biblatex Info: Setting label 'refsection:24' on input line 60.
+Package biblatex Info: Reference section=0 on input line 69.
+ [50]
 Overfull \hbox (61.67914pt too wide) has occurred while \output is active
 \T1/cmr/m/sl/12 2.14.  D-17 USE APPROPRIATE PARAMETERS AND SCHEDULES OF PUNISHM
 ENT. \T1/cmr/m/n/12 51
  []
 
 [51]
-\blx@maxsegment@24=\count510
-\blx@sectionciteorder@24=\count511
-Package biblatex Info: Reference section=24 on input line 60.
-Package biblatex Info: Setting label 'refsection:24' on input line 60.
-Package biblatex Info: Reference section=0 on input line 69.
- [52]
-Overfull \hbox (61.67914pt too wide) has occurred while \output is active
-\T1/cmr/m/sl/12 2.14.  D-17 USE APPROPRIATE PARAMETERS AND SCHEDULES OF PUNISHM
-ENT. \T1/cmr/m/n/12 53
- []
-
-[53]
 \blx@maxsegment@25=\count512
 \blx@sectionciteorder@25=\count513
 Package biblatex Info: Reference section=25 on input line 108.
 Package biblatex Info: Setting label 'refsection:25' on input line 108.
- [54
+ [52
 
 ]
 Package biblatex Info: Reference section=0 on input line 113.
@@ -2030,7 +2033,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 116--119
 
  []
 
-[55]
+[53]
 \blx@maxsegment@26=\count514
 \blx@sectionciteorder@26=\count515
 Package biblatex Info: Reference section=26 on input line 138.
@@ -2041,19 +2044,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 146--154
 
  []
 
-[56
+[54
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 155--158
 
  []
 
-[57]
+[55]
 \blx@maxsegment@27=\count516
 \blx@sectionciteorder@27=\count517
 Package biblatex Info: Reference section=27 on input line 182.
 Package biblatex Info: Setting label 'refsection:27' on input line 182.
- [58
+ [56
 
 ]
 Package biblatex Info: Reference section=0 on input line 188.
@@ -2062,7 +2065,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 191--203
 
  []
 
-[59] [60
+[57] [58
 
 ]
 \blx@maxsegment@28=\count518
@@ -2075,7 +2078,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 235--1
 
  []
 
-[61]
+[59]
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
@@ -2084,7 +2087,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 \blx@sectionciteorder@29=\count521
 Package biblatex Info: Reference section=29 on input line 22.
 Package biblatex Info: Setting label 'refsection:29' on input line 22.
-[62
+[60
 
 ]
 Package biblatex Info: Reference section=0 on input line 26.
@@ -2093,7 +2096,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--33
 
  []
 
-[63] [64
+[61] [62
 
 ]
 \blx@maxsegment@30=\count522
@@ -2106,7 +2109,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--68
 
  []
 
-[65] [66
+[63] [64
 
 ]
 \blx@maxsegment@31=\count524
@@ -2125,12 +2128,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 111--119
 
  []
 
-[67] [68]
+[65] [66]
 \blx@maxsegment@32=\count526
 \blx@sectionciteorder@32=\count527
 Package biblatex Info: Reference section=32 on input line 139.
 Package biblatex Info: Setting label 'refsection:32' on input line 139.
- [69
+ [67
 
 ]
 Package biblatex Info: Reference section=0 on input line 149.
@@ -2139,7 +2142,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 152--1
 
  []
 
-[70] [71
+[68] [69
 
 ]
 \blx@maxsegment@33=\count528
@@ -2152,12 +2155,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--40
 
  []
 
-[72] [73]
+[70] [71]
 \blx@maxsegment@34=\count530
 \blx@sectionciteorder@34=\count531
 Package biblatex Info: Reference section=34 on input line 62.
 Package biblatex Info: Setting label 'refsection:34' on input line 62.
- [74
+ [72
 
 ]
 Package biblatex Info: Reference section=0 on input line 70.
@@ -2166,12 +2169,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--85
 
  []
 
-[75]
+[73]
 \blx@maxsegment@35=\count532
 \blx@sectionciteorder@35=\count533
 Package biblatex Info: Reference section=35 on input line 106.
 Package biblatex Info: Setting label 'refsection:35' on input line 106.
- [76
+ [74
 
 ]
 Package biblatex Info: Reference section=0 on input line 113.
@@ -2180,7 +2183,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 116--133
 
  []
 
-[77]
+[75]
 \blx@maxsegment@36=\count534
 \blx@sectionciteorder@36=\count535
 Package biblatex Info: Reference section=36 on input line 152.
@@ -2191,19 +2194,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 160--168
 
  []
 
-[78
+[76
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 169--172
 
  []
 
-[79]
+[77]
 \blx@maxsegment@37=\count536
 \blx@sectionciteorder@37=\count537
 Package biblatex Info: Reference section=37 on input line 196.
 Package biblatex Info: Setting label 'refsection:37' on input line 196.
- [80
+ [78
 
 ]
 Package biblatex Info: Reference section=0 on input line 202.
@@ -2212,7 +2215,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 205--1
 
  []
 
-[81] [82
+[79] [80
 
 ]
 \blx@maxsegment@38=\count538
@@ -2225,7 +2228,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--1
 
  []
 
-[83]
+[81]
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
@@ -2245,9 +2248,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--36
 
  []
 
-[84
+[82
 
-] [85]
+] [83]
 \blx@maxsegment@40=\count542
 \blx@sectionciteorder@40=\count543
 Package biblatex Info: Reference section=40 on input line 52.
@@ -2264,14 +2267,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--1
 
  []
 
-[86
+[84
 
-] [87]
+] [85]
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
-[88
+[86
 
 ]
 \blx@maxsegment@41=\count544
@@ -2284,7 +2287,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--38
 
  []
 
-[89]
+[87]
 \blx@maxsegment@42=\count546
 \blx@sectionciteorder@42=\count547
 Package biblatex Info: Reference section=42 on input line 59.
@@ -2295,9 +2298,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--72
 
  []
 
-[90
+[88
 
-] [91]
+] [89]
 Underfull \hbox (badness 10000) in paragraph at lines 74--78
 
  []
@@ -2306,7 +2309,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 74--78
 \blx@sectionciteorder@43=\count549
 Package biblatex Info: Reference section=43 on input line 93.
 Package biblatex Info: Setting label 'refsection:43' on input line 93.
-[92
+[90
 
 ]
 Package biblatex Info: Reference section=0 on input line 100.
@@ -2315,7 +2318,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--117
 
  []
 
-[93]
+[91]
 \blx@maxsegment@44=\count550
 \blx@sectionciteorder@44=\count551
 Package biblatex Info: Reference section=44 on input line 137.
@@ -2326,9 +2329,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--1
 
  []
 
-[94
+[92
 
-] [95] [96
+] [93] [94
 
 ]
 \blx@maxsegment@45=\count552
@@ -2345,10 +2348,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--35
 Overfull \hbox (461.35556pt too wide) has occurred while \output is active
 \T1/cmr/m/sl/12 2.35.  E-01 USE INTERVENTIONS BASED ON MANIPULATION OF ANTECEDE
 NTS, SUCH AS MOTIVATING OPERATIONS AND DISCRIMINATIVE STIMULI. \T1/cmr/m/n/12 9
-7
+5
  []
 
-[97]
+[95]
 Underfull \hbox (badness 10000) in paragraph at lines 37--39
 
  []
@@ -2358,7 +2361,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
  []
 
-[98
+[96
 
 ]
 \blx@maxsegment@46=\count554
@@ -2371,7 +2374,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 72--85
 
  []
 
-[99]
+[97]
 Underfull \hbox (badness 10000) in paragraph at lines 87--88
 
  []
@@ -2399,7 +2402,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 102--103
 
 Underfull \vbox (badness 2027) has occurred while \output is active []
 
- [100
+ [98
 
 ]
 \blx@maxsegment@47=\count556
@@ -2412,7 +2415,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 129--142
 
  []
 
-[101] [102]
+[99] [100]
 Underfull \hbox (badness 10000) in paragraph at lines 146--147
 
  []
@@ -2438,7 +2441,7 @@ Overfull \hbox (12.2378pt too wide) in paragraph at lines 158--159
 in escape-maintained
  []
 
-[103
+[101
 
 ]
 \blx@maxsegment@48=\count558
@@ -2451,7 +2454,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 186--198
 
  []
 
-[104] [105]
+[102] [103]
 Underfull \hbox (badness 10000) in paragraph at lines 202--203
 
  []
@@ -2461,7 +2464,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 204--206
 
  []
 
-[106
+[104
 
 ]
 \blx@maxsegment@49=\count560
@@ -2480,12 +2483,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 230--243
 
  []
 
-[107]
+[105]
 Underfull \hbox (badness 10000) in paragraph at lines 247--248
 
  []
 
-[108
+[106
 
 ]
 Overfull \hbox (10.19301pt too wide) in paragraph at lines 261--262
@@ -2515,7 +2518,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 275--1
 
  []
 
-[109] [110]
+[107] [108]
 Overfull \hbox (1.64369pt too wide) in paragraph at lines 16--17
 []\T1/cmr/m/n/12 Ask your su-per-visee how rule-governed be-hav-ior is dif-fer-
 ent from contingency-
@@ -2525,7 +2528,7 @@ ent from contingency-
 \blx@sectionciteorder@51=\count565
 Package biblatex Info: Reference section=51 on input line 21.
 Package biblatex Info: Setting label 'refsection:51' on input line 21.
-[111
+[109
 
 ]
 Overfull \hbox (20.22926pt too wide) in paragraph at lines 27--27
@@ -2539,12 +2542,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--34
 
  []
 
-[112]
+[110]
 \blx@maxsegment@52=\count566
 \blx@sectionciteorder@52=\count567
 Package biblatex Info: Reference section=52 on input line 54.
 Package biblatex Info: Setting label 'refsection:52' on input line 54.
- [113
+ [111
 
 ]
 Package biblatex Info: Reference section=0 on input line 64.
@@ -2553,13 +2556,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--1
 
  []
 
-[114]
+[112]
 Overfull \hbox (8.49356pt too wide) in paragraph at lines 6--7
 \T1/cmr/m/n/12 whereby speak-ers gain ac-cess to re-in-force-ment and con-trol 
 their en-vi-ron-ment through
  []
 
-[115
+[113
 
 ]
 \blx@maxsegment@53=\count568
@@ -2572,13 +2575,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--55
 
  []
 
-[116]
+[114]
 Overfull \hbox (81.09697pt too wide) has occurred while \output is active
 \T1/cmr/m/sl/12 2.43.  D-09 USE THE VERBAL OPERANTS AS A BASIS FOR LANGUAGE ASS
-ESSMENT. \T1/cmr/m/n/12 117
+ESSMENT. \T1/cmr/m/n/12 115
  []
 
-[117]
+[115]
 \blx@maxsegment@54=\count570
 \blx@sectionciteorder@54=\count571
 Package biblatex Info: Reference section=54 on input line 77.
@@ -2589,9 +2592,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 85--88
 
  []
 
-[118
+[116
 
-] [119]
+] [117]
 Underfull \hbox (badness 10000) in paragraph at lines 90--91
 
  []
@@ -2600,7 +2603,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 90--91
 \blx@sectionciteorder@55=\count573
 Package biblatex Info: Reference section=55 on input line 114.
 Package biblatex Info: Setting label 'refsection:55' on input line 114.
-[120
+[118
 
 ]
 Package biblatex Info: Reference section=0 on input line 121.
@@ -2609,7 +2612,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 124--129
 
  []
 
-[121]
+[119]
 \blx@maxsegment@56=\count574
 \blx@sectionciteorder@56=\count575
 Package biblatex Info: Reference section=56 on input line 151.
@@ -2620,9 +2623,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 158--160
 
  []
 
-[122
+[120
 
-] [123]
+] [121]
 \blx@maxsegment@57=\count576
 \blx@sectionciteorder@57=\count577
 Package biblatex Info: Reference section=57 on input line 181.
@@ -2639,9 +2642,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 189--1
 
  []
 
-[124
+[122
 
-] [125
+] [123
 
 ]
 \blx@maxsegment@58=\count578
@@ -2649,7 +2652,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 189--1
 Package biblatex Info: Reference section=58 on input line 32.
 Package biblatex Info: Setting label 'refsection:58' on input line 32.
 Package biblatex Info: Reference section=0 on input line 37.
- [126]
+ [124]
 \blx@maxsegment@59=\count580
 \blx@sectionciteorder@59=\count581
 Package biblatex Info: Reference section=59 on input line 61.
@@ -2660,9 +2663,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--74
 
  []
 
-[127
+[125
 
-] [128
+] [126
 
 ]
 \blx@maxsegment@60=\count582
@@ -2675,7 +2678,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--121
 
  []
 
-[129]
+[127]
 \blx@maxsegment@61=\count584
 \blx@sectionciteorder@61=\count585
 Package biblatex Info: Reference section=61 on input line 140.
@@ -2686,9 +2689,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 147--151
 
  []
 
-[130
+[128
 
-] [131
+] [129
 
 ]
 \blx@maxsegment@62=\count586
@@ -2701,9 +2704,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 186--1
 
  []
 
-[132]
+[130]
 Chapter 3.
-(./tex/chapters/fifth-ed/tl-modules/fivecOne/body.tex [133
+(./tex/chapters/fifth-ed/tl-modules/fivecOne/body.tex [131
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 8--9
@@ -2717,11 +2720,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
 
 Overfull \hbox (24.48506pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 134 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
+\T1/cmr/m/n/12 132 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
 D INTERPRETATION
  []
 
-[134
+[132
 
 ]
 \blx@maxsegment@63=\count588
@@ -2734,13 +2737,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--56
 
  []
 
-[135]
+[133]
 Overfull \hbox (24.48506pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 136 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
+\T1/cmr/m/n/12 134 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
 D INTERPRETATION
  []
 
-[136] [137
+[134] [135
 
 ]
 \blx@maxsegment@64=\count590
@@ -2749,14 +2752,14 @@ Package biblatex Info: Reference section=64 on input line 85.
 Package biblatex Info: Setting label 'refsection:64' on input line 85.
 
 Overfull \hbox (27.18512pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 138 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
+\T1/cmr/m/n/12 136 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
 D INTERPRETATION
  []
 
-[138]
+[136]
 Package biblatex Info: Reference section=0 on input line 92.
 ) (./tex/chapters/fifth-ed/tl-modules/fivecTwo/body.tex)
-(./tex/chapters/fifth-ed/tl-modules/fivecThree/body.tex [139]
+(./tex/chapters/fifth-ed/tl-modules/fivecThree/body.tex [137]
 \blx@maxsegment@65=\count592
 \blx@sectionciteorder@65=\count593
 Package biblatex Info: Reference section=65 on input line 19.
@@ -2769,13 +2772,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--29
 
 
 Overfull \hbox (24.48506pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 140 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
+\T1/cmr/m/n/12 138 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
 D INTERPRETATION
  []
 
-[140
+[138
 
-] [141]
+] [139]
 \blx@maxsegment@66=\count594
 \blx@sectionciteorder@66=\count595
 Package biblatex Info: Reference section=66 on input line 51.
@@ -2788,13 +2791,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--60
 
 
 Overfull \hbox (24.48506pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 142 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
+\T1/cmr/m/n/12 140 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
 D INTERPRETATION
  []
 
-[142
+[140
 
-] [143]
+] [141]
 Underfull \hbox (badness 10000) in paragraph at lines 66--67
 
  []
@@ -2806,11 +2809,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--69
 
 
 Overfull \hbox (24.48506pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 144 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
+\T1/cmr/m/n/12 142 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
 D INTERPRETATION
  []
 
-[144
+[142
 
 ]
 \blx@maxsegment@67=\count596
@@ -2823,18 +2826,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 95--99
 
  []
 
-[145]
+[143]
 \blx@maxsegment@68=\count598
 \blx@sectionciteorder@68=\count599
 Package biblatex Info: Reference section=68 on input line 121.
 Package biblatex Info: Setting label 'refsection:68' on input line 121.
 
 Overfull \hbox (27.18512pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 146 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
+\T1/cmr/m/n/12 144 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
 D INTERPRETATION
  []
 
-[146
+[144
 
 ]
 Package biblatex Info: Reference section=0 on input line 127.
@@ -2843,7 +2846,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 130--1
 
  []
 
-[147]
+[145]
 \blx@maxsegment@69=\count600
 \blx@sectionciteorder@69=\count601
 Package biblatex Info: Reference section=69 on input line 20.
@@ -2856,13 +2859,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--31
 
 
 Overfull \hbox (24.48506pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 148 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
+\T1/cmr/m/n/12 146 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
 D INTERPRETATION
  []
 
-[148
+[146
 
-] [149]
+] [147]
 \blx@maxsegment@70=\count602
 \blx@sectionciteorder@70=\count603
 Package biblatex Info: Reference section=70 on input line 51.
@@ -2875,17 +2878,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--61
 
 
 Overfull \hbox (24.48506pt too wide) has occurred while \output is active
+\T1/cmr/m/n/12 148 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
+D INTERPRETATION
+ []
+
+[148
+
+] [149]
+\blx@maxsegment@71=\count604
+\blx@sectionciteorder@71=\count605
+Package biblatex Info: Reference section=71 on input line 82.
+Package biblatex Info: Setting label 'refsection:71' on input line 82.
+
+Overfull \hbox (27.18512pt too wide) has occurred while \output is active
 \T1/cmr/m/n/12 150 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
 D INTERPRETATION
  []
 
 [150
 
-] [151]
-\blx@maxsegment@71=\count604
-\blx@sectionciteorder@71=\count605
-Package biblatex Info: Reference section=71 on input line 82.
-Package biblatex Info: Setting label 'refsection:71' on input line 82.
+]
+Package biblatex Info: Reference section=0 on input line 85.
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--93
+
+ []
+
+[151]
+\blx@maxsegment@72=\count606
+\blx@sectionciteorder@72=\count607
+Package biblatex Info: Reference section=72 on input line 115.
+Package biblatex Info: Setting label 'refsection:72' on input line 115.
 
 Overfull \hbox (27.18512pt too wide) has occurred while \output is active
 \T1/cmr/m/n/12 152 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
@@ -2895,19 +2918,19 @@ D INTERPRETATION
 [152
 
 ]
-Package biblatex Info: Reference section=0 on input line 85.
+Package biblatex Info: Reference section=0 on input line 121.
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--93
+Underfull \hbox (badness 10000) in paragraph at lines 124--132
 
  []
 
 [153]
-\blx@maxsegment@72=\count606
-\blx@sectionciteorder@72=\count607
-Package biblatex Info: Reference section=72 on input line 115.
-Package biblatex Info: Setting label 'refsection:72' on input line 115.
+Overfull \hbox (0.15298pt too wide) in paragraph at lines 133--133
+[]\T1/cmr/bx/n/17.28 H-05 Eval-u-ate tem-po-ral re-la-tions be-tween ob-
+ []
 
-Overfull \hbox (27.18512pt too wide) has occurred while \output is active
+
+Overfull \hbox (24.48506pt too wide) has occurred while \output is active
 \T1/cmr/m/n/12 154 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
 D INTERPRETATION
  []
@@ -2915,31 +2938,11 @@ D INTERPRETATION
 [154
 
 ]
-Package biblatex Info: Reference section=0 on input line 121.
-
-Underfull \hbox (badness 10000) in paragraph at lines 124--132
-
- []
-
-[155]
-Overfull \hbox (0.15298pt too wide) in paragraph at lines 133--133
-[]\T1/cmr/bx/n/17.28 H-05 Eval-u-ate tem-po-ral re-la-tions be-tween ob-
- []
-
-
-Overfull \hbox (24.48506pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 156 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
-D INTERPRETATION
- []
-
-[156
-
-]
 \blx@maxsegment@73=\count608
 \blx@sectionciteorder@73=\count609
 Package biblatex Info: Reference section=73 on input line 164.
 Package biblatex Info: Setting label 'refsection:73' on input line 164.
- [157]
+ [155]
 Overfull \hbox (1.7925pt too wide) in paragraph at lines 177--177
 [][][][][][]\T1/cmr/m/n/12 Krause, T. R., Sey-mour, K., & Sloat, K. (1999). Lon
 g-term eval-u-a-tion of a behavior-
@@ -2953,16 +2956,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 181--1
 
 
 Overfull \hbox (24.48506pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 158 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
+\T1/cmr/m/n/12 156 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
 D INTERPRETATION
  []
 
-[158]
+[156]
 \blx@maxsegment@74=\count610
 \blx@sectionciteorder@74=\count611
 Package biblatex Info: Reference section=74 on input line 28.
 Package biblatex Info: Setting label 'refsection:74' on input line 28.
- [159
+ [157
 
 ]
 Overfull \hbox (20.22926pt too wide) in paragraph at lines 33--33
@@ -2978,11 +2981,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--41
 
 
 Overfull \hbox (24.48506pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 160 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
+\T1/cmr/m/n/12 158 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
 D INTERPRETATION
  []
 
-[160]
+[158]
 Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
@@ -2991,7 +2994,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--44
 \blx@sectionciteorder@75=\count613
 Package biblatex Info: Reference section=75 on input line 67.
 Package biblatex Info: Setting label 'refsection:75' on input line 67.
-[161
+[159
 
 ]
 Package biblatex Info: Reference section=0 on input line 74.
@@ -3002,11 +3005,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--1
 
 
 Overfull \hbox (24.48506pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 162 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
+\T1/cmr/m/n/12 160 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
 D INTERPRETATION
  []
 
-[162]
+[160]
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
@@ -3020,7 +3023,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--7
 \blx@sectionciteorder@76=\count615
 Package biblatex Info: Reference section=76 on input line 20.
 Package biblatex Info: Setting label 'refsection:76' on input line 20.
-[163
+[161
 
 ]
 Package biblatex Info: Reference section=0 on input line 23.
@@ -3031,11 +3034,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--1
 
 
 Overfull \hbox (24.48506pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 164 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
+\T1/cmr/m/n/12 162 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
 D INTERPRETATION
  []
 
-[164]
+[162]
 Overfull \hbox (1.87173pt too wide) in paragraph at lines 2--2
 \T1/cmr/bx/n/17.28 dures (e.g., partial- and whole-interval record-
  []
@@ -3044,7 +3047,7 @@ Overfull \hbox (1.87173pt too wide) in paragraph at lines 2--2
 \blx@sectionciteorder@77=\count617
 Package biblatex Info: Reference section=77 on input line 38.
 Package biblatex Info: Setting label 'refsection:77' on input line 38.
-[165
+[163
 
 ]
 Package biblatex Info: Reference section=0 on input line 46.
@@ -3061,16 +3064,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--1
 
 
 Overfull \hbox (24.48506pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 166 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
+\T1/cmr/m/n/12 164 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
 D INTERPRETATION
  []
 
-[166]
+[164]
 \blx@maxsegment@78=\count618
 \blx@sectionciteorder@78=\count619
 Package biblatex Info: Reference section=78 on input line 19.
 Package biblatex Info: Setting label 'refsection:78' on input line 19.
- [167
+ [165
 
 ]
 Package biblatex Info: Reference section=0 on input line 22.
@@ -3081,11 +3084,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--36
 
 
 Overfull \hbox (24.48506pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 168 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
+\T1/cmr/m/n/12 166 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
 D INTERPRETATION
  []
 
-[168]
+[166]
 Overfull \hbox (2.81773pt too wide) in paragraph at lines 36--36
 []\T1/cmr/bx/n/17.28 A-08 As-sess and in-ter-pret in-ter-ob-server agree-
  []
@@ -3095,7 +3098,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
-[169
+[167
 
 ]
 \blx@maxsegment@79=\count620
@@ -3110,17 +3113,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--1
 
 
 Overfull \hbox (24.48506pt too wide) has occurred while \output is active
+\T1/cmr/m/n/12 168 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
+D INTERPRETATION
+ []
+
+[168] [169]
+Overfull \hbox (24.48506pt too wide) has occurred while \output is active
 \T1/cmr/m/n/12 170 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
 D INTERPRETATION
  []
 
-[170] [171]
-Overfull \hbox (24.48506pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 172 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
-D INTERPRETATION
- []
-
-[172
+[170
 
 ]
 \blx@maxsegment@80=\count622
@@ -3133,18 +3136,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--55
 
  []
 
-[173]
+[171]
 Overfull \hbox (24.48506pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 174 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
+\T1/cmr/m/n/12 172 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
 D INTERPRETATION
  []
 
-[174]
+[172]
 \blx@maxsegment@81=\count624
 \blx@sectionciteorder@81=\count625
 Package biblatex Info: Reference section=81 on input line 82.
 Package biblatex Info: Setting label 'refsection:81' on input line 82.
- [175
+ [173
 
 ]
 Package biblatex Info: Reference section=0 on input line 85.
@@ -3155,16 +3158,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 88--94
 
 
 Overfull \hbox (24.48506pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 176 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
+\T1/cmr/m/n/12 174 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
 D INTERPRETATION
  []
 
-[176]
+[174]
 Overfull \hbox (13.46272pt too wide) in paragraph at lines 95--95
 []\T1/cmr/bx/n/17.28 A-13 De-sign and im-ple-ment dis-con-tin-u-ous mea-
  []
 
-[177
+[175
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 125--126
@@ -3173,11 +3176,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
 
 Overfull \hbox (24.48506pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 178 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
+\T1/cmr/m/n/12 176 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
 D INTERPRETATION
  []
 
-[178]
+[176]
 \blx@maxsegment@82=\count626
 \blx@sectionciteorder@82=\count627
 Package biblatex Info: Reference section=82 on input line 142.
@@ -3194,18 +3197,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 151--1
 
  []
 
-[179]
+[177]
 Overfull \hbox (24.48506pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 180 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
+\T1/cmr/m/n/12 178 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
 D INTERPRETATION
  []
 
-[180]
+[178]
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-[181
+[179
 
 ]
 \blx@maxsegment@83=\count628
@@ -3214,18 +3217,18 @@ Package biblatex Info: Reference section=83 on input line 43.
 Package biblatex Info: Setting label 'refsection:83' on input line 43.
 
 Overfull \hbox (27.18512pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 182 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
+\T1/cmr/m/n/12 180 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
 D INTERPRETATION
  []
 
-[182]
+[180]
 Package biblatex Info: Reference section=0 on input line 49.
 
 Underfull \hbox (badness 10000) in paragraph at lines 52--60
 
  []
 
-[183]
+[181]
 \blx@maxsegment@84=\count630
 \blx@sectionciteorder@84=\count631
 Package biblatex Info: Reference section=84 on input line 79.
@@ -3238,24 +3241,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 87--1
 
 
 Overfull \hbox (24.48506pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 184 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
+\T1/cmr/m/n/12 182 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
 D INTERPRETATION
  []
 
-[184
+[182
 
-] [185]
+] [183]
 Overfull \hbox (3.31497pt too wide) in paragraph at lines 2--2
 []\T1/cmr/bx/n/17.28 I-05 Or-ga-nize, an-a-lyze, and in-ter-pret ob-served
  []
 
 
 Overfull \hbox (24.48506pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 186 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
+\T1/cmr/m/n/12 184 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
 D INTERPRETATION
  []
 
-[186
+[184
 
 ]
 Overfull \hbox (3.31497pt too wide) in paragraph at lines 4--4
@@ -3272,7 +3275,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--28
 
  []
 
-[187
+[185
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 36--37
@@ -3285,24 +3288,24 @@ Package biblatex Info: Reference section=85 on input line 52.
 Package biblatex Info: Setting label 'refsection:85' on input line 52.
 
 Overfull \hbox (27.18512pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 188 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
+\T1/cmr/m/n/12 186 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
 D INTERPRETATION
  []
 
-[188]
+[186]
 Package biblatex Info: Reference section=0 on input line 58.
- [189]
+ [187]
 \blx@maxsegment@86=\count634
 \blx@sectionciteorder@86=\count635
 Package biblatex Info: Reference section=86 on input line 94.
 Package biblatex Info: Setting label 'refsection:86' on input line 94.
 
 Overfull \hbox (27.18512pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 190 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
+\T1/cmr/m/n/12 188 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
 D INTERPRETATION
  []
 
-[190
+[188
 
 ]
 Package biblatex Info: Reference section=0 on input line 99.
@@ -3317,18 +3320,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 102--116
 
  []
 
-[191]
+[189]
 Overfull \hbox (7.40622pt too wide) in paragraph at lines 117--117
 []\T1/cmr/bx/n/17.28 H-03 Se-lect a data dis-play that ef-fec-tively com-
  []
 
 
 Overfull \hbox (24.48506pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 192 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
+\T1/cmr/m/n/12 190 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
 D INTERPRETATION
  []
 
-[192
+[190
 
 ]
 \blx@maxsegment@87=\count636
@@ -3347,17 +3350,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 156--1
 
  []
 
-[193]
+[191]
 Overfull \hbox (24.48506pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 194 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
+\T1/cmr/m/n/12 192 \T1/cmr/m/sl/12 CHAPTER 3.  C. MEASUREMENT, DATA DISPLAY, AN
 D INTERPRETATION
  []
 
-[194
+[192
 
 ]
 Chapter 4.
-(./tex/chapters/fifth-ed/tl-modules/fivedOne/body.tex [195]
+(./tex/chapters/fifth-ed/tl-modules/fivedOne/body.tex [193]
 Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
@@ -3372,7 +3375,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
  []
 
-[196
+[194
 
 ]
 \blx@maxsegment@88=\count638
@@ -3385,12 +3388,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--47
 
  []
 
-[197]
+[195]
 \blx@maxsegment@89=\count640
 \blx@sectionciteorder@89=\count641
 Package biblatex Info: Reference section=89 on input line 67.
 Package biblatex Info: Setting label 'refsection:89' on input line 67.
- [198
+ [196
 
 ]
 Package biblatex Info: Reference section=0 on input line 70.
@@ -3399,7 +3402,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--76
 
  []
 
-[199]
+[197]
 Underfull \hbox (badness 10000) in paragraph at lines 78--79
 
  []
@@ -3419,7 +3422,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 84--86
 
  []
 
-[200
+[198
 
 ]
 \blx@maxsegment@90=\count642
@@ -3432,7 +3435,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 113--119
 
  []
 
-[201] [202] [203
+[199] [200] [201
 
 ]
 \blx@maxsegment@91=\count644
@@ -3445,17 +3448,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 152--158
 
  []
 
-[204] [205
+[202] [203
 
 ]
 \blx@maxsegment@92=\count646
 \blx@sectionciteorder@92=\count647
 Package biblatex Info: Reference section=92 on input line 187.
 Package biblatex Info: Setting label 'refsection:92' on input line 187.
- [206]
+ [204]
 Package biblatex Info: Reference section=0 on input line 194.
 ) (./tex/chapters/fifth-ed/tl-modules/fivedTwo/body.tex
-[207] [208
+[205] [206
 
 ]
 Overfull \hbox (5.30261pt too wide) in paragraph at lines 18--19
@@ -3473,12 +3476,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--1
 
  []
 
-[209] [210]
+[207] [208]
 \blx@maxsegment@94=\count650
 \blx@sectionciteorder@94=\count651
 Package biblatex Info: Reference section=94 on input line 22.
 Package biblatex Info: Setting label 'refsection:94' on input line 22.
- [211
+ [209
 
 ]
 Package biblatex Info: Reference section=0 on input line 29.
@@ -3487,12 +3490,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--35
 
  []
 
-[212]
+[210]
 \blx@maxsegment@95=\count652
 \blx@sectionciteorder@95=\count653
 Package biblatex Info: Reference section=95 on input line 61.
 Package biblatex Info: Setting label 'refsection:95' on input line 61.
- [213
+ [211
 
 ]
 Package biblatex Info: Reference section=0 on input line 70.
@@ -3501,40 +3504,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--76
 
  []
 
-[214] [215
+[212] [213
 
 ]
 \blx@maxsegment@96=\count654
 \blx@sectionciteorder@96=\count655
 Package biblatex Info: Reference section=96 on input line 103.
 Package biblatex Info: Setting label 'refsection:96' on input line 103.
- [216]
+ [214]
 Package biblatex Info: Reference section=0 on input line 111.
 
 Underfull \hbox (badness 10000) in paragraph at lines 114--122
 
  []
 
-[217] [218
+[215] [216
 
 ]
 \blx@maxsegment@97=\count656
 \blx@sectionciteorder@97=\count657
 Package biblatex Info: Reference section=97 on input line 146.
 Package biblatex Info: Setting label 'refsection:97' on input line 146.
- [219]
+ [217]
 Package biblatex Info: Reference section=0 on input line 155.
 
 Underfull \hbox (badness 10000) in paragraph at lines 158--169
 
  []
 
-[220]
+[218]
 \blx@maxsegment@98=\count658
 \blx@sectionciteorder@98=\count659
 Package biblatex Info: Reference section=98 on input line 186.
 Package biblatex Info: Setting label 'refsection:98' on input line 186.
- [221
+ [219
 
 ]
 Package biblatex Info: Reference section=0 on input line 189.
@@ -3543,12 +3546,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 192--200
 
  []
 
-[222]
+[220]
 \blx@maxsegment@99=\count660
 \blx@sectionciteorder@99=\count661
 Package biblatex Info: Reference section=99 on input line 222.
 Package biblatex Info: Setting label 'refsection:99' on input line 222.
- [223
+ [221
 
 ]
 Package biblatex Info: Reference section=0 on input line 225.
@@ -3558,12 +3561,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 228--1
 
  []
 
-[224]
+[222]
 \blx@maxsegment@100=\count662
 \blx@sectionciteorder@100=\count663
 Package biblatex Info: Reference section=100 on input line 22.
 Package biblatex Info: Setting label 'refsection:100' on input line 22.
- [225
+ [223
 
 ]
 Package biblatex Info: Reference section=0 on input line 29.
@@ -3572,12 +3575,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--35
 
  []
 
-[226]
+[224]
 \blx@maxsegment@101=\count664
 \blx@sectionciteorder@101=\count665
 Package biblatex Info: Reference section=101 on input line 61.
 Package biblatex Info: Setting label 'refsection:101' on input line 61.
- [227
+ [225
 
 ]
 Package biblatex Info: Reference section=0 on input line 70.
@@ -3586,40 +3589,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--76
 
  []
 
-[228] [229
+[226] [227
 
 ]
 \blx@maxsegment@102=\count666
 \blx@sectionciteorder@102=\count667
 Package biblatex Info: Reference section=102 on input line 103.
 Package biblatex Info: Setting label 'refsection:102' on input line 103.
- [230]
+ [228]
 Package biblatex Info: Reference section=0 on input line 111.
 
 Underfull \hbox (badness 10000) in paragraph at lines 114--122
 
  []
 
-[231] [232
+[229] [230
 
 ]
 \blx@maxsegment@103=\count668
 \blx@sectionciteorder@103=\count669
 Package biblatex Info: Reference section=103 on input line 146.
 Package biblatex Info: Setting label 'refsection:103' on input line 146.
- [233]
+ [231]
 Package biblatex Info: Reference section=0 on input line 155.
 
 Underfull \hbox (badness 10000) in paragraph at lines 158--169
 
  []
 
-[234]
+[232]
 \blx@maxsegment@104=\count670
 \blx@sectionciteorder@104=\count671
 Package biblatex Info: Reference section=104 on input line 186.
 Package biblatex Info: Setting label 'refsection:104' on input line 186.
- [235
+ [233
 
 ]
 Package biblatex Info: Reference section=0 on input line 189.
@@ -3628,12 +3631,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 192--200
 
  []
 
-[236]
+[234]
 \blx@maxsegment@105=\count672
 \blx@sectionciteorder@105=\count673
 Package biblatex Info: Reference section=105 on input line 222.
 Package biblatex Info: Setting label 'refsection:105' on input line 222.
- [237
+ [235
 
 ]
 Package biblatex Info: Reference section=0 on input line 225.
@@ -3642,12 +3645,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 228--1
 
  []
 
-[238]
+[236]
 \blx@maxsegment@106=\count674
 \blx@sectionciteorder@106=\count675
 Package biblatex Info: Reference section=106 on input line 21.
 Package biblatex Info: Setting label 'refsection:106' on input line 21.
- [239
+ [237
 
 ]
 Package biblatex Info: Reference section=0 on input line 24.
@@ -3656,12 +3659,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--30
 
  []
 
-[240]
+[238]
 \blx@maxsegment@107=\count676
 \blx@sectionciteorder@107=\count677
 Package biblatex Info: Reference section=107 on input line 51.
 Package biblatex Info: Setting label 'refsection:107' on input line 51.
- [241
+ [239
 
 ]
 Package biblatex Info: Reference section=0 on input line 54.
@@ -3670,10 +3673,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--1
 
  []
 
-[242]
+[240]
 Chapter 5.
 (./tex/chapters/fifth-ed/tl-modules/fiveeOne/body.tex)
-(./tex/chapters/fifth-ed/tl-modules/fiveeTwo/body.tex [243
+(./tex/chapters/fifth-ed/tl-modules/fiveeTwo/body.tex [241
 
 ]
 Overfull \hbox (4.17487pt too wide) in paragraph at lines 2--2
@@ -3687,11 +3690,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--10
 
 
 Overfull \hbox (207.66444pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 244 \T1/cmr/m/sl/12 CHAPTER 5.  E. ETHICS (PROFESSIONAL AND ETHI
+\T1/cmr/m/n/12 242 \T1/cmr/m/sl/12 CHAPTER 5.  E. ETHICS (PROFESSIONAL AND ETHI
 CAL COMPLIANCE CODE FOR BEHAVIOR ANALYSTS)
  []
 
-[244
+[242
 
 ]
 \blx@maxsegment@108=\count678
@@ -3704,18 +3707,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--40
 
  []
 
-[245]
+[243]
 \blx@maxsegment@109=\count680
 \blx@sectionciteorder@109=\count681
 Package biblatex Info: Reference section=109 on input line 59.
 Package biblatex Info: Setting label 'refsection:109' on input line 59.
 
 Overfull \hbox (209.85019pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 246 \T1/cmr/m/sl/12 CHAPTER 5.  E. ETHICS (PROFESSIONAL AND ETHI
+\T1/cmr/m/n/12 244 \T1/cmr/m/sl/12 CHAPTER 5.  E. ETHICS (PROFESSIONAL AND ETHI
 CAL COMPLIANCE CODE FOR BEHAVIOR ANALYSTS)
  []
 
-[246
+[244
 
 ]
 Package biblatex Info: Reference section=0 on input line 64.
@@ -3730,18 +3733,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--75
 
  []
 
-[247]
+[245]
 Overfull \hbox (6.25417pt too wide) in paragraph at lines 76--76
 []\T1/cmr/bx/n/17.28 G-02 Con-sider bi-o-log-i-cal/medical vari-ables that
  []
 
 
 Overfull \hbox (207.66444pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 248 \T1/cmr/m/sl/12 CHAPTER 5.  E. ETHICS (PROFESSIONAL AND ETHI
+\T1/cmr/m/n/12 246 \T1/cmr/m/sl/12 CHAPTER 5.  E. ETHICS (PROFESSIONAL AND ETHI
 CAL COMPLIANCE CODE FOR BEHAVIOR ANALYSTS)
  []
 
-[248
+[246
 
 ]
 \blx@maxsegment@110=\count682
@@ -3754,13 +3757,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 109--1
 
  []
 
-[249]
+[247]
 Overfull \hbox (207.66444pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 250 \T1/cmr/m/sl/12 CHAPTER 5.  E. ETHICS (PROFESSIONAL AND ETHI
+\T1/cmr/m/n/12 248 \T1/cmr/m/sl/12 CHAPTER 5.  E. ETHICS (PROFESSIONAL AND ETHI
 CAL COMPLIANCE CODE FOR BEHAVIOR ANALYSTS)
  []
 
-[250]
+[248]
 Overfull \hbox (0.53137pt too wide) in paragraph at lines 9--10
 []\T1/cmr/m/n/12 Matson (2010) sum-ma-rized this po-si-tion by say-ing ``The be
 -hav-ior an-a-lyst should
@@ -3786,20 +3789,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--36
 
 Underfull \vbox (badness 1168) has occurred while \output is active []
 
- [251
+ [249
 
 ]
 Overfull \hbox (207.66444pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 252 \T1/cmr/m/sl/12 CHAPTER 5.  E. ETHICS (PROFESSIONAL AND ETHI
+\T1/cmr/m/n/12 250 \T1/cmr/m/sl/12 CHAPTER 5.  E. ETHICS (PROFESSIONAL AND ETHI
 CAL COMPLIANCE CODE FOR BEHAVIOR ANALYSTS)
  []
 
-[252]
+[250]
 Overfull \hbox (6.25417pt too wide) in paragraph at lines 37--37
 []\T1/cmr/bx/n/17.28 G-02 Con-sider bi-o-log-i-cal/medical vari-ables that
  []
 
-[253
+[251
 
 ]
 \blx@maxsegment@112=\count686
@@ -3814,17 +3817,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--1
 
 
 Overfull \hbox (207.66444pt too wide) has occurred while \output is active
+\T1/cmr/m/n/12 252 \T1/cmr/m/sl/12 CHAPTER 5.  E. ETHICS (PROFESSIONAL AND ETHI
+CAL COMPLIANCE CODE FOR BEHAVIOR ANALYSTS)
+ []
+
+[252] [253]
+Overfull \hbox (207.66444pt too wide) has occurred while \output is active
 \T1/cmr/m/n/12 254 \T1/cmr/m/sl/12 CHAPTER 5.  E. ETHICS (PROFESSIONAL AND ETHI
 CAL COMPLIANCE CODE FOR BEHAVIOR ANALYSTS)
  []
 
-[254] [255]
-Overfull \hbox (207.66444pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 256 \T1/cmr/m/sl/12 CHAPTER 5.  E. ETHICS (PROFESSIONAL AND ETHI
-CAL COMPLIANCE CODE FOR BEHAVIOR ANALYSTS)
- []
-
-[256
+[254
 
 ]
 \blx@maxsegment@113=\count688
@@ -3844,13 +3847,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--1
 
  []
 
-[257]
+[255]
 Overfull \hbox (207.66444pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 258 \T1/cmr/m/sl/12 CHAPTER 5.  E. ETHICS (PROFESSIONAL AND ETHI
+\T1/cmr/m/n/12 256 \T1/cmr/m/sl/12 CHAPTER 5.  E. ETHICS (PROFESSIONAL AND ETHI
 CAL COMPLIANCE CODE FOR BEHAVIOR ANALYSTS)
  []
 
-[258
+[256
 
 ]
 \blx@maxsegment@114=\count690
@@ -3869,13 +3872,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--1
 
  []
 
-[259]
+[257]
 Overfull \hbox (207.66444pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 260 \T1/cmr/m/sl/12 CHAPTER 5.  E. ETHICS (PROFESSIONAL AND ETHI
+\T1/cmr/m/n/12 258 \T1/cmr/m/sl/12 CHAPTER 5.  E. ETHICS (PROFESSIONAL AND ETHI
 CAL COMPLIANCE CODE FOR BEHAVIOR ANALYSTS)
  []
 
-[260]
+[258]
 Overfull \hbox (5.04321pt too wide) in paragraph at lines 2--2
 \T1/cmr/bx/n/17.28 lab-o-ra-tion with oth-ers who sup-port and/or pro-
  []
@@ -3884,7 +3887,7 @@ Overfull \hbox (5.04321pt too wide) in paragraph at lines 2--2
 \blx@sectionciteorder@115=\count693
 Package biblatex Info: Reference section=115 on input line 22.
 Package biblatex Info: Setting label 'refsection:115' on input line 22.
-[261
+[259
 
 ]
 Package biblatex Info: Reference section=0 on input line 27.
@@ -3898,13 +3901,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--1
 
 
 Overfull \hbox (207.66444pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 262 \T1/cmr/m/sl/12 CHAPTER 5.  E. ETHICS (PROFESSIONAL AND ETHI
+\T1/cmr/m/n/12 260 \T1/cmr/m/sl/12 CHAPTER 5.  E. ETHICS (PROFESSIONAL AND ETHI
 CAL COMPLIANCE CODE FOR BEHAVIOR ANALYSTS)
  []
 
-[262]
+[260]
 Chapter 6.
-(./tex/chapters/fifth-ed/tl-modules/fivefOne/body.tex [263
+(./tex/chapters/fifth-ed/tl-modules/fivefOne/body.tex [261
 
 ]
 Overfull \hbox (0.53137pt too wide) in paragraph at lines 9--10
@@ -3932,15 +3935,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--36
 
 Underfull \vbox (badness 1168) has occurred while \output is active []
 
- [264
+ [262
 
 ]
-[265]
+[263]
 Overfull \hbox (6.25417pt too wide) in paragraph at lines 37--37
 []\T1/cmr/bx/n/17.28 G-02 Con-sider bi-o-log-i-cal/medical vari-ables that
  []
 
-[266
+[264
 
 ]
 \blx@maxsegment@117=\count696
@@ -3953,14 +3956,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--1
 
  []
 
-[267] [268]
+[265] [266]
 Underfull \hbox (badness 10000) in paragraph at lines 17--20
 
  []
 
-[269
+[267
 
-] [270]
+] [268]
 \blx@maxsegment@118=\count698
 \blx@sectionciteorder@118=\count699
 Package biblatex Info: Reference section=118 on input line 71.
@@ -3971,7 +3974,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--1
 
  []
 
-[271]
+[269]
 Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
@@ -3981,7 +3984,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
  []
 
-[272
+[270
 
 ]
 \blx@maxsegment@119=\count700
@@ -3994,7 +3997,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--56
 
  []
 
-[273] [274] [275
+[271] [272] [273
 
 ]
 \blx@maxsegment@120=\count702
@@ -4013,21 +4016,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 98--1
 
  []
 
-[276] [277] [278
+[274] [275] [276
 
 ]
 \blx@maxsegment@121=\count704
 \blx@sectionciteorder@121=\count705
 Package biblatex Info: Reference section=121 on input line 45.
 Package biblatex Info: Setting label 'refsection:121' on input line 45.
- [279]
+ [277]
 Package biblatex Info: Reference section=0 on input line 52.
 ) (./tex/chapters/fifth-ed/tl-modules/fivefFive/body.tex
 Underfull \hbox (badness 10000) in paragraph at lines 55--1
 
  []
 
-[280]
+[278]
 Overfull \hbox (12.48123pt too wide) in paragraph at lines 5--6
 []\T1/cmr/m/n/12 Single-stimulus pref-er-ence as-sess-ment ^^U also called a ``
 suc-ces-sive choice'' method.
@@ -4045,14 +4048,14 @@ Overfull \hbox (12.28549pt too wide) in paragraph at lines 12--13
 U ``con-cur-rent sched-
  []
 
-[281
+[279
 
 ]
 \blx@maxsegment@122=\count706
 \blx@sectionciteorder@122=\count707
 Package biblatex Info: Reference section=122 on input line 23.
 Package biblatex Info: Setting label 'refsection:122' on input line 23.
- [282]
+ [280]
 Overfull \hbox (3.97704pt too wide) in paragraph at lines 35--35
 \T1/cmr/m/n/12 found de-vel-op-men-tal dis-abil-i-ties. \T1/cmr/m/it/12 Jour-na
 l of Ap-plied Be-hav-ior Anal-y-sis\T1/cmr/m/n/12 , \T1/cmr/m/it/12 28\T1/cmr/m
@@ -4065,12 +4068,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--41
 
  []
 
-[283]
+[281]
 Overfull \hbox (4.9791pt too wide) in paragraph at lines 42--42
 []\T1/cmr/bx/n/17.28 I-07 De-sign and con-duct pref-er-ence as-sess-ments
  []
 
-[284
+[282
 
 ]
 \blx@maxsegment@123=\count708
@@ -4083,12 +4086,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 72--76
 
  []
 
-[285]
+[283]
 Overfull \hbox (16.65685pt too wide) in paragraph at lines 77--77
 []\T1/cmr/bx/n/17.28 J-04 Se-lect in-ter-ven-tion strate-gies based on client
  []
 
-[286
+[284
 
 ]
 \blx@maxsegment@124=\count710
@@ -4107,12 +4110,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 113--124
 
  []
 
-[287] [288]
+[285] [286]
 \blx@maxsegment@125=\count712
 \blx@sectionciteorder@125=\count713
 Package biblatex Info: Reference section=125 on input line 148.
 Package biblatex Info: Setting label 'refsection:125' on input line 148.
- [289
+ [287
 
 ]
 Overfull \hbox (0.7115pt too wide) in paragraph at lines 160--160
@@ -4126,7 +4129,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 164--166
 
  []
 
-[290] [291
+[288] [289
 
 ]
 \blx@maxsegment@126=\count714
@@ -4139,7 +4142,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 193--196
 
  []
 
-[292]
+[290]
 Underfull \hbox (badness 10000) in paragraph at lines 198--199
 
  []
@@ -4159,7 +4162,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 204--205
 
  []
 
-[293
+[291
 
 ]
 \blx@maxsegment@127=\count716
@@ -4172,12 +4175,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 229--1
 
  []
 
-[294]
+[292]
 \blx@maxsegment@128=\count718
 \blx@sectionciteorder@128=\count719
 Package biblatex Info: Reference section=128 on input line 20.
 Package biblatex Info: Setting label 'refsection:128' on input line 20.
- [295
+ [293
 
 ]
 Package biblatex Info: Reference section=0 on input line 25.
@@ -4192,12 +4195,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--36
 
  []
 
-[296]
+[294]
 \blx@maxsegment@129=\count720
 \blx@sectionciteorder@129=\count721
 Package biblatex Info: Reference section=129 on input line 57.
 Package biblatex Info: Setting label 'refsection:129' on input line 57.
- [297
+ [295
 
 ]
 Package biblatex Info: Reference section=0 on input line 62.
@@ -4206,7 +4209,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--1
 
  []
 
-[298]
+[296]
 Overfull \hbox (23.51782pt too wide) in paragraph at lines 2--2
 []\T1/cmr/bx/n/17.28 H-02 Se-lect a sched-ule of ob-ser-va-tion and record-
  []
@@ -4215,7 +4218,7 @@ Overfull \hbox (23.51782pt too wide) in paragraph at lines 2--2
 \blx@sectionciteorder@130=\count723
 Package biblatex Info: Reference section=130 on input line 23.
 Package biblatex Info: Setting label 'refsection:130' on input line 23.
-[299
+[297
 
 ]
 Package biblatex Info: Reference section=0 on input line 27.
@@ -4230,9 +4233,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--1
 
  []
 
-[300] [301
+[298] [299
 
-] [302]
+] [300]
 \blx@maxsegment@131=\count724
 \blx@sectionciteorder@131=\count725
 Package biblatex Info: Reference section=131 on input line 44.
@@ -4246,15 +4249,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--64
 
 Underfull \vbox (badness 4954) has occurred while \output is active []
 
- [303]
-[304] [305
+ [301]
+[302] [303
 
 ]
 \blx@maxsegment@132=\count726
 \blx@sectionciteorder@132=\count727
 Package biblatex Info: Reference section=132 on input line 103.
 Package biblatex Info: Setting label 'refsection:132' on input line 103.
- [306]
+ [304]
 Overfull \hbox (6.3218pt too wide) in paragraph at lines 111--111
 \T1/cmr/m/n/12 Prin-ci-ples, pro-ce-dures, and fu-ture di-rec-tions. \T1/cmr/m/
 it/12 School Psy-chol-ogy Re-view\T1/cmr/m/n/12 , \T1/cmr/m/it/12 30\T1/cmr/m/n
@@ -4267,12 +4270,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 115--1
 
  []
 
-[307]
+[305]
 Overfull \hbox (3.31497pt too wide) in paragraph at lines 2--2
 []\T1/cmr/bx/n/17.28 I-05 Or-ga-nize, an-a-lyze, and in-ter-pret ob-served
  []
 
-[308
+[306
 
 ]
 Overfull \hbox (3.31497pt too wide) in paragraph at lines 4--4
@@ -4289,7 +4292,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--28
 
  []
 
-[309
+[307
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 36--37
@@ -4300,14 +4303,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--37
 \blx@sectionciteorder@133=\count729
 Package biblatex Info: Reference section=133 on input line 52.
 Package biblatex Info: Setting label 'refsection:133' on input line 52.
-[310]
+[308]
 Package biblatex Info: Reference section=0 on input line 58.
- [311]
+ [309]
 Overfull \hbox (1.0682pt too wide) in paragraph at lines 75--75
 []\T1/cmr/bx/n/17.28 I-06 Make rec-om-men-da-tions re-gard-ing be-hav-
  []
 
-[312
+[310
 
 ]
 \blx@maxsegment@134=\count730
@@ -4326,11 +4329,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 116--1
 
  []
 
-[313] [314]
+[311] [312]
 Chapter 7.
-(./tex/chapters/fifth-ed/tl-modules/fivegOne/body.tex [315
+(./tex/chapters/fifth-ed/tl-modules/fivegOne/body.tex [313
 
-] [316
+] [314
 
 ]
 Overfull \hbox (4.51988pt too wide) in paragraph at lines 32--33
@@ -4342,14 +4345,14 @@ g with his teacher
 \blx@sectionciteorder@135=\count733
 Package biblatex Info: Reference section=135 on input line 38.
 Package biblatex Info: Setting label 'refsection:135' on input line 38.
-[317]
+[315]
 Package biblatex Info: Reference section=0 on input line 46.
 
 Underfull \hbox (badness 10000) in paragraph at lines 49--68
 
  []
 
-[318] [319
+[316] [317
 
 ]
 \blx@maxsegment@136=\count734
@@ -4362,13 +4365,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 97--1
 
  []
 
-[320]
+[318]
 Overfull \hbox (134.58076pt too wide) has occurred while \output is active
 \T1/cmr/m/sl/12 7.2.  D-19 USE COMBINATIONS OF REINFORCEMENT WITH PUNISHMENT AN
-D EXTINCTION. \T1/cmr/m/n/12 321
+D EXTINCTION. \T1/cmr/m/n/12 319
  []
 
-[321] [322
+[319] [320
 
 ]
 \blx@maxsegment@137=\count736
@@ -4385,10 +4388,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--35
 Overfull \hbox (461.35556pt too wide) has occurred while \output is active
 \T1/cmr/m/sl/12 7.3.  E-01 USE INTERVENTIONS BASED ON MANIPULATION OF ANTECEDEN
 TS, SUCH AS MOTIVATING OPERATIONS AND DISCRIMINATIVE STIMULI. \T1/cmr/m/n/12 32
-3
+1
  []
 
-[323] [324
+[321] [322
 
 ]
 \blx@maxsegment@138=\count738
@@ -4401,12 +4404,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--1
 
  []
 
-[325]
+[323]
 \blx@maxsegment@139=\count740
 \blx@sectionciteorder@139=\count741
 Package biblatex Info: Reference section=139 on input line 24.
 Package biblatex Info: Setting label 'refsection:139' on input line 24.
- [326
+ [324
 
 ]
 Package biblatex Info: Reference section=0 on input line 30.
@@ -4415,7 +4418,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--1
 
  []
 
-[327]
+[325]
 \blx@maxsegment@140=\count742
 \blx@sectionciteorder@140=\count743
 Package biblatex Info: Reference section=140 on input line 28.
@@ -4426,7 +4429,7 @@ Overfull \hbox (3.38582pt too wide) in paragraph at lines 32--32
 . \T1/cmr/m/it/12 Jour-nal of Autism
  []
 
-[328
+[326
 
 ]
 Package biblatex Info: Reference section=0 on input line 33.
@@ -4435,7 +4438,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--46
 
  []
 
-[329]
+[327]
 Overfull \hbox (12.24403pt too wide) in paragraph at lines 48--49
 \T1/cmr/m/n/12 Errorless learn-ing - an ``ap-proach whereby the task is ma-nip-
 u-lated to elim-i-nate/reduce
@@ -4445,7 +4448,7 @@ u-lated to elim-i-nate/reduce
 \blx@sectionciteorder@141=\count745
 Package biblatex Info: Reference section=141 on input line 64.
 Package biblatex Info: Setting label 'refsection:141' on input line 64.
-[330
+[328
 
 ]
 Package biblatex Info: Reference section=0 on input line 69.
@@ -4454,12 +4457,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 72--1
 
  []
 
-[331]
+[329]
 \blx@maxsegment@142=\count746
 \blx@sectionciteorder@142=\count747
 Package biblatex Info: Reference section=142 on input line 24.
 Package biblatex Info: Setting label 'refsection:142' on input line 24.
- [332
+ [330
 
 ]
 Package biblatex Info: Reference section=0 on input line 29.
@@ -4468,7 +4471,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--1
 
  []
 
-[333]
+[331]
 \blx@maxsegment@143=\count748
 \blx@sectionciteorder@143=\count749
 Package biblatex Info: Reference section=143 on input line 16.
@@ -4479,7 +4482,7 @@ Overfull \hbox (20.22926pt too wide) in paragraph at lines 21--21
 of re-in-force-ment: A the-o-ret-i-cal anal-y-sis\T1/cmr/m/n/12 . Appleton-
  []
 
-[334
+[332
 
 ]
 Package biblatex Info: Reference section=0 on input line 22.
@@ -4488,7 +4491,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--1
 
  []
 
-[335] [336
+[333] [334
 
 ]
 \blx@maxsegment@144=\count750
@@ -4501,10 +4504,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--1
 
  []
 
-[337]
+[335]
 Underfull \vbox (badness 1924) has occurred while \output is active []
 
- [338
+ [336
 
 ]
 \blx@maxsegment@145=\count752
@@ -4518,7 +4521,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--1
 
  []
 
-[339] [340]
+[337] [338]
 \blx@maxsegment@146=\count754
 \blx@sectionciteorder@146=\count755
 Package biblatex Info: Reference section=146 on input line 21.
@@ -4529,14 +4532,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--42
 
  []
 
-[341
+[339
 
-] [342]
+] [340]
 Overfull \hbox (1.37357pt too wide) in paragraph at lines 43--43
 \T1/cmr/bx/n/17.28 the client's be-hav-ioral reper-toires in their nat-
  []
 
-[343
+[341
 
 ]
 \blx@maxsegment@147=\count756
@@ -4549,7 +4552,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 75--82
 
  []
 
-[344]
+[342]
 \blx@maxsegment@148=\count758
 \blx@sectionciteorder@148=\count759
 Package biblatex Info: Reference section=148 on input line 109.
@@ -4560,7 +4563,7 @@ Overfull \hbox (3.38582pt too wide) in paragraph at lines 113--113
 . \T1/cmr/m/it/12 Jour-nal of Autism
  []
 
-[345
+[343
 
 ]
 Package biblatex Info: Reference section=0 on input line 114.
@@ -4569,7 +4572,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 117--127
 
  []
 
-[346] [347
+[344] [345
 
 ]
 \blx@maxsegment@149=\count760
@@ -4588,12 +4591,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--178
 
  []
 
-[348] [349]
+[346] [347]
 \blx@maxsegment@150=\count762
 \blx@sectionciteorder@150=\count763
 Package biblatex Info: Reference section=150 on input line 194.
 Package biblatex Info: Setting label 'refsection:150' on input line 194.
- [350
+ [348
 
 ]
 Package biblatex Info: Reference section=0 on input line 198.
@@ -4608,12 +4611,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 201--206
 
  []
 
-[351]
+[349]
 \blx@maxsegment@151=\count764
 \blx@sectionciteorder@151=\count765
 Package biblatex Info: Reference section=151 on input line 227.
 Package biblatex Info: Setting label 'refsection:151' on input line 227.
- [352
+ [350
 
 ]
 Package biblatex Info: Reference section=0 on input line 235.
@@ -4622,7 +4625,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 238--246
 
  []
 
-[353] [354
+[351] [352
 
 ]
 Overfull \hbox (2.37904pt too wide) in paragraph at lines 269--270
@@ -4646,7 +4649,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 287--292
 
  []
 
-[355] [356] [357
+[353] [354] [355
 
 ]
 \blx@maxsegment@153=\count768
@@ -4665,7 +4668,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 322--329
 
  []
 
-[358] [359
+[356] [357
 
 ]
 \blx@maxsegment@154=\count770
@@ -4678,7 +4681,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 361--372
 
  []
 
-[360] [361]
+[358] [359]
 Overfull \hbox (3.51274pt too wide) in paragraph at lines 373--373
 \T1/cmr/bx/n/17.28 the client in or-der to iden-tify the re-fer-ral prob-
  []
@@ -4688,9 +4691,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 388--391
 
  []
 
-[362
+[360
 
-] [363]
+] [361]
 \blx@maxsegment@155=\count772
 \blx@sectionciteorder@155=\count773
 Package biblatex Info: Reference section=155 on input line 442.
@@ -4701,12 +4704,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 451--456
 
  []
 
-[364]
+[362]
 Overfull \hbox (1.0682pt too wide) in paragraph at lines 457--457
 []\T1/cmr/bx/n/17.28 I-06 Make rec-om-men-da-tions re-gard-ing be-hav-
  []
 
-[365
+[363
 
 ]
 \blx@maxsegment@156=\count774
@@ -4725,12 +4728,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 498--509
 
  []
 
-[366] [367]
+[364] [365]
 \blx@maxsegment@157=\count776
 \blx@sectionciteorder@157=\count777
 Package biblatex Info: Reference section=157 on input line 530.
 Package biblatex Info: Setting label 'refsection:157' on input line 530.
- [368
+ [366
 
 ]
 Overfull \hbox (0.76895pt too wide) in paragraph at lines 535--535
@@ -4744,21 +4747,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 539--550
 
  []
 
-[369] [370
+[367] [368
 
 ]
 \blx@maxsegment@158=\count778
 \blx@sectionciteorder@158=\count779
 Package biblatex Info: Reference section=158 on input line 581.
 Package biblatex Info: Setting label 'refsection:158' on input line 581.
- [371]
+ [369]
 Package biblatex Info: Reference section=0 on input line 591.
 
 Underfull \hbox (badness 10000) in paragraph at lines 594--601
 
  []
 
-[372] [373
+[370] [371
 
 ]
 \blx@maxsegment@159=\count780
@@ -4777,7 +4780,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 627--638
 
  []
 
-[374] [375] [376
+[372] [373] [374
 
 ]
 \blx@maxsegment@160=\count782
@@ -4790,13 +4793,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 664--674
 
  []
 
-[377]
+[375]
 Overfull \hbox (8.49356pt too wide) in paragraph at lines 679--680
 \T1/cmr/m/n/12 whereby speak-ers gain ac-cess to re-in-force-ment and con-trol 
 their en-vi-ron-ment through
  []
 
-[378
+[376
 
 ]
 \blx@maxsegment@161=\count784
@@ -4812,10 +4815,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 718--728
 
 Overfull \hbox (81.09697pt too wide) has occurred while \output is active
 \T1/cmr/m/sl/12 7.27.  D-09 USE THE VERBAL OPERANTS AS A BASIS FOR LANGUAGE ASS
-ESSMENT. \T1/cmr/m/n/12 379
+ESSMENT. \T1/cmr/m/n/12 377
  []
 
-[379] [380]
+[377] [378]
 Overfull \hbox (12.24403pt too wide) in paragraph at lines 730--731
 \T1/cmr/m/n/12 Errorless learn-ing - an ``ap-proach whereby the task is ma-nip-
 u-lated to elim-i-nate/reduce
@@ -4825,7 +4828,7 @@ u-lated to elim-i-nate/reduce
 \blx@sectionciteorder@162=\count787
 Package biblatex Info: Reference section=162 on input line 746.
 Package biblatex Info: Setting label 'refsection:162' on input line 746.
-[381
+[379
 
 ]
 Package biblatex Info: Reference section=0 on input line 751.
@@ -4834,7 +4837,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 754--1
 
  []
 
-[382]
+[380]
 Overfull \hbox (6.03372pt too wide) in paragraph at lines 12--13
 []\T1/cmr/m/n/12 Have su-per-visee cre-ate a mock les-son dis-play-ing match-to
 -sample task. He/she
@@ -4844,7 +4847,7 @@ Overfull \hbox (6.03372pt too wide) in paragraph at lines 12--13
 \blx@sectionciteorder@163=\count789
 Package biblatex Info: Reference section=163 on input line 18.
 Package biblatex Info: Setting label 'refsection:163' on input line 18.
-[383
+[381
 
 ]
 Package biblatex Info: Reference section=0 on input line 24.
@@ -4853,7 +4856,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--33
 
  []
 
-[384] [385
+[382] [383
 
 ]
 \blx@maxsegment@164=\count790
@@ -4866,7 +4869,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--77
 
  []
 
-[386] [387
+[384] [385
 
 ]
 \blx@maxsegment@165=\count792
@@ -4879,13 +4882,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 108--1
 
  []
 
-[388]
+[386]
 Overfull \hbox (8.49356pt too wide) in paragraph at lines 6--7
 \T1/cmr/m/n/12 whereby speak-ers gain ac-cess to re-in-force-ment and con-trol 
 their en-vi-ron-ment through
  []
 
-[389
+[387
 
 ]
 \blx@maxsegment@166=\count794
@@ -4898,18 +4901,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--55
 
  []
 
-[390]
+[388]
 Overfull \hbox (81.09697pt too wide) has occurred while \output is active
 \T1/cmr/m/sl/12 7.32.  D-09 USE THE VERBAL OPERANTS AS A BASIS FOR LANGUAGE ASS
-ESSMENT. \T1/cmr/m/n/12 391
+ESSMENT. \T1/cmr/m/n/12 389
  []
 
-[391]
+[389]
 \blx@maxsegment@167=\count796
 \blx@sectionciteorder@167=\count797
 Package biblatex Info: Reference section=167 on input line 84.
 Package biblatex Info: Setting label 'refsection:167' on input line 84.
- [392
+ [390
 
 ]
 Package biblatex Info: Reference section=0 on input line 92.
@@ -4918,7 +4921,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 95--99
 
  []
 
-[393] [394
+[391] [392
 
 ]
 \blx@maxsegment@168=\count798
@@ -4931,7 +4934,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 134--136
 
  []
 
-[395] [396
+[393] [394
 
 ]
 \blx@maxsegment@169=\count800
@@ -4944,7 +4947,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--173
 
  []
 
-[397] [398
+[395] [396
 
 ]
 \blx@maxsegment@170=\count802
@@ -4957,12 +4960,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 214--217
 
  []
 
-[399] [400]
+[397] [398]
 \blx@maxsegment@171=\count804
 \blx@sectionciteorder@171=\count805
 Package biblatex Info: Reference section=171 on input line 240.
 Package biblatex Info: Setting label 'refsection:171' on input line 240.
- [401
+ [399
 
 ]
 Package biblatex Info: Reference section=0 on input line 250.
@@ -4971,7 +4974,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 253--260
 
  []
 
-[402]
+[400]
 \blx@maxsegment@172=\count806
 \blx@sectionciteorder@172=\count807
 Package biblatex Info: Reference section=172 on input line 282.
@@ -4982,9 +4985,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 290--293
 
  []
 
-[403
+[401
 
-] [404]
+] [402]
 Underfull \hbox (badness 10000) in paragraph at lines 295--296
 
  []
@@ -4993,7 +4996,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 295--296
 \blx@sectionciteorder@173=\count809
 Package biblatex Info: Reference section=173 on input line 319.
 Package biblatex Info: Setting label 'refsection:173' on input line 319.
-[405
+[403
 
 ]
 Package biblatex Info: Reference section=0 on input line 326.
@@ -5002,7 +5005,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 329--334
 
  []
 
-[406]
+[404]
 \blx@maxsegment@174=\count810
 \blx@sectionciteorder@174=\count811
 Package biblatex Info: Reference section=174 on input line 356.
@@ -5013,9 +5016,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 363--365
 
  []
 
-[407
+[405
 
-] [408]
+] [406]
 \blx@maxsegment@175=\count812
 \blx@sectionciteorder@175=\count813
 Package biblatex Info: Reference section=175 on input line 386.
@@ -5032,9 +5035,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 394--1
 
  []
 
-[409
+[407
 
-] [410
+] [408
 
 ]
 \blx@maxsegment@176=\count814
@@ -5047,7 +5050,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--45
 
  []
 
-[411] [412
+[409] [410
 
 ]
 \blx@maxsegment@177=\count816
@@ -5055,7 +5058,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--45
 Package biblatex Info: Reference section=177 on input line 76.
 Package biblatex Info: Setting label 'refsection:177' on input line 76.
 Package biblatex Info: Reference section=0 on input line 81.
- [413]
+ [411]
 Overfull \hbox (12.24403pt too wide) in paragraph at lines 85--86
 \T1/cmr/m/n/12 Errorless learn-ing - an ``ap-proach whereby the task is ma-nip-
 u-lated to elim-i-nate/reduce
@@ -5065,7 +5068,7 @@ u-lated to elim-i-nate/reduce
 \blx@sectionciteorder@178=\count819
 Package biblatex Info: Reference section=178 on input line 101.
 Package biblatex Info: Setting label 'refsection:178' on input line 101.
-[414
+[412
 
 ]
 Package biblatex Info: Reference section=0 on input line 106.
@@ -5074,7 +5077,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 109--113
 
  []
 
-[415]
+[413]
 \blx@maxsegment@179=\count820
 \blx@sectionciteorder@179=\count821
 Package biblatex Info: Reference section=179 on input line 128.
@@ -5085,7 +5088,7 @@ Overfull \hbox (20.22926pt too wide) in paragraph at lines 133--133
 of re-in-force-ment: A the-o-ret-i-cal anal-y-sis\T1/cmr/m/n/12 . Appleton-
  []
 
-[416
+[414
 
 ]
 Package biblatex Info: Reference section=0 on input line 134.
@@ -5094,7 +5097,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 137--1
 
  []
 
-[417]
+[415]
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
@@ -5118,7 +5121,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--11
 \blx@sectionciteorder@180=\count823
 Package biblatex Info: Reference section=180 on input line 27.
 Package biblatex Info: Setting label 'refsection:180' on input line 27.
-[418
+[416
 
 ]
 Package biblatex Info: Reference section=0 on input line 35.
@@ -5127,7 +5130,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--41
 
  []
 
-[419]
+[417]
 Overfull \hbox (27.85439pt too wide) in paragraph at lines 41--41
 []\T1/cmr/bx/n/17.28 E-09 Ar-range high-probability re-quest se-quences. 
  []
@@ -5136,7 +5139,7 @@ Overfull \hbox (27.85439pt too wide) in paragraph at lines 41--41
 \blx@sectionciteorder@181=\count825
 Package biblatex Info: Reference section=181 on input line 56.
 Package biblatex Info: Setting label 'refsection:181' on input line 56.
-[420
+[418
 
 ]
 Package biblatex Info: Reference section=0 on input line 64.
@@ -5145,12 +5148,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--1
 
  []
 
-[421]
+[419]
 Overfull \hbox (10.72687pt too wide) in paragraph at lines 2--2
 []\T1/cmr/bx/n/17.28 D-21 Use dif-fer-en-tial re-in-force-ment (e.g., DRO,
  []
 
-[422
+[420
 
 ]
 \blx@maxsegment@182=\count826
@@ -5160,28 +5163,28 @@ Package biblatex Info: Setting label 'refsection:182' on input line 37.
 
 Overfull \hbox (80.0489pt too wide) has occurred while \output is active
 \T1/cmr/m/sl/12 7.48.  D-21 USE DIFFERENTIAL REINFORCEMENT (E.G., DRO, DRA, DRI
-, DRL, DRH). \T1/cmr/m/n/12 423
+, DRL, DRH). \T1/cmr/m/n/12 421
  []
 
-[423]
+[421]
 Package biblatex Info: Reference section=0 on input line 53.
 
 Underfull \hbox (badness 10000) in paragraph at lines 55--62
 
  []
 
-[424]
+[422]
 Overfull \hbox (79.00082pt too wide) has occurred while \output is active
 \T1/cmr/m/sl/12 7.48.  D-21 USE DIFFERENTIAL REINFORCEMENT (E.G., DRO, DRA, DRI
-, DRL, DRH). \T1/cmr/m/n/12 425
+, DRL, DRH). \T1/cmr/m/n/12 423
  []
 
-[425]
+[423]
 \blx@maxsegment@183=\count828
 \blx@sectionciteorder@183=\count829
 Package biblatex Info: Reference section=183 on input line 87.
 Package biblatex Info: Setting label 'refsection:183' on input line 87.
- [426
+ [424
 
 ]
 Package biblatex Info: Reference section=0 on input line 95.
@@ -5190,7 +5193,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 98--1
 
  []
 
-[427] [428
+[425] [426
 
 ]
 \blx@maxsegment@184=\count830
@@ -5209,12 +5212,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--1
 
  []
 
-[429]
+[427]
 \blx@maxsegment@185=\count832
 \blx@sectionciteorder@185=\count833
 Package biblatex Info: Reference section=185 on input line 24.
 Package biblatex Info: Setting label 'refsection:185' on input line 24.
- [430
+ [428
 
 ]
 Package biblatex Info: Reference section=0 on input line 30.
@@ -5223,12 +5226,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--42
 
  []
 
-) (./tex/chapters/fifth-ed/tl-modules/fivegSeventeen/body.tex [431]
+) (./tex/chapters/fifth-ed/tl-modules/fivegSeventeen/body.tex [429]
 \blx@maxsegment@186=\count834
 \blx@sectionciteorder@186=\count835
 Package biblatex Info: Reference section=186 on input line 24.
 Package biblatex Info: Setting label 'refsection:186' on input line 24.
- [432
+ [430
 
 ]
 Package biblatex Info: Reference section=0 on input line 35.
@@ -5238,7 +5241,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--1
 
  []
 
-[433] [434
+[431] [432
 
 ]
 \blx@maxsegment@187=\count836
@@ -5251,7 +5254,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--1
 
  []
 
-[435] [436
+[433] [434
 
 ]
 \blx@maxsegment@188=\count838
@@ -5267,15 +5270,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--1
 
 Overfull \hbox (65.87506pt too wide) has occurred while \output is active
 \T1/cmr/m/sl/12 7.54.  E-04 USE CONTINGENCY CONTRACTING (I.E., BEHAVIORAL CONTR
-ACTS). \T1/cmr/m/n/12 437
+ACTS). \T1/cmr/m/n/12 435
  []
 
-[437]
+[435]
 \blx@maxsegment@189=\count840
 \blx@sectionciteorder@189=\count841
 Package biblatex Info: Reference section=189 on input line 26.
 Package biblatex Info: Setting label 'refsection:189' on input line 26.
- [438
+ [436
 
 ]
 Package biblatex Info: Reference section=0 on input line 36.
@@ -5284,7 +5287,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--1
 
  []
 
-[439]
+[437]
 \blx@maxsegment@190=\count842
 \blx@sectionciteorder@190=\count843
 Package biblatex Info: Reference section=190 on input line 25.
@@ -5295,14 +5298,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--1
 
  []
 
-[440
+[438
 
-] [441]
+] [439]
 \blx@maxsegment@191=\count844
 \blx@sectionciteorder@191=\count845
 Package biblatex Info: Reference section=191 on input line 17.
 Package biblatex Info: Setting label 'refsection:191' on input line 17.
- [442
+ [440
 
 ]
 Package biblatex Info: Reference section=0 on input line 21.
@@ -5317,16 +5320,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--1
 
  []
 
-[443] [444
+[441] [442
 
 ]
 Chapter 8.
-(./tex/chapters/fifth-ed/tl-modules/fivehOne/body.tex [445]
+(./tex/chapters/fifth-ed/tl-modules/fivehOne/body.tex [443]
 \blx@maxsegment@192=\count846
 \blx@sectionciteorder@192=\count847
 Package biblatex Info: Reference section=192 on input line 23.
 Package biblatex Info: Setting label 'refsection:192' on input line 23.
- [446
+ [444
 
 ]
 Package biblatex Info: Reference section=0 on input line 27.
@@ -5336,7 +5339,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--1
 
  []
 
-[447] [448
+[445] [446
 
 ]
 \blx@maxsegment@193=\count848
@@ -5356,7 +5359,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--44
 
  []
 
-[449] [450
+[447] [448
 
 ]
 \blx@maxsegment@194=\count850
@@ -5375,12 +5378,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 86--1
 
  []
 
-[451] [452]
+[449] [450]
 Overfull \hbox (16.65685pt too wide) in paragraph at lines 2--2
 []\T1/cmr/bx/n/17.28 J-04 Se-lect in-ter-ven-tion strate-gies based on client
  []
 
-[453
+[451
 
 ]
 \blx@maxsegment@195=\count852
@@ -5399,12 +5402,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--49
 
  []
 
-[454] [455]
+[452] [453]
 Overfull \hbox (6.75562pt too wide) in paragraph at lines 50--50
 []\T1/cmr/bx/n/17.28 J-06 Se-lect in-ter-ven-tion strate-gies based on sup-
  []
 
-[456
+[454
 
 ]
 \blx@maxsegment@196=\count854
@@ -5423,12 +5426,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 92--100
 
  []
 
-[457] [458]
+[455] [456]
 \blx@maxsegment@197=\count856
 \blx@sectionciteorder@197=\count857
 Package biblatex Info: Reference section=197 on input line 121.
 Package biblatex Info: Setting label 'refsection:197' on input line 121.
- [459
+ [457
 
 ]
 Overfull \hbox (0.76895pt too wide) in paragraph at lines 126--126
@@ -5442,7 +5445,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 130--141
 
  []
 
-[460] [461
+[458] [459
 
 ]
 \blx@maxsegment@198=\count858
@@ -5455,12 +5458,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 173--184
 
  []
 
-[462] [463]
+[460] [461]
 Overfull \hbox (6.23775pt too wide) in paragraph at lines 185--185
 []\T1/cmr/bx/n/17.28 J-03 Se-lect in-ter-ven-tion strate-gies based on task
  []
 
-[464
+[462
 
 ]
 \blx@maxsegment@199=\count860
@@ -5473,10 +5476,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 229--238
 
  []
 
-[465]
+[463]
 Underfull \vbox (badness 1661) has occurred while \output is active []
 
- [466
+ [464
 
 ]
 \blx@maxsegment@200=\count862
@@ -5496,7 +5499,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 268--1
 
  []
 
-[467] [468
+[465] [466
 
 ]
 \blx@maxsegment@201=\count864
@@ -5515,14 +5518,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--1
 
  []
 
-[469] [470
+[467] [468
 
 ]
 \blx@maxsegment@202=\count866
 \blx@sectionciteorder@202=\count867
 Package biblatex Info: Reference section=202 on input line 33.
 Package biblatex Info: Setting label 'refsection:202' on input line 33.
- [471]
+ [469]
 Package biblatex Info: Reference section=0 on input line 39.
 
 Overfull \hbox (0.62738pt too wide) in paragraph at lines 42--53
@@ -5535,21 +5538,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--53
 
  []
 
-[472] [473
+[470] [471
 
 ]
 \blx@maxsegment@203=\count868
 \blx@sectionciteorder@203=\count869
 Package biblatex Info: Reference section=203 on input line 89.
 Package biblatex Info: Setting label 'refsection:203' on input line 89.
- [474]
+ [472]
 Package biblatex Info: Reference section=0 on input line 97.
 
 Underfull \hbox (badness 10000) in paragraph at lines 100--107
 
  []
 
-[475] [476
+[473] [474
 
 ]
 \blx@maxsegment@204=\count870
@@ -5562,26 +5565,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 136--142
 
  []
 
-[477] [478
+[475] [476
 
 ]
 \blx@maxsegment@205=\count872
 \blx@sectionciteorder@205=\count873
 Package biblatex Info: Reference section=205 on input line 170.
 Package biblatex Info: Setting label 'refsection:205' on input line 170.
- [479]
+ [477]
 Package biblatex Info: Reference section=0 on input line 181.
 
 Underfull \hbox (badness 10000) in paragraph at lines 184--194
 
  []
 
-[480]
+[478]
 \blx@maxsegment@206=\count874
 \blx@sectionciteorder@206=\count875
 Package biblatex Info: Reference section=206 on input line 213.
 Package biblatex Info: Setting label 'refsection:206' on input line 213.
- [481
+ [479
 
 ]
 Package biblatex Info: Reference section=0 on input line 220.
@@ -5590,7 +5593,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 223--2
 
  []
 
-[482] [483
+[480] [481
 
 ]
 \blx@maxsegment@207=\count876
@@ -5603,13 +5606,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--50
 
  []
 
-[484]
+[482]
 Overfull \hbox (50.99559pt too wide) has occurred while \output is active
 \T1/cmr/m/sl/12 8.17.  K-07 EVALUATE THE EFFECTIVENESS OF THE BEHAVIORAL PROGRA
-M. \T1/cmr/m/n/12 485
+M. \T1/cmr/m/n/12 483
  []
 
-[485
+[483
 
 ]
 \blx@maxsegment@208=\count878
@@ -5622,7 +5625,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 86--1
 
  []
 
-[486]
+[484]
 Overfull \hbox (22.20119pt too wide) in paragraph at lines 14--15
 []\T1/cmr/m/n/12 Ask your Su-per-visee to graph a set of data and de-scribe the
  level/trend/variability
@@ -5632,7 +5635,7 @@ Overfull \hbox (22.20119pt too wide) in paragraph at lines 14--15
 \blx@sectionciteorder@209=\count881
 Package biblatex Info: Reference section=209 on input line 18.
 Package biblatex Info: Setting label 'refsection:209' on input line 18.
-[487
+[485
 
 ]
 Package biblatex Info: Reference section=0 on input line 25.
@@ -5641,7 +5644,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--1
 
  []
 
-[488]
+[486]
 \blx@maxsegment@210=\count882
 \blx@sectionciteorder@210=\count883
 Package biblatex Info: Reference section=210 on input line 21.
@@ -5652,9 +5655,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--31
 
  []
 
-[489
+[487
 
-] [490] [491
+] [488] [489
 
 ]
 \blx@maxsegment@211=\count884
@@ -5667,12 +5670,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--79
 
  []
 
-) (./tex/chapters/fifth-ed/tl-modules/fivehNine/body.tex [492]
+) (./tex/chapters/fifth-ed/tl-modules/fivehNine/body.tex [490]
 \blx@maxsegment@212=\count886
 \blx@sectionciteorder@212=\count887
 Package biblatex Info: Reference section=212 on input line 21.
 Package biblatex Info: Setting label 'refsection:212' on input line 21.
- [493
+ [491
 
 ]
 Package biblatex Info: Reference section=0 on input line 26.
@@ -5681,12 +5684,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--33
 
  []
 
-[494]
+[492]
 Overfull \hbox (1.37357pt too wide) in paragraph at lines 34--34
 \T1/cmr/bx/n/17.28 the client's be-hav-ioral reper-toires in their nat-
  []
 
-[495
+[493
 
 ]
 \blx@maxsegment@213=\count888
@@ -5699,7 +5702,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--73
 
  []
 
-[496]
+[494]
 \blx@maxsegment@214=\count890
 \blx@sectionciteorder@214=\count891
 Package biblatex Info: Reference section=214 on input line 99.
@@ -5707,10 +5710,10 @@ Package biblatex Info: Setting label 'refsection:214' on input line 99.
 
 Overfull \hbox (1.65842pt too wide) has occurred while \output is active
 \T1/cmr/m/sl/12 8.23.  K-06 PROVIDE SUPERVISION FOR BEHAVIOR-CHANGE AGENTS. \T1
-/cmr/m/n/12 497
+/cmr/m/n/12 495
  []
 
-[497
+[495
 
 ]
 Package biblatex Info: Reference section=0 on input line 107.
@@ -5719,18 +5722,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 110--1
 
  []
 
-[498]
+[496]
 Chapter 9.
-(./tex/chapters/fifth-ed/tl-modules/fiveiOne/body.tex [499
+(./tex/chapters/fifth-ed/tl-modules/fiveiOne/body.tex [497
 
-] [500
+] [498
 
 ]
 \blx@maxsegment@215=\count892
 \blx@sectionciteorder@215=\count893
 Package biblatex Info: Reference section=215 on input line 32.
 Package biblatex Info: Setting label 'refsection:215' on input line 32.
- [501]
+ [499]
 Package biblatex Info: Reference section=0 on input line 42.
 )
 (./tex/chapters/fifth-ed/tl-modules/fiveiTwo/body.tex)
@@ -5740,7 +5743,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--1
 
  []
 
-[502] [503
+[500] [501
 
 ]
 \blx@maxsegment@216=\count894
@@ -5753,12 +5756,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--1
 
  []
 
-[504] [505]
+[502] [503]
 Overfull \hbox (8.70784pt too wide) in paragraph at lines 2--2
 []\T1/cmr/bx/n/17.28 K-04 De-sign and use ef-fec-tive per-for-mance mon-
  []
 
-[506
+[504
 
 ]
 \blx@maxsegment@217=\count896
@@ -5771,14 +5774,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--1
 
  []
 
-[507] [508
+[505] [506
 
 ]
 \blx@maxsegment@218=\count898
 \blx@sectionciteorder@218=\count899
 Package biblatex Info: Reference section=218 on input line 32.
 Package biblatex Info: Setting label 'refsection:218' on input line 32.
- [509]
+ [507]
 Package biblatex Info: Reference section=0 on input line 42.
 ) (./tex/chapters/fifth-ed/tl-modules/fiveiSeven/body.tex)
 (./tex/chapters/fifth-ed/tl-modules/fiveiEight/body.tex
@@ -5786,13 +5789,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--1
 
  []
 
-[510]
+[508]
 Overfull \hbox (45.12202pt too wide) has occurred while \output is active
 \T1/cmr/m/sl/12 9.5.  K-07 EVALUATE THE EFFECTIVENESS OF THE BEHAVIORAL PROGRAM
-. \T1/cmr/m/n/12 511
+. \T1/cmr/m/n/12 509
  []
 
-[511
+[509
 
 ]
 \blx@maxsegment@219=\count900
@@ -5805,10 +5808,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--44
 
  []
 
-(./tex/glossary/glossary.tex (./main.gls [512])) [513
+(./tex/glossary/glossary.tex (./main.gls [510])) [511
 
 
-] [514
+] [512
 
 ]
 Overfull \hbox (40.70161pt too wide) in paragraph at lines 47--47
@@ -5816,31 +5819,31 @@ Overfull \hbox (40.70161pt too wide) in paragraph at lines 47--47
 kills]\T1/cmr/m/n/12 . www.asha.org/policy. 
  []
 
-[515] [516]
+[513] [514]
 Overfull \hbox (0.7115pt too wide) in paragraph at lines 47--47
 [][][][]\T1/cmr/m/n/12 Baum, W. (1979). Match-ing, un-der-match-ing, and over-m
 atch-ing in stud-ies of choice.
  []
 
-[517] [518]
+[515] [516]
 Overfull \hbox (5.70534pt too wide) in paragraph at lines 47--47
 \T1/cmr/m/n/12 drugs: In-ter-pre-ta-tions. In \T1/cmr/m/it/12 Stim-u-lus prop-e
 r-ties of drugs \T1/cmr/m/n/12 (pp. 149^^U160). Springer. 
  []
 
-[519] [520]
+[517] [518]
 Overfull \hbox (3.38582pt too wide) in paragraph at lines 47--47
 \T1/cmr/m/n/12 errorless-learning pro-ce-dures for the difficult-to-teach child
 . \T1/cmr/m/it/12 Jour-nal of Autism
  []
 
-[521] [522] [523] [524]
+[519] [520] [521] [522]
 Overfull \hbox (0.76895pt too wide) in paragraph at lines 47--47
 [][][][]\T1/cmr/m/n/12 Hawkins, R. (1984). What is ``mean-ing-ful'' be-hav-ior 
 change in a severely/profoundly
  []
 
-[525] [526] [527] [528]
+[523] [524] [525] [526]
 Overfull \hbox (1.7925pt too wide) in paragraph at lines 47--47
 [][][][][][]\T1/cmr/m/n/12 Krause, T. R., Sey-mour, K., & Sloat, K. (1999). Lon
 g-term eval-u-a-tion of a behavior-
@@ -5852,44 +5855,44 @@ Overfull \hbox (1.00499pt too wide) in paragraph at lines 47--47
  Pre-ci-sion teach-ing book\T1/cmr/m/n/12 . Great-ness Achieved
  []
 
-[529] [530] [531] [532] [533] [534] [535] [536] [537]
+[527] [528] [529] [530] [531] [532] [533] [534] [535]
 Overfull \hbox (12.78482pt too wide) in paragraph at lines 47--47
 [][][][][]\T1/cmr/m/n/12 Schlinger, H., & Blakely, E. (1987). Function-altering
  ef-fects of contingency-specifying
  []
 
-[538]
+[536]
 Overfull \hbox (20.22926pt too wide) in paragraph at lines 47--47
 [][][][]\T1/cmr/m/n/12 Skinner, B. F. (1969). \T1/cmr/m/it/12 Con-tin-gen-cies 
 of re-in-force-ment: A the-o-ret-i-cal anal-y-sis\T1/cmr/m/n/12 . Appleton-
  []
 
-[539]
+[537]
 Overfull \hbox (3.97704pt too wide) in paragraph at lines 47--47
 \T1/cmr/m/n/12 found de-vel-op-men-tal dis-abil-i-ties. \T1/cmr/m/it/12 Jour-na
 l of Ap-plied Be-hav-ior Anal-y-sis\T1/cmr/m/n/12 , \T1/cmr/m/it/12 28\T1/cmr/m
 /n/12 (1),
  []
 
-[540] [541] [542] [543]
+[538] [539] [540] [541]
 Overfull \hbox (6.3218pt too wide) in paragraph at lines 47--47
 \T1/cmr/m/n/12 Prin-ci-ples, pro-ce-dures, and fu-ture di-rec-tions. \T1/cmr/m/
 it/12 School Psy-chol-ogy Re-view\T1/cmr/m/n/12 , \T1/cmr/m/it/12 30\T1/cmr/m/n
 /12 (2),
  []
 
-[544] (./main.ind) (./main.nnd [545] [546
+[542] (./main.ind) (./main.nnd [543] [544
 
-] [547] [548] [549] [550]
+] [545] [546] [547] [548]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [551]
-[552] [553] [554] [555] [556] [557] [558] [559
+ [549]
+[550] [551] [552] [553] [554] [555] [556] [557
 
 ]) (./main.tnd
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [560
+ [558
 
 
 ]
@@ -5898,42 +5901,48 @@ Underfull \vbox (badness 7667) has occurred while \output is active []
 
 Underfull \vbox (badness 7667) has occurred while \output is active []
 
- [561]
+ [559]
 Underfull \vbox (badness 5908) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [562]
+ [560]
 Underfull \vbox (badness 3724) has occurred while \output is active []
+
+ [561]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [562]
+Underfull \vbox (badness 4647) has occurred while \output is active []
 
  [563]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [564]
-Underfull \vbox (badness 4647) has occurred while \output is active []
+Underfull \vbox (badness 7667) has occurred while \output is active []
+
+
+Underfull \vbox (badness 7667) has occurred while \output is active []
 
  [565]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 7667) has occurred while \output is active []
 
  [566]
 Underfull \vbox (badness 7667) has occurred while \output is active []
 
-
-Underfull \vbox (badness 7667) has occurred while \output is active []
-
  [567]
-Underfull \vbox (badness 7667) has occurred while \output is active []
-
- [568]
-Underfull \vbox (badness 7667) has occurred while \output is active []
-
- [569]
-[570] [571]
+[568] [569]
 Underfull \vbox (badness 7667) has occurred while \output is active []
 
 
 Underfull \vbox (badness 3724) has occurred while \output is active []
+
+ [570]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [571]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [572]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -5941,29 +5950,23 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [573]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [574]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [575]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [576]
 Underfull \vbox (badness 7667) has occurred while \output is active []
 
 
 Underfull \vbox (badness 3724) has occurred while \output is active []
 
- [577]
+ [575]
 Underfull \vbox (badness 5908) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [578]
-[579] [580
+ [576]
+[577] [578
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 54.
@@ -5973,17 +5976,17 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 54.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 54.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 54.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 3208846E2730F96D62D781B25DE3560D;24354.
+(rerunfilecheck)             Checksum: 4877EAA834DE75DDD1870031DB615A25;24245.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 54.
  ) 
 Here is how much of TeX's memory you used:
- 44783 strings out of 492616
- 885312 string characters out of 6129482
- 2752033 words of memory out of 5000000
- 43181 multiletter control sequences out of 15000+600000
+ 44787 strings out of 492616
+ 885694 string characters out of 6129482
+ 2751964 words of memory out of 5000000
+ 43180 multiletter control sequences out of 15000+600000
  547241 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  74i,6n,112p,2019b,4755s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -6003,10 +6006,10 @@ ve/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive
 019/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb></usr/local/texlive/201
 9/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2019/
 texmf-dist/fonts/type1/public/cm-super/sfti1728.pfb>
-Output written on main.pdf (602 pages, 1421160 bytes).
+Output written on main.pdf (600 pages, 1420079 bytes).
 PDF statistics:
- 8749 PDF objects out of 8907 (max. 8388607)
- 8050 compressed objects within 81 object streams
- 4719 named destinations out of 5155 (max. 500000)
- 1841 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 8732 PDF objects out of 8907 (max. 8388607)
+ 8035 compressed objects within 81 object streams
+ 4716 named destinations out of 5155 (max. 500000)
+ 1833 words of extra memory for PDF output out of 10000 (max. 10000000)
 

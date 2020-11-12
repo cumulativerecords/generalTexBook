@@ -2,11 +2,11 @@
 \begin{theglossary}\glossaryheader
 \glsgroupheading{A}\relax \glsresetentrylist %
 \glossentry{applied}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{512}}}\glsgroupskip
+		\setentrycounter[]{page}\glsnumberformat{510}}}\glsgroupskip
 \glsgroupheading{B}\relax \glsresetentrylist %
 \glossentry{behavior}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{512}}}\glsgroupskip
+		\setentrycounter[]{page}\glsnumberformat{510}}}\glsgroupskip
 \glsgroupheading{C}\relax \glsresetentrylist %
 \glossentry{cat}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{512}}}%
+		\setentrycounter[]{page}\glsnumberformat{510}}}%
 \end{theglossary}\glossarypostamble
