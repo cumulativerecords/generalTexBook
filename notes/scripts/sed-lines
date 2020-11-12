@@ -1,0 +1,13 @@
+#!/bin/sh
+#
+#	program:	sed-lines
+#
+#	usage:		sed to redirect text from a file to other file.
+#
+# It makes the most sense to run these scripts from the directories, to avoid having to type out the relative paths each time.
+
+# Example with specified path, not a good plan.
+sed -n '1,5p' ../../tex/chapters/fifth-ed/fiveaOne/body.tex > ../../tex/chapters/fifth-ed/fiveaOne/df.tex 
+
+# Example of running sed from a task list folder.
+sed -n '1,5p' body.tex > df.tex
