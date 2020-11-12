@@ -1,0 +1,78 @@
+#!/bin/sh
+#
+#	program:	speed-run
+#
+#	input:		./speed-run task-list-to-change
+#
+#	location:	run from anyhere in the repo.
+#
+#	usage:		Use on one task list at a time.
+#			Designed as a tool to modularize
+#			a task lists from 4th to 5th 
+#			task list editions.
+#			
+#			This script divides the task-list modules to 
+#			subfiles and returns a summary report.
+#
+#	argument:	name of folder for task list to change.
+#	
+#	Do Not Use:	On Section A, fifth ed (I did that by hand).
+#
+# (Design steps commented below.)
+#
+#	argument from command line
+tl="$0"
+
+#	navigate to correct directory.
+cd ~/Documents/GitHub/trainaba-v1-ed2/tex/chapters/tl-modules/$0
+
+#	stage body.tex by commenting out task list entries to send to subfiles.
+# visually inspect? Could write a sed script to add a '#' at start of line matching pattern.
+# may be unnecessary since I have to inspect line numbers visually anyway.
+# If I want the commented-out info in each subfile, that needs to be the first line in each subfile.
+# But that won't work when I don't know how many tasks are in an item... 
+# this is getting complicated.
+
+#	sed scripts to distribute body.tex to subfiles.
+#sed -n ',p' body.tex >>nfo.tex
+#sed -n ',p' body.tex >>xmplz.tex
+#sed -n ',p' body.tex >>ssmt.tex
+#sed -n ',p' body.tex >>lit.tex
+#sed -n ',p' body.tex >>lssnz.tex
+
+#	overwrite body.tex with content from /fiveaOne/body.tex (deletes old content).
+#cat ../fiveaOne/body.tex > $0/body.tex
+ 
+#	replace '\fiveaOne' with correct task list name in 'current-task-list/body.tex' file.
+#sed -i -- 's/fiveaOne/$0/g' body.tex
+
+#	show a preview
+echo "Previews beginning..."
+echo "location"
+pwd
+
+#echo "nfo:"
+#head nfo.tex -5
+
+#echo "xmplz:"
+#head xmplz.tex -5
+
+#echo "ssmt:"
+#head ssmt.tex -5
+
+#echo "lit:"
+#head lit.tex -5
+
+#echo "lssnz:"
+#head lssnz.tex -5
+
+#echo "body:"
+#head body.tex -5
+
+#echo "Number of lines in new body file:"
+#cat body.tex | wc -l
+
+echo "If is what you expected, run gitcom."
+echo "You're doing great. Keep up the good work."
+echo "On behalf of the rest of the memory addresses, it's a pleasure serving you."
+echo "So long and thanks for the electricity."
