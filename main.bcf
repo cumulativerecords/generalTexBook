@@ -2151,8 +2151,9 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="1">
-    <bcf:citekey order="1" nocite="1">malott2015principles</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">skinner1953science</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">malott2015principles</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">skinner1953science</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2163,7 +2164,8 @@
   </bcf:bibdata>
   <bcf:section number="2">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">skinner1953science</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">pennypacker1992behavior</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">skinner1981selection</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2173,8 +2175,9 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="3">
-    <bcf:citekey order="1" nocite="1">malott2015principles</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">skinner1953science</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">delprato1992some</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">fisher2014handbook</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2185,7 +2188,9 @@
   </bcf:bibdata>
   <bcf:section number="4">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">skinner1953science</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">baer1968some</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">fisher2014handbook</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">schmidt1992data</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2196,8 +2201,7 @@
   </bcf:bibdata>
   <bcf:section number="5">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">pennypacker1992behavior</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">skinner1981selection</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">etzel1979simplest</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2207,9 +2211,9 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="6">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">delprato1992some</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">fisher2014handbook</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">bailey2000futurist</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">heward2005focus</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2220,9 +2224,7 @@
   </bcf:bibdata>
   <bcf:section number="7">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">baer1968some</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">fisher2014handbook</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">schmidt1992data</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">skinner1953science</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2232,40 +2234,6 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="8">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">etzel1979simplest</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 9 -->
-  <bcf:bibdata section="9">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="9">
-    <bcf:citekey order="1" nocite="1">bailey2000futurist</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">heward2005focus</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 10 -->
-  <bcf:bibdata section="10">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="10">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">skinner1953science</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 11 -->
-  <bcf:bibdata section="11">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="11">
     <bcf:citekey order="1" nocite="1">baum2011what</bcf:citekey>
     <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="3" nocite="1">moore2011review</bcf:citekey>
@@ -2276,11 +2244,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 12 -->
-  <bcf:bibdata section="12">
+  <!-- SECTION 9 -->
+  <bcf:bibdata section="9">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="12">
+  <bcf:section number="9">
     <bcf:citekey order="1" nocite="1">baer1968some</bcf:citekey>
     <bcf:citekey order="2" nocite="1">baum1995radical</bcf:citekey>
     <bcf:citekey order="3" nocite="1">baum2011what</bcf:citekey>
@@ -2292,11 +2260,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 13 -->
-  <bcf:bibdata section="13">
+  <!-- SECTION 10 -->
+  <bcf:bibdata section="10">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="13">
+  <bcf:section number="10">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">baer1968some</bcf:citekey>
     <bcf:citekey order="3" nocite="1">baer1987some</bcf:citekey>
@@ -2306,15 +2274,52 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
+  <!-- SECTION 11 -->
+  <bcf:bibdata section="11">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="11">
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">johnston1993strategies</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">michael2004concepts</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">skinner1969contingencies</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 12 -->
+  <bcf:bibdata section="12">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="12">
+    <bcf:citekey order="1" nocite="1">catania2013learning</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">johnston1993strategies</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">michael2004concepts</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 13 -->
+  <bcf:bibdata section="13">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="13">
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">sidman1997equivalence</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">sidman2009equivalence</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
   <!-- SECTION 14 -->
   <bcf:bibdata section="14">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="14">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">johnston1993strategies</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">michael2004concepts</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">skinner1969contingencies</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">bijou1961child</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">pavlov1927conditional</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2324,43 +2329,6 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="15">
-    <bcf:citekey order="1" nocite="1">catania2013learning</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">johnston1993strategies</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">michael2004concepts</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 16 -->
-  <bcf:bibdata section="16">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="16">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">sidman1997equivalence</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">sidman2009equivalence</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 17 -->
-  <bcf:bibdata section="17">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="17">
-    <bcf:citekey order="1" nocite="1">bijou1961child</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">pavlov1927conditional</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 18 -->
-  <bcf:bibdata section="18">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="18">
     <bcf:citekey order="1" nocite="1">catania1998learning</bcf:citekey>
     <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="3" nocite="1">skinner1984evolution</bcf:citekey>
@@ -2371,22 +2339,22 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 19 -->
-  <bcf:bibdata section="19">
+  <!-- SECTION 16 -->
+  <bcf:bibdata section="16">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="19">
+  <bcf:section number="16">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">mcallister1969application</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 20 -->
-  <bcf:bibdata section="20">
+  <!-- SECTION 17 -->
+  <bcf:bibdata section="17">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="20">
+  <bcf:section number="17">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">pierce2013behavior</bcf:citekey>
     <bcf:citekey order="3" nocite="1">davis1977operant</bcf:citekey>
@@ -2394,11 +2362,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 21 -->
-  <bcf:bibdata section="21">
+  <!-- SECTION 18 -->
+  <bcf:bibdata section="18">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="21">
+  <bcf:section number="18">
     <bcf:citekey order="1" nocite="1">bijou1965child</bcf:citekey>
     <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="3" nocite="1">gewirtz2000infant</bcf:citekey>
@@ -2409,11 +2377,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 22 -->
-  <bcf:bibdata section="22">
+  <!-- SECTION 19 -->
+  <bcf:bibdata section="19">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="22">
+  <bcf:section number="19">
     <bcf:citekey order="1" nocite="1">alessi1992models</bcf:citekey>
     <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="3" nocite="1">higgins2001effects</bcf:citekey>
@@ -2423,11 +2391,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 23 -->
-  <bcf:bibdata section="23">
+  <!-- SECTION 20 -->
+  <bcf:bibdata section="20">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="23">
+  <bcf:section number="20">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">malott2003principles</bcf:citekey>
     <bcf:citekey order="3" nocite="1">michael2004concepts</bcf:citekey>
@@ -2435,11 +2403,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 24 -->
-  <bcf:bibdata section="24">
+  <!-- SECTION 21 -->
+  <bcf:bibdata section="21">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="24">
+  <bcf:section number="21">
     <bcf:citekey order="1" nocite="1">azrin2007physical</bcf:citekey>
     <bcf:citekey order="2" nocite="1">volkmar2013encyclopedia</bcf:citekey>
     <bcf:citekey order="3" nocite="1">cooper2007applied</bcf:citekey>
@@ -2450,32 +2418,32 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 25 -->
-  <bcf:bibdata section="25">
+  <!-- SECTION 22 -->
+  <bcf:bibdata section="22">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="25">
+  <bcf:section number="22">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">ferster1957schedules</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 26 -->
-  <bcf:bibdata section="26">
+  <!-- SECTION 23 -->
+  <bcf:bibdata section="23">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="26">
+  <bcf:section number="23">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 27 -->
-  <bcf:bibdata section="27">
+  <!-- SECTION 24 -->
+  <bcf:bibdata section="24">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="27">
+  <bcf:section number="24">
     <bcf:citekey order="1" nocite="1">bailey2013ethics</bcf:citekey>
     <bcf:citekey order="2" nocite="1">bac2014professional</bcf:citekey>
     <bcf:citekey order="3" nocite="1">cooper2007applied</bcf:citekey>
@@ -2487,14 +2455,50 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
+  <!-- SECTION 25 -->
+  <bcf:bibdata section="25">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="25">
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">malott2003principles</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">michael2004concepts</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 26 -->
+  <bcf:bibdata section="26">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="26">
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">herman1964punishment</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 27 -->
+  <bcf:bibdata section="27">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="27">
+    <bcf:citekey order="1" nocite="1">bailey2013ethics</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">hake1965conditioned</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">iwata1988development</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
   <!-- SECTION 28 -->
   <bcf:bibdata section="28">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="28">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">malott2003principles</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">michael2004concepts</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">lerman1999side</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">magee2000extinction</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2505,7 +2509,7 @@
   </bcf:bibdata>
   <bcf:section number="29">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">herman1964punishment</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">vollmer1994concept</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2515,42 +2519,6 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="30">
-    <bcf:citekey order="1" nocite="1">bailey2013ethics</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">hake1965conditioned</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">iwata1988development</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 31 -->
-  <bcf:bibdata section="31">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="31">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">lerman1999side</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">magee2000extinction</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 32 -->
-  <bcf:bibdata section="32">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="32">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">vollmer1994concept</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 33 -->
-  <bcf:bibdata section="33">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="33">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">lovaas1977autistic</bcf:citekey>
     <bcf:citekey order="3" nocite="1">newman2009reasonable</bcf:citekey>
@@ -2561,11 +2529,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 34 -->
-  <bcf:bibdata section="34">
+  <!-- SECTION 31 -->
+  <bcf:bibdata section="31">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="34">
+  <bcf:section number="31">
     <bcf:citekey order="1" nocite="1">ayllon1968token</bcf:citekey>
     <bcf:citekey order="2" nocite="1">baer1999plan</bcf:citekey>
     <bcf:citekey order="3" nocite="1">cooper2007applied</bcf:citekey>
@@ -2576,11 +2544,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 35 -->
-  <bcf:bibdata section="35">
+  <!-- SECTION 32 -->
+  <bcf:bibdata section="32">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="35">
+  <bcf:section number="32">
     <bcf:citekey order="1" nocite="1">azrin1966punishment</bcf:citekey>
     <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="3" nocite="1">glenn1992revolutionary</bcf:citekey>
@@ -2593,11 +2561,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 36 -->
-  <bcf:bibdata section="36">
+  <!-- SECTION 33 -->
+  <bcf:bibdata section="33">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="36">
+  <bcf:section number="33">
     <bcf:citekey order="1" nocite="1">azrin1966punishment</bcf:citekey>
     <bcf:citekey order="2" nocite="1">bac2014professional</bcf:citekey>
     <bcf:citekey order="3" nocite="1">cooper2007applied</bcf:citekey>
@@ -2611,11 +2579,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 37 -->
-  <bcf:bibdata section="37">
+  <!-- SECTION 34 -->
+  <bcf:bibdata section="34">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="37">
+  <bcf:section number="34">
     <bcf:citekey order="1" nocite="1">bijou1965child</bcf:citekey>
     <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="3" nocite="1">gewirtz2000infant</bcf:citekey>
@@ -2626,16 +2594,52 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 38 -->
-  <bcf:bibdata section="38">
+  <!-- SECTION 35 -->
+  <bcf:bibdata section="35">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="38">
+  <bcf:section number="35">
     <bcf:citekey order="1" nocite="1">alessi1992models</bcf:citekey>
     <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="3" nocite="1">higgins2001effects</bcf:citekey>
     <bcf:citekey order="4" nocite="1">michael2004concepts</bcf:citekey>
     <bcf:citekey order="5" nocite="1">morse1977determinants</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 36 -->
+  <bcf:bibdata section="36">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="36">
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">herman1964punishment</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 37 -->
+  <bcf:bibdata section="37">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="37">
+    <bcf:citekey order="1" nocite="1">bailey2013ethics</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">hake1965conditioned</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">iwata1988development</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 38 -->
+  <bcf:bibdata section="38">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="38">
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">lerman1999side</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">magee2000extinction</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2646,7 +2650,6 @@
   </bcf:bibdata>
   <bcf:section number="39">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">herman1964punishment</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2656,10 +2659,9 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="40">
-    <bcf:citekey order="1" nocite="1">bailey2013ethics</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">hake1965conditioned</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">iwata1988development</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">catania2013learning</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">catania1971discriminative</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">bullock2015several</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2669,9 +2671,11 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="41">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">lerman1999side</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">magee2000extinction</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">bush1989contextual</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">carrigan1992conditional</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">johnson1993conditional</bcf:citekey>
+    <bcf:citekey order="5" nocite="1">sidman1994equivalence</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2682,6 +2686,7 @@
   </bcf:bibdata>
   <bcf:section number="42">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">green2001behavior</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2691,43 +2696,6 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="43">
-    <bcf:citekey order="1" nocite="1">catania2013learning</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">catania1971discriminative</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">bullock2015several</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 44 -->
-  <bcf:bibdata section="44">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="44">
-    <bcf:citekey order="1" nocite="1">bush1989contextual</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">carrigan1992conditional</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">johnson1993conditional</bcf:citekey>
-    <bcf:citekey order="5" nocite="1">sidman1994equivalence</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 45 -->
-  <bcf:bibdata section="45">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="45">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">green2001behavior</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 46 -->
-  <bcf:bibdata section="46">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="46">
     <bcf:citekey order="1" nocite="1">baer1968some</bcf:citekey>
     <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="3" nocite="1">fantuzzo1981generalization</bcf:citekey>
@@ -2737,11 +2705,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 47 -->
-  <bcf:bibdata section="47">
+  <!-- SECTION 44 -->
+  <bcf:bibdata section="44">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="47">
+  <bcf:section number="44">
     <bcf:citekey order="1" nocite="1">baer1968some</bcf:citekey>
     <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="3" nocite="1">cuvo2003stimulus</bcf:citekey>
@@ -2752,11 +2720,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 48 -->
-  <bcf:bibdata section="48">
+  <!-- SECTION 45 -->
+  <bcf:bibdata section="45">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="48">
+  <bcf:section number="45">
     <bcf:citekey order="1" nocite="1">michael1982distinguishing</bcf:citekey>
     <bcf:citekey order="2" nocite="1">skinner1953science</bcf:citekey>
     <bcf:citekey order="3" nocite="1">smith1997antecedent</bcf:citekey>
@@ -2764,11 +2732,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 49 -->
-  <bcf:bibdata section="49">
+  <!-- SECTION 46 -->
+  <bcf:bibdata section="46">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="49">
+  <bcf:section number="46">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">laraway2001abative</bcf:citekey>
     <bcf:citekey order="3" nocite="1">lotfizadeh2012motivating</bcf:citekey>
@@ -2779,11 +2747,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 50 -->
-  <bcf:bibdata section="50">
+  <!-- SECTION 47 -->
+  <bcf:bibdata section="47">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="50">
+  <bcf:section number="47">
     <bcf:citekey order="1" nocite="1">catania1993coming</bcf:citekey>
     <bcf:citekey order="2" nocite="1">clark1958effect</bcf:citekey>
     <bcf:citekey order="3" nocite="1">cooper2007applied</bcf:citekey>
@@ -2796,11 +2764,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 51 -->
-  <bcf:bibdata section="51">
+  <!-- SECTION 48 -->
+  <bcf:bibdata section="48">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="51">
+  <bcf:section number="48">
     <bcf:citekey order="1" nocite="1">carbone2007role</bcf:citekey>
     <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="3" nocite="1">laraway2003motivating</bcf:citekey>
@@ -2813,22 +2781,22 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 52 -->
-  <bcf:bibdata section="52">
+  <!-- SECTION 49 -->
+  <bcf:bibdata section="49">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="52">
+  <bcf:section number="49">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">michael1982distinguishing</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 53 -->
-  <bcf:bibdata section="53">
+  <!-- SECTION 50 -->
+  <bcf:bibdata section="50">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="53">
+  <bcf:section number="50">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">iwata2000current</bcf:citekey>
     <bcf:citekey order="3" nocite="1">laraway2001abative</bcf:citekey>
@@ -2837,11 +2805,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 54 -->
-  <bcf:bibdata section="54">
+  <!-- SECTION 51 -->
+  <bcf:bibdata section="51">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="54">
+  <bcf:section number="51">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">malott1988rule</bcf:citekey>
     <bcf:citekey order="3" nocite="1">malott1991role</bcf:citekey>
@@ -2851,11 +2819,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 55 -->
-  <bcf:bibdata section="55">
+  <!-- SECTION 52 -->
+  <bcf:bibdata section="52">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="55">
+  <bcf:section number="52">
     <bcf:citekey order="1" nocite="1">azrin1966punishment</bcf:citekey>
     <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="3" nocite="1">glenn1992revolutionary</bcf:citekey>
@@ -2868,11 +2836,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 56 -->
-  <bcf:bibdata section="56">
+  <!-- SECTION 53 -->
+  <bcf:bibdata section="53">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="56">
+  <bcf:section number="53">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">partington1998assessment</bcf:citekey>
     <bcf:citekey order="3" nocite="1">semel2003clinical</bcf:citekey>
@@ -2883,13 +2851,50 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
+  <!-- SECTION 54 -->
+  <bcf:bibdata section="54">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="54">
+    <bcf:citekey order="1" nocite="1">cooper2014applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">sundberg2008verbal</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">skinner1957verbal</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 55 -->
+  <bcf:bibdata section="55">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="55">
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">laraway2003motivating</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">michael1988establishing</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">sundberg2001benefits</bcf:citekey>
+    <bcf:citekey order="5" nocite="1">sweeney2007transferring</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 56 -->
+  <bcf:bibdata section="56">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="56">
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">skinner1957verbal</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
   <!-- SECTION 57 -->
   <bcf:bibdata section="57">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="57">
-    <bcf:citekey order="1" nocite="1">cooper2014applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">sundberg2008verbal</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">partington1993teaching</bcf:citekey>
     <bcf:citekey order="3" nocite="1">skinner1957verbal</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
@@ -2901,10 +2906,8 @@
   </bcf:bibdata>
   <bcf:section number="58">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">laraway2003motivating</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">michael1988establishing</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">sundberg2001benefits</bcf:citekey>
-    <bcf:citekey order="5" nocite="1">sweeney2007transferring</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">sidman1997equivalence</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">sidman2009equivalence</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2914,8 +2917,9 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="59">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">skinner1957verbal</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">bijou1961child</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">pavlov1927conditional</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2925,42 +2929,6 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="60">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">partington1993teaching</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">skinner1957verbal</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 61 -->
-  <bcf:bibdata section="61">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="61">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">sidman1997equivalence</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">sidman2009equivalence</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 62 -->
-  <bcf:bibdata section="62">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="62">
-    <bcf:citekey order="1" nocite="1">bijou1961child</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">pavlov1927conditional</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 63 -->
-  <bcf:bibdata section="63">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="63">
     <bcf:citekey order="1" nocite="1">catania1998learning</bcf:citekey>
     <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="3" nocite="1">skinner1984evolution</bcf:citekey>
@@ -2971,22 +2939,22 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 64 -->
-  <bcf:bibdata section="64">
+  <!-- SECTION 61 -->
+  <bcf:bibdata section="61">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="64">
+  <bcf:section number="61">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">mcallister1969application</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 65 -->
-  <bcf:bibdata section="65">
+  <!-- SECTION 62 -->
+  <bcf:bibdata section="62">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="65">
+  <bcf:section number="62">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">pierce2013behavior</bcf:citekey>
     <bcf:citekey order="3" nocite="1">davis1977operant</bcf:citekey>
@@ -2994,11 +2962,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 66 -->
-  <bcf:bibdata section="66">
+  <!-- SECTION 63 -->
+  <bcf:bibdata section="63">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="66">
+  <bcf:section number="63">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">baer1968some</bcf:citekey>
     <bcf:citekey order="3" nocite="1">hawkins1977behavioral</bcf:citekey>
@@ -3007,11 +2975,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 67 -->
-  <bcf:bibdata section="67">
+  <!-- SECTION 64 -->
+  <bcf:bibdata section="64">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="67">
+  <bcf:section number="64">
     <bcf:citekey order="1" nocite="1">baer1968some</bcf:citekey>
     <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="3" nocite="1">gresham1993treatment</bcf:citekey>
@@ -3021,13 +2989,47 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
+  <!-- SECTION 65 -->
+  <bcf:bibdata section="65">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="65">
+    <bcf:citekey order="1" nocite="1">catania2013learning</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 66 -->
+  <bcf:bibdata section="66">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="66">
+    <bcf:citekey order="1" nocite="1">catania2013learning</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 67 -->
+  <bcf:bibdata section="67">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="67">
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
   <!-- SECTION 68 -->
   <bcf:bibdata section="68">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="68">
-    <bcf:citekey order="1" nocite="1">catania2013learning</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">johnston2010strategies</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">thomason2011response</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">worsdell2002duration</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3037,8 +3039,8 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="69">
-    <bcf:citekey order="1" nocite="1">catania2013learning</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">deleon1999examination</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3049,6 +3051,7 @@
   </bcf:bibdata>
   <bcf:section number="70">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">thomason2011response</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3058,10 +3061,9 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="71">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">johnston2010strategies</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">thomason2011response</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">worsdell2002duration</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">blough1963interresponse</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">favell1980rapid</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3072,7 +3074,9 @@
   </bcf:bibdata>
   <bcf:section number="72">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">deleon1999examination</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">johnston2010strategies</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">thomason2011response</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">worsdell2002duration</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3082,42 +3086,6 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="73">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">thomason2011response</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 74 -->
-  <bcf:bibdata section="74">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="74">
-    <bcf:citekey order="1" nocite="1">blough1963interresponse</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">favell1980rapid</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 75 -->
-  <bcf:bibdata section="75">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="75">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">johnston2010strategies</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">thomason2011response</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">worsdell2002duration</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 76 -->
-  <bcf:bibdata section="76">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="76">
     <bcf:citekey order="1" nocite="1">call2014relative</bcf:citekey>
     <bcf:citekey order="2" nocite="1">fahmie2008progressing</bcf:citekey>
     <bcf:citekey order="3" nocite="1">hartmann1980interrupted</bcf:citekey>
@@ -3134,11 +3102,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 77 -->
-  <bcf:bibdata section="77">
+  <!-- SECTION 74 -->
+  <bcf:bibdata section="74">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="77">
+  <bcf:section number="74">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">johnston1993strategies</bcf:citekey>
     <bcf:citekey order="3" nocite="1">michael2004concepts</bcf:citekey>
@@ -3147,11 +3115,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 78 -->
-  <bcf:bibdata section="78">
+  <!-- SECTION 75 -->
+  <bcf:bibdata section="75">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="78">
+  <bcf:section number="75">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">laraway2003motivating</bcf:citekey>
     <bcf:citekey order="3" nocite="1">michael1988establishing</bcf:citekey>
@@ -3161,22 +3129,22 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 79 -->
-  <bcf:bibdata section="79">
+  <!-- SECTION 76 -->
+  <bcf:bibdata section="76">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="79">
+  <bcf:section number="76">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">lahey1974facilitation</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 80 -->
-  <bcf:bibdata section="80">
+  <!-- SECTION 77 -->
+  <bcf:bibdata section="77">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="80">
+  <bcf:section number="77">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">meany2007comparison</bcf:citekey>
     <bcf:citekey order="3" nocite="1">gardenier2004comparison</bcf:citekey>
@@ -3187,13 +3155,49 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
+  <!-- SECTION 78 -->
+  <bcf:bibdata section="78">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="78">
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">johnston1993strategies</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 79 -->
+  <bcf:bibdata section="79">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="79">
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">boyce2000evaluation</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">johnston2010strategies</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">watkins2000interobserver</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 80 -->
+  <bcf:bibdata section="80">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="80">
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">ledford2009single</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
   <!-- SECTION 81 -->
   <bcf:bibdata section="81">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="81">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">johnston1993strategies</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">kelly1977review</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">sasso1992use</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3204,9 +3208,9 @@
   </bcf:bibdata>
   <bcf:section number="82">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">boyce2000evaluation</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">johnston2010strategies</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">watkins2000interobserver</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">meany2007comparison</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">powell1975evaluation</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">suen1991reappraisal</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3217,7 +3221,9 @@
   </bcf:bibdata>
   <bcf:section number="83">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">ledford2009single</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">alberto2013applied</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">ledford2009single</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">vanselow2012online</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3228,8 +3234,7 @@
   </bcf:bibdata>
   <bcf:section number="84">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">kelly1977review</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">sasso1992use</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">ferster1957schedules</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3240,9 +3245,9 @@
   </bcf:bibdata>
   <bcf:section number="85">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">meany2007comparison</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">powell1975evaluation</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">suen1991reappraisal</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">fisher2014handbook</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">johnston1993strategies</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">parsonson1978analysis</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3253,9 +3258,8 @@
   </bcf:bibdata>
   <bcf:section number="86">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">alberto2013applied</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">ledford2009single</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">vanselow2012online</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">spriggs2010visual</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">american2010publication</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3266,7 +3270,7 @@
   </bcf:bibdata>
   <bcf:section number="87">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">ferster1957schedules</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">parsonson1978analysis</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3277,9 +3281,7 @@
   </bcf:bibdata>
   <bcf:section number="88">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">fisher2014handbook</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">johnston1993strategies</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">parsonson1978analysis</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">horner2005use</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3290,8 +3292,8 @@
   </bcf:bibdata>
   <bcf:section number="89">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">spriggs2010visual</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">american2010publication</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">lerman1996methodology</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">lerman2002reinforcement</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3302,7 +3304,8 @@
   </bcf:bibdata>
   <bcf:section number="90">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">parsonson1978analysis</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">johnston2010strategies</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">skinner1953science</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3312,8 +3315,11 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="91">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">horner2005use</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">cautela1984general</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">hagopian1994schedule</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">ingvarsson2008some</bcf:citekey>
+    <bcf:citekey order="5" nocite="1">wilder2005noncontingent</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3323,9 +3329,11 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="92">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">lerman1996methodology</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">lerman2002reinforcement</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">baer1968some</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">gresham1993treatment</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">johnston2010strategies</bcf:citekey>
+    <bcf:citekey order="5" nocite="1">peterson1982integrity</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3336,8 +3344,8 @@
   </bcf:bibdata>
   <bcf:section number="93">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">johnston2010strategies</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">skinner1953science</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">baer1968some</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">johnston2010strategies</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3347,11 +3355,11 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="94">
-    <bcf:citekey order="1" nocite="1">cautela1984general</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">hagopian1994schedule</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">ingvarsson2008some</bcf:citekey>
-    <bcf:citekey order="5" nocite="1">wilder2005noncontingent</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">anderson2002use</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">baer1970recent</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">falcomata2004evaluation</bcf:citekey>
+    <bcf:citekey order="5" nocite="1">lerman2002reinforcement</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3361,11 +3369,13 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="95">
-    <bcf:citekey order="1" nocite="1">baer1968some</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">gresham1993treatment</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">johnston2010strategies</bcf:citekey>
-    <bcf:citekey order="5" nocite="1">peterson1982integrity</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">barbetta1993effects</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">barlow1979alternating</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">iwata1994toward</bcf:citekey>
+    <bcf:citekey order="5" nocite="1">martens1992effects</bcf:citekey>
+    <bcf:citekey order="6" nocite="1">singh1985comparison</bcf:citekey>
+    <bcf:citekey order="7" nocite="1">ulman1975multielement</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3376,8 +3386,11 @@
   </bcf:bibdata>
   <bcf:section number="96">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">baer1968some</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">johnston2010strategies</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">hartmann1976changing</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">mcdougall2005range</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">mclaughlin1983examination</bcf:citekey>
+    <bcf:citekey order="5" nocite="1">hall1977changing</bcf:citekey>
+    <bcf:citekey order="6" nocite="1">allen2001exposure</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3388,10 +3401,12 @@
   </bcf:bibdata>
   <bcf:section number="97">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">anderson2002use</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">baer1970recent</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">falcomata2004evaluation</bcf:citekey>
-    <bcf:citekey order="5" nocite="1">lerman2002reinforcement</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">barger2004multiple</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">carr2005recommendations</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">harris1985comparisons</bcf:citekey>
+    <bcf:citekey order="5" nocite="1">harvey2004nonconcurrent</bcf:citekey>
+    <bcf:citekey order="6" nocite="1">watson1981non</bcf:citekey>
+    <bcf:citekey order="7" nocite="1">zhan2001single</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3401,13 +3416,9 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="98">
-    <bcf:citekey order="1" nocite="1">barbetta1993effects</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">barlow1979alternating</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">iwata1994toward</bcf:citekey>
-    <bcf:citekey order="5" nocite="1">martens1992effects</bcf:citekey>
-    <bcf:citekey order="6" nocite="1">singh1985comparison</bcf:citekey>
-    <bcf:citekey order="7" nocite="1">ulman1975multielement</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">ledford2009single</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">horner1978multiple</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">thompson1982training</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3417,12 +3428,10 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="99">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">hartmann1976changing</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">mcdougall2005range</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">mclaughlin1983examination</bcf:citekey>
-    <bcf:citekey order="5" nocite="1">hall1977changing</bcf:citekey>
-    <bcf:citekey order="6" nocite="1">allen2001exposure</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">alexander1985effect</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">colon2012effects</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">iwata2000skill</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">johnston2010strategies</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3433,12 +3442,10 @@
   </bcf:bibdata>
   <bcf:section number="100">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">barger2004multiple</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">carr2005recommendations</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">harris1985comparisons</bcf:citekey>
-    <bcf:citekey order="5" nocite="1">harvey2004nonconcurrent</bcf:citekey>
-    <bcf:citekey order="6" nocite="1">watson1981non</bcf:citekey>
-    <bcf:citekey order="7" nocite="1">zhan2001single</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">anderson2002use</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">baer1970recent</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">falcomata2004evaluation</bcf:citekey>
+    <bcf:citekey order="5" nocite="1">lerman2002reinforcement</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3448,45 +3455,6 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="101">
-    <bcf:citekey order="1" nocite="1">ledford2009single</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">horner1978multiple</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">thompson1982training</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 102 -->
-  <bcf:bibdata section="102">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="102">
-    <bcf:citekey order="1" nocite="1">alexander1985effect</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">colon2012effects</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">iwata2000skill</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">johnston2010strategies</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 103 -->
-  <bcf:bibdata section="103">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="103">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">anderson2002use</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">baer1970recent</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">falcomata2004evaluation</bcf:citekey>
-    <bcf:citekey order="5" nocite="1">lerman2002reinforcement</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 104 -->
-  <bcf:bibdata section="104">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="104">
     <bcf:citekey order="1" nocite="1">barbetta1993effects</bcf:citekey>
     <bcf:citekey order="2" nocite="1">barlow1979alternating</bcf:citekey>
     <bcf:citekey order="3" nocite="1">cooper2007applied</bcf:citekey>
@@ -3498,11 +3466,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 105 -->
-  <bcf:bibdata section="105">
+  <!-- SECTION 102 -->
+  <bcf:bibdata section="102">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="105">
+  <bcf:section number="102">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">hartmann1976changing</bcf:citekey>
     <bcf:citekey order="3" nocite="1">mcdougall2005range</bcf:citekey>
@@ -3513,11 +3481,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 106 -->
-  <bcf:bibdata section="106">
+  <!-- SECTION 103 -->
+  <bcf:bibdata section="103">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="106">
+  <bcf:section number="103">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">barger2004multiple</bcf:citekey>
     <bcf:citekey order="3" nocite="1">carr2005recommendations</bcf:citekey>
@@ -3529,14 +3497,52 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
+  <!-- SECTION 104 -->
+  <bcf:bibdata section="104">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="104">
+    <bcf:citekey order="1" nocite="1">ledford2009single</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">horner1978multiple</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">thompson1982training</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 105 -->
+  <bcf:bibdata section="105">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="105">
+    <bcf:citekey order="1" nocite="1">alexander1985effect</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">colon2012effects</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">iwata2000skill</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">johnston2010strategies</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 106 -->
+  <bcf:bibdata section="106">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="106">
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">lerman1996methodology</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">lerman2002reinforcement</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
   <!-- SECTION 107 -->
   <bcf:bibdata section="107">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="107">
-    <bcf:citekey order="1" nocite="1">ledford2009single</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">horner1978multiple</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">thompson1982training</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">hardesty2014effects</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">ward2010component</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">ward2012component</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3546,10 +3552,10 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="108">
-    <bcf:citekey order="1" nocite="1">alexander1985effect</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">colon2012effects</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">iwata2000skill</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">johnston2010strategies</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">bailey2013ethics</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">bac2014professional</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">van1988right</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3559,9 +3565,9 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="109">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">lerman1996methodology</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">lerman2002reinforcement</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">bailey1991marketing</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">lindsley1991technical</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">malott1992should</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3571,10 +3577,14 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="110">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">hardesty2014effects</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">ward2010component</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">ward2012component</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">bac2014professional</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">carr2003menstrual</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">carr1995biological</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="5" nocite="1">kennedy1996sleep</bcf:citekey>
+    <bcf:citekey order="6" nocite="1">o1997functional</bcf:citekey>
+    <bcf:citekey order="7" nocite="1">skinner1953science</bcf:citekey>
+    <bcf:citekey order="8" nocite="1">ulrich1962reflexive</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3584,10 +3594,8 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="111">
-    <bcf:citekey order="1" nocite="1">bailey2013ethics</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">bac2014professional</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">van1988right</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">watson2001functional</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">matson2009applied</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3597,9 +3605,14 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="112">
-    <bcf:citekey order="1" nocite="1">bailey1991marketing</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">lindsley1991technical</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">malott1992should</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">bac2014professional</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">carr2003menstrual</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">carr1995biological</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="5" nocite="1">kennedy1996sleep</bcf:citekey>
+    <bcf:citekey order="6" nocite="1">o1997functional</bcf:citekey>
+    <bcf:citekey order="7" nocite="1">skinner1953science</bcf:citekey>
+    <bcf:citekey order="8" nocite="1">ulrich1962reflexive</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3609,14 +3622,7 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="113">
-    <bcf:citekey order="1" nocite="1">bac2014professional</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">carr2003menstrual</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">carr1995biological</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="5" nocite="1">kennedy1996sleep</bcf:citekey>
-    <bcf:citekey order="6" nocite="1">o1997functional</bcf:citekey>
-    <bcf:citekey order="7" nocite="1">skinner1953science</bcf:citekey>
-    <bcf:citekey order="8" nocite="1">ulrich1962reflexive</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3626,8 +3632,8 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="114">
-    <bcf:citekey order="1" nocite="1">watson2001functional</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">matson2009applied</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">ledford2009single</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3637,14 +3643,9 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="115">
-    <bcf:citekey order="1" nocite="1">bac2014professional</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">carr2003menstrual</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">carr1995biological</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="5" nocite="1">kennedy1996sleep</bcf:citekey>
-    <bcf:citekey order="6" nocite="1">o1997functional</bcf:citekey>
-    <bcf:citekey order="7" nocite="1">skinner1953science</bcf:citekey>
-    <bcf:citekey order="8" nocite="1">ulrich1962reflexive</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">kelly2013collaborative</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">bac2014professional</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3654,7 +3655,8 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="116">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">watson2001functional</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">matson2009applied</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3664,40 +3666,6 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="117">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">ledford2009single</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 118 -->
-  <bcf:bibdata section="118">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="118">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">kelly2013collaborative</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">bac2014professional</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 119 -->
-  <bcf:bibdata section="119">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="119">
-    <bcf:citekey order="1" nocite="1">watson2001functional</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">matson2009applied</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 120 -->
-  <bcf:bibdata section="120">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="120">
     <bcf:citekey order="1" nocite="1">bac2014professional</bcf:citekey>
     <bcf:citekey order="2" nocite="1">carr2003menstrual</bcf:citekey>
     <bcf:citekey order="3" nocite="1">carr1995biological</bcf:citekey>
@@ -3710,11 +3678,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 121 -->
-  <bcf:bibdata section="121">
+  <!-- SECTION 118 -->
+  <bcf:bibdata section="118">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="121">
+  <bcf:section number="118">
     <bcf:citekey order="1" nocite="1">bailey2013ethics</bcf:citekey>
     <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="3" nocite="1">hawkins1979functions</bcf:citekey>
@@ -3724,11 +3692,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 122 -->
-  <bcf:bibdata section="122">
+  <!-- SECTION 119 -->
+  <bcf:bibdata section="119">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="122">
+  <bcf:section number="119">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">baer1968some</bcf:citekey>
     <bcf:citekey order="3" nocite="1">hawkins1977behavioral</bcf:citekey>
@@ -3737,11 +3705,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 123 -->
-  <bcf:bibdata section="123">
+  <!-- SECTION 120 -->
+  <bcf:bibdata section="120">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="123">
+  <bcf:section number="120">
     <bcf:citekey order="1" nocite="1">ayllon1968token</bcf:citekey>
     <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="3" nocite="1">hawkins1984meaningful</bcf:citekey>
@@ -3751,11 +3719,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 124 -->
-  <bcf:bibdata section="124">
+  <!-- SECTION 121 -->
+  <bcf:bibdata section="121">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="124">
+  <bcf:section number="121">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">resnick1973task</bcf:citekey>
     <bcf:citekey order="3" nocite="1">bancroft2011comparison</bcf:citekey>
@@ -3765,11 +3733,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 125 -->
-  <bcf:bibdata section="125">
+  <!-- SECTION 122 -->
+  <bcf:bibdata section="122">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="125">
+  <bcf:section number="122">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">catania2013learning</bcf:citekey>
     <bcf:citekey order="3" nocite="1">fisher1992comparison</bcf:citekey>
@@ -3785,11 +3753,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 126 -->
-  <bcf:bibdata section="126">
+  <!-- SECTION 123 -->
+  <bcf:bibdata section="123">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="126">
+  <bcf:section number="123">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">green1988identifying</bcf:citekey>
     <bcf:citekey order="3" nocite="1">hagopian2004preference</bcf:citekey>
@@ -3797,11 +3765,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 127 -->
-  <bcf:bibdata section="127">
+  <!-- SECTION 124 -->
+  <bcf:bibdata section="124">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="127">
+  <bcf:section number="124">
     <bcf:citekey order="1" nocite="1">bailey2013ethics</bcf:citekey>
     <bcf:citekey order="2" nocite="1">bannerman1990balancing</bcf:citekey>
     <bcf:citekey order="3" nocite="1">berk1976effects</bcf:citekey>
@@ -3814,11 +3782,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 128 -->
-  <bcf:bibdata section="128">
+  <!-- SECTION 125 -->
+  <bcf:bibdata section="125">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="128">
+  <bcf:section number="125">
     <bcf:citekey order="1" nocite="1">baum1974two</bcf:citekey>
     <bcf:citekey order="2" nocite="1">baum1979matching</bcf:citekey>
     <bcf:citekey order="3" nocite="1">borrero2002application</bcf:citekey>
@@ -3834,22 +3802,22 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 129 -->
-  <bcf:bibdata section="129">
+  <!-- SECTION 126 -->
+  <bcf:bibdata section="126">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="129">
+  <bcf:section number="126">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">miller1994use</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 130 -->
-  <bcf:bibdata section="130">
+  <!-- SECTION 127 -->
+  <bcf:bibdata section="127">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="130">
+  <bcf:section number="127">
     <bcf:citekey order="1" nocite="1">baum1974choice</bcf:citekey>
     <bcf:citekey order="2" nocite="1">borrero2002application</bcf:citekey>
     <bcf:citekey order="3" nocite="1">conger1974use</bcf:citekey>
@@ -3861,11 +3829,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 131 -->
-  <bcf:bibdata section="131">
+  <!-- SECTION 128 -->
+  <bcf:bibdata section="128">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="131">
+  <bcf:section number="128">
     <bcf:citekey order="1" nocite="1">bailey1991marketing</bcf:citekey>
     <bcf:citekey order="2" nocite="1">lindsley1991technical</bcf:citekey>
     <bcf:citekey order="3" nocite="1">malott1992should</bcf:citekey>
@@ -3873,11 +3841,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 132 -->
-  <bcf:bibdata section="132">
+  <!-- SECTION 129 -->
+  <bcf:bibdata section="129">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="132">
+  <bcf:section number="129">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">malott2008principles</bcf:citekey>
     <bcf:citekey order="3" nocite="1">moore2008conceptual</bcf:citekey>
@@ -3885,22 +3853,22 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 133 -->
-  <bcf:bibdata section="133">
+  <!-- SECTION 130 -->
+  <bcf:bibdata section="130">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="133">
+  <bcf:section number="130">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">bailey201025</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 134 -->
-  <bcf:bibdata section="134">
+  <!-- SECTION 131 -->
+  <bcf:bibdata section="131">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="134">
+  <bcf:section number="131">
     <bcf:citekey order="1" nocite="1">baer1987some</bcf:citekey>
     <bcf:citekey order="2" nocite="1">bac2014professional</bcf:citekey>
     <bcf:citekey order="3" nocite="1">cooper2007applied</bcf:citekey>
@@ -3912,11 +3880,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 135 -->
-  <bcf:bibdata section="135">
+  <!-- SECTION 132 -->
+  <bcf:bibdata section="132">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="135">
+  <bcf:section number="132">
     <bcf:citekey order="1" nocite="1">carr1993behavior</bcf:citekey>
     <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="3" nocite="1">watson2001functional</bcf:citekey>
@@ -3928,11 +3896,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 136 -->
-  <bcf:bibdata section="136">
+  <!-- SECTION 133 -->
+  <bcf:bibdata section="133">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="136">
+  <bcf:section number="133">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">fisher2014handbook</bcf:citekey>
     <bcf:citekey order="3" nocite="1">johnston1993strategies</bcf:citekey>
@@ -3941,11 +3909,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 137 -->
-  <bcf:bibdata section="137">
+  <!-- SECTION 134 -->
+  <bcf:bibdata section="134">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="137">
+  <bcf:section number="134">
     <bcf:citekey order="1" nocite="1">ayllon1968token</bcf:citekey>
     <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="3" nocite="1">hawkins1984meaningful</bcf:citekey>
@@ -3955,11 +3923,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 138 -->
-  <bcf:bibdata section="138">
+  <!-- SECTION 135 -->
+  <bcf:bibdata section="135">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="138">
+  <bcf:section number="135">
     <bcf:citekey order="1" nocite="1">hall1968effects</bcf:citekey>
     <bcf:citekey order="2" nocite="1">hart1968effect</bcf:citekey>
     <bcf:citekey order="3" nocite="1">michael1975positive</bcf:citekey>
@@ -3970,11 +3938,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 139 -->
-  <bcf:bibdata section="139">
+  <!-- SECTION 136 -->
+  <bcf:bibdata section="136">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="139">
+  <bcf:section number="136">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">fisher1993functional</bcf:citekey>
     <bcf:citekey order="3" nocite="1">hagopian1998effectiveness</bcf:citekey>
@@ -3987,14 +3955,51 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
+  <!-- SECTION 137 -->
+  <bcf:bibdata section="137">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="137">
+    <bcf:citekey order="1" nocite="1">michael1982distinguishing</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">skinner1953science</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">smith1997antecedent</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 138 -->
+  <bcf:bibdata section="138">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="138">
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">malott2003principles</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">taylor2014discrimination</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 139 -->
+  <bcf:bibdata section="139">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="139">
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">williams1978effects</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">engelmann1975your</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">morse1977determinants</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
   <!-- SECTION 140 -->
   <bcf:bibdata section="140">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="140">
-    <bcf:citekey order="1" nocite="1">michael1982distinguishing</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">skinner1953science</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">smith1997antecedent</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">etzel1979simplest</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">fisher2014handbook</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">walker2008constant</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -4004,9 +4009,9 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="141">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">malott2003principles</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">taylor2014discrimination</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">fillingham2003application</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">mueller2007errorless</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">terrace1963errorless</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -4016,10 +4021,9 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="142">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">williams1978effects</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">engelmann1975your</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">morse1977determinants</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">baer1967development</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">striefel1974transfer</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -4029,9 +4033,10 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="143">
-    <bcf:citekey order="1" nocite="1">etzel1979simplest</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">fisher2014handbook</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">walker2008constant</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">hayes2004rule</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">malott2003principles</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">skinner1969contingencies</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -4041,43 +4046,6 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="144">
-    <bcf:citekey order="1" nocite="1">fillingham2003application</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">mueller2007errorless</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">terrace1963errorless</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 145 -->
-  <bcf:bibdata section="145">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="145">
-    <bcf:citekey order="1" nocite="1">baer1967development</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">striefel1974transfer</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 146 -->
-  <bcf:bibdata section="146">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="146">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">hayes2004rule</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">malott2003principles</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">skinner1969contingencies</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 147 -->
-  <bcf:bibdata section="147">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="147">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">lovaas1977autistic</bcf:citekey>
     <bcf:citekey order="3" nocite="1">newman2009reasonable</bcf:citekey>
@@ -4088,11 +4056,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 148 -->
-  <bcf:bibdata section="148">
+  <!-- SECTION 145 -->
+  <bcf:bibdata section="145">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="148">
+  <bcf:section number="145">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">catania1998learning</bcf:citekey>
     <bcf:citekey order="3" nocite="1">libby2008comparison</bcf:citekey>
@@ -4106,11 +4074,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 149 -->
-  <bcf:bibdata section="149">
+  <!-- SECTION 146 -->
+  <bcf:bibdata section="146">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="149">
+  <bcf:section number="146">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">malott2003principles</bcf:citekey>
     <bcf:citekey order="3" nocite="1">mazur2002learning</bcf:citekey>
@@ -4118,11 +4086,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 150 -->
-  <bcf:bibdata section="150">
+  <!-- SECTION 147 -->
+  <bcf:bibdata section="147">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="150">
+  <bcf:section number="147">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">jarmolowicz2008effects</bcf:citekey>
     <bcf:citekey order="3" nocite="1">stokes1974programming</bcf:citekey>
@@ -4130,11 +4098,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 151 -->
-  <bcf:bibdata section="151">
+  <!-- SECTION 148 -->
+  <bcf:bibdata section="148">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="151">
+  <bcf:section number="148">
     <bcf:citekey order="1" nocite="1">etzel1979simplest</bcf:citekey>
     <bcf:citekey order="2" nocite="1">fisher2014handbook</bcf:citekey>
     <bcf:citekey order="3" nocite="1">walker2008constant</bcf:citekey>
@@ -4142,11 +4110,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 152 -->
-  <bcf:bibdata section="152">
+  <!-- SECTION 149 -->
+  <bcf:bibdata section="149">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="152">
+  <bcf:section number="149">
     <bcf:citekey order="1" nocite="1">ayllon1968token</bcf:citekey>
     <bcf:citekey order="2" nocite="1">baer1999plan</bcf:citekey>
     <bcf:citekey order="3" nocite="1">cooper2007applied</bcf:citekey>
@@ -4157,22 +4125,22 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 153 -->
-  <bcf:bibdata section="153">
+  <!-- SECTION 150 -->
+  <bcf:bibdata section="150">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="153">
+  <bcf:section number="150">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">rusch1981toward</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 154 -->
-  <bcf:bibdata section="154">
+  <!-- SECTION 151 -->
+  <bcf:bibdata section="151">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="154">
+  <bcf:section number="151">
     <bcf:citekey order="1" nocite="1">anderson1999early</bcf:citekey>
     <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="3" nocite="1">hart1975incidental</bcf:citekey>
@@ -4183,11 +4151,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 155 -->
-  <bcf:bibdata section="155">
+  <!-- SECTION 152 -->
+  <bcf:bibdata section="152">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="155">
+  <bcf:section number="152">
     <bcf:citekey order="1" nocite="1">am2002aug</bcf:citekey>
     <bcf:citekey order="2" nocite="1">charlop2002using</bcf:citekey>
     <bcf:citekey order="3" nocite="1">dattilo1991facilitating</bcf:citekey>
@@ -4198,15 +4166,55 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
+  <!-- SECTION 153 -->
+  <bcf:bibdata section="153">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="153">
+    <bcf:citekey order="1" nocite="1">athens2010investigation</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">sweeney2013effects</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">vollmer1999evaluating</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 154 -->
+  <bcf:bibdata section="154">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="154">
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">fawcett1991social</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">wolf1978social</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 155 -->
+  <bcf:bibdata section="155">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="155">
+    <bcf:citekey order="1" nocite="1">bailey2013ethics</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">hawkins1979functions</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">linehan1977issues</bcf:citekey>
+    <bcf:citekey order="5" nocite="1">van1979social</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
   <!-- SECTION 156 -->
   <bcf:bibdata section="156">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="156">
-    <bcf:citekey order="1" nocite="1">athens2010investigation</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">ayllon1968token</bcf:citekey>
     <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">sweeney2013effects</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">vollmer1999evaluating</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">hawkins1984meaningful</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">hawkins1986selection</bcf:citekey>
+    <bcf:citekey order="5" nocite="1">rosales1997behavioral</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -4217,8 +4225,9 @@
   </bcf:bibdata>
   <bcf:section number="157">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">fawcett1991social</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">wolf1978social</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">hawkins1984meaningful</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">reimers1988parents</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">wolf1978social</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -4228,47 +4237,6 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="158">
-    <bcf:citekey order="1" nocite="1">bailey2013ethics</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">hawkins1979functions</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">linehan1977issues</bcf:citekey>
-    <bcf:citekey order="5" nocite="1">van1979social</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 159 -->
-  <bcf:bibdata section="159">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="159">
-    <bcf:citekey order="1" nocite="1">ayllon1968token</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">hawkins1984meaningful</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">hawkins1986selection</bcf:citekey>
-    <bcf:citekey order="5" nocite="1">rosales1997behavioral</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 160 -->
-  <bcf:bibdata section="160">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="160">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">hawkins1984meaningful</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">reimers1988parents</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">wolf1978social</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 161 -->
-  <bcf:bibdata section="161">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="161">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">fryling2012impact</bcf:citekey>
     <bcf:citekey order="3" nocite="1">reed2011parametric</bcf:citekey>
@@ -4281,13 +4249,52 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
+  <!-- SECTION 159 -->
+  <bcf:bibdata section="159">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="159">
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">ledford2009single</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 160 -->
+  <bcf:bibdata section="160">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="160">
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">malott2003principles</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">taylor2014discrimination</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 161 -->
+  <bcf:bibdata section="161">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="161">
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">partington1998assessment</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">semel2003clinical</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">skinner1957verbal</bcf:citekey>
+    <bcf:citekey order="5" nocite="1">sundberg2008verbal</bcf:citekey>
+    <bcf:citekey order="6" nocite="1">sundberg1998teaching</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
   <!-- SECTION 162 -->
   <bcf:bibdata section="162">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="162">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">ledford2009single</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">fillingham2003application</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">mueller2007errorless</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">terrace1963errorless</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -4298,8 +4305,9 @@
   </bcf:bibdata>
   <bcf:section number="163">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">malott2003principles</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">taylor2014discrimination</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">cumming1965complex</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">fields2010varieties</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">sidman1986matching</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -4310,11 +4318,9 @@
   </bcf:bibdata>
   <bcf:section number="164">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">partington1998assessment</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">semel2003clinical</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">skinner1957verbal</bcf:citekey>
-    <bcf:citekey order="5" nocite="1">sundberg2008verbal</bcf:citekey>
-    <bcf:citekey order="6" nocite="1">sundberg1998teaching</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">sidman1971reading</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">sidman1994equivalence</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">sidman1982conditional</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -4324,9 +4330,11 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="165">
-    <bcf:citekey order="1" nocite="1">fillingham2003application</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">mueller2007errorless</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">terrace1963errorless</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">hayes2001relational</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">sidman1994equivalence</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">stewart2013language</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">torneke2010learning</bcf:citekey>
+    <bcf:citekey order="5" nocite="1">wulfert1988transfer</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -4337,46 +4345,6 @@
   </bcf:bibdata>
   <bcf:section number="166">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">cumming1965complex</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">fields2010varieties</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">sidman1986matching</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 167 -->
-  <bcf:bibdata section="167">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="167">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">sidman1971reading</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">sidman1994equivalence</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">sidman1982conditional</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 168 -->
-  <bcf:bibdata section="168">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="168">
-    <bcf:citekey order="1" nocite="1">hayes2001relational</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">sidman1994equivalence</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">stewart2013language</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">torneke2010learning</bcf:citekey>
-    <bcf:citekey order="5" nocite="1">wulfert1988transfer</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 169 -->
-  <bcf:bibdata section="169">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="169">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">partington1998assessment</bcf:citekey>
     <bcf:citekey order="3" nocite="1">semel2003clinical</bcf:citekey>
     <bcf:citekey order="4" nocite="1">skinner1957verbal</bcf:citekey>
@@ -4386,11 +4354,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 170 -->
-  <bcf:bibdata section="170">
+  <!-- SECTION 167 -->
+  <bcf:bibdata section="167">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="170">
+  <bcf:section number="167">
     <bcf:citekey order="1" nocite="1">drash1999using</bcf:citekey>
     <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="3" nocite="1">kodak2009acquisition</bcf:citekey>
@@ -4401,11 +4369,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 171 -->
-  <bcf:bibdata section="171">
+  <!-- SECTION 168 -->
+  <bcf:bibdata section="168">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="171">
+  <bcf:section number="168">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">drash1999using</bcf:citekey>
     <bcf:citekey order="3" nocite="1">skinner1957verbal</bcf:citekey>
@@ -4415,11 +4383,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 172 -->
-  <bcf:bibdata section="172">
+  <!-- SECTION 169 -->
+  <bcf:bibdata section="169">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="172">
+  <bcf:section number="169">
     <bcf:citekey order="1" nocite="1">skinner1957verbal</bcf:citekey>
     <bcf:citekey order="2" nocite="1">sundberg2001benefits</bcf:citekey>
     <bcf:citekey order="3" nocite="1">sundberg1998teaching</bcf:citekey>
@@ -4427,11 +4395,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 173 -->
-  <bcf:bibdata section="173">
+  <!-- SECTION 170 -->
+  <bcf:bibdata section="170">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="173">
+  <bcf:section number="170">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">partington1993teaching</bcf:citekey>
     <bcf:citekey order="3" nocite="1">skinner1957verbal</bcf:citekey>
@@ -4441,11 +4409,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 174 -->
-  <bcf:bibdata section="174">
+  <!-- SECTION 171 -->
+  <bcf:bibdata section="171">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="174">
+  <bcf:section number="171">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">fabrizio2001brief</bcf:citekey>
     <bcf:citekey order="3" nocite="1">leaf1999work</bcf:citekey>
@@ -4458,13 +4426,50 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
+  <!-- SECTION 172 -->
+  <bcf:bibdata section="172">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="172">
+    <bcf:citekey order="1" nocite="1">cooper2014applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">sundberg2008verbal</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">skinner1957verbal</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 173 -->
+  <bcf:bibdata section="173">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="173">
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">laraway2003motivating</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">michael1988establishing</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">sundberg2001benefits</bcf:citekey>
+    <bcf:citekey order="5" nocite="1">sweeney2007transferring</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 174 -->
+  <bcf:bibdata section="174">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="174">
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">skinner1957verbal</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
   <!-- SECTION 175 -->
   <bcf:bibdata section="175">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="175">
-    <bcf:citekey order="1" nocite="1">cooper2014applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">sundberg2008verbal</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">partington1993teaching</bcf:citekey>
     <bcf:citekey order="3" nocite="1">skinner1957verbal</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
@@ -4476,10 +4481,9 @@
   </bcf:bibdata>
   <bcf:section number="176">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">laraway2003motivating</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">michael1988establishing</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">sundberg2001benefits</bcf:citekey>
-    <bcf:citekey order="5" nocite="1">sweeney2007transferring</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">sidman1971reading</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">sidman1994equivalence</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">sidman1982conditional</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -4490,7 +4494,8 @@
   </bcf:bibdata>
   <bcf:section number="177">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">skinner1957verbal</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">sidman1997equivalence</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">sidman2009equivalence</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -4500,9 +4505,9 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="178">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">partington1993teaching</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">skinner1957verbal</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">fillingham2003application</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">mueller2007errorless</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">terrace1963errorless</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -4513,9 +4518,9 @@
   </bcf:bibdata>
   <bcf:section number="179">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">sidman1971reading</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">sidman1994equivalence</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">sidman1982conditional</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">hayes2004rule</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">malott2003principles</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">skinner1969contingencies</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -4525,43 +4530,6 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="180">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">sidman1997equivalence</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">sidman2009equivalence</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 181 -->
-  <bcf:bibdata section="181">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="181">
-    <bcf:citekey order="1" nocite="1">fillingham2003application</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">mueller2007errorless</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">terrace1963errorless</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 182 -->
-  <bcf:bibdata section="182">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="182">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">hayes2004rule</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">malott2003principles</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">skinner1969contingencies</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 183 -->
-  <bcf:bibdata section="183">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="183">
     <bcf:citekey order="1" nocite="1">brandon1997applying</bcf:citekey>
     <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="3" nocite="1">nevin1974response</bcf:citekey>
@@ -4572,11 +4540,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 184 -->
-  <bcf:bibdata section="184">
+  <!-- SECTION 181 -->
+  <bcf:bibdata section="181">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="184">
+  <bcf:section number="181">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">davis1996variant</bcf:citekey>
     <bcf:citekey order="3" nocite="1">mace1996pursuit</bcf:citekey>
@@ -4587,11 +4555,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 185 -->
-  <bcf:bibdata section="185">
+  <!-- SECTION 182 -->
+  <bcf:bibdata section="182">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="185">
+  <bcf:section number="182">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">cowdery1990effects</bcf:citekey>
     <bcf:citekey order="3" nocite="1">deitz1977analysis</bcf:citekey>
@@ -4610,11 +4578,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 186 -->
-  <bcf:bibdata section="186">
+  <!-- SECTION 183 -->
+  <bcf:bibdata section="183">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="186">
+  <bcf:section number="183">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">durand1999functional</bcf:citekey>
     <bcf:citekey order="3" nocite="1">carr1985reducing</bcf:citekey>
@@ -4625,22 +4593,22 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 187 -->
-  <bcf:bibdata section="187">
+  <!-- SECTION 184 -->
+  <bcf:bibdata section="184">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="187">
+  <bcf:section number="184">
     <bcf:citekey order="1" nocite="1">lerman1995prevalence</bcf:citekey>
     <bcf:citekey order="2" nocite="1">athens2010investigation</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 188 -->
-  <bcf:bibdata section="188">
+  <!-- SECTION 185 -->
+  <bcf:bibdata section="185">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="188">
+  <bcf:section number="185">
     <bcf:citekey order="1" nocite="1">bailey2013ethics</bcf:citekey>
     <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="3" nocite="1">foxx1982decreasing</bcf:citekey>
@@ -4649,11 +4617,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 189 -->
-  <bcf:bibdata section="189">
+  <!-- SECTION 186 -->
+  <bcf:bibdata section="186">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="189">
+  <bcf:section number="186">
     <bcf:citekey order="1" nocite="1">ayllon1968token</bcf:citekey>
     <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="3" nocite="1">foxx1998comprehensive</bcf:citekey>
@@ -4667,11 +4635,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 190 -->
-  <bcf:bibdata section="190">
+  <!-- SECTION 187 -->
+  <bcf:bibdata section="187">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="190">
+  <bcf:section number="187">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">kamps2011class</bcf:citekey>
     <bcf:citekey order="3" nocite="1">litoe1975brief</bcf:citekey>
@@ -4681,22 +4649,22 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 191 -->
-  <bcf:bibdata section="191">
+  <!-- SECTION 188 -->
+  <bcf:bibdata section="188">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="191">
+  <bcf:section number="188">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">miller1994use</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 192 -->
-  <bcf:bibdata section="192">
+  <!-- SECTION 189 -->
+  <bcf:bibdata section="189">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="192">
+  <bcf:section number="189">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">agran1997student</bcf:citekey>
     <bcf:citekey order="3" nocite="1">baum2005understanding</bcf:citekey>
@@ -4709,13 +4677,48 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
+  <!-- SECTION 190 -->
+  <bcf:bibdata section="190">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="190">
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">stokes1977implicit</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 191 -->
+  <bcf:bibdata section="191">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="191">
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">rusch1981toward</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 192 -->
+  <bcf:bibdata section="192">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="192">
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">van1979social</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
   <!-- SECTION 193 -->
   <bcf:bibdata section="193">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="193">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">stokes1977implicit</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">baer1991if</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">watson2001functional</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">lerman1994transfer</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -4725,41 +4728,6 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="194">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">rusch1981toward</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 195 -->
-  <bcf:bibdata section="195">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="195">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">van1979social</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 196 -->
-  <bcf:bibdata section="196">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="196">
-    <bcf:citekey order="1" nocite="1">baer1991if</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">watson2001functional</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">lerman1994transfer</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 197 -->
-  <bcf:bibdata section="197">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="197">
     <bcf:citekey order="1" nocite="1">ayllon1968token</bcf:citekey>
     <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="3" nocite="1">hawkins1984meaningful</bcf:citekey>
@@ -4769,11 +4737,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 198 -->
-  <bcf:bibdata section="198">
+  <!-- SECTION 195 -->
+  <bcf:bibdata section="195">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="198">
+  <bcf:section number="195">
     <bcf:citekey order="1" nocite="1">bailey2013ethics</bcf:citekey>
     <bcf:citekey order="2" nocite="1">bannerman1990balancing</bcf:citekey>
     <bcf:citekey order="3" nocite="1">berk1976effects</bcf:citekey>
@@ -4786,11 +4754,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 199 -->
-  <bcf:bibdata section="199">
+  <!-- SECTION 196 -->
+  <bcf:bibdata section="196">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="199">
+  <bcf:section number="196">
     <bcf:citekey order="1" nocite="1">ayllon1968token</bcf:citekey>
     <bcf:citekey order="2" nocite="1">baer1999plan</bcf:citekey>
     <bcf:citekey order="3" nocite="1">cooper2007applied</bcf:citekey>
@@ -4801,15 +4769,52 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
+  <!-- SECTION 197 -->
+  <bcf:bibdata section="197">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="197">
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">hawkins1984meaningful</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">reimers1988parents</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">wolf1978social</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 198 -->
+  <bcf:bibdata section="198">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="198">
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">fawcett1991social</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">wolf1978social</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 199 -->
+  <bcf:bibdata section="199">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="199">
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">kazdin2012behavior</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">miltenberger2008behavior</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">test1990teaching</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
   <!-- SECTION 200 -->
   <bcf:bibdata section="200">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="200">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">hawkins1984meaningful</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">reimers1988parents</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">wolf1978social</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">fisher2014handbook</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">noell2011building</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">shapiro2011academic</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -4819,9 +4824,10 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="201">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">fawcett1991social</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">wolf1978social</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">athens2010investigation</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">sweeney2013effects</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">vollmer1999evaluating</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -4831,10 +4837,10 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="202">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">kazdin2012behavior</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">miltenberger2008behavior</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">test1990teaching</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">balsam1983negative</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">flora2004power</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">kodak2007further</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">riordan1980behavioral</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -4844,9 +4850,12 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="203">
-    <bcf:citekey order="1" nocite="1">fisher2014handbook</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">noell2011building</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">shapiro2011academic</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">azrin1966punishment</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">catania1998learning</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">iwata1994toward</bcf:citekey>
+    <bcf:citekey order="5" nocite="1">may1976guidelines</bcf:citekey>
+    <bcf:citekey order="6" nocite="1">white1980exceptional</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -4858,8 +4867,8 @@
   <bcf:section number="204">
     <bcf:citekey order="1" nocite="1">athens2010investigation</bcf:citekey>
     <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">sweeney2013effects</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">vollmer1999evaluating</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">lerman1995prevalence</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">lerman1999side</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -4869,47 +4878,6 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="205">
-    <bcf:citekey order="1" nocite="1">balsam1983negative</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">flora2004power</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">kodak2007further</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">riordan1980behavioral</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 206 -->
-  <bcf:bibdata section="206">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="206">
-    <bcf:citekey order="1" nocite="1">azrin1966punishment</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">catania1998learning</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">iwata1994toward</bcf:citekey>
-    <bcf:citekey order="5" nocite="1">may1976guidelines</bcf:citekey>
-    <bcf:citekey order="6" nocite="1">white1980exceptional</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 207 -->
-  <bcf:bibdata section="207">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="207">
-    <bcf:citekey order="1" nocite="1">athens2010investigation</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">lerman1995prevalence</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">lerman1999side</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 208 -->
-  <bcf:bibdata section="208">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="208">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">fagen1978behavioral</bcf:citekey>
     <bcf:citekey order="3" nocite="1">hantula1994behavioral</bcf:citekey>
@@ -4923,11 +4891,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 209 -->
-  <bcf:bibdata section="209">
+  <!-- SECTION 206 -->
+  <bcf:bibdata section="206">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="209">
+  <bcf:section number="206">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">gross1981behavioral</bcf:citekey>
     <bcf:citekey order="3" nocite="1">koegel1980behavioral</bcf:citekey>
@@ -4937,11 +4905,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 210 -->
-  <bcf:bibdata section="210">
+  <!-- SECTION 207 -->
+  <bcf:bibdata section="207">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="210">
+  <bcf:section number="207">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">johnston2010strategies</bcf:citekey>
     <bcf:citekey order="3" nocite="1">wolery1994procedural</bcf:citekey>
@@ -4949,11 +4917,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 211 -->
-  <bcf:bibdata section="211">
+  <!-- SECTION 208 -->
+  <bcf:bibdata section="208">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="211">
+  <bcf:section number="208">
     <bcf:citekey order="1" nocite="1">bailey2013ethics</bcf:citekey>
     <bcf:citekey order="2" nocite="1">birnbrauer1999how</bcf:citekey>
     <bcf:citekey order="3" nocite="1">cooper2007applied</bcf:citekey>
@@ -4961,11 +4929,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 212 -->
-  <bcf:bibdata section="212">
+  <!-- SECTION 209 -->
+  <bcf:bibdata section="209">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="212">
+  <bcf:section number="209">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
     <bcf:citekey order="2" nocite="1">keohane2005teachers</bcf:citekey>
     <bcf:citekey order="3" nocite="1">lindsley1985quantified</bcf:citekey>
@@ -4975,13 +4943,49 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
+  <!-- SECTION 210 -->
+  <bcf:bibdata section="210">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="210">
+    <bcf:citekey order="1" nocite="1">bailey2013ethics</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">bac2014professional</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 211 -->
+  <bcf:bibdata section="211">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="211">
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">johnston2010strategies</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">wolery1994procedural</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 212 -->
+  <bcf:bibdata section="212">
+    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="212">
+    <bcf:citekey order="1" nocite="1">bailey201025</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">bailey2013ethics</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">bac2014professional</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
   <!-- SECTION 213 -->
   <bcf:bibdata section="213">
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="213">
-    <bcf:citekey order="1" nocite="1">bailey2013ethics</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">bac2014professional</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">jarmolowicz2008effects</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">stokes1974programming</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -4991,9 +4995,12 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="214">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">johnston2010strategies</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">wolery1994procedural</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">codding2005effects</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">miles2009effects</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">parsons1995training</bcf:citekey>
+    <bcf:citekey order="5" nocite="1">sarokoff2004effects</bcf:citekey>
+    <bcf:citekey order="6" nocite="1">smith1992transfer</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -5003,9 +5010,14 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="215">
-    <bcf:citekey order="1" nocite="1">bailey201025</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">bailey2013ethics</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">bac2014professional</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">fryling2012impact</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">reed2011parametric</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">wheeler2006treatment</bcf:citekey>
+    <bcf:citekey order="5" nocite="1">wilder2006effects</bcf:citekey>
+    <bcf:citekey order="6" nocite="1">mcintyre2007treatment</bcf:citekey>
+    <bcf:citekey order="7" nocite="1">peterson1982integrity</bcf:citekey>
+    <bcf:citekey order="8" nocite="1">pipkin2010effects</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -5016,8 +5028,12 @@
   </bcf:bibdata>
   <bcf:section number="216">
     <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">jarmolowicz2008effects</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">stokes1974programming</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">iwata2000skill</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">lambert2014training</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">miles2009effects</bcf:citekey>
+    <bcf:citekey order="5" nocite="1">parsons1995training</bcf:citekey>
+    <bcf:citekey order="6" nocite="1">sarokoff2004effects</bcf:citekey>
+    <bcf:citekey order="7" nocite="1">shore1995pyramidal</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -5027,12 +5043,10 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="217">
-    <bcf:citekey order="1" nocite="1">codding2005effects</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">miles2009effects</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">parsons1995training</bcf:citekey>
-    <bcf:citekey order="5" nocite="1">sarokoff2004effects</bcf:citekey>
-    <bcf:citekey order="6" nocite="1">smith1992transfer</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">arco2008feedback</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">codding2005effects</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">iwata1976performance</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">richman1988effects</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -5059,52 +5073,6 @@
     <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="219">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">iwata2000skill</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">lambert2014training</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">miles2009effects</bcf:citekey>
-    <bcf:citekey order="5" nocite="1">parsons1995training</bcf:citekey>
-    <bcf:citekey order="6" nocite="1">sarokoff2004effects</bcf:citekey>
-    <bcf:citekey order="7" nocite="1">shore1995pyramidal</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 220 -->
-  <bcf:bibdata section="220">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="220">
-    <bcf:citekey order="1" nocite="1">arco2008feedback</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">codding2005effects</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">iwata1976performance</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">richman1988effects</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 221 -->
-  <bcf:bibdata section="221">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="221">
-    <bcf:citekey order="1" nocite="1">cooper2007applied</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">fryling2012impact</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">reed2011parametric</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">wheeler2006treatment</bcf:citekey>
-    <bcf:citekey order="5" nocite="1">wilder2006effects</bcf:citekey>
-    <bcf:citekey order="6" nocite="1">mcintyre2007treatment</bcf:citekey>
-    <bcf:citekey order="7" nocite="1">peterson1982integrity</bcf:citekey>
-    <bcf:citekey order="8" nocite="1">pipkin2010effects</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 222 -->
-  <bcf:bibdata section="222">
-    <bcf:datasource type="file" datatype="bibtex">tex/bib/refMan.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="222">
     <bcf:citekey order="1" nocite="1">bailey2013ethics</bcf:citekey>
     <bcf:citekey order="2" nocite="1">birnbrauer1999how</bcf:citekey>
     <bcf:citekey order="3" nocite="1">cooper2007applied</bcf:citekey>
@@ -7114,33 +7082,6 @@
                 labelalphanametemplatename="global">
   </bcf:datalist>
   <bcf:datalist section="219"
-                name="apa/global//global/global"
-                type="entry"
-                sortingtemplatename="apa"
-                sortingnamekeytemplatename="global"
-                labelprefix=""
-                uniquenametemplatename="global"
-                labelalphanametemplatename="global">
-  </bcf:datalist>
-  <bcf:datalist section="220"
-                name="apa/global//global/global"
-                type="entry"
-                sortingtemplatename="apa"
-                sortingnamekeytemplatename="global"
-                labelprefix=""
-                uniquenametemplatename="global"
-                labelalphanametemplatename="global">
-  </bcf:datalist>
-  <bcf:datalist section="221"
-                name="apa/global//global/global"
-                type="entry"
-                sortingtemplatename="apa"
-                sortingnamekeytemplatename="global"
-                labelprefix=""
-                uniquenametemplatename="global"
-                labelalphanametemplatename="global">
-  </bcf:datalist>
-  <bcf:datalist section="222"
                 name="apa/global//global/global"
                 type="entry"
                 sortingtemplatename="apa"
