@@ -36,16 +36,24 @@ pwd
 echo The next steps will copy a range of lines to subfiles.
 echo Which range do you want to target?
 
+#	Make a temporary copy of ranger program.
+cp ~/Documents/GitHub/trainaba-v1-ed2/notes/scripts/ranger temp-ranger
+
+#	Open body file so it's easier to read.
+open -a TeXShop body.tex 
+
 select section in "nfo" "xmplz" "ssmt" "lit" "lssnz" "done"; do
 	case $section in
-		nfo   )  ./ranger nfo;;
-		xmplz )  ./ranger xmplz;;
-		ssmt  )  ./ranger ssmt;;
-		lit   )  ./ranger lit;;
-		lssnz )  ./ranger lssnz;;
+		nfo   )  ./temp-ranger nfo;;
+		xmplz )  ./temp-ranger xmplz;;
+		ssmt  )  ./temp-ranger ssmt;;
+		lit   )  ./temp-ranger lit;;
+		lssnz )  ./temp-ranger lssnz;;
 		done  )  break;;
 	esac
 done
+
+rm temp-ranger
 
 echo "Do you wish to overwrite $current/body.tex? Cannot be undone."
 select yn in "Yes" "No"; do
@@ -61,7 +69,7 @@ done
  
 
 
-#echo "Number of lines in new body file:"
+echo "Number of lines in new body file:"
 cat body.tex | wc -l
 
 #echo "If is what you expected, run ./gitcom."

@@ -4,7 +4,7 @@
 #
 #	input:		./ranger subfile-to-edit
 #
-#	location:	Should be called by ./make-subfiles.
+#	location:	Subroutine to ./make-subfiles.
 #
 #	usage:		Use on one task list at a time.
 #			Designed as a tool to modularize
@@ -17,7 +17,7 @@
 #	argument:	first arg is the subfile to edit (*.tex).
 #
 sub="$1"
-echo Enter first and last lines of $sub:
+echo Enter first and last lines to write to $sub.tex:
 read beg end
  
 # Confirm input
@@ -34,4 +34,4 @@ select yn in "Yes" "No"; do
         No ) echo "Cancelling. Always smart to be safe...";exit;;
     esac
 done
-echo Done. Copied range to $tlname.tex
+echo Done. Copied range to $sub.tex
