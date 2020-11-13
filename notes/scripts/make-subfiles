@@ -1,0 +1,67 @@
+#!/bin/sh
+#
+#	program:	make-subfiles
+#
+#	input:		./make-subfiles task-list-to-change
+#
+#	location:	run from anyhere in the repo.
+#			It operates on the right folder
+#			but does not change working dir in terminal.
+#
+#	usage:		Use on one task list at a time.
+#			Calls a subroutine, ./ranger, to copy range areas.
+#	
+#	Purpose:	Designed as a tool to modularize
+#			a task lists from 4th to 5th 
+#			task list editions.
+#			
+#			This script divides the task-list modules to 
+#			subfiles and returns a summary report.
+#
+#	argument:	name of folder for task list to change.
+#	
+#	Do Not Use:	On Section A, fifth ed (I did that by hand).
+#
+# (Design steps commented below.)
+#
+#	argument from command line
+current="$1"			# current task list item
+
+#	navigate to correct directory.
+cd ~/Documents/GitHub/trainaba-v1-ed2/tex/chapters/fifth-ed/tl-modules/$current
+
+#	Present subfile menu.
+echo You are about to make edits on:
+pwd
+echo The next steps will copy a range of lines to subfiles.
+echo Which range do you want to target?
+
+select section in "nfo" "xmplz" "ssmt" "lit" "lssnz" "done"; do
+	case $section in
+		nfo   )  ./ranger nfo;;
+		xmplz )  ./ranger xmplz;;
+		ssmt  )  ./ranger ssmt;;
+		lit   )  ./ranger lit;;
+		lssnz )  ./ranger lssnz;;
+		done  )  break;;
+	esac
+done
+
+echo "Do you wish to overwrite $current/body.tex? Cannot be undone."
+select yn in "Yes" "No"; do
+    case $yn in
+	Yes )	cat ../fiveaOne/body.tex > body.tex;
+		sed -i -- "s/fiveaOne/$current/g" body.tex;
+		break;;
+        
+	No  )	echo "Cancelling. Always smart to be safe...";
+		break;;
+    esac
+done
+ 
+
+
+#echo "Number of lines in new body file:"
+cat body.tex | wc -l
+
+#echo "If is what you expected, run ./gitcom."

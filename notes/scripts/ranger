@@ -1,0 +1,37 @@
+#!/bin/sh
+#
+#	program:	ranger
+#
+#	input:		./ranger subfile-to-edit
+#
+#	location:	Should be called by ./make-subfiles.
+#
+#	usage:		Use on one task list at a time.
+#			Designed as a tool to modularize
+#			a task lists from 4th to 5th 
+#			task list editions.
+#			
+#			This script divides the task-list modules to 
+#			subfiles and returns a summary report.
+#
+#	argument:	first arg is the subfile to edit (*.tex).
+#
+sub="$1"
+echo Enter first and last lines of $sub:
+read beg end
+ 
+# Confirm input
+echo Here are the ranges I\'ll copy.
+echo "from body.tex lines $beg, $end to $sub.tex"
+
+echo Here is what\'s in that range:
+sed -n "${beg},${end}p" body.tex 
+
+echo "Do you wish to write range to $sub.tex?"
+select yn in "Yes" "No"; do
+    case $yn in
+	Yes ) sed -n "${beg},${end}p" body.tex >> $sub.tex; break;;
+        No ) echo "Cancelling. Always smart to be safe...";exit;;
+    esac
+done
+echo Done. Copied range to $tlname.tex

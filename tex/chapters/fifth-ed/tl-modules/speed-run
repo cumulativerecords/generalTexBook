@@ -5,6 +5,8 @@
 #	input:		./speed-run task-list-to-change
 #
 #	location:	run from anyhere in the repo.
+#			It operates on the right folder
+#			but does not change working dir in terminal.
 #
 #	usage:		Use on one task list at a time.
 #			Designed as a tool to modularize
@@ -21,58 +23,50 @@
 # (Design steps commented below.)
 #
 #	argument from command line
-tl="$0"
+echo Which task list folder to you want to modularize?
+read current			# current task list item
+
+#	alternate version: just take arg from program call.
+#current="$1"			# current task list item
 
 #	navigate to correct directory.
-cd ~/Documents/GitHub/trainaba-v1-ed2/tex/chapters/tl-modules/$0
-
-#	stage body.tex by commenting out task list entries to send to subfiles.
-# visually inspect? Could write a sed script to add a '#' at start of line matching pattern.
-# may be unnecessary since I have to inspect line numbers visually anyway.
-# If I want the commented-out info in each subfile, that needs to be the first line in each subfile.
-# But that won't work when I don't know how many tasks are in an item... 
-# this is getting complicated.
-
-#	sed scripts to distribute body.tex to subfiles.
-#sed -n ',p' body.tex >>nfo.tex
-#sed -n ',p' body.tex >>xmplz.tex
-#sed -n ',p' body.tex >>ssmt.tex
-#sed -n ',p' body.tex >>lit.tex
-#sed -n ',p' body.tex >>lssnz.tex
-
-#	overwrite body.tex with content from /fiveaOne/body.tex (deletes old content).
-#cat ../fiveaOne/body.tex > $0/body.tex
- 
-#	replace '\fiveaOne' with correct task list name in 'current-task-list/body.tex' file.
-#sed -i -- 's/fiveaOne/$0/g' body.tex
-
-#	show a preview
-echo "Previews beginning..."
-echo "location"
+cd ~/Documents/GitHub/trainaba-v1-ed2/tex/chapters/fifth-ed/tl-modules/$current
+echo Switching directories. Now in:
 pwd
 
-#echo "nfo:"
-#head nfo.tex -5
+#	reminder
+echo Remember to stage $current/body.tex
 
-#echo "xmplz:"
-#head xmplz.tex -5
+#       ranger program
+#	sed scripts to redirect body.tex to subfiles.
+echo This program copies a range of lines to a tex file.
+echo Which section do you want to make?
+select section in "nfo" "xmplz" "ssmt" "lit" "lssnz" "done"; do
+        case $section in
+                nfo   )  ./ranger nfo;;
+                xmplz )  ./ranger xmplz;;
+                ssmt  )  ./ranger ssmt;;
+                lit   )  ./ranger lit;;
+                lssnz )  ./ranger lssnz;;
+                done  )   exit;;
+	    esac
+done
 
-#echo "ssmt:"
-#head ssmt.tex -5
+#	overwrite body.tex
+echo "Overwrite body file AFTER the subfiles. Ready to overwrite?"
+select yn in "Yes" "No"; do
+    case $yn in
 
-#echo "lit:"
-#head lit.tex -5
+        Yes )	cat ../fiveaOne/body.tex > $current/body.tex; 
+		sed -i -- "s/fiveaOne/$current/g" body.tex;
+		break;;
 
-#echo "lssnz:"
-#head lssnz.tex -5
+        No  )	echo "Exiting without overwriting $current/body.tex...";
+		exit;;
+    esac
+done
 
-#echo "body:"
-#head body.tex -5
+echo "Number of lines in $current/body.tex:"
+cat body.tex | wc -l
 
-#echo "Number of lines in new body file:"
-#cat body.tex | wc -l
-
-echo "If is what you expected, run gitcom."
-echo "You're doing great. Keep up the good work."
-echo "On behalf of the rest of the memory addresses, it's a pleasure serving you."
-echo "So long and thanks for the electricity."
+echo Done. Use gitcom if everything looks good.
