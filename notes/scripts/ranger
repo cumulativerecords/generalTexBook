@@ -20,12 +20,13 @@ sub="$1"
 echo Enter first and last lines to write to $sub.tex:
 read beg end
  
-# Confirm input
+#	Confirm input
 echo Here are the ranges I\'ll copy.
 echo "from body.tex lines $beg, $end to $sub.tex"
 
-echo Here is what\'s in that range:
-sed -n "${beg},${end}p" body.tex 
+#	Show content to be copied. 
+#echo Here is what\'s in that range:
+#sed -n "${beg},${end}p" body.tex 
 
 echo "Do you wish to write range to $sub.tex?"
 select yn in "Yes" "No"; do
