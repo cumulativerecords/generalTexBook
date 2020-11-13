@@ -43,14 +43,24 @@ cp ~/Documents/GitHub/trainaba-v1-ed2/notes/scripts/ranger temp-ranger
 open -a TeXShop body.tex 
 
 select section in "nfo" "xmplz" "ssmt" "lit" "lssnz" "done"; do
-	case $section in
-		nfo   )  ./temp-ranger nfo;;
-		xmplz )  ./temp-ranger xmplz;;
-		ssmt  )  ./temp-ranger ssmt;;
-		lit   )  ./temp-ranger lit;;
-		lssnz )  ./temp-ranger lssnz;;
-		done  )  break;;
-	esac
+    case $section in
+	nfo   )  ./temp-ranger nfo;
+		 echo "Welcome Back to Subfile Menu.";
+		 echo "1=nfo, 2=xmplz, 3=ssmt, 4=lit, 5=lssnz, 6=done";;
+	xmplz )  ./temp-ranger xmplz;
+		 echo "Welcome Back to Subfile Menu.";
+		 echo "1=nfo, 2=xmplz, 3=ssmt, 4=lit, 5=lssnz, 6=done";;
+	ssmt  )  ./temp-ranger ssmt;
+		 echo "Welcome Back to Subfile Menu.";
+		 echo "1=nfo, 2=xmplz, 3=ssmt, 4=lit, 5=lssnz, 6=done";;
+	lit   )  ./temp-ranger lit;
+		 echo "Welcome Back to Subfile Menu.";
+		 echo "1=nfo, 2=xmplz, 3=ssmt, 4=lit, 5=lssnz, 6=done";;
+	lssnz )  ./temp-ranger lssnz;
+		 echo "Welcome Back to Subfile Menu.";
+		 echo "1=nfo, 2=xmplz, 3=ssmt, 4=lit, 5=lssnz, 6=done";;
+	done  )  break;;
+    esac
 done
 
 rm temp-ranger
@@ -72,4 +82,5 @@ done
 echo "Number of lines in new body file:"
 cat body.tex | wc -l
 
+rm body.tex--
 #echo "If is what you expected, run ./gitcom."
