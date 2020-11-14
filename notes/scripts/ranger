@@ -28,11 +28,22 @@ echo "from body.tex lines $beg, $end to $sub.tex"
 #echo Here is what\'s in that range:
 #sed -n "${beg},${end}p" body.tex 
 
-echo "Do you wish to write range to $sub.tex?"
-select yn in "Yes" "No"; do
+#echo "Do you wish to write range to $sub.tex?"
+#select yn in "Yes" "No"; do
+#    case $yn in
+#	Yes ) sed -n "${beg},${end}p" body.tex >> $sub.tex; break;;
+#        No ) echo "Cancelling. Always smart to be safe...";exit;;
+#    esac
+#done
+
+while true; do
+    read -p "Write range to $sub.tex?" yn
     case $yn in
-	Yes ) sed -n "${beg},${end}p" body.tex >> $sub.tex; break;;
-        No ) echo "Cancelling. Always smart to be safe...";exit;;
+        [Yy]* ) sed -n "${beg},${end}p" body.tex >> $sub.tex; 
+		echo Done. Copied range to $sub.tex;
+		break;;
+        [Nn]* ) echo "Canceled. Always smart to be safe...";
+		exit;;
+        * ) echo "Yes or no.";;
     esac
 done
-echo Done. Copied range to $sub.tex
