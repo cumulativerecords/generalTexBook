@@ -26,27 +26,36 @@
 #
 #	argument from command line
 current="$1"			# current task list item
+cyan='\033[0;36m'
+red='\033[0;31m'
+green='\033[0;32m'
+orange='\033[0;33m'
+yellow='\033[1;33m'
+blue='\033[0;34m'
+ltpurple='\033[0;35m'
+nc='\033[0m' # No Color
 
+welcome="${cyan}Welcome to Subfile Menu${nc}"
+menu="${red}1=nfo${nc}, ${green}2=xmplz${nc}, ${orange}3=ssmt${nc}, ${yellow}4=lit${nc}, ${blue}5=lssnz${nc}, ${ltpurple}6=done"
 #	navigate to correct directory.
 cd ~/Documents/GitHub/trainaba-v1-ed2/tex/chapters/fifth-ed/tl-modules/$current
 
 #	Present subfile menu.
-echo You are about to make edits on:
+echo "You are about to make edits on:"
 pwd
-echo The next steps will copy a range of lines to subfiles.
-echo Which range do you want to target?
-
+echo "The next steps will copy a range of lines to subfiles."
+#echo "${cyan}Which range do you want to target?${nc}"
+echo $welcome
+echo $menu
 #	Make a temporary copy of ranger program.
 cp ~/Documents/GitHub/trainaba-v1-ed2/notes/scripts/ranger temp-ranger
 
 #	Open body file so it's easier to read.
 open -a TeXShop body.tex 
-welcome="Welcome Back to Subfile Menu"
-menu="1=nfo, 2=xmplz, 3=ssmt, 4=lit, 5=lssnz, 6=done"
 
 select section in "nfo" "xmplz" "ssmt" "lit" "lssnz" "done"; do
     case $section in
-	nfo   )  ./temp-ranger nfo;
+	nfo   )	 ./temp-ranger nfo;
 		 echo $welcome;
 		 echo $menu;;
 	xmplz )  ./temp-ranger xmplz;
@@ -68,7 +77,7 @@ done
 #	Clean up temp program.
 rm temp-ranger
 
-echo "Do you wish to overwrite $current/body.tex? Cannot be undone."
+echo "${red}Overwrite $current/body.tex? Cannot be undone.${nc}"
 select yn in "Yes" "No"; do
     case $yn in
 	Yes )	cat ../fiveaOne/body.tex > body.tex;
@@ -83,7 +92,7 @@ done
  
 
 #	Closing message.
-echo "Number of lines in new body file:"
+echo "Number of lines in new ${yellow}body${nc}.tex file:"
 echo "Expected: 10"
 echo "Actual:"
 cat body.tex | wc -l

@@ -17,12 +17,21 @@
 #	argument:	first arg is the subfile to edit (*.tex).
 #
 sub="$1"
-echo Enter first and last lines to write to $sub.tex:
+cyan='\033[0;36m'
+red='\033[0;31m'
+green='\033[0;32m'
+orange='\033[0;33m'
+yellow='\033[1;33m'
+blue='\033[0;34m'
+ltpurple='\033[0;35m'
+nc='\033[0m' # No Color
+echo "Enter ${cyan}first${nc} and ${ltpurple}last${nc} lines to write to ${yellow}$sub${nc}.tex:"
+
+
 read beg end
  
 #	Confirm input
-echo Here are the ranges I\'ll copy.
-echo "from body.tex lines $beg, $end to $sub.tex"
+echo "Copy ${cyan}$beg${nc}, ${ltpurple}$end${nc} to ${yellow}$sub${nc}.tex?"
 
 #	Show content to be copied. 
 #echo Here is what\'s in that range:
@@ -35,12 +44,11 @@ echo "from body.tex lines $beg, $end to $sub.tex"
 #        No ) echo "Cancelling. Always smart to be safe...";exit;;
 #    esac
 #done
-
 while true; do
-    read -p "Write range to $sub.tex?" yn
+    read -p "Enter y/n: " yn
     case $yn in
         [Yy]* ) sed -n "${beg},${end}p" body.tex >> $sub.tex; 
-		echo Done. Copied range to $sub.tex;
+		echo "Done. Copied range to $sub.tex";
 		break;;
         [Nn]* ) echo "Canceled. Always smart to be safe...";
 		exit;;
