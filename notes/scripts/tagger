@@ -7,18 +7,16 @@
 # 
 # Design Steps, using '|' as placeholder for '\n' until end:
 # 
-#current="$1"
 # Create Assessment tag.
-sed -i 's=\\subsection{Assessment=<ssmt>|%\\subsection{Assessment=g' body.tex
-#`find ../../tex/chapters/fifth-ed/tl-modules/$current/. -type f -name 'body.tex' -print0 | xargs -0 sed -i '' 's=\\subsection{Assessment=<ssmt>|%\\subsection{Assessment=g' `
+find . -type f -name 'body.tex' -print0 | xargs -0 sed -i '' 's=\\subsection{Assessment=|<ssmt>|%\\subsection{Assessment=g' 
 
 # Close Assessment tag and open Relevant Literature tag.
-sed -i 's=\\subsection{Relevant =<\/ssmt>|%|<lit>|%\\subsection{Relevant =g' body.tex
-#`find ../../tex/chapters/fifth-ed/tl-modules/$current/. -type f -name 'body.tex' -print0 | xargs -0 sed -i '' 's=\\subsection{Relevant=<\/ssmt>|%|<lit>|%\\subsection{Relevant=g'`
+find . -type f -name 'body.tex' -print0 | xargs -0 sed -i '' 's=\\subsection{Relevant =|<\/ssmt>|%|<lit>|%\\subsection{Relevant =g'
 
 # Close Relevant Literature tag.
-sed -i 's=\\subsection{Related =<\/lit>|%\\subsection{Related =g' body.tex
-#`find ../../tex/chapters/fifth-ed/tl-modules/$current/. -type f -name 'body.tex' -print0 | xargs -0 sed -i '' 's=\\subsection{Related=<\/lit>|%|\\subsection{Related=g'`
+find . -type f -name 'body.tex' -print0 | xargs -0 sed -i '' 's=\\subsection{Related =|<\/lit>|%\\subsection{Related =g'
 
 # Fix newline characters after each tag.
-cat body.tex  | tr '|' '\n'    > temp && cat temp > body.tex && rm temp
+cat body.tex  | tr '|' '\n'    > temp 
+cat temp > body.tex
+rm temp
