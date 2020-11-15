@@ -1,0 +1,55 @@
+#!/bin/sh
+#
+#	program:	ranger
+#
+#	input:		./ranger subfile-to-edit
+#
+#	location:	Subroutine to ./make-subfiles.
+#
+#	usage:		Use on one task list at a time.
+#			Designed as a tool to modularize
+#			a task lists from 4th to 5th 
+#			task list editions.
+#			
+#			This script divides the task-list modules to 
+#			subfiles and returns a summary report.
+#
+#	argument:	first arg is the subfile to edit (*.tex).
+#
+sub="$1"
+cyan='\033[0;36m'
+red='\033[0;31m'
+green='\033[0;32m'
+orange='\033[0;33m'
+yellow='\033[1;33m'
+blue='\033[0;34m'
+ltpurple='\033[0;35m'
+nc='\033[0m' # No Color
+echo "Enter ${cyan}first${nc} and ${ltpurple}last${nc} lines to write to $sub.tex:"
+read beg end
+ 
+#	Confirm input
+echo "Copy ${cyan}$beg${nc}, ${ltpurple}$end${nc} to $sub.tex?"
+
+#	Show content to be copied. 
+#echo Here is what\'s in that range:
+#sed -n "${beg},${end}p" body.tex 
+
+#echo "Do you wish to write range to $sub.tex?"
+#select yn in "Yes" "No"; do
+#    case $yn in
+#	Yes ) sed -n "${beg},${end}p" body.tex >> $sub.tex; break;;
+#        No ) echo "Cancelling. Always smart to be safe...";exit;;
+#    esac
+#done
+while true; do
+    read -p "Enter y/n: " yn
+    case $yn in
+        [Yy]* ) sed -n "${beg},${end}p" body.tex >> $sub.tex; 
+		echo "Done. Copied range to $sub.tex";
+		break;;
+        [Nn]* ) echo "Canceled. Always smart to be safe...";
+		exit;;
+        * ) echo "Yes or no.";;
+    esac
+done
