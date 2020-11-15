@@ -93,7 +93,7 @@ done
 
 #	Closing message.
 echo "Number of lines in new ${yellow}body${nc}.tex file:"
-echo "Expected: 10"
+echo "Expected: 8"
 echo "Actual:"
 cat body.tex | wc -l
 echo "If is what you expected, run a git commit."
