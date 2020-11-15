@@ -47,8 +47,16 @@ echo "The next steps will copy a range of lines to subfiles."
 #echo "${cyan}Which range do you want to target?${nc}"
 echo $welcome
 echo $menu
-#	Make a temporary copy of ranger program.
+#	Make a temporary copy of subroutines.
 cp ~/Documents/GitHub/trainaba-v1-ed2/notes/scripts/ranger temp-ranger
+cp ~/Documents/GitHub/trainaba-v1-ed2/notes/scripts/tagger temp-tagger
+cp ~/Documents/GitHub/trainaba-v1-ed2/notes/scripts/tag-extractor temp-tag-extractor
+
+#	Clean up body.tex before opening.
+echo running tagger...
+./temp-tagger
+echo extracting tags...
+./temp-tag-extractor
 
 #	Open body file so it's easier to read.
 open -a TeXShop body.tex 
@@ -76,6 +84,8 @@ done
 
 #	Clean up temp program.
 rm temp-ranger
+rm temp-tagger
+rm temp-tag-extractor
 
 echo "${red}Overwrite $current/body.tex? Cannot be undone.${nc}"
 select yn in "Yes" "No"; do

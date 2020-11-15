@@ -1,0 +1,14 @@
+#!/bin/sh
+#
+# program: tag-extractor
+# 
+# usage: tool to add text from before and after certain sections from 4th to 5th ed. 
+# Not general purpose. Use with ./tagger.
+# 
+# Design Steps, using '|' as placeholder for '\n' until end:
+# 
+# Extract Assessment section to subfile.
+awk '/<ssmt>/{flag=1;next}/</ssmt>/{flag=0}flag' body.tex >> ssmt.tex
+#
+# Extract Relevant Literature section to subfile.
+awk '/<lit>/{flag=1;next}/</lit>/{flag=0}flag' body.tex >> lit.tex
